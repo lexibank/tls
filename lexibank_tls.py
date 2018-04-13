@@ -1,0 +1,97 @@
+# coding=utf-8
+from __future__ import unicode_literals, print_function
+from collections import defaultdict
+import re
+
+import attr
+from dbfread import DBF
+from clldutils.dsv import reader, UnicodeWriter
+from clldutils.text import split_text
+
+from clldutils.path import Path
+from pylexibank.dataset import Metadata, Concept
+from pylexibank.dataset import Dataset as BaseDataset
+
+
+@attr.s
+class TLSConcept(Concept):
+    Swahili_gloss = attr.ib(default=None)
+
+
+class Dataset(BaseDataset):
+    dir = Path(__file__).parent
+    concept_class = TLSConcept
+
+    def cmd_download(self, **kw):
+        with self.raw.temp_download(
+                "http://www.cbold.ish-lyon.cnrs.fr/Load.aspx?"
+                "Langue=TLS&Type=FoxPro&Fichier=TLS.NursePhillipson1975.dbf",
+                'tls.dbf',
+                log=self.log) as dbf:
+            with UnicodeWriter(self.raw.joinpath('tls.txt')) as w:
+                for i, rec in enumerate(DBF(dbf.as_posix(), encoding='latin1')):
+                    if i == 0:
+                        w.writerow(rec.keys())
+                    if not rec['REFLEX'].strip() or not rec['GLOSS'].strip():
+                        continue
+                    row = []
+                    for col in rec.values():
+                        col = '' if col is None else col
+                        row.append(col if isinstance(col, int) else col.strip())
+                    w.writerow(row)
+
+    def cmd_install(self, **kw):
+        concept_map = {}
+        for c in self.concepts:
+            concept_map[c['GLOSS_IN_SOURCE']] = c['CONCEPTICON_ID'] or None
+        language_map = {n['NAME']: n['GLOTTOCODE'] for n in self.languages}
+
+        words = list(map(normalized, reader(self.raw.joinpath('tls.txt'),
+            dicts=True)))
+        glosses = defaultdict(set)
+        swas = defaultdict(set)
+        #for word in words:
+        #    glosses[word['GLOSS']].add(word['REFLEX'])
+        #    swas[word['GLOSS']].add(word['SWAHILI'])
+        with self.cldf as ds:
+            for language in self.languages:
+                ds.add_language(
+                        ID=language['ID'],
+                        glottocode=language['GLOTTOCODE'],
+                        name=language['NAME'])
+            for concept in self.concepts:
+                if concept['CONCEPTICON_ID'].strip().strip('?'):
+                    ds.add_concept(
+                            ID=concept['GLOSS_IN_SOURCE'],
+                            conceptset=concept['CONCEPTICON_ID'],
+                            gloss=concept['GLOSS'],
+                            concepticon_gloss=concept['CONCEPTICON_GLOSS'])
+                else:
+                    ds.add_concept(
+                            ID=concept['GLOSS_IN_SOURCE'],
+                            conceptset='',
+                            gloss=concept['GLOSS'],
+                            concepticon_gloss='')
+            for i, word in enumerate(words):
+                if word['LGABBR']:
+                    for form in split_text(word['REFLEX'], separators=',;/'):
+                        if form.strip():
+
+                            for row in ds.add_lexemes(
+                                    Language_ID=word['LGABBR'],
+                                    Parameter_ID=word['GLOSS'],
+                                    Value=word['REFLEX'],
+                                    Form=form):
+                                pass
+
+SWAHILI_GLOSS = re.compile('\(=(?P<gloss>[^\)]+)\)')
+
+
+def normalized(d):
+    match = SWAHILI_GLOSS.search(d['GLOSS'])
+    if match and not d['SWAHILI']:
+        swa = match.group('gloss').strip()
+        if swa in ['mbogo', 'tembo', 'moja', 'munyu', 'tisa', 'ndege', 'fumo']:
+            d['GLOSS'] = SWAHILI_GLOSS.sub('', d['GLOSS']).strip()
+            d['SWAHILI'] = swa
+    return d
