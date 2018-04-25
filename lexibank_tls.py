@@ -7,8 +7,9 @@ import attr
 from dbfread import DBF
 from clldutils.dsv import reader, UnicodeWriter
 from clldutils.text import split_text
-
 from clldutils.path import Path
+from clldutils.misc import slug
+
 from pylexibank.dataset import Metadata, Concept
 from pylexibank.dataset import Dataset as BaseDataset
 
@@ -57,29 +58,29 @@ class Dataset(BaseDataset):
             for language in self.languages:
                 ds.add_language(
                         ID=language['ID'],
-                        glottocode=language['GLOTTOCODE'],
-                        name=language['NAME'])
+                        Glottocode=language['GLOTTOCODE'],
+                        Name=language['NAME'])
             for concept in self.concepts:
                 if concept['CONCEPTICON_ID'].strip().strip('?'):
                     ds.add_concept(
-                            ID=concept['GLOSS_IN_SOURCE'],
-                            conceptset=concept['CONCEPTICON_ID'],
-                            gloss=concept['GLOSS'],
-                            concepticon_gloss=concept['CONCEPTICON_GLOSS'])
+                            ID=slug(concept['GLOSS_IN_SOURCE']),
+                            Name=concept['GLOSS'],
+                            Concepticon_ID=concept['CONCEPTICON_ID'],
+                            Concepticon_Gloss=concept['CONCEPTICON_GLOSS'])
                 else:
                     ds.add_concept(
-                            ID=concept['GLOSS_IN_SOURCE'],
-                            conceptset='',
-                            gloss=concept['GLOSS'],
-                            concepticon_gloss='')
+                            ID=slug(concept['GLOSS_IN_SOURCE']),
+                            Concepticon_ID=None,
+                            Name=concept['GLOSS'],
+                            Concepticon_Gloss=None)
             for i, word in enumerate(words):
                 if word['LGABBR']:
                     for form in split_text(word['REFLEX'], separators=',;/'):
                         if form.strip():
 
                             for row in ds.add_lexemes(
-                                    Language_ID=word['LGABBR'],
-                                    Parameter_ID=word['GLOSS'],
+                                    Language_ID=slug(word['LGABBR']),
+                                    Parameter_ID=slug(word['GLOSS']),
                                     Value=word['REFLEX'],
                                     Form=form):
                                 pass
