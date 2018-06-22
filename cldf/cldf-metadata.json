@@ -16,8 +16,8 @@
     "notes": [
         {
             "properties": {
-                "glottolog_version": "v3.2-69-gcf07b00",
-                "concepticon_version": "v1.1.0-79-gaed0c35"
+                "concepticon_version": "v1.1.0-79-gaed0c35",
+                "glottolog_version": "v3.2-69-gcf07b00"
             },
             "dc:title": "environment"
         }

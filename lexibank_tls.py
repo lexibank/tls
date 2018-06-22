@@ -80,6 +80,7 @@ class Dataset(BaseDataset):
                                     Language_ID=slug(word['LGABBR']),
                                     Parameter_ID=slug(word['GLOSS']),
                                     Value=word['REFLEX'],
+                                    Source=['Nurse1975', 'Nurse1979', 'Nurse1980', 'TLS1999'],
                                     Form=form):
                                 pass
 
