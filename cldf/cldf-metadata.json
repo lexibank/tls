@@ -15,11 +15,11 @@
     },
     "notes": [
         {
-            "dc:title": "environment",
             "properties": {
-                "concepticon_version": "v1.1.0-79-gaed0c35",
-                "glottolog_version": "v3.2-69-gcf07b00"
-            }
+                "glottolog_version": "v3.2-69-gcf07b00",
+                "concepticon_version": "v1.1.0-79-gaed0c35"
+            },
+            "dc:title": "environment"
         }
     ],
     "tables": [
