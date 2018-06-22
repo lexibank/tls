@@ -72,7 +72,10 @@ class Dataset(BaseDataset):
                         continue
                 
                     for form in split_text(word['REFLEX'], separators=',;/'):
-                        if form.strip():
+                        # remove any additional information (notes, plurals, etc.)
+                        form = form.split('(')[0].strip()
+
+                        if form:
                             for row in ds.add_lexemes(
                                     Language_ID=slug(word['LGABBR']),
                                     Parameter_ID=slug(word['GLOSS']),
