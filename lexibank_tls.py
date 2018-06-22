@@ -81,8 +81,6 @@ class Dataset(BaseDataset):
                                 pass
 
 SWAHILI_GLOSS = re.compile('\(=(?P<gloss>[^\)]+)\)')
-
-
 def normalized(d):
     match = SWAHILI_GLOSS.search(d['GLOSS'])
     if match and not d['SWAHILI']:

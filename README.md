@@ -10,14 +10,7 @@ Available online at http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html
 
 ## Notes
 
-Please note that the on-line data does not seem to match the description of its source.
-In particular, there are clear problems in terms of concepts, such as mismatch in
-numbers and glosses partially overlapping, likely translated from Swahili to
-English. A serious problem is the fact that there does not seem to be a full
-correspondence between English glosses and single concepts, i.e., in some cases
-it seems that the same English gloss is used to two or more different concepts. The help
-of someone versed in Tanzanian languages, or at least in Swahili, is probabily needed
-to improve the quality of this data.
+Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 
 ## Statistics
