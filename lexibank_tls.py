@@ -12,6 +12,7 @@ from clldutils.misc import slug
 
 from pylexibank.dataset import Metadata, Concept
 from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.util import pb
 
 
 @attr.s
@@ -41,10 +42,12 @@ class Dataset(BaseDataset):
                         row.append(col if isinstance(col, int) else col.strip())
                     w.writerow(row)
 
+
     def cmd_install(self, **kw):
         concept_map = {}
         for c in self.concepts:
             concept_map[c['GLOSS_IN_SOURCE']] = c['CONCEPTICON_ID'] or None
+
 
         words = list(map(normalized, reader(self.raw.joinpath('tls.txt'),
             dicts=True)))
@@ -52,6 +55,7 @@ class Dataset(BaseDataset):
         swas = defaultdict(set)
 
         with self.cldf as ds:
+            ds.add_sources(*self.raw.read_bib())
             for language in self.languages:
                 ds.add_language(
                         ID=language['ID'],
@@ -65,7 +69,7 @@ class Dataset(BaseDataset):
                     Concepticon_ID=concept['CONCEPTICON_ID'],
                     Concepticon_Gloss=concept['CONCEPTICON_GLOSS'])
 
-            for i, word in enumerate(words):
+            for i, word in pb(enumerate(words), desc='add words'):
                 if word['LGABBR']:
                     # don't carry internal notes
                     if word['LGABBR'] == 'Note':

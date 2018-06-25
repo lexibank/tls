@@ -8,6 +8,7 @@
         "Creative Commons Attribution Non Commercial 4.0",
         "https://creativecommons.org/licenses/by-nc/4.0/"
     ],
+    "dc:source": "sources.bib",
     "dc:title": "Tanzania Language Survey (TLS)",
     "rdf:ID": "tls",
     "dialect": {
@@ -17,8 +18,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "v1.1.0-78-g0717e41",
-                "glottolog_version": "v3.1.1-94-g1e52df9"
+                "glottolog_version": "v3.1.1-94-g1e52df9",
+                "concepticon_version": "v1.1.0-78-g0717e41"
             }
         }
     ],
