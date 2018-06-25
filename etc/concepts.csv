@@ -1,1298 +1,1590 @@
-ID,GLOSS,CONCEPTICON_ID,CONCEPTICON_GLOSS,SIMILARITY,GLOSS_IN_SOURCE
-Nurse-1975-1574-1,(Sw: uji),,???,,(Sw: uji)
-Nurse-1975-1574-2,(brass) wire ( n.),2631,WIRE,3,(brass) wire
-Nurse-1975-1574-3,(cattle or dog) tick ( n.),1527,TICK,3,(cattle or dog) tick
-Nurse-1975-1574-4,(court)yard,736,YARD,4,(court)yard
-Nurse-1975-1574-5,(crippling) illness ( n.),,???,,(crippling) illness
-Nurse-1975-1574-6,(disembodied) spirit ( n.),53,SPIRIT,3,(disembodied) spirit
-Nurse-1975-1574-7,(dry) land ( n.),626,LAND,3,(dry) land
-Nurse-1975-1574-8,(earthen) cooking pot ( n.),1462,POT,4,(earthen) cooking pot
-Nurse-1975-1574-9,(earthenware vessel for servin ( n.),,???,,(earthenware vessel for servin
-Nurse-1975-1574-10,(his) father,1217,FATHER,2,(his) father
-Nurse-1975-1574-13,(kind of bean) ( n.),,???,,(kind of bean)
-Nurse-1975-1574-14,(kind of pigeon) ( n.),,???,,(kind of pigeon)
-Nurse-1975-1574-15,(kind of poisonous snake) ( n.),,???,,(kind of poisonous snake)
-Nurse-1975-1574-16,(kind of rat) ( n.),,???,,(kind of rat)
-Nurse-1975-1574-18,(our) country ( n.),1300,COUNTRY,3,(our) country
-Nurse-1975-1574-19,(professional) hunter ( n.),1053,HUNTER,3,(professional) hunter
-Nurse-1975-1574-20,(red-eyed) dove ( n.),1853,DOVE,3,(red-eyed) dove
-Nurse-1975-1574-21,(reddish-brown biting) ant ( n.),587,ANT,3,(reddish-brown biting) ant
-Nurse-1975-1574-23,(small lightish-coloured) monk ( n.),,???,,(small lightish-coloured) monk
-Nurse-1975-1574-24,(small) ant ( n.),587,ANT,3,(small) ant
-Nurse-1975-1574-25,(sweet) potato ( n.),593,POTATO,3,(sweet) potato
-Nurse-1975-1574-26,(very large long-tailed rat) ( n.),,???,,(very large long-tailed rat)
-Nurse-1975-1574-27,-self,1993,SELF,4,-self
-Nurse-1975-1574-28,1,1493,,,1
-Nurse-1975-1574-29,10,1515,,,10
-Nurse-1975-1574-30,100,1634,,,100
-Nurse-1975-1574-31,1000,1843,,,1000
-Nurse-1975-1574-32,11,1706,,,11
-Nurse-1975-1574-33,12,1707,,,12
-Nurse-1975-1574-34,13,1708,,,13
-Nurse-1975-1574-35,2,1498,TWO,2,2
-Nurse-1975-1574-36,20,1710,,,20
-Nurse-1975-1574-37,200,,???,,200
-Nurse-1975-1574-38,21,1734,,,21
-Nurse-1975-1574-39,3,492,,,3
-Nurse-1975-1574-40,4,1500,,,4
-Nurse-1975-1574-41,40,1716,???,,40
-Nurse-1975-1574-42,5,493,,,5
-Nurse-1975-1574-43,50,1717,,,50
-Nurse-1975-1574-44,6,1703,,,6
-Nurse-1975-1574-45,7,1704,,,7
-Nurse-1975-1574-46,8,1705,,,8
-Nurse-1975-1574-47,80,1722,,,80
-Nurse-1975-1574-48,9,1483,,,9
-Nurse-1975-1574-49,90,1724,,,90
-Nurse-1975-1574-50,East African goshawk ( n.),,???,,East African goshawk
-Nurse-1975-1574-51,Grant's gazelle ( n.),,???,,Grant's gazelle
-Nurse-1975-1574-54,a song,1096,SONG,3,a song
-Nurse-1975-1574-55,a thief,1160,THIEF,3,a thief
-Nurse-1975-1574-56,abdomen,1251,BELLY,2,abdomen
-Nurse-1975-1574-57,abound,,???,,abound
-Nurse-1975-1574-58,above,1741,ABOVE,2,above
-Nurse-1975-1574-59,abstain ( v.),,???,,abstain
-Nurse-1975-1574-60,abundant ( n.),,???,,abundant
-Nurse-1975-1574-61,abuse ( v.),1953,ABUSE,4,abuse
-Nurse-1975-1574-62,accept,,???,,accept
-Nurse-1975-1574-63,act ( v.),,???,,act
-Nurse-1975-1574-65,add to,,???,,add to
-Nurse-1975-1574-66,add up ( v.),,???,,add up
-Nurse-1975-1574-67,affair ( n.),2214,AFFAIR,3,affair
-Nurse-1975-1574-68,agriculture ( n.),,???,,agriculture
-Nurse-1975-1574-70,all day ( n.),,???,,all day
-Nurse-1975-1574-71,alter (act),,???,,alter (act)
-Nurse-1975-1574-72,"alter, change ( v.)",1264,CHANGE,3,"alter, change"
-Nurse-1975-1574-73,and,1577,AND,2,and
-Nurse-1975-1574-75,animal skin,2614,,,animal skin
-Nurse-1975-1574-76,answer ( v.),1275,ANSWER,3,answer
-Nurse-1975-1574-77,answer (maswali) ( v.),1275,ANSWER,3,answer (maswali)
-Nurse-1975-1574-78,answer a call ( v.),,???,,answer a call
-Nurse-1975-1574-79,answer call,,???,,answer call
-Nurse-1975-1574-80,ant,587,ANT,2,ant
-Nurse-1975-1574-81,ant-hill ( n.),1873,ANTHILL,3,ant-hill
-Nurse-1975-1574-82,anteater,181,ANTEATER,2,anteater
-Nurse-1975-1574-83,antelope,,???,,antelope
-Nurse-1975-1574-84,anvil ( n.),1648,ANVIL,3,anvil
-Nurse-1975-1574-85,apply by stretching spread ove ( v.),,???,,apply by stretching spread ove
-Nurse-1975-1574-86,"apply by stretching, spread ov ( v.)",,???,,"apply by stretching, spread ov"
-Nurse-1975-1574-87,approach,1778,APPROACH,2,approach
-Nurse-1975-1574-90,armpit ( n.),1886,ARMPIT,3,armpit
-Nurse-1975-1574-91,arrange,1568,ARRANGE,2,arrange
-Nurse-1975-1574-92,"arrange, put in order ( v.)",1568,ARRANGE,4,"arrange, put in order"
-Nurse-1975-1574-93,"arrange, put right, repair ( v.)",2243,REPAIR,3,"arrange, put right, repair"
-Nurse-1975-1574-95,arrow ( n.),977,ARROW,3,arrow
-Nurse-1975-1574-96,ash(es),646,ASH,2,ash(es)
-Nurse-1975-1574-97,ashes ( n.),646,ASH,4,ashes
-Nurse-1975-1574-98,ask for ( v.),1828,ASK (REQUEST),4,ask for
-Nurse-1975-1574-99,"assemble, collect ( v.)",7,GATHER,4,"assemble, collect"
-Nurse-1975-1574-100,at,1461,AT,2,at
-Nurse-1975-1574-101,at the back of ( n.),,???,,at the back of
-Nurse-1975-1574-104,avoid ( v.),,???,,avoid
-Nurse-1975-1574-105,"awe, fear of God ( n.)",,???,,"awe, fear of God"
-Nurse-1975-1574-106,axe ( n.),677,AXE,3,axe
-Nurse-1975-1574-107,baboon,1197,BABOON,2,baboon
-Nurse-1975-1574-109,baby,1289,BABY,2,baby
-Nurse-1975-1574-111,backbone ( n.),805,SPINE,4,backbone
-Nurse-1975-1574-113,bad smell (of fish) ( n.),,???,,bad smell (of fish)
-Nurse-1975-1574-114,bait ( n.),2013,BAIT,3,bait
-Nurse-1975-1574-115,banana,868,BANANA,2,banana
-Nurse-1975-1574-116,banana (fruit) ( n.),868,BANANA,3,banana (fruit)
-Nurse-1975-1574-117,banana (plant) ( n.),868,BANANA,3,banana (plant)
-Nurse-1975-1574-118,banana for cooking ( n.),,???,,banana for cooking
-Nurse-1975-1574-119,banana for cooking `matoke' ( n.),,???,,banana for cooking `matoke'
-Nurse-1975-1574-120,banana rope,,???,,banana rope
-Nurse-1975-1574-121,baobab ( n.),,???,,baobab
-Nurse-1975-1574-124,barren (of land) ( n.),,???,,barren (of land)
-Nurse-1975-1574-125,barren (of living being) ( n.),,???,,barren (of living being)
-Nurse-1975-1574-126,barren woman,,???,,barren woman
-Nurse-1975-1574-127,base of tree trunk,,???,,base of tree trunk
-Nurse-1975-1574-128,base of tree-trunk ( n.),,???,,base of tree-trunk
-Nurse-1975-1574-129,"bask (in the sun), warm onesel ( v.)",,???,,"bask (in the sun), warm onesel"
-Nurse-1975-1574-130,basket,1539,BASKET,2,basket
-Nurse-1975-1574-131,basket of open wicker-work ( n.),,???,,basket of open wicker-work
-Nurse-1975-1574-132,basket of open wicker-work (na ( n.),,???,,basket of open wicker-work (na
-Nurse-1975-1574-133,bathe ( v.),138,BATHE,3,bathe
-Nurse-1975-1574-134,be,1579,BE,2,be
-Nurse-1975-1574-135,"be adjacent, border ( v.)",2546,BORDER,4,"be adjacent, border"
-Nurse-1975-1574-136,be afraid ( v.),1419,FEAR (BE AFRAID),3,be afraid
-Nurse-1975-1574-137,be boiling,,???,,be boiling
-Nurse-1975-1574-138,be born ( v.),1090,BE BORN,3,be born
-Nurse-1975-1574-139,be enough,1881,ENOUGH,4,be enough
-Nurse-1975-1574-140,be extinguished,2209,BECOME EXTINGUISHED,4,be extinguished
-Nurse-1975-1574-141,"be fitting, behoove ( v.)",,???,,"be fitting, behoove"
-Nurse-1975-1574-142,"be fitting, behove ( v.)",,???,,"be fitting, behove"
-Nurse-1975-1574-143,be full developed ( v.),,???,,be full developed
-Nurse-1975-1574-144,be fully developed ( v.),,???,,be fully developed
-Nurse-1975-1574-145,be fully grown ( v.),,???,,be fully grown
-Nurse-1975-1574-146,"be gathered, be assembled ( v.)",,???,,"be gathered, be assembled"
-Nurse-1975-1574-149,be ill,1847,SICK,4,be ill
-Nurse-1975-1574-150,"be ill, groan ( v.)",716,GROAN,3,"be ill, groan"
-Nurse-1975-1574-151,be lame ( v.),320,LAME,4,be lame
-Nurse-1975-1574-152,be leaning ( v.),,???,,be leaning
-Nurse-1975-1574-153,"be left over, remain over ( v.)",,???,,"be left over, remain over"
-Nurse-1975-1574-154,be light in weight,,???,,be light in weight
-Nurse-1975-1574-155,be listless ( v.),,???,,be listless
-Nurse-1975-1574-156,"be loose, faint, weak ( v.)",1601,WEAK,3,"be loose, faint, weak"
-Nurse-1975-1574-157,be lying down,1411,LIE (REST),2,be lying down
-Nurse-1975-1574-158,be mutilated ( v.),,???,,be mutilated
-Nurse-1975-1574-159,be owed by ( v.),,???,,be owed by
-Nurse-1975-1574-160,be pleased ( v.),,???,,be pleased
-Nurse-1975-1574-161,be pregnant ( v.),1123,PREGNANT,4,be pregnant
-Nurse-1975-1574-162,be properly flavoured ( v.),,???,,be properly flavoured
-Nurse-1975-1574-163,be quiet ( v.),1314,QUIET,4,be quiet
-Nurse-1975-1574-164,be round ( v.),1395,ROUND,3,be round
-Nurse-1975-1574-165,"be settled, be in good order ( v.)",,???,,"be settled, be in good order"
-Nurse-1975-1574-166,be sharp ( v.),1396,SHARP,3,be sharp
-Nurse-1975-1574-167,"be shriveled, wrinkled ( v.)",380,WRINKLED,4,"be shriveled, wrinkled"
-Nurse-1975-1574-168,"be shrivelled, wrinkled ( v.)",380,WRINKLED,4,"be shrivelled, wrinkled"
-Nurse-1975-1574-169,be silent,48,BE SILENT,2,be silent
-Nurse-1975-1574-170,be sitting,,???,,be sitting
-Nurse-1975-1574-171,"be spread abroad, become gener ( v.)",,???,,"be spread abroad, become gener"
-Nurse-1975-1574-172,be spread out ( v.),38,SPREAD OUT,3,be spread out
-Nurse-1975-1574-173,"be stunted, spoilt ( v.)",,???,,"be stunted, spoilt"
-Nurse-1975-1574-174,be the same size or height as,,???,,be the same size or height as
-Nurse-1975-1574-176,"be, become ( v.)",1990,BECOME,3,"be, become"
-Nurse-1975-1574-178,"beach, coast ( n.)",1525,COAST,3,"beach, coast"
-Nurse-1975-1574-179,bead(s) ( n.),1860,BEAD,3,bead(s)
-Nurse-1975-1574-180,bean,832,BEAN,2,bean
-Nurse-1975-1574-181,bear child ( n.),,???,,bear child
-Nurse-1975-1574-182,beard ( n.),678,BEARD,3,beard
-Nurse-1975-1574-185,because,1157,BECAUSE,2,because
-Nurse-1975-1574-186,become bad,,???,,become bad
-Nurse-1975-1574-187,"become bad, rotten ( v.)",1728,ROTTEN,3,"become bad, rotten"
-Nurse-1975-1574-188,become bent,,???,,become bent
-Nurse-1975-1574-189,become bitter,,???,,become bitter
-Nurse-1975-1574-190,become burnt ( v.),1428,BURNING,4,become burnt
-Nurse-1975-1574-191,become cheerful ( v.),,???,,become cheerful
-Nurse-1975-1574-192,become cooked,,???,,become cooked
-Nurse-1975-1574-193,become cool; get well ( v.),,???,,become cool; get well
-Nurse-1975-1574-194,become drunk,,???,,become drunk
-Nurse-1975-1574-195,become dry and hard,,???,,become dry and hard
-Nurse-1975-1574-196,become extinguished,2209,BECOME EXTINGUISHED,4,become extinguished
-Nurse-1975-1574-197,become fitting,,???,,become fitting
-Nurse-1975-1574-198,become full ( v.),1429,FULL,4,become full
-Nurse-1975-1574-199,become heavy,,???,,become heavy
-Nurse-1975-1574-200,become ill,,???,,become ill
-Nurse-1975-1574-201,become intoxicated,,???,,become intoxicated
-Nurse-1975-1574-202,become jammed ( v.),,???,,become jammed
-Nurse-1975-1574-203,become lame,,???,,become lame
-Nurse-1975-1574-204,"become lean, grow thin ( v.)",,???,,"become lean, grow thin"
-Nurse-1975-1574-205,become leaning ( v.),,???,,become leaning
-Nurse-1975-1574-206,become long ( v.),,???,,become long
-Nurse-1975-1574-207,become pregnant,,???,,become pregnant
-Nurse-1975-1574-208,become ripe,,???,,become ripe
-Nurse-1975-1574-209,become rotten,,???,,become rotten
-Nurse-1975-1574-210,become round ( v.),,???,,become round
-Nurse-1975-1574-211,become satiated,,???,,become satiated
-Nurse-1975-1574-212,become strong,,???,,become strong
-Nurse-1975-1574-213,become wet ( v.),,???,,become wet
-Nurse-1975-1574-214,"become, be ( v.)",1579,BE,3,"become, be"
-Nurse-1975-1574-215,bed ( n.),1663,BED,3,bed
-Nurse-1975-1574-216,bedstead ( n.),,???,,bedstead
-Nurse-1975-1574-217,bee ( n.),665,BEE,3,bee
-Nurse-1975-1574-218,beer ( n.),1639,BEER,3,beer
-Nurse-1975-1574-219,"befit, suit ( v.)",764,SUIT,3,"befit, suit"
-Nurse-1975-1574-220,begin,1806,BEGIN,2,begin
-Nurse-1975-1574-221,being one-eyed ( n.),,???,,being one-eyed
-Nurse-1975-1574-222,bell,2246,BELL,2,bell
-Nurse-1975-1574-223,belly,1251,BELLY,2,belly
-Nurse-1975-1574-227,bend over,,???,,bend over
-Nurse-1975-1574-228,"bend, twist ( v.)",430,TWIST,3,"bend, twist"
-Nurse-1975-1574-229,bewitch ( v.),118,BEWITCH,3,bewitch
-Nurse-1975-1574-230,"bifurcation, cross-roads ( n.)",,???,,"bifurcation, cross-roads"
-Nurse-1975-1574-231,big,1202,BIG,2,big
-Nurse-1975-1574-232,bile ( n.),1780,BILE,3,bile
-Nurse-1975-1574-233,"bind up, splice ( v.)",,???,,"bind up, splice"
-Nurse-1975-1574-234,bird ( n.),937,BIRD,3,bird
-Nurse-1975-1574-235,bird-lime ( n.),,???,,bird-lime
-Nurse-1975-1574-236,birdlime,,???,,birdlime
-Nurse-1975-1574-237,bite ( v.),1403,BITE,3,bite
-Nurse-1975-1574-238,bitter ( n.),887,BITTER,4,bitter
-Nurse-1975-1574-239,bitterness,887,BITTER,2,bitterness
-Nurse-1975-1574-240,black,163,BLACK,2,black
-Nurse-1975-1574-241,bladder ( n.),1746,BLADDER,3,bladder
-Nurse-1975-1574-242,blind person ( n.),457,BLIND PERSON,3,blind person
-Nurse-1975-1574-243,blood ( n.),946,BLOOD,3,blood
-Nurse-1975-1574-246,blow away ( v.),,???,,blow away
-Nurse-1975-1574-247,blow bellows ( v.),,???,,blow bellows
-Nurse-1975-1574-248,"blow on, blow up ( v.)",,???,,"blow on, blow up"
-Nurse-1975-1574-249,"boast, brag, praise oneself ( v.)",101,BOAST,4,"boast, brag, praise oneself"
-Nurse-1975-1574-250,"boast, brag, praise onself ( v.)",101,BOAST,4,"boast, brag, praise onself"
-Nurse-1975-1574-251,boat ( n.),1844,BOAT,3,boat
-Nurse-1975-1574-252,body ( n.),1480,BODY,3,body
-Nurse-1975-1574-255,boil up ( v.),,???,,boil up
-Nurse-1975-1574-257,bone ( n.),1394,BONE,3,bone
-Nurse-1975-1574-258,borassus palm ( n.),,???,,borassus palm
-Nurse-1975-1574-259,bore a hole ( v.),,???,,bore a hole
-Nurse-1975-1574-260,borrow ( v.),1823,BORROW,3,borrow
-Nurse-1975-1574-261,bottle ( n.),1321,BOTTLE,3,bottle
-Nurse-1975-1574-262,boundary ( n.),1010,BOUNDARY,3,boundary
-Nurse-1975-1574-263,bow ( n.),994,BOW,3,bow
-Nurse-1975-1574-265,bowstring ( n.),2119,BOW STRING,4,bowstring
-Nurse-1975-1574-266,brain ( n.),1583,BRAIN,3,brain
-Nurse-1975-1574-268,bread ( n.),1368,BREAD,3,bread
-Nurse-1975-1574-270,break,680,BREAK (DESTROY OR GET DESTROYED),2,break
-Nurse-1975-1574-273,break wind ( v.),1159,FART,4,break wind
-Nurse-1975-1574-278,breathe,1407,BREATHE,2,breathe
-Nurse-1975-1574-281,bridge ( n.),1011,BRIDGE,3,bridge
-Nurse-1975-1574-282,bridge (wa mbao) ( n.),1011,BRIDGE,3,bridge (wa mbao)
-Nurse-1975-1574-283,bring to light ( v.),,???,,bring to light
-Nurse-1975-1574-284,bring up (a child) ( v.),2134,RAISE (A CHILD),3,bring up (a child)
-Nurse-1975-1574-285,"bring, fetch ( v.)",692,BRING,4,"bring, fetch"
-Nurse-1975-1574-287,broom ( n.),245,BROOM,3,broom
-Nurse-1975-1574-288,broom (for sweeping),245,BROOM,4,broom (for sweeping)
-Nurse-1975-1574-289,broth ( n.),1547,SOUP,4,broth
-Nurse-1975-1574-293,buffalo ( n.),934,BUFFALO,3,buffalo
-Nurse-1975-1574-294,build ( v.),1840,BUILD,3,build
-Nurse-1975-1574-295,bull ( n.),1008,BULL,3,bull
-Nurse-1975-1574-296,bullrush millet ( n.),,???,,bullrush millet
-Nurse-1975-1574-297,bunch ( n.),1966,BUNCH,3,bunch
-Nurse-1975-1574-298,bunch (la nywele) ( n.),1966,BUNCH,3,bunch (la nywele)
-Nurse-1975-1574-299,"burden, load ( n.)",1679,LOAD,3,"burden, load"
-Nurse-1975-1574-302,bury ( v.),1719,BURY,3,bury
-Nurse-1975-1574-303,bush ( n.),1683,BUSH,3,bush
-Nurse-1975-1574-304,buttermilk ( n.),,???,,buttermilk
-Nurse-1975-1574-305,buttock ( n.),834,BUTTOCKS,4,buttock
-Nurse-1975-1574-306,buttocks ( n.),834,BUTTOCKS,3,buttocks
-Nurse-1975-1574-307,buy ( v.),1869,BUY,3,buy
-Nurse-1975-1574-308,calabash ( n.),411,GOURD,4,calabash
-Nurse-1975-1574-309,calf ( n.),1989,CALF,3,calf
-Nurse-1975-1574-310,calf of the leg ( n.),498,CALF OF LEG,3,calf of the leg
-Nurse-1975-1574-313,"canine tooth, tooth filed to a ( n.)",,???,,"canine tooth, tooth filed to a"
-Nurse-1975-1574-314,canoe ( n.),1970,CANOE,3,canoe
-Nurse-1975-1574-315,carpenter's adze ( n.),,???,,carpenter's adze
-Nurse-1975-1574-316,carry ( v.),700,CARRY,3,carry
-Nurse-1975-1574-317,carry a child on the back ( v.),,???,,carry a child on the back
-Nurse-1975-1574-318,carry a child on the back (in ( v.),,???,,carry a child on the back (in
-Nurse-1975-1574-319,carry astride on the hip ( v.),,???,,carry astride on the hip
-Nurse-1975-1574-320,carry on the head,,???,,carry on the head
-Nurse-1975-1574-321,cat ( n.),1208,CAT,3,cat
-Nurse-1975-1574-322,"catch unawares, startle ( v.)",,???,,"catch unawares, startle"
-Nurse-1975-1574-323,"catch unawares, statle ( v.)",,???,,"catch unawares, statle"
-Nurse-1975-1574-324,cattle ( n.),1153,CATTLE,3,cattle
-Nurse-1975-1574-325,cattle droppings,,???,,cattle droppings
-Nurse-1975-1574-328,centipede ( n.),1974,CENTIPEDE,3,centipede
-Nurse-1975-1574-329,chameleon,1555,CHAMELEON,2,chameleon
-Nurse-1975-1574-330,change,1264,CHANGE,2,change
-Nurse-1975-1574-332,charm (esp. to ensure wife's f ( n.),1271,DELIGHT,4,charm (esp. to ensure wife's f
-Nurse-1975-1574-333,chase (away) ( v.),1435,HUNT,4,chase (away)
-Nurse-1975-1574-335,cheek ( n.),1730,CHEEK,3,cheek
-Nurse-1975-1574-336,cheetah ( n.),,???,,cheetah
-Nurse-1975-1574-337,chest ( n.),1592,CHEST,3,chest
-Nurse-1975-1574-338,chest (of animals and birds) ( n.),1592,CHEST,3,chest (of animals and birds)
-Nurse-1975-1574-339,chew,321,CHEW,2,chew
-Nurse-1975-1574-344,chin ( n.),1510,CHIN,3,chin
-Nurse-1975-1574-345,choose ( v.),1750,CHOOSE,3,choose
-Nurse-1975-1574-346,civet cat ( n.),,???,,civet cat
-Nurse-1975-1574-347,civet cat (also paka wa zabadi ( n.),,???,,civet cat (also paka wa zabadi
-Nurse-1975-1574-348,clan ( n.),302,CLAN,3,clan
-Nurse-1975-1574-349,claw,72,CLAW,2,claw
-Nurse-1975-1574-350,"climb, ascend ( v.)",705,GO UP (ASCEND),3,"climb, ascend"
-Nurse-1975-1574-351,clod,,???,,clod
-Nurse-1975-1574-352,"clod, lump ( n.)",,???,,"clod, lump"
-Nurse-1975-1574-353,close ( v.),2063,CLOSE (EYES),3,close
-Nurse-1975-1574-354,"close (eyes, mouth) ( v.)",2063,CLOSE (EYES),3,"close (eyes, mouth)"
-Nurse-1975-1574-356,cloth ( n.),1616,CLOTH,3,cloth
-Nurse-1975-1574-357,clothe ( v.),158,PUT ON,4,clothe
-Nurse-1975-1574-358,"clothes, material ( n.)",1895,CLOTHES,4,"clothes, material"
-Nurse-1975-1574-359,clothing,1895,CLOTHES,2,clothing
-Nurse-1975-1574-360,cloud ( n.),1489,CLOUD,3,cloud
-Nurse-1975-1574-361,co-wife,,???,,co-wife
-Nurse-1975-1574-362,coagulate ( v.),2395,CONGEAL (BLOOD),4,coagulate
-Nurse-1975-1574-363,cohabit ( v.),,???,,cohabit
-Nurse-1975-1574-364,cold ( n.),102,COMMON COLD (DISEASE),3,cold
-Nurse-1975-1574-366,colobus monkey (w/ long black ( n.),,???,,colobus monkey (w/ long black
-Nurse-1975-1574-367,colobus monkey (with long blac ( n.),,???,,colobus monkey (with long blac
-Nurse-1975-1574-369,"come in, go in",749,ENTER,4,"come in, go in"
-Nurse-1975-1574-370,"come on suddenly, take in the ( v.)",,???,,"come on suddenly, take in the"
-Nurse-1975-1574-371,come out,,???,,come out
-Nurse-1975-1574-372,come to an end ( v.),,???,,come to an end
-Nurse-1975-1574-373,"construct, put together ( v.)",,???,,"construct, put together"
-Nurse-1975-1574-374,continuous rain,,???,,continuous rain
-Nurse-1975-1574-375,cook ( v.),1100,COOK (SOMETHING),3,cook
-Nurse-1975-1574-376,cook in water or fat ( v.),1279,FAT (OBESE),3,cook in water or fat
-Nurse-1975-1574-377,cool down,,???,,cool down
-Nurse-1975-1574-379,"copper, brass ( n.)",1825,COPPER,4,"copper, brass"
-Nurse-1975-1574-380,copy a pattern ( v.),,???,,copy a pattern
-Nurse-1975-1574-381,"cork, stopper ( n.)",,???,,"cork, stopper"
-Nurse-1975-1574-382,corpse ( n.),767,CORPSE,3,corpse
-Nurse-1975-1574-383,cough ( v.),879,COUGH,3,cough
-Nurse-1975-1574-384,count ( v.),1420,COUNT,3,count
-Nurse-1975-1574-385,country ( n.),1300,COUNTRY,3,country
-Nurse-1975-1574-386,courtyard ( n.),4,COURTYARD,3,courtyard
-Nurse-1975-1574-387,cover,761,COVER,2,cover
-Nurse-1975-1574-388,cover (up) ( v.),761,COVER,3,cover (up)
-Nurse-1975-1574-389,cow ( n.),1007,COW,3,cow
-Nurse-1975-1574-390,coward ( n.),1319,COWARD,3,coward
-Nurse-1975-1574-391,cowrie shell ( n.),,???,,cowrie shell
-Nurse-1975-1574-392,crab ( n.),2348,CRAB,3,crab
-Nurse-1975-1574-393,"crawl, creep ( v.)",96,CRAWL,4,"crawl, creep"
-Nurse-1975-1574-394,cricket ( n.),2354,CRICKET,3,cricket
-Nurse-1975-1574-395,cricket (nyenze) ( n.),2354,CRICKET,3,cricket (nyenze)
-Nurse-1975-1574-396,cripple ( n.),,???,,cripple
-Nurse-1975-1574-397,crocodile ( n.),1857,CROCODILE,3,crocodile
-Nurse-1975-1574-398,crocodile (ngwena) ( n.),1857,CROCODILE,3,crocodile (ngwena)
-Nurse-1975-1574-399,cross (a river) ( v.),1367,CROSS,4,cross (a river)
-Nurse-1975-1574-400,cross river,1742,TRAVERSE,2,cross river
-Nurse-1975-1574-401,crow ( n.),913,CROW,3,crow
-Nurse-1975-1574-402,crown of the head ( n.),,???,,crown of the head
-Nurse-1975-1574-403,crumple ( v.),,???,,crumple
-Nurse-1975-1574-404,crush by pounding pulverize ( v.),,???,,crush by pounding pulverize
-Nurse-1975-1574-405,"crush by pounding, pulverise ( v.)",,???,,"crush by pounding, pulverise"
-Nurse-1975-1574-406,crust ( n.),,???,,crust
-Nurse-1975-1574-408,cudgel ( n.),,???,,cudgel
-Nurse-1975-1574-409,cultivate ( v.),1541,CULTIVATE,3,cultivate
-Nurse-1975-1574-410,cultivated area (Sw: shamba),,???,,cultivated area (Sw: shamba)
-Nurse-1975-1574-411,cultivated ground ( n.),,???,,cultivated ground
-Nurse-1975-1574-412,cultivated ground (shamba) ( n.),,???,,cultivated ground (shamba)
-Nurse-1975-1574-413,curdled milk ( n.),,???,,curdled milk
-Nurse-1975-1574-415,cut firewood ( v.),,???,,cut firewood
-Nurse-1975-1574-416,"cut to shape, sharpen to a poi ( v.)",,???,,"cut to shape, sharpen to a poi"
-Nurse-1975-1574-418,dance ( v.),1879,DANCE,3,dance
-Nurse-1975-1574-419,"dance (of men, to show courage ( v.)",1879,DANCE,3,"dance (of men, to show courage"
-Nurse-1975-1574-420,dance about,,???,,dance about
-Nurse-1975-1574-422,darkness ( n.),11,DARKNESS,3,darkness
-Nurse-1975-1574-423,date palm ( n.),,???,,date palm
-Nurse-1975-1574-424,dawn ( v.),729,DAWN,4,dawn
-Nurse-1975-1574-425,"dawn, daybreak ( n.)",729,DAWN,4,"dawn, daybreak"
-Nurse-1975-1574-429,dead person ( n.),,???,,dead person
-Nurse-1975-1574-430,death ( n.),910,DEATH,3,death
-Nurse-1975-1574-431,decorate ( v.),1739,DECORATE,3,decorate
-Nurse-1975-1574-432,defecate ( v.),676,SHIT (DEFECATE),3,defecate
-Nurse-1975-1574-433,denial ( n.),,???,,denial
-Nurse-1975-1574-434,deny ( v.),755,DENY,3,deny
-Nurse-1975-1574-435,desire,2117,DESIRE,2,desire
-Nurse-1975-1574-437,dew ( n.),1977,DEW,3,dew
-Nurse-1975-1574-439,dig ( v.),1418,DIG,3,dig
-Nurse-1975-1574-440,dig hole (in the ground),,???,,dig hole (in the ground)
-Nurse-1975-1574-441,"dig up, dig out ( v.)",,???,,"dig up, dig out"
-Nurse-1975-1574-442,"dig up, fling up earth",,???,,"dig up, fling up earth"
-Nurse-1975-1574-443,"diminish, grow less ( v.)",1184,DIMINISH,4,"diminish, grow less"
-Nurse-1975-1574-444,dip ( v.),,???,,dip
-Nurse-1975-1574-445,dirt ( n.),25,DIRT,3,dirt
-Nurse-1975-1574-446,dirty,1230,DIRTY,2,dirty
-Nurse-1975-1574-447,dish,481,DISH,2,dish
-Nurse-1975-1574-448,"district, province, country ( n.)",1300,COUNTRY,3,"district, province, country"
-Nurse-1975-1574-449,divide ( v.),1119,DIVIDE,3,divide
-Nurse-1975-1574-450,divorce ( n.),1134,DIVORCE,3,divorce
-Nurse-1975-1574-453,dog ( n.),2009,DOG,3,dog
-Nurse-1975-1574-454,donkey ( n.),1862,DONKEY,3,donkey
-Nurse-1975-1574-455,door ( n.),1567,DOOR,3,door
-Nurse-1975-1574-456,dove,1853,DOVE,2,dove
-Nurse-1975-1574-458,draw water,1911,DRAW (WATER),2,draw water
-Nurse-1975-1574-460,drink ( v.),1401,DRINK,3,drink
-Nurse-1975-1574-461,drizzle ( n.),1016,DRIZZLE,3,drizzle
-Nurse-1975-1574-463,drum ( n.),908,DRUM,3,drum
-Nurse-1975-1574-465,dry up,1786,DRY UP,2,dry up
-Nurse-1975-1574-466,"dry up, become dry ( v.)",1786,DRY UP,4,"dry up, become dry"
-Nurse-1975-1574-467,"dry up, ebb ( v.)",1786,DRY UP,4,"dry up, ebb"
-Nurse-1975-1574-468,duck ( n.),1360,DUCK,3,duck
-Nurse-1975-1574-469,dug-out canoe ( n.),,???,,dug-out canoe
-Nurse-1975-1574-472,dust,2,DUST,2,dust
-Nurse-1975-1574-474,dwell ( v.),363,"DWELL (LIVE, RESIDE)",3,dwell
-Nurse-1975-1574-475,"eagerness, zeal ( n.)",,???,,"eagerness, zeal"
-Nurse-1975-1574-476,"eagle, bird of prey ( n.)",1905,EAGLE,4,"eagle, bird of prey"
-Nurse-1975-1574-479,"earth, land ( n.)",626,LAND,3,"earth, land"
-Nurse-1975-1574-480,eat ( v.),1336,EAT,3,eat
-Nurse-1975-1574-481,"effort, exertion ( n.)",,???,,"effort, exertion"
-Nurse-1975-1574-482,egg ( n.),744,EGG,3,egg
-Nurse-1975-1574-483,eight ( n.),1705,EIGHT,4,eight
-Nurse-1975-1574-484,elbow ( n.),981,ELBOW,3,elbow
-Nurse-1975-1574-485,elbow (cha mkono) ( n.),981,ELBOW,3,elbow (cha mkono)
-Nurse-1975-1574-486,elephant ( n.),1290,ELEPHANT,3,elephant
-Nurse-1975-1574-487,elephant's tusk ( n.),,???,,elephant's tusk
-Nurse-1975-1574-488,embers ( n.),67,EMBERS,3,embers
-Nurse-1975-1574-489,embrace ( v.),928,EMBRACE,3,embrace
-Nurse-1975-1574-490,enter,749,ENTER,2,enter
-Nurse-1975-1574-491,"escape, recover ( v.)",1978,RECOVER,3,"escape, recover"
-Nurse-1975-1574-492,evening,1629,EVENING,2,evening
-Nurse-1975-1574-493,everlasting,,???,,everlasting
-Nurse-1975-1574-494,evil spirit ( n.),1973,DEMON,4,evil spirit
-Nurse-1975-1574-495,"examine, measure, test ( v.)",1975,CHECK,3,"examine, measure, test"
-Nurse-1975-1574-496,excrement,675,FAECES (EXCREMENT),2,excrement
-Nurse-1975-1574-497,"excrement, dung ( n.)",2057,DUNG (ANIMAL FAECES),3,"excrement, dung"
-Nurse-1975-1574-498,excreta ( n.),47,EXCRETA,3,excreta
-Nurse-1975-1574-499,"exercise, drive out a devil (- ( v.)",,???,,"exercise, drive out a devil (-"
-Nurse-1975-1574-500,exercise; drive out a devil ( v.),,???,,exercise; drive out a devil
-Nurse-1975-1574-501,explain ( v.),1626,EXPLAIN,3,explain
-Nurse-1975-1574-502,extinguish,127,EXTINGUISH,2,extinguish
-Nurse-1975-1574-503,eye ( n.),1248,EYE,3,eye
-Nurse-1975-1574-504,eyebrow ( n.),1173,EYEBROW,3,eyebrow
-Nurse-1975-1574-505,eyelash ( n.),1540,EYELASH,3,eyelash
-Nurse-1975-1574-506,face ( n.),1560,FACE,3,face
-Nurse-1975-1574-507,face downwards ( n.),,???,,face downwards
-Nurse-1975-1574-508,"fade, disappear ( v.)",485,DISAPPEAR,3,"fade, disappear"
-Nurse-1975-1574-509,"faint, lose consciousness ( v.)",,???,,"faint, lose consciousness"
-Nurse-1975-1574-510,fall ( n.),1276,AUTUMN,3,fall
-Nurse-1975-1574-511,fall short ( v.),,???,,fall short
-Nurse-1975-1574-512,falling trap,,???,,falling trap
-Nurse-1975-1574-514,far ( n.),1406,FAR,4,far
-Nurse-1975-1574-515,farmer,979,FARMER,2,farmer
-Nurse-1975-1574-516,fasten,1094,FASTEN,2,fasten
-Nurse-1975-1574-519,father ( n.),1217,FATHER,3,father
-Nurse-1975-1574-521,fear ( n.),781,FEAR (FRIGHT),3,fear
-Nurse-1975-1574-522,feather,1201,FEATHER,2,feather
-Nurse-1975-1574-524,female slave ( n.),,???,,female slave
-Nurse-1975-1574-525,"fence, enclosure ( n.)",1690,FENCE,4,"fence, enclosure"
-Nurse-1975-1574-526,"ferment, turn sour ( v.)",2229,BECOME SOUR,3,"ferment, turn sour"
-Nurse-1975-1574-527,few,1242,FEW,2,few
-Nurse-1975-1574-528,field,212,FIELD,2,field
-Nurse-1975-1574-529,field rat ( n.),,???,,field rat
-Nurse-1975-1574-530,"fierce, sharp ( n.)",1396,SHARP,4,"fierce, sharp"
-Nurse-1975-1574-531,fig mulberry tree ( n.),,???,,fig mulberry tree
-Nurse-1975-1574-532,fig tree ( n.),,???,,fig tree
-Nurse-1975-1574-533,fig-mulberry tree ( n.),,???,,fig-mulberry tree
-Nurse-1975-1574-534,fig-tree ( n.),,???,,fig-tree
-Nurse-1975-1574-535,fight ( v.),1423,FIGHT,3,fight
-Nurse-1975-1574-536,fill ( v.),2006,FILL,3,fill
-Nurse-1975-1574-537,"filter, strain ( v.)",940,STRAIN,3,"filter, strain"
-Nurse-1975-1574-538,filth ( n.),1230,DIRTY,4,filth
-Nurse-1975-1574-539,"final, decisive ( n.)",,???,,"final, decisive"
-Nurse-1975-1574-540,find,719,FIND,2,find
-Nurse-1975-1574-545,finish,1766,FINISH,2,finish
-Nurse-1975-1574-546,fire ( n.),221,FIRE,3,fire
-Nurse-1975-1574-547,fireplace,185,FIREPLACE,2,fireplace
-Nurse-1975-1574-549,firewood ( n.),10,FIREWOOD,3,firewood
-Nurse-1975-1574-550,fish,227,FISH,2,fish
-Nurse-1975-1574-551,fish (old Swahili nswi) ( n.),227,FISH,3,fish (old Swahili nswi)
-Nurse-1975-1574-552,"fish up, pull out ( v.)",2325,PULL OUT,3,"fish up, pull out"
-Nurse-1975-1574-553,fish with a line,,???,,fish with a line
-Nurse-1975-1574-554,fish with line,,???,,fish with line
-Nurse-1975-1574-555,fish-hook ( n.),1074,FISHHOOK,3,fish-hook
-Nurse-1975-1574-556,fishhook,1074,FISHHOOK,2,fishhook
-Nurse-1975-1574-557,fishing line ( n.),19,FISHING LINE,3,fishing line
-Nurse-1975-1574-558,fist ( n.),1473,FIST,3,fist
-Nurse-1975-1574-559,five ( n.),493,FIVE,4,five
-Nurse-1975-1574-560,flap (wings),,???,,flap (wings)
-Nurse-1975-1574-561,"flap the wings wildly, flutter ( v.)",,???,,"flap the wings wildly, flutter"
-Nurse-1975-1574-562,flap wings,,???,,flap wings
-Nurse-1975-1574-563,flat of hand ( n.),,???,,flat of hand
-Nurse-1975-1574-564,flatulence ( n.),,???,,flatulence
-Nurse-1975-1574-565,float,1574,FLOAT,2,float
-Nurse-1975-1574-566,flow,2003,FLOW,2,flow
-Nurse-1975-1574-567,flower ( n.),239,FLOWER,3,flower
-Nurse-1975-1574-569,foam ( n.),1768,FOAM,3,foam
-Nurse-1975-1574-570,foam/froth,1768,FOAM,4,foam/froth
-Nurse-1975-1574-571,fog,249,FOG,2,fog
-Nurse-1975-1574-572,fold,1470,FOLD,2,fold
-Nurse-1975-1574-573,follow ( v.),1085,FOLLOW,3,follow
-Nurse-1975-1574-574,follow (in order) ( v.),1085,FOLLOW,3,follow (in order)
-Nurse-1975-1574-575,food,256,FOOD,2,food
-Nurse-1975-1574-576,food supply for a journey ( n.),,???,,food supply for a journey
-Nurse-1975-1574-577,foot,1301,FOOT,2,foot
-Nurse-1975-1574-578,footfall,,???,,footfall
-Nurse-1975-1574-579,forest ( n.),420,FOREST,3,forest
-Nurse-1975-1574-580,forge ( v.),288,FORGE,3,forge
-Nurse-1975-1574-581,forgent ( v.),,???,,forgent
-Nurse-1975-1574-582,forget ( v.),1523,FORGET,3,forget
-Nurse-1975-1574-583,forgive,1528,FORGIVE,2,forgive
-Nurse-1975-1574-586,four ( n.),1500,FOUR,4,four
-Nurse-1975-1574-587,free food (Sw: kimoshi kando),,???,,free food (Sw: kimoshi kando)
-Nurse-1975-1574-588,free food (kimoshi kando),,???,,free food (kimoshi kando)
-Nurse-1975-1574-589,freeze,1431,FREEZE,2,freeze
-Nurse-1975-1574-590,friend,1325,FRIEND,2,friend
-Nurse-1975-1574-591,frog ( n.),503,FROG,3,frog
-Nurse-1975-1574-592,fruit ( n.),1507,FRUIT,3,fruit
-Nurse-1975-1574-594,fry; roast,2146,ROAST OR FRY,2,fry; roast
-Nurse-1975-1574-595,full,1429,FULL,2,full
-Nurse-1975-1574-597,gall-bladder,,???,,gall-bladder
-Nurse-1975-1574-598,garden ( n.),586,GARDEN,3,garden
-Nurse-1975-1574-600,gather up,7,GATHER,4,gather up
-Nurse-1975-1574-601,genet ( n.),,???,,genet
-Nurse-1975-1574-602,genet (=kind of speckled civet ( n.),,???,,genet (=kind of speckled civet
-Nurse-1975-1574-603,genet (kind of speckled civet ( n.),,???,,genet (kind of speckled civet
-Nurse-1975-1574-604,get accustomed ( v.),1118,ACCUSTOM,4,get accustomed
-Nurse-1975-1574-605,get dark,,???,,get dark
-Nurse-1975-1574-606,get fat (of animals) ( v.),,???,,get fat (of animals)
-Nurse-1975-1574-607,get intoxicated ( v.),,???,,get intoxicated
-Nurse-1975-1574-608,get light,,???,,get light
-Nurse-1975-1574-609,get lost ( v.),423,GET LOST,3,get lost
-Nurse-1975-1574-610,get obtain ( v.),,???,,get obtain
-Nurse-1975-1574-611,get washed,,???,,get washed
-Nurse-1975-1574-612,get wet ( v.),2324,GET WET,3,get wet
-Nurse-1975-1574-613,"get, obtain ( v.)",694,GET,3,"get, obtain"
-Nurse-1975-1574-614,giraffe ( n.),,???,,giraffe
-Nurse-1975-1574-615,give ( v.),1447,GIVE,3,give
-Nurse-1975-1574-616,give away,,???,,give away
-Nurse-1975-1574-617,give away (present) ( v.),,???,,give away (present)
-Nurse-1975-1574-618,give birth to,,???,,give birth to
-Nurse-1975-1574-619,give birth to a child ( v.),,???,,give birth to a child
-Nurse-1975-1574-620,"give in marriage (of parents, ( v.)",,???,,"give in marriage (of parents,"
-Nurse-1975-1574-621,"give leave, send away ( v.)",,???,,"give leave, send away"
-Nurse-1975-1574-622,give light to ( v.),,???,,give light to
-Nurse-1975-1574-623,give out smoke ( v.),,???,,give out smoke
-Nurse-1975-1574-624,"glide, trickle ( v.)",,???,,"glide, trickle"
-Nurse-1975-1574-626,go back,,???,,go back
-Nurse-1975-1574-627,"go back, return ( v.)",581,COME BACK,3,"go back, return"
-Nurse-1975-1574-628,go down,2014,GO DOWN (DESCEND),2,go down
-Nurse-1975-1574-629,go home from work,,???,,go home from work
-Nurse-1975-1574-630,"go in, come in ( v.)",749,ENTER,4,"go in, come in"
-Nurse-1975-1574-631,"go out, go away ( v.)",1752,LEAVE,3,"go out, go away"
-Nurse-1975-1574-632,"go round, turn round ( v.)",1445,TURN (SOMETHING),4,"go round, turn round"
-Nurse-1975-1574-633,go through,,???,,go through
-Nurse-1975-1574-634,go up (climb up),705,GO UP (ASCEND),4,go up (climb up)
-Nurse-1975-1574-635,goat ( n.),1502,GOAT,3,goat
-Nurse-1975-1574-636,god ( n.),1944,GOD,3,god
-Nurse-1975-1574-638,grain ( n.),605,GRAIN,3,grain
-Nurse-1975-1574-639,grain (ya mtama) ( n.),605,GRAIN,3,grain (ya mtama)
-Nurse-1975-1574-641,grandmother ( n.),1496,GRANDMOTHER,3,grandmother
-Nurse-1975-1574-643,grass,606,GRASS,2,grass
-Nurse-1975-1574-644,grass (one piece),606,GRASS,4,grass (one piece)
-Nurse-1975-1574-645,"grass, reeds ( n.)",659,REED,3,"grass, reeds"
-Nurse-1975-1574-646,grate ( v.),,???,,grate
-Nurse-1975-1574-648,green,1425,GREEN,2,green
-Nurse-1975-1574-649,"grief, sorrow ( n.)",1668,GRIEF,4,"grief, sorrow"
-Nurse-1975-1574-650,grind,1033,GRIND,2,grind
-Nurse-1975-1574-651,grind (grain with a millstone) ( v.),1033,GRIND,3,grind (grain with a millstone)
-Nurse-1975-1574-652,grind coarsely ( v.),,???,,grind coarsely
-Nurse-1975-1574-653,groan,716,GROAN,2,groan
-Nurse-1975-1574-654,"groove, furrow ( n.)",1794,FURROW,3,"groove, furrow"
-Nurse-1975-1574-655,ground ( n.),2159,GROUND,3,ground
-Nurse-1975-1574-659,gruel ( n.),1167,GRUEL,3,gruel
-Nurse-1975-1574-660,grunt with effort,,???,,grunt with effort
-Nurse-1975-1574-661,"grunt, grumble ( v.)",,???,,"grunt, grumble"
-Nurse-1975-1574-662,guess,1932,GUESS,2,guess
-Nurse-1975-1574-663,guide aright ( v.),,???,,guide aright
-Nurse-1975-1574-664,guinea fowl (Swahili: kanga),456,GUINEA FOWL,4,guinea fowl (Swahili: kanga)
-Nurse-1975-1574-665,guinea fowl (kanga),456,GUINEA FOWL,4,guinea fowl (kanga)
-Nurse-1975-1574-666,guinea-fowl ( n.),,???,,guinea-fowl
-Nurse-1975-1574-667,gun ( n.),1566,GUN,3,gun
-Nurse-1975-1574-668,guts,1334,GUTS,2,guts
-Nurse-1975-1574-671,half-wild tomcat ( n.),,???,,half-wild tomcat
-Nurse-1975-1574-672,half-wild tomcat (also shume l ( n.),,???,,half-wild tomcat (also shume l
-Nurse-1975-1574-673,hammer,1481,HAMMER,2,hammer
-Nurse-1975-1574-674,hand,1277,HAND,2,hand
-Nurse-1975-1574-675,"handle, haft ( n.)",1254,HANDLE,4,"handle, haft"
-Nurse-1975-1574-676,hang in mid-air ( v.),,???,,hang in mid-air
-Nurse-1975-1574-677,hang in midair ( v.),,???,,hang in midair
-Nurse-1975-1574-679,"hardship, distress ( n.)",,???,,"hardship, distress"
-Nurse-1975-1574-681,haste ( n.),,???,,haste
-Nurse-1975-1574-682,hate,1607,HATE,2,hate
-Nurse-1975-1574-683,"hate, detest ( v.)",1607,HATE,4,"hate, detest"
-Nurse-1975-1574-684,have,773,HAVE,2,have
-Nurse-1975-1574-686,have sexual intercourse with ( v.),,???,,have sexual intercourse with
-Nurse-1975-1574-687,hay ( n.),342,HAY,3,hay
-Nurse-1975-1574-688,he,1211,HE,2,he
-Nurse-1975-1574-689,he who begets (=parent) ( n.),,???,,he who begets (=parent)
-Nurse-1975-1574-690,he who begets (parent) ( n.),,???,,he who begets (parent)
-Nurse-1975-1574-691,he-goat ( n.),264,HE-GOAT,3,he-goat
-Nurse-1975-1574-692,head ( n.),1256,HEAD,3,head
-Nurse-1975-1574-693,"head of arrow, spear head ( n.)",,???,,"head of arrow, spear head"
-Nurse-1975-1574-694,"head, chief person ( n.)",1256,HEAD,4,"head, chief person"
-Nurse-1975-1574-695,head-pad ( n.),,???,,head-pad
-Nurse-1975-1574-696,headpad,,???,,headpad
-Nurse-1975-1574-697,heap ( n.),,???,,heap
-Nurse-1975-1574-698,"heap up, ready, set on fire ( v.)",790,READY,4,"heap up, ready, set on fire"
-Nurse-1975-1574-699,"heap up, ready/set on fire ( v.)",790,READY,4,"heap up, ready/set on fire"
-Nurse-1975-1574-700,"heap, hump",534,HUMP,4,"heap, hump"
-Nurse-1975-1574-701,hear ( v.),1408,HEAR,3,hear
-Nurse-1975-1574-703,hearthstone for putting pots o ( n.),,???,,hearthstone for putting pots o
-Nurse-1975-1574-704,heavy,1210,HEAVY,2,heavy
-Nurse-1975-1574-706,heel ( n.),980,HEEL,3,heel
-Nurse-1975-1574-707,heel (cha mguu) ( n.),980,HEEL,3,heel (cha mguu)
-Nurse-1975-1574-708,heifer ( n.),,???,,heifer
-Nurse-1975-1574-709,"held, arrest ( v.)",,???,,"held, arrest"
-Nurse-1975-1574-710,"hem, make a border ( v.)",,???,,"hem, make a border"
-Nurse-1975-1574-711,"hen, fowl ( n.)",265,FOWL,3,"hen, fowl"
-Nurse-1975-1574-712,here ( n.),136,HERE,4,here
-Nurse-1975-1574-713,hiccup ( n.),,???,,hiccup
-Nurse-1975-1574-715,"highest point, utmost ( n.)",,???,,"highest point, utmost"
-Nurse-1975-1574-716,highway ( n.),,???,,highway
-Nurse-1975-1574-719,hip ( n.),1745,HIP,3,hip
-Nurse-1975-1574-720,hippopotamus ( n.),,???,,hippopotamus
-Nurse-1975-1574-721,hit,1433,HIT,2,hit
-Nurse-1975-1574-722,hit with a hammer ( n.),,???,,hit with a hammer
-Nurse-1975-1574-723,hit with hammer,,???,,hit with hammer
-Nurse-1975-1574-724,hoe ( n.),284,HOE,3,hoe
-Nurse-1975-1574-725,hold,1448,HOLD,2,hold
-Nurse-1975-1574-726,hold in arm,,???,,hold in arm
-Nurse-1975-1574-728,hold/take,2104,HOLD OR TAKE,2,hold/take
-Nurse-1975-1574-729,"hole, nest ( n.)",539,NEST,3,"hole, nest"
-Nurse-1975-1574-730,hollow out ( v.),46,HOLLOW OUT,3,hollow out
-Nurse-1975-1574-731,home ( n.),2406,HOME,3,home
-Nurse-1975-1574-732,honey ( n.),942,HONEY,3,honey
-Nurse-1975-1574-733,honor ( v.),,???,,honor
-Nurse-1975-1574-734,honour,,???,,honour
-Nurse-1975-1574-735,hook (to pull down banches in ( n.),1071,HOOK,3,hook (to pull down banches in
-Nurse-1975-1574-736,hook (to pull down branches in ( n.),1071,HOOK,3,hook (to pull down branches in
-Nurse-1975-1574-740,horse ( n.),615,HORSE,3,horse
-Nurse-1975-1574-744,how,1239,HOW,2,how
-Nurse-1975-1574-745,how many? ( n.),822,HOW MANY,4,how many?
-Nurse-1975-1574-746,how?,1239,HOW,2,how?
-Nurse-1975-1574-747,hump (of cow) ( n.),534,HUMP,3,hump (of cow)
-Nurse-1975-1574-748,hump (of hunchback) ( n.),534,HUMP,3,hump (of hunchback)
-Nurse-1975-1574-749,hundred ( n.),1634,HUNDRED,3,hundred
-Nurse-1975-1574-750,hunger ( n.),1864,HUNGER,3,hunger
-Nurse-1975-1574-751,hunt ( v.),1435,HUNT,3,hunt
-Nurse-1975-1574-752,hunting ( n.),1435,HUNT,4,hunting
-Nurse-1975-1574-754,hut ( n.),1678,HUT,3,hut
-Nurse-1975-1574-755,hyena ( n.),1799,HYENA,3,hyena
-Nurse-1975-1574-756,ice,617,ICE,2,ice
-Nurse-1975-1574-757,"idleness, sloth ( n.)",2446,SLOTH,3,"idleness, sloth"
-Nurse-1975-1574-758,if,1459,IF,2,if
-Nurse-1975-1574-759,ill,1847,SICK,2,ill
-Nurse-1975-1574-760,imitate ( v.),117,IMITATE,3,imitate
-Nurse-1975-1574-761,in,1460,IN,2,in
-Nurse-1975-1574-763,in the middle of ( n.),,???,,in the middle of
-Nurse-1975-1574-764,incite ( v.),,???,,incite
-Nurse-1975-1574-765,increase ( v.),1041,INCREASE,3,increase
-Nurse-1975-1574-766,"increase, make greater ( v.)",1041,INCREASE,4,"increase, make greater"
-Nurse-1975-1574-767,inheritance ( n.),,???,,inheritance
-Nurse-1975-1574-768,insect,620,INSECT,2,insect
-Nurse-1975-1574-770,intestines ( n.),1991,INTESTINES,3,intestines
-Nurse-1975-1574-771,iron ( n.),621,IRON,3,iron
-Nurse-1975-1574-772,iron ore ( n.),,???,,iron ore
-Nurse-1975-1574-773,iron-ore,,???,,iron-ore
-Nurse-1975-1574-774,island ( n.),622,ISLAND,3,island
-Nurse-1975-1574-776,jaw (bone) ( n.),798,JAW,3,jaw (bone)
-Nurse-1975-1574-779,journey ( n.),2393,JOURNEY,4,journey
-Nurse-1975-1574-780,judge ( v.),1818,ADJUDICATE,3,judge
-Nurse-1975-1574-781,jump,1829,JUMP,2,jump
-Nurse-1975-1574-782,"jump, leap ( v.)",1829,JUMP,4,"jump, leap"
-Nurse-1975-1574-783,keep livestock ( v.),,???,,keep livestock
-Nurse-1975-1574-784,kidney ( n.),489,KIDNEY,3,kidney
-Nurse-1975-1574-786,kind of antelope,,???,,kind of antelope
-Nurse-1975-1574-787,kind of bean ( n.),,???,,kind of bean
-Nurse-1975-1574-788,kind of eagle,,???,,kind of eagle
-Nurse-1975-1574-789,kind of hawk,,???,,kind of hawk
-Nurse-1975-1574-790,kind of pigeon ( n.),,???,,kind of pigeon
-Nurse-1975-1574-791,kind of poisonous snake ( n.),,???,,kind of poisonous snake
-Nurse-1975-1574-792,kind of rat,,???,,kind of rat
-Nurse-1975-1574-793,kind of snail,,???,,kind of snail
-Nurse-1975-1574-794,king ( n.),1508,KING,3,king
-Nurse-1975-1574-795,kite ( v.),307,HAWK,4,kite
-Nurse-1975-1574-796,knead ( v.),274,KNEAD,3,knead
-Nurse-1975-1574-797,knee ( n.),1371,KNEE,3,knee
-Nurse-1975-1574-798,kneel ( v.),66,KNEEL,3,kneel
-Nurse-1975-1574-799,knife ( n.),1352,KNIFE,3,knife
-Nurse-1975-1574-800,knot ( n.),760,KNOT,3,knot
-Nurse-1975-1574-803,lake ( n.),624,LAKE,3,lake
-Nurse-1975-1574-804,lame person,2322,LAME PERSON,4,lame person
-Nurse-1975-1574-806,"large, great ( n.)",1202,BIG,4,"large, great"
-Nurse-1975-1574-807,laugh ( v.),1355,LAUGH,3,laugh
-Nurse-1975-1574-808,lay over on one side ( v.),,???,,lay over on one side
-Nurse-1975-1574-809,lazy ( n.),1564,LAZY,4,lazy
-Nurse-1975-1574-814,"leak, ooze out ( v.)",,???,,"leak, ooze out"
-Nurse-1975-1574-815,lean,2219,LEAN (MEAT),2,lean
-Nurse-1975-1574-816,"lean on, rely on ( v.)",,???,,"lean on, rely on"
-Nurse-1975-1574-817,"lean, bend down, slope ( v.)",2219,LEAN (MEAT),4,"lean, bend down, slope"
-Nurse-1975-1574-819,leave,1752,LEAVE,2,leave
-Nurse-1975-1574-820,leave (off) ( v.),1752,LEAVE,3,leave (off)
-Nurse-1975-1574-821,leave over ( v.),,???,,leave over
-Nurse-1975-1574-822,leave(off) ( v.),1752,LEAVE,3,leave(off)
-Nurse-1975-1574-823,"leave, go away ( v.)",1752,LEAVE,3,"leave, go away"
-Nurse-1975-1574-824,"leave, permission ( n.)",1752,LEAVE,4,"leave, permission"
-Nurse-1975-1574-825,leep livestock ( v.),,???,,leep livestock
-Nurse-1975-1574-826,left-hand ( n.),244,LEFT,4,left-hand
-Nurse-1975-1574-827,leftside,244,LEFT,2,leftside
-Nurse-1975-1574-828,leg,1297,LEG,2,leg
-Nurse-1975-1574-830,"lend, borrow ( v.)",1823,BORROW,3,"lend, borrow"
-Nurse-1975-1574-831,leopard ( n.),1139,LEOPARD,3,leopard
-Nurse-1975-1574-832,lick ( v.),319,LICK,3,lick
-Nurse-1975-1574-834,lie on back,,???,,lie on back
-Nurse-1975-1574-835,lie on one's back ( v.),,???,,lie on one's back
-Nurse-1975-1574-836,lift,501,LIFT,2,lift
-Nurse-1975-1574-837,"lift up, pick up ( v.)",371,PICK UP,3,"lift up, pick up"
-Nurse-1975-1574-838,light in weight ( n.),,???,,light in weight
-Nurse-1975-1574-839,"light, sky ( n.)",1732,SKY,3,"light, sky"
-Nurse-1975-1574-840,lightning ( n.),1654,LIGHTNING,3,lightning
-Nurse-1975-1574-841,like,1117,LIKE,2,like
-Nurse-1975-1574-844,line of objects,,???,,line of objects
-Nurse-1975-1574-846,lion ( n.),1386,LION,3,lion
-Nurse-1975-1574-847,lip ( n.),478,LIP,3,lip
-Nurse-1975-1574-848,listen ( v.),1608,LISTEN,3,listen
-Nurse-1975-1574-850,liver ( n.),1224,LIVER,3,liver
-Nurse-1975-1574-851,lizard,632,LIZARD,2,lizard
-Nurse-1975-1574-852,lobster ( n.),2397,LOBSTER,3,lobster
-Nurse-1975-1574-853,locust ( n.),810,LOCUST,3,locust
-Nurse-1975-1574-855,long straight hair (of animals ( n.),,???,,long straight hair (of animals
-Nurse-1975-1574-856,look,1819,LOOK,2,look
-Nurse-1975-1574-858,look after a child,,???,,look after a child
-Nurse-1975-1574-859,"look after grazing cattle, ( v.)",,???,,"look after grazing cattle,"
-Nurse-1975-1574-860,"look after grazing cattle, hel ( v.)",,???,,"look after grazing cattle, hel"
-Nurse-1975-1574-861,"look after, care for ( v.)",253,CARE FOR,3,"look after, care for"
-Nurse-1975-1574-862,"look at, examine ( n.)",1819,LOOK,4,"look at, examine"
-Nurse-1975-1574-863,look for,1468,LOOK FOR,2,look for
-Nurse-1975-1574-864,"look for, hand around (to get ( v.)",1468,LOOK FOR,4,"look for, hand around (to get"
-Nurse-1975-1574-865,look round,,???,,look round
-Nurse-1975-1574-866,lose,1660,LOSE,2,lose
-Nurse-1975-1574-868,"love, want ( v.)",1784,WANT,3,"love, want"
-Nurse-1975-1574-869,lung ( n.),688,LUNG,3,lung
-Nurse-1975-1574-870,magic ( n.),392,MAGIC,3,magic
-Nurse-1975-1574-871,maize ( n.),506,MAIZE,3,maize
-Nurse-1975-1574-872,make,734,MAKE,2,make
-Nurse-1975-1574-873,make offerings to the dead ( v.),1103,SACRIFICE,4,make offerings to the dead
-Nurse-1975-1574-874,make pottery,,???,,make pottery
-Nurse-1975-1574-875,make straight ( v.),,???,,make straight
-Nurse-1975-1574-877,male slave ( n.),,???,,male slave
-Nurse-1975-1574-878,man,1554,MAN,2,man
-Nurse-1975-1574-881,market,633,MARKET,2,market
-Nurse-1975-1574-882,marriage ( n.),2432,MARRIAGE,3,marriage
-Nurse-1975-1574-883,marry,203,MARRY,2,marry
-Nurse-1975-1574-885,master ( n.),383,MASTER,3,master
-Nurse-1975-1574-886,mat,195,MAT,2,mat
-Nurse-1975-1574-887,"match, harmonise ( v.)",1133,MATCH,4,"match, harmonise"
-Nurse-1975-1574-888,mature ( n.),,???,,mature
-Nurse-1975-1574-890,meat/flesh,2615,FLESH OR MEAT,2,meat/flesh
-Nurse-1975-1574-891,medecine,,???,,medecine
-Nurse-1975-1574-892,medicine,1372,MEDICINE,2,medicine
-Nurse-1975-1574-893,medicine (=art of medicine man ( n.),1372,MEDICINE,3,medicine (=art of medicine man
-Nurse-1975-1574-894,medicine (art of medicine man) ( n.),1372,MEDICINE,3,medicine (art of medicine man)
-Nurse-1975-1574-895,medicine man ( n.),394,SHAMAN (FOLK HEALER),4,medicine man
-Nurse-1975-1574-897,meet ( v.),1831,MEET,3,meet
-Nurse-1975-1574-898,meet someone ( v.),,???,,meet someone
-Nurse-1975-1574-899,melt ( v.),2334,MELT,3,melt
-Nurse-1975-1574-900,metal pot ( n.),,???,,metal pot
-Nurse-1975-1574-901,midwife ( n.),,???,,midwife
-Nurse-1975-1574-904,millipede ( n.),,???,,millipede
-Nurse-1975-1574-905,mix ( v.),2017,MIX,3,mix
-Nurse-1975-1574-906,mix (ingredients) ( v.),2017,MIX,3,mix (ingredients)
-Nurse-1975-1574-907,"mix (ingredients, e.g. unga ch ( v.)",2017,MIX,4,"mix (ingredients, e.g. unga ch"
-Nurse-1975-1574-908,"mix, put together ( v.)",2017,MIX,4,"mix, put together"
-Nurse-1975-1574-909,monkey,1350,MONKEY,2,monkey
-Nurse-1975-1574-910,"monkey (small, dark-coloured) ( n.)",1350,MONKEY,4,"monkey (small, dark-coloured)"
-Nurse-1975-1574-912,moonlight ( n.),,???,,moonlight
-Nurse-1975-1574-913,morning,1339,MORNING,2,morning
-Nurse-1975-1574-914,mosquito ( n.),1509,MOSQUITO,3,mosquito
-Nurse-1975-1574-915,mother ( n.),1216,MOTHER,3,mother
-Nurse-1975-1574-916,mould (pottery) ( v.),289,MOLD,3,mould (pottery)
-Nurse-1975-1574-917,mould pottery ( v.),1166,MOULD,4,mould pottery
-Nurse-1975-1574-919,mourning ( n.),,???,,mourning
-Nurse-1975-1574-921,mouth ( n.),674,MOUTH,3,mouth
-Nurse-1975-1574-922,"move away, migrate ( v.)",229,MOVE AWAY,4,"move away, migrate"
-Nurse-1975-1574-923,movement ( n.),,???,,movement
-Nurse-1975-1574-924,"mud, mire ( n.)",640,MUD,4,"mud, mire"
-Nurse-1975-1574-925,mushroom ( n.),641,MUSHROOM,3,mushroom
-Nurse-1975-1574-926,my father ( n.),,???,,my father
-Nurse-1975-1574-927,my mother,,???,,my mother
-Nurse-1975-1574-928,name ( n.),1405,NAME,3,name
-Nurse-1975-1574-929,namely ( n.),,???,,namely
-Nurse-1975-1574-930,nape (of neck) ( n.),1347,NAPE (OF NECK),3,nape (of neck)
-Nurse-1975-1574-931,nape of neck,1347,NAPE (OF NECK),2,nape of neck
-Nurse-1975-1574-932,narrow,1267,NARROW,2,narrow
-Nurse-1975-1574-933,navel ( n.),1838,NAVEL,3,navel
-Nurse-1975-1574-934,near ( n.),1942,NEAR,4,near
-Nurse-1975-1574-935,neck ( n.),1333,NECK,3,neck
-Nurse-1975-1574-937,new ( n.),1231,NEW,4,new
-Nurse-1975-1574-938,next,1354,NEXT,2,next
-Nurse-1975-1574-939,next year,515,NEXT YEAR,2,next year
-Nurse-1975-1574-940,night ( n.),1233,NIGHT,3,night
-Nurse-1975-1574-941,nine ( n.),1483,NINE,4,nine
-Nurse-1975-1574-942,nose ( n.),1221,NOSE,3,nose
-Nurse-1975-1574-943,not,1240,NOT,2,not
-Nurse-1975-1574-945,now,1376,NOW,2,now
-Nurse-1975-1574-946,number ( n.),1356,NUMBER,3,number
-Nurse-1975-1574-947,oar ( n.),108,RUDDER,3,oar
-Nurse-1975-1574-948,obstruct ( v.),,???,,obstruct
-Nurse-1975-1574-949,offer,,???,,offer
-Nurse-1975-1574-950,offspring ( n.),1801,CHILD (DESCENDANT),4,offspring
-Nurse-1975-1574-953,oil palm ( n.),,???,,oil palm
-Nurse-1975-1574-955,old age,1789,AGE,2,old age
-Nurse-1975-1574-956,old people (male),,???,,old people (male)
-Nurse-1975-1574-957,old person ( n.),725,OLD PERSON,3,old person
-Nurse-1975-1574-958,old times ( n.),,???,,old times
-Nurse-1975-1574-959,older brother,1759,OLDER BROTHER,2,older brother
-Nurse-1975-1574-961,on,2379,UP OR ABOVE,4,on
-Nurse-1975-1574-963,open ( v.),1156,OPEN,3,open
-Nurse-1975-1574-964,open (=set ajar) a door ( v.),,???,,open (=set ajar) a door
-Nurse-1975-1574-965,open (set ajar) a door ( v.),,???,,open (set ajar) a door
-Nurse-1975-1574-966,open space ( n.),,???,,open space
-Nurse-1975-1574-967,open the mouth,,???,,open the mouth
-Nurse-1975-1574-968,open the mouth wide ( v.),,???,,open the mouth wide
-Nurse-1975-1574-969,"order, direct ( v.)",1128,ORDER,4,"order, direct"
-Nurse-1975-1574-970,ostrich ( n.),,???,,ostrich
-Nurse-1975-1574-971,other,197,OTHER,2,other
-Nurse-1975-1574-972,our(s) ( n.),780,OUR,4,our(s)
-Nurse-1975-1574-973,our(s) Pl. 1st person) ( n.),,???,,our(s) Pl. 1st person)
-Nurse-1975-1574-974,outside ( n.),762,OUTSIDE,4,outside
-Nurse-1975-1574-977,owner,1036,OWNER,2,owner
-Nurse-1975-1574-978,oyster ( n.),,???,,oyster
-Nurse-1975-1574-979,pack ( v.),,???,,pack
-Nurse-1975-1574-980,pack (mizigo) ( v.),,???,,pack (mizigo)
-Nurse-1975-1574-981,pack carefully,,???,,pack carefully
-Nurse-1975-1574-982,"pack, bale, bundle ( n.)",,???,,"pack, bale, bundle"
-Nurse-1975-1574-983,"pack, flock, group ( n.)",,???,,"pack, flock, group"
-Nurse-1975-1574-984,"pack, press together ( v.)",,???,,"pack, press together"
-Nurse-1975-1574-985,paddle ( n.),234,PADDLE,3,paddle
-Nurse-1975-1574-986,palate ( n.),540,PALATE,3,palate
-Nurse-1975-1574-988,palm of hand,1183,PALM OF HAND,2,palm of hand
-Nurse-1975-1574-989,palm tree,1181,PALM TREE,2,palm tree
-Nurse-1975-1574-990,palm-tree,,???,,palm-tree
-Nurse-1975-1574-991,palm-wine ( n.),,???,,palm-wine
-Nurse-1975-1574-992,palpitate ( v.),,???,,palpitate
-Nurse-1975-1574-993,parrot ( n.),882,PARROT,3,parrot
-Nurse-1975-1574-995,pass in running,,???,,pass in running
-Nurse-1975-1574-996,pass the night,,???,,pass the night
-Nurse-1975-1574-997,"pass, surpass ( v.)",402,SURPASS,3,"pass, surpass"
-Nurse-1975-1574-999,pay ( v.),718,PAY,3,pay
-Nurse-1975-1574-1000,"pay attention, take care ( v.)",,???,,"pay attention, take care"
-Nurse-1975-1574-1002,peg ( n.),361,PEG,3,peg
-Nurse-1975-1574-1003,penetrate ( v.),,???,,penetrate
-Nurse-1975-1574-1004,penis ( n.),1222,PENIS,3,penis
-Nurse-1975-1574-1005,penknife ( n.),,???,,penknife
-Nurse-1975-1574-1007,person related by blood,,???,,person related by blood
-Nurse-1975-1574-1008,pestle ( n.),225,PESTLE,3,pestle
-Nurse-1975-1574-1009,pierce,398,PIERCE,2,pierce
-Nurse-1975-1574-1011,pig ( n.),1337,PIG,3,pig
-Nurse-1975-1574-1012,pigeon,1853,DOVE,2,pigeon
-Nurse-1975-1574-1013,"pile up, pile loads on head ( v.)",1576,PILE UP,4,"pile up, pile loads on head"
-Nurse-1975-1574-1014,"pinch, make narrow ( v.)",378,PINCH,4,"pinch, make narrow"
-Nurse-1975-1574-1016,"pit, hole ( n.)",1667,HOLE,3,"pit, hole"
-Nurse-1975-1574-1017,place ( n.),723,PLACE (POSITION),3,place
-Nurse-1975-1574-1018,place of the dead ( n.),,???,,place of the dead
-Nurse-1975-1574-1019,"place, put ( v.)",998,PUT,3,"place, put"
-Nurse-1975-1574-1020,plait ( v.),1729,PLAIT OR BRAID OR WEAVE,3,plait
-Nurse-1975-1574-1021,plaited basket ( n.),,???,,plaited basket
-Nurse-1975-1574-1022,"plant, sow ( v.)",748,SOW SEEDS,3,"plant, sow"
-Nurse-1975-1574-1023,plate,480,PLATE,2,plate
-Nurse-1975-1574-1024,platform ( n.),,???,,platform
-Nurse-1975-1574-1025,play,1413,PLAY,2,play
-Nurse-1975-1574-1026,"please, satisfy ( v.)",1271,DELIGHT,4,"please, satisfy"
-Nurse-1975-1574-1027,plot of ground ( n.),,???,,plot of ground
-Nurse-1975-1574-1028,plunder (a town) ( v.),,???,,plunder (a town)
-Nurse-1975-1574-1029,"plunge into, cause to sink ( v.)",,???,,"plunge into, cause to sink"
-Nurse-1975-1574-1030,point ( n.),2669,POINT (WITH FINGER),3,point
-Nurse-1975-1574-1031,poke ( v.),,???,,poke
-Nurse-1975-1574-1032,poke in ( v.),,???,,poke in
-Nurse-1975-1574-1033,polish ( v.),,???,,polish
-Nurse-1975-1574-1034,polygamy,,???,,polygamy
-Nurse-1975-1574-1035,pool ( n.),,???,,pool
-Nurse-1975-1574-1036,pool (of water),,???,,pool (of water)
-Nurse-1975-1574-1037,porcupine ( n.),2510,PORCUPINE,3,porcupine
-Nurse-1975-1574-1038,porridge ( n.),,???,,porridge
-Nurse-1975-1574-1039,pot ( n.),1462,POT,3,pot
-Nurse-1975-1574-1040,"pot, mug ( n.)",1462,POT,4,"pot, mug"
-Nurse-1975-1574-1042,potter's kiln ( n.),,???,,potter's kiln
-Nurse-1975-1574-1044,pound (grain in a mortar to ge ( v.),354,POUND,3,pound (grain in a mortar to ge
-Nurse-1975-1574-1046,pour ( v.),1487,POUR,3,pour
-Nurse-1975-1574-1047,pour away ( v.),1487,POUR,4,pour away
-Nurse-1975-1574-1048,pregnancy ( n.),,???,,pregnancy
-Nurse-1975-1574-1049,prepare ( v.),,???,,prepare
-Nurse-1975-1574-1050,"press out (oil seed, sugar can ( v.)",,???,,"press out (oil seed, sugar can"
-Nurse-1975-1574-1051,pronounce ( v.),,???,,pronounce
-Nurse-1975-1574-1052,protect by charm ( v.),,???,,protect by charm
-Nurse-1975-1574-1053,protect by charms ( v.),,???,,protect by charms
-Nurse-1975-1574-1054,puff-adder ( n.),,???,,puff-adder
-Nurse-1975-1574-1055,pull ( v.),1455,PULL,3,pull
-Nurse-1975-1574-1056,pull up,2066,PULL UP (RICE SEEDLINGS),4,pull up
-Nurse-1975-1574-1057,"pull up, come to a halt ( v.)",2066,PULL UP (RICE SEEDLINGS),4,"pull up, come to a halt"
-Nurse-1975-1574-1058,"pull up, root up ( v.)",2066,PULL UP (RICE SEEDLINGS),4,"pull up, root up"
-Nurse-1975-1574-1059,"pull, drag ( v.)",2030,DRAG,3,"pull, drag"
-Nurse-1975-1574-1060,pump ( n.),,???,,pump
-Nurse-1975-1574-1061,push ( v.),1452,PUSH,3,push
-Nurse-1975-1574-1062,put,998,PUT,2,put
-Nurse-1975-1574-1063,put a pot on the fire ( v.),,???,,put a pot on the fire
-Nurse-1975-1574-1064,put down a load,,???,,put down a load
-Nurse-1975-1574-1065,put down a load on another,,???,,put down a load on another
-Nurse-1975-1574-1066,"put forth, produce, display ( v.)",,???,,"put forth, produce, display"
-Nurse-1975-1574-1067,"put out, be prominent ( v.)",127,EXTINGUISH,4,"put out, be prominent"
-Nurse-1975-1574-1068,put to death ( v.),,???,,put to death
-Nurse-1975-1574-1069,put together for comparison ( v.),,???,,put together for comparison
-Nurse-1975-1574-1070,"put together, compose ( v.)",,???,,"put together, compose"
-Nurse-1975-1574-1071,put up a load on another,,???,,put up a load on another
-Nurse-1975-1574-1072,"put, place, set ( v.)",160,SET (HEAVENLY BODIES),3,"put, place, set"
-Nurse-1975-1574-1073,python ( n.),1563,PYTHON,3,python
-Nurse-1975-1574-1074,quarrel ( v.),1848,QUARREL,4,quarrel
-Nurse-1975-1574-1075,"quench, extinguish ( v.)",127,EXTINGUISH,3,"quench, extinguish"
-Nurse-1975-1574-1077,rainy season ( n.),453,RAINY SEASON,3,rainy season
-Nurse-1975-1574-1078,ramble ( v.),,???,,ramble
-Nurse-1975-1574-1079,raphia palm ( n.),1181,PALM TREE,4,raphia palm
-Nurse-1975-1574-1081,razor ( n.),151,RAZOR,3,razor
-Nurse-1975-1574-1082,read ( v.),724,READ,3,read
-Nurse-1975-1574-1084,receive ( v.),694,GET,4,receive
-Nurse-1975-1574-1085,red,156,RED,2,red
-Nurse-1975-1574-1086,reed ( n.),659,REED,3,reed
-Nurse-1975-1574-1087,refuse to give,,???,,refuse to give
-Nurse-1975-1574-1088,"refuse, say no ( v.)",49,REFUSE,4,"refuse, say no"
-Nurse-1975-1574-1089,"reject, refuse ( v.)",49,REFUSE,3,"reject, refuse"
-Nurse-1975-1574-1090,relative by marriage,,???,,relative by marriage
-Nurse-1975-1574-1092,"remain, stay ( v.)",987,REMAIN,3,"remain, stay"
-Nurse-1975-1574-1095,remember ( v.),707,REMEMBER,3,remember
-Nurse-1975-1574-1096,resemble,1777,RESEMBLE,2,resemble
-Nurse-1975-1574-1097,resemble (very closely) ( v.),1777,RESEMBLE,3,resemble (very closely)
-Nurse-1975-1574-1098,resemble each other,,???,,resemble each other
-Nurse-1975-1574-1099,"rest heavily on, be burdensome ( v.)",,???,,"rest heavily on, be burdensome"
-Nurse-1975-1574-1100,rest the cheek on the hand (in ( v.),,???,,rest the cheek on the hand (in
-Nurse-1975-1574-1102,return ( v.),581,COME BACK,3,return
-Nurse-1975-1574-1103,revive ( v.),,???,,revive
-Nurse-1975-1574-1104,rhinoceros ( n.),2591,RHINOCEROS,3,rhinoceros
-Nurse-1975-1574-1105,rhinocerous ( n.),,???,,rhinocerous
-Nurse-1975-1574-1106,rib ( n.),801,RIB,3,rib
-Nurse-1975-1574-1107,rich,712,RICH,2,rich
-Nurse-1975-1574-1108,right/correct,1725,CORRECT (RIGHT),2,right/correct
-Nurse-1975-1574-1109,righthand ( n.),,???,,righthand
-Nurse-1975-1574-1110,rightside,1019,RIGHT,2,rightside
-Nurse-1975-1574-1111,ripe ( n.),178,RIPE,4,ripe
-Nurse-1975-1574-1112,ripe banana,,???,,ripe banana
-Nurse-1975-1574-1113,ripen ( v.),179,RIPEN,3,ripen
-Nurse-1975-1574-1114,rippen ( v.),,???,,rippen
-Nurse-1975-1574-1115,river ( n.),666,RIVER,3,river
-Nurse-1975-1574-1116,road,667,ROAD,2,road
-Nurse-1975-1574-1117,roar,,???,,roar
-Nurse-1975-1574-1118,"roar, rumble ( v.)",,???,,"roar, rumble"
-Nurse-1975-1574-1123,rooster (=cock) ( n.),1511,ROOSTER,3,rooster (=cock)
-Nurse-1975-1574-1124,rooster (cock) ( n.),1511,ROOSTER,3,rooster (cock)
-Nurse-1975-1574-1125,root ( n.),670,ROOT,3,root
-Nurse-1975-1574-1126,rope,1218,ROPE,2,rope
-Nurse-1975-1574-1127,rotten ( n.),1728,ROTTEN,4,rotten
-Nurse-1975-1574-1128,row,1849,ROW,4,row
-Nurse-1975-1574-1129,rub ( v.),1449,RUB,3,rub
-Nurse-1975-1574-1130,rubbish heap ( n.),,???,,rubbish heap
-Nurse-1975-1574-1131,"rubbish, garbage ( n.)",909,GARBAGE,3,"rubbish, garbage"
-Nurse-1975-1574-1132,rubbish-heap,,???,,rubbish-heap
-Nurse-1975-1574-1134,sacrifice ( n.),1103,SACRIFICE,3,sacrifice
-Nurse-1975-1574-1135,saliva,1503,SALIVA,2,saliva
-Nurse-1975-1574-1136,salt ( n.),1274,SALT,3,salt
-Nurse-1975-1574-1137,sand ( n.),671,SAND,3,sand
-Nurse-1975-1574-1138,satisfy ( v.),,???,,satisfy
-Nurse-1975-1574-1139,say,1458,SAY,2,say
-Nurse-1975-1574-1140,"say to, tell to ( v.)",,???,,"say to, tell to"
-Nurse-1975-1574-1141,scatter,2064,SCATTER (SEEDS),4,scatter
-Nurse-1975-1574-1142,scorpion ( n.),1538,SCORPION,3,scorpion
-Nurse-1975-1574-1146,scratch,1436,SCRATCH,2,scratch
-Nurse-1975-1574-1147,"scratch, grate ( v.)",1436,SCRATCH,4,"scratch, grate"
-Nurse-1975-1574-1149,sea,1474,SEA,2,sea
-Nurse-1975-1574-1150,search diligently ( v.),,???,,search diligently
-Nurse-1975-1574-1151,search for ( v.),1468,LOOK FOR,4,search for
-Nurse-1975-1574-1152,"seat, stool, chair ( n.)",1476,CHAIR,3,"seat, stool, chair"
-Nurse-1975-1574-1153,seat/chair,1476,CHAIR,4,seat/chair
-Nurse-1975-1574-1154,see ( v.),1409,SEE,3,see
-Nurse-1975-1574-1155,seed ( n.),714,SEED,3,seed
-Nurse-1975-1574-1157,self ( n.),1993,SELF,4,self
-Nurse-1975-1574-1158,sell ( v.),1571,SELL,3,sell
-Nurse-1975-1574-1159,send ( v.),1127,SEND,3,send
-Nurse-1975-1574-1160,separate,1359,SEPARATE,2,separate
-Nurse-1975-1574-1161,"separate, leave each other ( v.)",1359,SEPARATE,4,"separate, leave each other"
-Nurse-1975-1574-1162,"separate, set apart ( v.)",1359,SEPARATE,4,"separate, set apart"
-Nurse-1975-1574-1163,"serpent, snake ( n.)",730,SNAKE,3,"serpent, snake"
-Nurse-1975-1574-1164,set (of the sun) ( v.),160,SET (HEAVENLY BODIES),3,set (of the sun)
-Nurse-1975-1574-1165,set a trap ( v.),,???,,set a trap
-Nurse-1975-1574-1166,set out to dry ( v.),2015,MAKE DRY,4,set out to dry
-Nurse-1975-1574-1167,set trap,,???,,set trap
-Nurse-1975-1574-1168,"set up, appoint ( v.)",,???,,"set up, appoint"
-Nurse-1975-1574-1169,seven ( n.),1704,SEVEN,4,seven
-Nurse-1975-1574-1170,sew ( v.),1457,SEW,3,sew
-Nurse-1975-1574-1171,sguat (on the haunches) ( v.),,???,,sguat (on the haunches)
-Nurse-1975-1574-1172,"shadow, shade ( n.)",1388,SHADE,3,"shadow, shade"
-Nurse-1975-1574-1173,shake,1909,SHAKE,2,shake
-Nurse-1975-1574-1174,shamba/cultivated area,,???,,shamba/cultivated area
-Nurse-1975-1574-1175,shame ( n.),1776,SHAME,3,shame
-Nurse-1975-1574-1178,share,884,SHARE,4,share
-Nurse-1975-1574-1179,sharp,1396,SHARP,2,sharp
-Nurse-1975-1574-1180,sharpen ( v.),251,SHARPEN (SOMETHING),3,sharpen
-Nurse-1975-1574-1181,sharpen (to a point),251,SHARPEN (SOMETHING),4,sharpen (to a point)
-Nurse-1975-1574-1182,sharpen to a point ( n.),,???,,sharpen to a point
-Nurse-1975-1574-1183,shave ( v.),231,SHAVE,3,shave
-Nurse-1975-1574-1185,sheep ( n.),1331,SHEEP,3,sheep
-Nurse-1975-1574-1186,shell ( n.),598,SHELL,3,shell
-Nurse-1975-1574-1187,shield ( n.),1064,SHIELD,3,shield
-Nurse-1975-1574-1188,shin (bone) ( n.),186,SHIN,3,shin (bone)
-Nurse-1975-1574-1189,shiver ( v.),52,SHIVER,3,shiver
-Nurse-1975-1574-1190,"shiver, shudder ( v.)",52,SHIVER,4,"shiver, shudder"
-Nurse-1975-1574-1191,shoe,1381,SHOE,2,shoe
-Nurse-1975-1574-1192,shoot,1172,SHOOT,2,shoot
-Nurse-1975-1574-1193,shoot (arrow),1172,SHOOT,4,shoot (arrow)
-Nurse-1975-1574-1195,short sword ( n.),,???,,short sword
-Nurse-1975-1574-1196,shoulder ( n.),1482,SHOULDER,3,shoulder
-Nurse-1975-1574-1197,shout ( v.),715,SHOUT,3,shout
-Nurse-1975-1574-1199,sift ( v.),,???,,sift
-Nurse-1975-1574-1200,sing ( v.),1261,SING,3,sing
-Nurse-1975-1574-1201,singe ( v.),,???,,singe
-Nurse-1975-1574-1202,sink ( v.),1088,SINK (DESCEND),3,sink
-Nurse-1975-1574-1204,sister,1263,SISTER,2,sister
-Nurse-1975-1574-1205,sit ( v.),1416,SIT,3,sit
-Nurse-1975-1574-1206,sit (e.g. kukaa kitako) ( v.),1416,SIT,3,sit (e.g. kukaa kitako)
-Nurse-1975-1574-1207,sit down,1649,SIT DOWN,2,sit down
-Nurse-1975-1574-1208,six ( n.),1703,SIX,4,six
-Nurse-1975-1574-1214,sky ( n.),1732,SKY,3,sky
-Nurse-1975-1574-1215,slander ( v.),,???,,slander
-Nurse-1975-1574-1216,slap ( v.),,???,,slap
-Nurse-1975-1574-1217,slash ( v.),,???,,slash
-Nurse-1975-1574-1218,slaughter ( v.),1796,SLAUGHTER,3,slaughter
-Nurse-1975-1574-1219,"slave, bond servant ( n.)",812,SLAVE,4,"slave, bond servant"
-Nurse-1975-1574-1220,"slave, bondservant ( n.)",812,SLAVE,4,"slave, bondservant"
-Nurse-1975-1574-1221,sleep,1585,SLEEP,2,sleep
-Nurse-1975-1574-1222,"sleeping-place, accommodation ( n.)",,???,,"sleeping-place, accommodation"
-Nurse-1975-1574-1223,"slip, be slippery ( v.)",1324,SLIP,4,"slip, be slippery"
-Nurse-1975-1574-1225,small bean ( n.),,???,,small bean
-Nurse-1975-1574-1226,small cooking pan ( n.),,???,,small cooking pan
-Nurse-1975-1574-1227,small cucumber ( n.),,???,,small cucumber
-Nurse-1975-1574-1228,small gazelle ( n.),,???,,small gazelle
-Nurse-1975-1574-1229,smallpox ( n.),1054,SMALLPOX,3,smallpox
-Nurse-1975-1574-1234,smoke ( n.),778,SMOKE (EXHAUST),3,smoke
-Nurse-1975-1574-1235,smooth,1234,SMOOTH,2,smooth
-Nurse-1975-1574-1236,snail ( n.),1543,SNAIL,3,snail
-Nurse-1975-1574-1237,"snail, slug ( n.)",1543,SNAIL,4,"snail, slug"
-Nurse-1975-1574-1238,snake,730,SNAKE,2,snake
-Nurse-1975-1574-1239,"snare, trap ( n.)",1075,TRAP (PITFALL),3,"snare, trap"
-Nurse-1975-1574-1240,sneeze ( v.),1621,SNEEZE,3,sneeze
-Nurse-1975-1574-1241,snore,1983,SNORE,2,snore
-Nurse-1975-1574-1242,"snore, snort ( v.)",1983,SNORE,4,"snore, snort"
-Nurse-1975-1574-1243,snow,784,SNOW,2,snow
-Nurse-1975-1574-1244,soil ( n.),1228,EARTH (SOIL),3,soil
-Nurse-1975-1574-1245,some,1241,SOME,2,some
-Nurse-1975-1574-1246,song ( n.),1096,SONG,3,song
-Nurse-1975-1574-1247,soot ( n.),830,SOOT,3,soot
-Nurse-1975-1574-1249,sorceror ( n.),823,SORCERER,4,sorceror
-Nurse-1975-1574-1251,"soul, spirit ( n.)",53,SPIRIT,3,"soul, spirit"
-Nurse-1975-1574-1252,soul/spirit,811,SOUL,2,soul/spirit
-Nurse-1975-1574-1255,spark ( n.),518,SPARK,3,spark
-Nurse-1975-1574-1258,spear ( n.),945,SPEAR,3,spear
-Nurse-1975-1574-1259,spend time ( v.),,???,,spend time
-Nurse-1975-1574-1260,sperm ( n.),1505,SPERM,3,sperm
-Nurse-1975-1574-1261,spider ( n.),843,SPIDER,3,spider
-Nurse-1975-1574-1263,spirit (of dead person) ( n.),53,SPIRIT,3,spirit (of dead person)
-Nurse-1975-1574-1264,spit ( v.),1440,SPIT,3,spit
-Nurse-1975-1574-1265,spitting cobra ( n.),,???,,spitting cobra
-Nurse-1975-1574-1266,spittle ( n.),1503,SALIVA,4,spittle
-Nurse-1975-1574-1267,split,1437,SPLIT,2,split
-Nurse-1975-1574-1268,split (act),1437,SPLIT,4,split (act)
-Nurse-1975-1574-1269,"split, crack ( v.)",1437,SPLIT,4,"split, crack"
-Nurse-1975-1574-1272,"spoil, blind ( v.)",1653,BLIND,3,"spoil, blind"
-Nurse-1975-1574-1273,spoon ( n.),1378,SPOON,3,spoon
-Nurse-1975-1574-1274,spot,519,SPOT,4,spot
-Nurse-1975-1574-1275,"spot, speckle ( n.)",519,SPOT,4,"spot, speckle"
-Nurse-1975-1574-1276,sprain the angkle ( v.),,???,,sprain the angkle
-Nurse-1975-1574-1277,sprain the ankle ( v.),,???,,sprain the ankle
-Nurse-1975-1574-1278,sprawl,,???,,sprawl
-Nurse-1975-1574-1279,spread ( v.),38,SPREAD OUT,4,spread
-Nurse-1975-1574-1280,spread (act),38,SPREAD OUT,4,spread (act)
-Nurse-1975-1574-1282,spread as a vine or a fire,221,FIRE,3,spread as a vine or a fire
-Nurse-1975-1574-1283,spread to dry,,???,,spread to dry
-Nurse-1975-1574-1284,"spread, scatter ( v.)",2064,SCATTER (SEEDS),3,"spread, scatter"
-Nurse-1975-1574-1285,"spread, smear on ( v.)",38,SPREAD OUT,4,"spread, smear on"
-Nurse-1975-1574-1287,"spring, machine ( n.)",144,MACHINE,3,"spring, machine"
-Nurse-1975-1574-1288,spy out ( v.),,???,,spy out
-Nurse-1975-1574-1289,squat (on the haunches) ( v.),,???,,squat (on the haunches)
-Nurse-1975-1574-1290,squeeze,1414,SQUEEZE,2,squeeze
-Nurse-1975-1574-1291,squeeze oneself up against wal ( v.),,???,,squeeze oneself up against wal
-Nurse-1975-1574-1292,squeeze onself up against a wa ( v.),,???,,squeeze onself up against a wa
-Nurse-1975-1574-1293,squeeze out ( v.),,???,,squeeze out
-Nurse-1975-1574-1294,"squeeze, milk ( v.)",93,DRAW MILK,3,"squeeze, milk"
-Nurse-1975-1574-1295,squirrel ( n.),1628,SQUIRREL,3,squirrel
-Nurse-1975-1574-1296,stab,1434,STAB,2,stab
-Nurse-1975-1574-1297,"stack, pile up ( v.)",1576,PILE UP,3,"stack, pile up"
-Nurse-1975-1574-1298,stand ( v.),1442,STAND,3,stand
-Nurse-1975-1574-1299,star ( n.),1430,STAR,3,star
-Nurse-1975-1574-1300,"stare, glare ( v.)",,???,,"stare, glare"
-Nurse-1975-1574-1301,"start off, send away ( v.)",,???,,"start off, send away"
-Nurse-1975-1574-1302,"startle, jerk ( v.)",,???,,"startle, jerk"
-Nurse-1975-1574-1303,steal ( v.),713,STEAL,3,steal
-Nurse-1975-1574-1304,steel ( n.),2343,STEEL,3,steel
-Nurse-1975-1574-1305,"stem of maize, millet ( n.)",931,MILLET,3,"stem of maize, millet"
-Nurse-1975-1574-1306,"stem of maize, millet, etc. ( n.)",931,MILLET,4,"stem of maize, millet, etc."
-Nurse-1975-1574-1307,step over ( v.),,???,,step over
-Nurse-1975-1574-1308,sterile man (or woman) ( n.),,???,,sterile man (or woman)
-Nurse-1975-1574-1309,stick ( n.),1295,STICK,3,stick
-Nurse-1975-1574-1312,stir up ( v.),,???,,stir up
-Nurse-1975-1574-1313,"stir up, stir up ( v.)",,???,,"stir up, stir up"
-Nurse-1975-1574-1315,stomach,819,STOMACH,2,stomach
-Nurse-1975-1574-1317,stop up,,???,,stop up
-Nurse-1975-1574-1318,"stop up, fill a hole ( v.)",,???,,"stop up, fill a hole"
-Nurse-1975-1574-1319,store up,,???,,store up
-Nurse-1975-1574-1320,"store up, collect ( v.)",7,GATHER,4,"store up, collect"
-Nurse-1975-1574-1321,straight,1404,STRAIGHT,2,straight
-Nurse-1975-1574-1322,straighten,,???,,straighten
-Nurse-1975-1574-1323,stranger,791,STRANGER,2,stranger
-Nurse-1975-1574-1324,"stranger, guest ( n.)",1782,GUEST,3,"stranger, guest"
-Nurse-1975-1574-1325,stream,947,STREAM,2,stream
-Nurse-1975-1574-1327,"strength, power ( n.)",2526,POWER,3,"strength, power"
-Nurse-1975-1574-1328,stretch oneself ( v.),214,STRETCH,4,stretch oneself
-Nurse-1975-1574-1329,strike with a spear ( v.),,???,,strike with a spear
-Nurse-1975-1574-1330,"strike, knock ( v.)",2396,KNOCK,3,"strike, knock"
-Nurse-1975-1574-1331,string ( n.),362,STRING,3,string
-Nurse-1975-1574-1332,strip off (e.g. grains of corn ( v.),,???,,strip off (e.g. grains of corn
-Nurse-1975-1574-1333,"strip off (leaves, etc.)",,???,,"strip off (leaves, etc.)"
-Nurse-1975-1574-1334,strong,785,STRONG,2,strong
-Nurse-1975-1574-1335,strut proudly ( v.),,???,,strut proudly
-Nurse-1975-1574-1336,stubbly grass,,???,,stubbly grass
-Nurse-1975-1574-1337,stumble ( v.),,???,,stumble
-Nurse-1975-1574-1338,stutter ( v.),1866,STUTTER,3,stutter
-Nurse-1975-1574-1341,"sudden apparition, ghost ( n.)",1175,GHOST,3,"sudden apparition, ghost"
-Nurse-1975-1574-1343,sugar cane ( n.),146,SUGAR CANE,3,sugar cane
-Nurse-1975-1574-1345,surround ( v.),,???,,surround
-Nurse-1975-1574-1346,swallow ( v.),897,SWALLOW,3,swallow
-Nurse-1975-1574-1348,sweat ( n.),125,SWEAT (SUBSTANCE),3,sweat
-Nurse-1975-1574-1349,sweep ( v.),230,SWEEP,3,sweep
-Nurse-1975-1574-1350,sweep (out),230,SWEEP,4,sweep (out)
-Nurse-1975-1574-1351,"sweep up, collect in a heap (r ( v.)",,???,,"sweep up, collect in a heap (r"
-Nurse-1975-1574-1352,sweet (of food),717,SWEET,4,sweet (of food)
-Nurse-1975-1574-1353,"sweet, pleasant ( n.)",717,SWEET,4,"sweet, pleasant"
-Nurse-1975-1574-1354,swell ( n.),1573,SWELL,4,swell
-Nurse-1975-1574-1355,swim,1439,SWIM,2,swim
-Nurse-1975-1574-1356,sword ( n.),1535,SWORD,3,sword
-Nurse-1975-1574-1357,tail ( n.),1220,TAIL,3,tail
-Nurse-1975-1574-1358,take,1749,TAKE,2,take
-Nurse-1975-1574-1359,take a walk ( v.),,???,,take a walk
-Nurse-1975-1574-1360,take in (from rain) ( v.),,???,,take in (from rain)
-Nurse-1975-1574-1361,"take in (from rain, etc.) ( v.)",,???,,"take in (from rain, etc.)"
-Nurse-1975-1574-1362,take leace of ( v.),,???,,take leace of
-Nurse-1975-1574-1363,take leave of ( v.),,???,,take leave of
-Nurse-1975-1574-1364,take off (clothes) ( v.),,???,,take off (clothes)
-Nurse-1975-1574-1365,take off clothes,1755,UNDRESS,2,take off clothes
-Nurse-1975-1574-1366,"take the skin off, bruise ( v.)",1148,BRUISE,4,"take the skin off, bruise"
-Nurse-1975-1574-1367,take up a heavy load ( v.),,???,,take up a heavy load
-Nurse-1975-1574-1368,"take, carry ( v.)",700,CARRY,3,"take, carry"
-Nurse-1975-1574-1370,tall,711,TALL,2,tall
-Nurse-1975-1574-1371,tangle ( v.),,???,,tangle
-Nurse-1975-1574-1372,taste ( v.),21,TASTE (SOMETHING),3,taste
-Nurse-1975-1574-1373,"teach, instruct ( v.)",709,TEACH,4,"teach, instruct"
-Nurse-1975-1574-1375,tear from eye,,???,,tear from eye
-Nurse-1975-1574-1376,tears ( n.),1651,TEAR (OF EYE),4,tears
-Nurse-1975-1574-1377,tell lies,601,LIE (MISLEAD),4,tell lies
-Nurse-1975-1574-1378,ten ( n.),1515,TEN,4,ten
-Nurse-1975-1574-1379,tent pegs ( n.),,???,,tent pegs
-Nurse-1975-1574-1380,termite ( n.),883,TERMITE,3,termite
-Nurse-1975-1574-1381,testicle ( n.),797,TESTICLES,4,testicle
-Nurse-1975-1574-1382,that ( n.),78,THAT,4,that
-Nurse-1975-1574-1383,that (person),78,THAT,4,that (person)
-Nurse-1975-1574-1384,"that, namely",78,THAT,4,"that, namely"
-Nurse-1975-1574-1385,thatched roof ( n.),,???,,thatched roof
-Nurse-1975-1574-1386,the day after tomorrow ( n.),1179,DAY AFTER TOMORROW,3,the day after tomorrow
-Nurse-1975-1574-1387,the day before yesterday ( n.),1180,DAY BEFORE YESTERDAY,3,the day before yesterday
-Nurse-1975-1574-1388,the lesser rains ( n.),,???,,the lesser rains
-Nurse-1975-1574-1389,them ( n.),817,THEY,4,them
-Nurse-1975-1574-1390,there ( n.),1937,THERE,4,there
-Nurse-1975-1574-1391,they ( n.),817,THEY,4,they
-Nurse-1975-1574-1392,thick,1244,THICK,2,thick
-Nurse-1975-1574-1394,thicket ( n.),,???,,thicket
-Nurse-1975-1574-1395,thief ( n.),1160,THIEF,3,thief
-Nurse-1975-1574-1396,thigh ( n.),800,THIGH,3,thigh
-Nurse-1975-1574-1397,thigh (cha mtu) ( n.),800,THIGH,3,thigh (cha mtu)
-Nurse-1975-1574-1398,thigh (cha nyama) ( n.),800,THIGH,3,thigh (cha nyama)
-Nurse-1975-1574-1400,thin pole ( n.),,???,,thin pole
-Nurse-1975-1574-1402,thing ( n.),738,THING,3,thing
-Nurse-1975-1574-1405,thirst ( n.),848,THIRST,3,thirst
-Nurse-1975-1574-1406,thirty,1715,THIRTY,2,thirty
-Nurse-1975-1574-1407,this,1214,THIS,2,this
-Nurse-1975-1574-1408,thorn ( n.),124,THORN,3,thorn
-Nurse-1975-1574-1410,threaten ( v.),1192,THREATEN,3,threaten
-Nurse-1975-1574-1411,three ( n.),492,THREE,4,three
-Nurse-1975-1574-1412,throat,1346,THROAT,2,throat
-Nurse-1975-1574-1413,throw,1456,THROW,2,throw
-Nurse-1975-1574-1414,thrust into ( v.),,???,,thrust into
-Nurse-1975-1574-1415,thunder,1150,THUNDER,2,thunder
-Nurse-1975-1574-1416,tick,1527,TICK,2,tick
-Nurse-1975-1574-1417,tie,1917,TIE,2,tie
-Nurse-1975-1574-1418,tie (=fasten) ( v.),1917,TIE,3,tie (=fasten)
-Nurse-1975-1574-1419,tie (fasten) ( v.),1917,TIE,3,tie (fasten)
-Nurse-1975-1574-1420,tie up ( v.),1094,FASTEN,3,tie up
-Nurse-1975-1574-1422,tingle with excitement ( v.),,???,,tingle with excitement
-Nurse-1975-1574-1423,"tip, point ( n.)",2669,POINT (WITH FINGER),3,"tip, point"
-Nurse-1975-1574-1425,to break wind ( v.),1159,FART,4,to break wind
-Nurse-1975-1574-1427,to fly ( v.),1441,FLY (MOVE THROUGH AIR),3,to fly
-Nurse-1975-1574-1428,"to remain, stay ( v.)",987,REMAIN,3,"to remain, stay"
-Nurse-1975-1574-1429,to sew ( v.),1457,SEW,3,to sew
-Nurse-1975-1574-1430,to stand ( v.),1442,STAND,3,to stand
-Nurse-1975-1574-1431,to tie (fasten) ( v.),1917,TIE,3,to tie (fasten)
-Nurse-1975-1574-1432,tobacco ( n.),974,TOBACCO,3,tobacco
-Nurse-1975-1574-1433,tobacco pipe ( n.),,???,,tobacco pipe
-Nurse-1975-1574-1436,tomato ( n.),986,TOMATO,3,tomato
-Nurse-1975-1574-1437,tomorrow ( n.),1329,TOMORROW,4,tomorrow
-Nurse-1975-1574-1438,tongue ( n.),1205,TONGUE,3,tongue
-Nurse-1975-1574-1439,tooth ( n.),1380,TOOTH,3,tooth
-Nurse-1975-1574-1440,top,1753,TOP,2,top
-Nurse-1975-1574-1441,"top, peak ( n.)",2205,PEAK,3,"top, peak"
-Nurse-1975-1574-1442,tortoise ( n.),895,TORTOISE,3,tortoise
-Nurse-1975-1574-1443,town ( n.),1391,TOWN,3,town
-Nurse-1975-1574-1444,tramp of feet ( n.),,???,,tramp of feet
-Nurse-1975-1574-1446,travel ( n.),,???,,travel
-Nurse-1975-1574-1449,"tremble, shake ( v.)",1909,SHAKE,3,"tremble, shake"
-Nurse-1975-1574-1450,trickle away ( v.),,???,,trickle away
-Nurse-1975-1574-1453,tsetse fly ( n.),,???,,tsetse fly
-Nurse-1975-1574-1454,tsetse-fly ( n.),,???,,tsetse-fly
-Nurse-1975-1574-1457,turn round ( v.),1445,TURN (SOMETHING),4,turn round
-Nurse-1975-1574-1458,"turn round, change ( v.)",1264,CHANGE,3,"turn round, change"
-Nurse-1975-1574-1459,"turn upside down, turn over ( v.)",1588,TURN,4,"turn upside down, turn over"
-Nurse-1975-1574-1460,twenty,1710,TWENTY,2,twenty
-Nurse-1975-1574-1461,twin ( n.),,???,,twin
-Nurse-1975-1574-1462,twist ( v.),430,TWIST,3,twist
-Nurse-1975-1574-1463,two ( n.),1498,TWO,4,two
-Nurse-1975-1574-1464,udder ( n.),154,UDDER,3,udder
-Nurse-1975-1574-1465,uji,,???,,uji
-Nurse-1975-1574-1468,underneath ( n.),,???,,underneath
-Nurse-1975-1574-1469,understand,1536,UNDERSTAND,2,understand
-Nurse-1975-1574-1473,upright ( n.),,???,,upright
-Nurse-1975-1574-1474,urinate ( v.),592,PISS,3,urinate
-Nurse-1975-1574-1475,urine ( n.),1142,URINE,3,urine
-Nurse-1975-1574-1476,use ( v.),2072,USE (VERB),3,use
-Nurse-1975-1574-1477,use medicine,,???,,use medicine
-Nurse-1975-1574-1478,valley,921,VALLEY,2,valley
-Nurse-1975-1574-1479,"vapour, gas ( n.)",,???,,"vapour, gas"
-Nurse-1975-1574-1481,village ( n.),930,VILLAGE,3,village
-Nurse-1975-1574-1484,vision ( n.),,???,,vision
-Nurse-1975-1574-1485,voice ( n.),1363,VOICE,3,voice
-Nurse-1975-1574-1486,vomit ( v.),1278,VOMIT,3,vomit
-Nurse-1975-1574-1487,wait for,1590,WAIT (FOR),2,wait for
-Nurse-1975-1574-1488,wake someone up,,???,,wake someone up
-Nurse-1975-1574-1489,wake up (someone else),1602,WAKE UP,4,wake up (someone else)
-Nurse-1975-1574-1490,wake up (yourself),1602,WAKE UP,4,wake up (yourself)
-Nurse-1975-1574-1491,waken (yourself),1602,WAKE UP,4,waken (yourself)
-Nurse-1975-1574-1492,walk ( n.),2450,FOOT OR WALK,3,walk
-Nurse-1975-1574-1494,wall ( n.),933,WALL (OF HOUSE),3,wall
-Nurse-1975-1574-1495,want,1784,WANT,2,want
-Nurse-1975-1574-1498,warm,1232,WARM,2,warm
-Nurse-1975-1574-1499,warm oneself,,???,,warm oneself
-Nurse-1975-1574-1500,wart-hog ( n.),,???,,wart-hog
-Nurse-1975-1574-1501,warthog ( n.),,???,,warthog
-Nurse-1975-1574-1502,wash ( v.),1453,WASH,3,wash
-Nurse-1975-1574-1503,wash (clothes) ( v.),1453,WASH,3,wash (clothes)
-Nurse-1975-1574-1504,wash oneself (after evacuating ( v.),,???,,wash oneself (after evacuating
-Nurse-1975-1574-1505,"wash, take a bath ( v.)",1453,WASH,4,"wash, take a bath"
-Nurse-1975-1574-1506,wasp,1517,WASP,2,wasp
-Nurse-1975-1574-1507,water ( n.),948,WATER,3,water
-Nurse-1975-1574-1508,"wave, let off a trap, remove a ( v.)",978,WAVE,4,"wave, let off a trap, remove a"
-Nurse-1975-1574-1511,weak ( n.),1601,WEAK,4,weak
-Nurse-1975-1574-1512,wear ( v.),976,WEAR,3,wear
-Nurse-1975-1574-1513,weave,133,WEAVE,2,weave
-Nurse-1975-1574-1515,weep,1839,CRY,2,weep
-Nurse-1975-1574-1516,"weight, rhythm ( n.)",2466,WEIGHT,4,"weight, rhythm"
-Nurse-1975-1574-1518,wet,1726,WET,2,wet
-Nurse-1975-1574-1520,wheat,1077,WHEAT,2,wheat
-Nurse-1975-1574-1521,when?,1238,WHEN,2,when?
-Nurse-1975-1574-1522,where?,1237,WHERE,2,where?
-Nurse-1975-1574-1523,which? ( n.),727,WHICH,4,which?
-Nurse-1975-1574-1524,whistling ( n.),,???,,whistling
-Nurse-1975-1574-1525,white ( n.),1335,WHITE,4,white
-Nurse-1975-1574-1526,white hair ( n.),,???,,white hair
-Nurse-1975-1574-1527,white man ( n.),,???,,white man
-Nurse-1975-1574-1528,white person,,???,,white person
-Nurse-1975-1574-1529,whiteman,,???,,whiteman
-Nurse-1975-1574-1531,why?,1270,WHY,2,why?
-Nurse-1975-1574-1532,wicked ( n.),,???,,wicked
-Nurse-1975-1574-1533,wide,1243,WIDE,2,wide
-Nurse-1975-1574-1534,wife ( n.),1199,WIFE,3,wife
-Nurse-1975-1574-1535,wild-cat,,???,,wild-cat
-Nurse-1975-1574-1536,wind ( n.),960,WIND,3,wind
-Nurse-1975-1574-1537,wind round,,???,,wind round
-Nurse-1975-1574-1538,wind up (thread) ( v.),,???,,wind up (thread)
-Nurse-1975-1574-1539,wing,1257,WING,2,wing
-Nurse-1975-1574-1540,winnow ( v.),2462,WINNOWING,3,winnow
-Nurse-1975-1574-1542,wire ( n.),2631,WIRE,3,wire
-Nurse-1975-1574-1543,wish,1784,WANT,2,wish
-Nurse-1975-1574-1544,witchcraft ( n.),392,MAGIC,4,witchcraft
-Nurse-1975-1574-1545,with,1340,WITH,2,with
-Nurse-1975-1574-1546,withhold from ( v.),,???,,withhold from
-Nurse-1975-1574-1547,withold from ( v.),,???,,withold from
-Nurse-1975-1574-1548,woman ( n.),962,WOMAN,3,woman
-Nurse-1975-1574-1549,womb ( n.),804,WOMB,3,womb
-Nurse-1975-1574-1550,wooden dish,,???,,wooden dish
-Nurse-1975-1574-1551,wooden tool for pounding,,???,,wooden tool for pounding
-Nurse-1975-1574-1552,word ( n.),1599,WORD,3,word
-Nurse-1975-1574-1553,work ( n.),984,WORK (LABOUR),3,work
-Nurse-1975-1574-1554,work as a mason ( n.),,???,,work as a mason
-Nurse-1975-1574-1555,worm,1219,WORM,2,worm
-Nurse-1975-1574-1556,wrap up ( v.),,???,,wrap up
-Nurse-1975-1574-1557,wring ( v.),1414,SQUEEZE,4,wring
-Nurse-1975-1574-1558,wring (nguo) ( v.),1414,SQUEEZE,4,wring (nguo)
-Nurse-1975-1574-1559,yam,410,YAM,2,yam
-Nurse-1975-1574-1560,yawn ( v.),1028,YAWN,3,yawn
-Nurse-1975-1574-1561,year ( n.),1226,YEAR,3,year
-Nurse-1975-1574-1562,yellow,1424,YELLOW,2,yellow
-Nurse-1975-1574-1563,yesterday ( n.),1174,YESTERDAY,4,yesterday
-Nurse-1975-1574-1564,you (pl),1213,YOU,2,you (pl)
-Nurse-1975-1574-1569,young man ( n.),76,YOUNG MAN,3,young man
-Nurse-1975-1574-1570,your father,,???,,your father
-Nurse-1975-1574-1573,youth ( n.),1366,BOY,4,youth
-Nurse-1975-1574-1574,zebra ( n.),,???,,zebra
+NUMBER,ID,GLOSS_IN_SOURCE,CONCEPTICON_ID,CONCEPTICON_GLOSS
+1,TLS-1999-1589-1,"(Sw: uji)",1167,GRUEL
+2,TLS-1999-1589-2,"(brass) wire",2631,WIRE
+3,TLS-1999-1589-3,"(cattle or dog) tick",1527,TICK
+4,TLS-1999-1589-4,"(court)yard",736,YARD
+5,TLS-1999-1589-5,"(crippling) illness",1986,DISEASE
+6,TLS-1999-1589-6,"(disembodied) spirit",53,SPIRIT
+7,TLS-1999-1589-7,"(dry) land",626,LAND
+8,TLS-1999-1589-8,"(earthen) cooking pot",1462,POT
+9,TLS-1999-1589-9,"(earthenware vessel for servin",1462,POT
+10,TLS-1999-1589-10,"(his) father",1217,FATHER
+11,TLS-1999-1589-11,"(his) sister, (her) brother",3039,DIFFERENT-SEX OLDER SIBLING
+12,TLS-1999-1589-12,"(his) sister/(her) brother",3039,DIFFERENT-SEX OLDER SIBLING
+13,TLS-1999-1589-13,"(kind of bean)",,
+14,TLS-1999-1589-14,"(kind of pigeon)",,
+15,TLS-1999-1589-15,"(kind of poisonous snake)",,
+16,TLS-1999-1589-16,"(kind of rat)",,
+17,TLS-1999-1589-17,"(older) brother",1759,OLDER BROTHER
+18,TLS-1999-1589-18,"(our) country",1300,COUNTRY
+19,TLS-1999-1589-19,"(professional) hunter",1053,HUNTER
+20,TLS-1999-1589-20,"(red-eyed) dove",1853,DOVE
+21,TLS-1999-1589-21,"(reddish-brown biting) ant",587,ANT
+22,TLS-1999-1589-22,"(runner) bean",,
+23,TLS-1999-1589-23,"(small lightish-coloured) monk",,
+24,TLS-1999-1589-24,"(small) ant",587,ANT
+25,TLS-1999-1589-25,"(sweet) potato",593,POTATO
+26,TLS-1999-1589-26,"(very large long-tailed rat)",,
+27,TLS-1999-1589-27,"-self",1993,SELF
+28,TLS-1999-1589-28,"1",1493,ONE
+29,TLS-1999-1589-29,"10",1515,TEN
+30,TLS-1999-1589-30,"100",1634,HUNDRED
+31,TLS-1999-1589-31,"1000",1843,THOUSAND
+32,TLS-1999-1589-32,"11",1706,ELEVEN
+33,TLS-1999-1589-33,"12",1707,TWELVE
+34,TLS-1999-1589-34,"13",1708,THIRTEEN
+35,TLS-1999-1589-35,"2",1498,TWO
+36,TLS-1999-1589-36,"20",1710,TWENTY
+37,TLS-1999-1589-37,"200",,TWO HUNDRED
+38,TLS-1999-1589-38,"21",1734,TWENTY ONE
+39,TLS-1999-1589-39,"3",492,THREE
+40,TLS-1999-1589-40,"4",1500,FOUR
+41,TLS-1999-1589-41,"40",1716,FORTY
+42,TLS-1999-1589-42,"5",493,FIVE
+43,TLS-1999-1589-43,"50",1717,FIFTY
+44,TLS-1999-1589-44,"6",1703,SIX
+45,TLS-1999-1589-45,"7",1704,SEVEN
+46,TLS-1999-1589-46,"8",1705,EIGHT
+47,TLS-1999-1589-47,"80",1722,EIGHTY
+48,TLS-1999-1589-48,"9",1483,NINE
+49,TLS-1999-1589-49,"90",1724,NINETY
+50,TLS-1999-1589-50,"East African goshawk",,
+51,TLS-1999-1589-51,"Grant's gazelle",5,GAZELLE
+52,TLS-1999-1589-52,"I",1209,I
+53,TLS-1999-1589-53,"a few, not much",1242,FEW
+54,TLS-1999-1589-54,"a song",1096,SONG
+55,TLS-1999-1589-55,"a thief",1160,THIEF
+56,TLS-1999-1589-56,"abdomen",1251,BELLY
+57,TLS-1999-1589-57,"abound",,
+58,TLS-1999-1589-58,"above",1741,ABOVE
+59,TLS-1999-1589-59,"abstain",,
+60,TLS-1999-1589-60,"abundant",,
+61,TLS-1999-1589-61,"abuse",1953,ABUSE
+62,TLS-1999-1589-62,"accept",,
+63,TLS-1999-1589-63,"act",813,DO
+64,TLS-1999-1589-64,"act; make",813,DO
+65,TLS-1999-1589-65,"add to",,
+66,TLS-1999-1589-66,"add up",,
+67,TLS-1999-1589-67,"affair",2214,AFFAIR
+68,TLS-1999-1589-68,"agriculture",,
+69,TLS-1999-1589-69,"all",98,ALL
+70,TLS-1999-1589-70,"all day",,
+71,TLS-1999-1589-71,"alter (act)",1264,CHANGE
+72,TLS-1999-1589-72,"alter, change",1264,CHANGE
+73,TLS-1999-1589-73,"and",1577,AND
+74,TLS-1999-1589-74,"animal",619,ANIMAL
+75,TLS-1999-1589-75,"animal skin",2614,SKIN (ANIMAL)
+76,TLS-1999-1589-76,"answer",1275,ANSWER
+77,TLS-1999-1589-77,"answer (maswali)",1275,ANSWER
+78,TLS-1999-1589-78,"answer a call",,
+79,TLS-1999-1589-79,"answer call",,
+80,TLS-1999-1589-80,"ant",587,ANT
+81,TLS-1999-1589-81,"ant-hill",1873,ANTHILL
+82,TLS-1999-1589-82,"anteater",181,ANTEATER
+83,TLS-1999-1589-83,"antelope",,
+84,TLS-1999-1589-84,"anvil",1648,ANVIL
+85,TLS-1999-1589-85,"apply by stretching spread ove",,
+86,TLS-1999-1589-86,"apply by stretching, spread ov",,
+87,TLS-1999-1589-87,"apply, spread over",,
+88,TLS-1999-1589-88,"approach",1778,APPROACH
+89,TLS-1999-1589-89,"arm",1673,ARM
+90,TLS-1999-1589-90,"arm, hand",2121,ARM OR HAND
+91,TLS-1999-1589-91,"armpit",1886,ARMPIT
+92,TLS-1999-1589-92,"arrange",1568,ARRANGE
+93,TLS-1999-1589-93,"arrange, put in order",1568,ARRANGE
+94,TLS-1999-1589-94,"arrange, put right, repair",2243,REPAIR
+95,TLS-1999-1589-95,"arrive",1387,ARRIVE
+96,TLS-1999-1589-96,"arrow",977,ARROW
+97,TLS-1999-1589-97,"ash(es)",646,ASH
+98,TLS-1999-1589-98,"ashes",646,ASH
+99,TLS-1999-1589-99,"ask for",1828,ASK (REQUEST)
+100,TLS-1999-1589-100,"assemble, collect",7,GATHER
+101,TLS-1999-1589-101,"at",1461,AT
+102,TLS-1999-1589-102,"at the back of",,
+103,TLS-1999-1589-103,"aunt (=father's sister)",1272,AUNT
+104,TLS-1999-1589-104,"aunt (father's sister)",1272,AUNT
+105,TLS-1999-1589-105,"avoid",,
+106,TLS-1999-1589-106,"awe, fear of God",,
+107,TLS-1999-1589-107,"axe",677,AXE
+108,TLS-1999-1589-108,"baboon",1197,BABOON
+109,TLS-1999-1589-109,"baboon, ape",1197,BABOON
+110,TLS-1999-1589-110,"baby",1289,BABY
+111,TLS-1999-1589-111,"back",,
+112,TLS-1999-1589-112,"backbone",805,SPINE
+113,TLS-1999-1589-113,"bad",1292,BAD
+114,TLS-1999-1589-114,"bad smell (of fish)",,
+115,TLS-1999-1589-115,"bait",2013,BAIT
+116,TLS-1999-1589-116,"banana",868,BANANA
+117,TLS-1999-1589-117,"banana (fruit)",868,BANANA
+118,TLS-1999-1589-118,"banana (plant)",868,BANANA
+119,TLS-1999-1589-119,"banana for cooking",,
+120,TLS-1999-1589-120,"banana for cooking `matoke'",,
+121,TLS-1999-1589-121,"banana rope",,
+122,TLS-1999-1589-122,"baobab",,
+123,TLS-1999-1589-123,"bark (of tree)",1204,BARK
+124,TLS-1999-1589-124,"bark (tree)",1204,BARK
+125,TLS-1999-1589-125,"barren (of land)",,
+126,TLS-1999-1589-126,"barren (of living being)",,
+127,TLS-1999-1589-127,"barren woman",,
+128,TLS-1999-1589-128,"base of tree trunk",,
+129,TLS-1999-1589-129,"base of tree-trunk",,
+130,TLS-1999-1589-130,"bask (in the sun), warm onesel",,
+131,TLS-1999-1589-131,"basket",1539,BASKET
+132,TLS-1999-1589-132,"basket of open wicker-work",1539,BASKET
+133,TLS-1999-1589-133,"basket of open wicker-work (na",1539,BASKET
+134,TLS-1999-1589-134,"bathe",138,BATHE
+135,TLS-1999-1589-135,"be",1579,BE
+136,TLS-1999-1589-136,"be adjacent, border",2546,BORDER
+137,TLS-1999-1589-137,"be afraid",1419,FEAR (BE AFRAID)
+138,TLS-1999-1589-138,"be boiling",,
+139,TLS-1999-1589-139,"be born",1090,BE BORN
+140,TLS-1999-1589-140,"be enough",1881,ENOUGH
+141,TLS-1999-1589-141,"be extinguished",2209,BECOME EXTINGUISHED
+142,TLS-1999-1589-142,"be fitting, behoove",,
+143,TLS-1999-1589-143,"be fitting, behove",,
+144,TLS-1999-1589-144,"be full developed",,
+145,TLS-1999-1589-145,"be fully developed",,
+146,TLS-1999-1589-146,"be fully grown",,
+147,TLS-1999-1589-147,"be gathered, be assembled",,
+148,TLS-1999-1589-148,"be high (of meat)",,
+149,TLS-1999-1589-149,"be high (of meta)",,
+150,TLS-1999-1589-150,"be ill",1847,SICK
+151,TLS-1999-1589-151,"be ill, groan",716,GROAN
+152,TLS-1999-1589-152,"be lame",320,LAME
+153,TLS-1999-1589-153,"be leaning",,
+154,TLS-1999-1589-154,"be left over, remain over",,
+155,TLS-1999-1589-155,"be light in weight",,
+156,TLS-1999-1589-156,"be listless",,
+157,TLS-1999-1589-157,"be loose, faint, weak",1601,WEAK
+158,TLS-1999-1589-158,"be lying down",1411,LIE (REST)
+159,TLS-1999-1589-159,"be mutilated",,
+160,TLS-1999-1589-160,"be owed by",,
+161,TLS-1999-1589-161,"be pleased",,
+162,TLS-1999-1589-162,"be pregnant",1123,PREGNANT
+163,TLS-1999-1589-163,"be properly flavoured",,
+164,TLS-1999-1589-164,"be quiet",1314,QUIET
+165,TLS-1999-1589-165,"be round",1395,ROUND
+166,TLS-1999-1589-166,"be settled, be in good order",,
+167,TLS-1999-1589-167,"be sharp",1396,SHARP
+168,TLS-1999-1589-168,"be shriveled, wrinkled",380,WRINKLED
+169,TLS-1999-1589-169,"be shrivelled, wrinkled",380,WRINKLED
+170,TLS-1999-1589-170,"be silent",48,BE SILENT
+171,TLS-1999-1589-171,"be sitting",,
+172,TLS-1999-1589-172,"be spread abroad, become gener",,
+173,TLS-1999-1589-173,"be spread out",38,SPREAD OUT
+174,TLS-1999-1589-174,"be stunted, spoilt",,
+175,TLS-1999-1589-175,"be the same size or height as",,
+176,TLS-1999-1589-176,"be wide",1243,WIDE
+177,TLS-1999-1589-177,"be, become",1990,BECOME
+178,TLS-1999-1589-178,"be/go rotten",,
+179,TLS-1999-1589-179,"beach, coast",1525,COAST
+180,TLS-1999-1589-180,"bead(s)",1860,BEAD
+181,TLS-1999-1589-181,"bean",832,BEAN
+182,TLS-1999-1589-182,"bear child",,
+183,TLS-1999-1589-183,"beard",678,BEARD
+184,TLS-1999-1589-184,"beat",1665,BEAT
+185,TLS-1999-1589-185,"beautiful",1427,BEAUTIFUL
+186,TLS-1999-1589-186,"because",1157,BECAUSE
+187,TLS-1999-1589-187,"become bad",1728,ROTTEN
+188,TLS-1999-1589-188,"become bad, rotten",1728,ROTTEN
+189,TLS-1999-1589-189,"become bent",,
+190,TLS-1999-1589-190,"become bitter",,
+191,TLS-1999-1589-191,"become burnt",1428,BURNING
+192,TLS-1999-1589-192,"become cheerful",,
+193,TLS-1999-1589-193,"become cooked",,
+194,TLS-1999-1589-194,"become cool; get well",,
+195,TLS-1999-1589-195,"become drunk",,
+196,TLS-1999-1589-196,"become dry and hard",,
+197,TLS-1999-1589-197,"become extinguished",2209,BECOME EXTINGUISHED
+198,TLS-1999-1589-198,"become fitting",,
+199,TLS-1999-1589-199,"become full",1429,FULL
+200,TLS-1999-1589-200,"become heavy",,
+201,TLS-1999-1589-201,"become ill",,
+202,TLS-1999-1589-202,"become intoxicated",,
+203,TLS-1999-1589-203,"become jammed",,
+204,TLS-1999-1589-204,"become lame",,
+205,TLS-1999-1589-205,"become lean, grow thin",,
+206,TLS-1999-1589-206,"become leaning",,
+207,TLS-1999-1589-207,"become long",,
+208,TLS-1999-1589-208,"become pregnant",,
+209,TLS-1999-1589-209,"become ripe",,
+210,TLS-1999-1589-210,"become rotten",,
+211,TLS-1999-1589-211,"become round",,
+212,TLS-1999-1589-212,"become satiated",,
+213,TLS-1999-1589-213,"become strong",,
+214,TLS-1999-1589-214,"become wet",,
+215,TLS-1999-1589-215,"become, be",1579,BE
+216,TLS-1999-1589-216,"bed",1663,BED
+217,TLS-1999-1589-217,"bedstead",,
+218,TLS-1999-1589-218,"bee",665,BEE
+219,TLS-1999-1589-219,"beer",1639,BEER
+220,TLS-1999-1589-220,"befit, suit",764,SUIT
+221,TLS-1999-1589-221,"begin",1806,BEGIN
+222,TLS-1999-1589-222,"being one-eyed",,
+223,TLS-1999-1589-223,"bell",2246,BELL
+224,TLS-1999-1589-224,"belly",1251,BELLY
+225,TLS-1999-1589-225,"belly, stomach",,
+226,TLS-1999-1589-226,"below, underneath",,
+227,TLS-1999-1589-227,"bend",2224,BEND (SOMETHING)
+228,TLS-1999-1589-228,"bend over",,
+229,TLS-1999-1589-229,"bend, twist",430,TWIST
+230,TLS-1999-1589-230,"bewitch",118,BEWITCH
+231,TLS-1999-1589-231,"bifurcation, cross-roads",,
+232,TLS-1999-1589-232,"big",1202,BIG
+233,TLS-1999-1589-233,"bile",1780,BILE
+234,TLS-1999-1589-234,"bind up, splice",,
+235,TLS-1999-1589-235,"bird",937,BIRD
+236,TLS-1999-1589-236,"bird (=ndege)",937,BIRD
+237,TLS-1999-1589-237,"bird-lime",,
+238,TLS-1999-1589-238,"birdlime",,
+239,TLS-1999-1589-239,"bite",1403,BITE
+240,TLS-1999-1589-240,"bitter",887,BITTER
+241,TLS-1999-1589-241,"bitterness",887,BITTER
+242,TLS-1999-1589-242,"black",163,BLACK
+243,TLS-1999-1589-243,"bladder",1746,BLADDER
+244,TLS-1999-1589-244,"blind person",457,BLIND PERSON
+245,TLS-1999-1589-245,"blood",946,BLOOD
+246,TLS-1999-1589-246,"blow",,
+247,TLS-1999-1589-247,"blow (vb)",176,BLOW (WITH MOUTH)
+248,TLS-1999-1589-248,"blow away",176,BLOW (WITH MOUTH)
+249,TLS-1999-1589-249,"blow bellows",,
+250,TLS-1999-1589-250,"blow on, blow up",,
+251,TLS-1999-1589-251,"boast, brag, praise oneself",101,BOAST
+252,TLS-1999-1589-252,"boast, brag, praise onself",101,BOAST
+253,TLS-1999-1589-253,"boat",1844,BOAT
+254,TLS-1999-1589-254,"body",1480,BODY
+255,TLS-1999-1589-255,"boil",,
+256,TLS-1999-1589-256,"boil (something)",2492,BOIL (SOMETHING)
+257,TLS-1999-1589-257,"boil up",,
+258,TLS-1999-1589-258,"boil, abscess",793,BOIL (OF SKIN)
+259,TLS-1999-1589-259,"bone",1394,BONE
+260,TLS-1999-1589-260,"borassus palm",,
+261,TLS-1999-1589-261,"bore a hole",,
+262,TLS-1999-1589-262,"borrow",1823,BORROW
+263,TLS-1999-1589-263,"bottle",1321,BOTTLE
+264,TLS-1999-1589-264,"boundary",1010,BOUNDARY
+265,TLS-1999-1589-265,"bow",994,BOW
+266,TLS-1999-1589-266,"bow, bending",,
+267,TLS-1999-1589-267,"bowstring",2119,BOW STRING
+268,TLS-1999-1589-268,"brain",1583,BRAIN
+269,TLS-1999-1589-269,"branch",1531,BRANCH
+270,TLS-1999-1589-270,"bread",1368,BREAD
+271,TLS-1999-1589-271,"bread; mush",1368,BREAD
+272,TLS-1999-1589-272,"break",680,BREAK (DESTROY OR GET DESTROYED)
+273,TLS-1999-1589-273,"break (leg)",,
+274,TLS-1999-1589-274,"break (pot)",,
+275,TLS-1999-1589-275,"break wind",1159,FART
+276,TLS-1999-1589-276,"break, snap",2558,BREAK (CLEAVE)
+277,TLS-1999-1589-277,"breast",1402,BREAST
+278,TLS-1999-1589-278,"breast (ya mke)",1402,BREAST
+279,TLS-1999-1589-279,"breath, breathing",870,BREATH
+280,TLS-1999-1589-280,"breathe",1407,BREATHE
+281,TLS-1999-1589-281,"breathe, rest",,
+282,TLS-1999-1589-282,"breathe; rest",,
+283,TLS-1999-1589-283,"bridge",1011,BRIDGE
+284,TLS-1999-1589-284,"bridge (wa mbao)",1011,BRIDGE
+285,TLS-1999-1589-285,"bring to light",,
+286,TLS-1999-1589-286,"bring up (a child)",2134,RAISE (A CHILD)
+287,TLS-1999-1589-287,"bring, fetch",692,BRING
+288,TLS-1999-1589-288,"brook, stream",947,STREAM
+289,TLS-1999-1589-289,"broom",245,BROOM
+290,TLS-1999-1589-290,"broom (for sweeping)",245,BROOM
+291,TLS-1999-1589-291,"broth",1547,SOUP
+292,TLS-1999-1589-292,"brother",1262,BROTHER
+293,TLS-1999-1589-293,"brother, relative, fellow-trib",1644,RELATIVES
+294,TLS-1999-1589-294,"brother-in-law, sister-in-law",,
+295,TLS-1999-1589-295,"buffalo",934,BUFFALO
+296,TLS-1999-1589-296,"buffalo (=mbogo)",934,BUFFALO
+297,TLS-1999-1589-297,"build",1840,BUILD
+298,TLS-1999-1589-298,"bull",1008,BULL
+299,TLS-1999-1589-299,"bullrush millet",931,MILLET
+300,TLS-1999-1589-300,"bunch",1966,BUNCH
+301,TLS-1999-1589-301,"bunch (la nywele)",1966,BUNCH
+302,TLS-1999-1589-302,"burden, load",1679,LOAD
+303,TLS-1999-1589-303,"burn",,
+304,TLS-1999-1589-304,"burn (make something burn)",141,BURN (SOMETHING)
+305,TLS-1999-1589-305,"bury",1719,BURY
+306,TLS-1999-1589-306,"bush",1683,BUSH
+307,TLS-1999-1589-307,"buttermilk",,
+308,TLS-1999-1589-308,"buttock",834,BUTTOCKS
+309,TLS-1999-1589-309,"buttocks",834,BUTTOCKS
+310,TLS-1999-1589-310,"buy",1869,BUY
+311,TLS-1999-1589-311,"calabash",411,GOURD
+312,TLS-1999-1589-312,"calf",1989,CALF
+313,TLS-1999-1589-313,"calf of the leg",498,CALF OF LEG
+314,TLS-1999-1589-314,"call",715,SHOUT
+315,TLS-1999-1589-315,"call/shout",715,SHOUT
+316,TLS-1999-1589-316,"canine tooth, tooth filed to a",,
+317,TLS-1999-1589-317,"canoe",1970,CANOE
+318,TLS-1999-1589-318,"carpenter's adze",290,ADZE
+319,TLS-1999-1589-319,"carry",700,CARRY
+320,TLS-1999-1589-320,"carry a child on the back",2153,CARRY PERSON ON BACK
+321,TLS-1999-1589-321,"carry a child on the back (in",2153,CARRY PERSON ON BACK
+322,TLS-1999-1589-322,"carry astride on the hip",,
+323,TLS-1999-1589-323,"carry on the head",414,CARRY ON HEAD
+324,TLS-1999-1589-324,"cat",1208,CAT
+325,TLS-1999-1589-325,"catch unawares, startle",,
+326,TLS-1999-1589-326,"catch unawares, statle",,
+327,TLS-1999-1589-327,"cattle",1153,CATTLE
+328,TLS-1999-1589-328,"cattle droppings",2057,DUNG (ANIMAL FAECES)
+329,TLS-1999-1589-329,"cease",1928,CEASE
+330,TLS-1999-1589-330,"cease, finish",1928,CEASE
+331,TLS-1999-1589-331,"centipede",1974,CENTIPEDE
+332,TLS-1999-1589-332,"chameleon",1555,CHAMELEON
+333,TLS-1999-1589-333,"change",1264,CHANGE
+334,TLS-1999-1589-334,"charcoal",1188,CHARCOAL
+335,TLS-1999-1589-335,"charm (esp. to ensure wife's f",1271,DELIGHT
+336,TLS-1999-1589-336,"chase (away)",1435,HUNT
+337,TLS-1999-1589-337,"chase, chase away",1435,HUNT
+338,TLS-1999-1589-338,"cheek",1730,CHEEK
+339,TLS-1999-1589-339,"cheetah",,
+340,TLS-1999-1589-340,"chest",1592,CHEST
+341,TLS-1999-1589-341,"chest (of animals and birds)",1592,CHEST
+342,TLS-1999-1589-342,"chew",321,CHEW
+343,TLS-1999-1589-343,"chicken",1318,CHICKEN
+344,TLS-1999-1589-344,"chief",301,CHIEFTAIN
+345,TLS-1999-1589-345,"chief, headman",301,CHIEFTAIN
+346,TLS-1999-1589-346,"child",2099,CHILD
+347,TLS-1999-1589-347,"chin",1510,CHIN
+348,TLS-1999-1589-348,"choose",1750,CHOOSE
+349,TLS-1999-1589-349,"civet cat",3018,NATIVE CAT
+350,TLS-1999-1589-350,"civet cat (also paka wa zabadi",3018,NATIVE CAT
+351,TLS-1999-1589-351,"clan",302,CLAN
+352,TLS-1999-1589-352,"claw",72,CLAW
+353,TLS-1999-1589-353,"climb, ascend",705,GO UP (ASCEND)
+354,TLS-1999-1589-354,"clod",,
+355,TLS-1999-1589-355,"clod, lump",,
+356,TLS-1999-1589-356,"close",2063,CLOSE (EYES)
+357,TLS-1999-1589-357,"close (eyes, mouth)",2063,CLOSE (EYES)
+358,TLS-1999-1589-358,"close (the eyes, mouth, etc.)",2063,CLOSE (EYES)
+359,TLS-1999-1589-359,"cloth",1616,CLOTH
+360,TLS-1999-1589-360,"clothe",158,PUT ON
+361,TLS-1999-1589-361,"clothes, material",1895,CLOTHES
+362,TLS-1999-1589-362,"clothing",1895,CLOTHES
+363,TLS-1999-1589-363,"cloud",1489,CLOUD
+364,TLS-1999-1589-364,"co-wife",,
+365,TLS-1999-1589-365,"coagulate",2395,CONGEAL (BLOOD)
+366,TLS-1999-1589-366,"cohabit",,
+367,TLS-1999-1589-367,"cold",102,COMMON COLD (DISEASE)
+368,TLS-1999-1589-368,"cold (as: it is cold)",,
+369,TLS-1999-1589-369,"colobus monkey",,
+370,TLS-1999-1589-370,"colobus monkey (w/ long black",,
+371,TLS-1999-1589-371,"colobus monkey (with long blac",,
+372,TLS-1999-1589-372,"come",,
+373,TLS-1999-1589-373,"come in, go in",749,ENTER
+374,TLS-1999-1589-374,"come on suddenly, take in the",,
+375,TLS-1999-1589-375,"come out",,
+376,TLS-1999-1589-376,"come to an end",,
+377,TLS-1999-1589-377,"construct, put together",,
+378,TLS-1999-1589-378,"continuous rain",,
+379,TLS-1999-1589-379,"cook",1100,COOK (SOMETHING)
+380,TLS-1999-1589-380,"cook in water or fat",1279,FAT (OBESE)
+381,TLS-1999-1589-381,"cool down",3068,COOL DOWN
+382,TLS-1999-1589-382,"cool, cure, heal",499,CURE
+383,TLS-1999-1589-383,"copper, brass",1825,COPPER
+384,TLS-1999-1589-384,"copy a pattern",117,IMITATE
+385,TLS-1999-1589-385,"cork, stopper",,
+386,TLS-1999-1589-386,"corpse",767,CORPSE
+387,TLS-1999-1589-387,"cough",879,COUGH
+388,TLS-1999-1589-388,"count",1420,COUNT
+389,TLS-1999-1589-389,"country",1300,COUNTRY
+390,TLS-1999-1589-390,"courtyard",4,COURTYARD
+391,TLS-1999-1589-391,"cover",761,COVER
+392,TLS-1999-1589-392,"cover (up)",761,COVER
+393,TLS-1999-1589-393,"cow",1007,COW
+394,TLS-1999-1589-394,"coward",1319,COWARD
+395,TLS-1999-1589-395,"cowrie shell",,
+396,TLS-1999-1589-396,"crab",2348,CRAB
+397,TLS-1999-1589-397,"crawl, creep",96,CRAWL
+398,TLS-1999-1589-398,"cricket",2354,CRICKET
+399,TLS-1999-1589-399,"cricket (nyenze)",2354,CRICKET
+400,TLS-1999-1589-400,"cripple",,
+401,TLS-1999-1589-401,"crocodile",1857,CROCODILE
+402,TLS-1999-1589-402,"crocodile (ngwena)",1857,CROCODILE
+403,TLS-1999-1589-403,"cross (a river)",1742,TRAVERSE
+404,TLS-1999-1589-404,"cross river",1742,TRAVERSE
+405,TLS-1999-1589-405,"crow",913,CROW
+406,TLS-1999-1589-406,"crown of the head",,
+407,TLS-1999-1589-407,"crumple",,
+408,TLS-1999-1589-408,"crush by pounding pulverize",1520,CRUSH
+409,TLS-1999-1589-409,"crush by pounding, pulverise",1520,CRUSH
+410,TLS-1999-1589-410,"crust",,
+411,TLS-1999-1589-411,"cry, wail",,
+412,TLS-1999-1589-412,"cudgel",,
+413,TLS-1999-1589-413,"cultivate",1541,CULTIVATE
+414,TLS-1999-1589-414,"cultivated area (Sw: shamba)",212,FIELD
+415,TLS-1999-1589-415,"cultivated ground",212,FIELD
+416,TLS-1999-1589-416,"cultivated ground (shamba)",212,FIELD
+417,TLS-1999-1589-417,"curdled milk",,
+418,TLS-1999-1589-418,"cut",1432,CUT
+419,TLS-1999-1589-419,"cut firewood",,
+420,TLS-1999-1589-420,"cut to shape, sharpen to a poi",,
+421,TLS-1999-1589-421,"cut, lop",1432,CUT
+422,TLS-1999-1589-422,"dance",1879,DANCE
+423,TLS-1999-1589-423,"dance (of men, to show courage",1879,DANCE
+424,TLS-1999-1589-424,"dance about",,
+425,TLS-1999-1589-425,"dark, black",11,DARKNESS
+426,TLS-1999-1589-426,"darkness",11,DARKNESS
+427,TLS-1999-1589-427,"date palm",,
+428,TLS-1999-1589-428,"dawn",729,DAWN
+429,TLS-1999-1589-429,"dawn, daybreak",729,DAWN
+430,TLS-1999-1589-430,"day",,
+431,TLS-1999-1589-431,"day (it is not night)",1260,DAY (24 HOURS)
+432,TLS-1999-1589-432,"day-time",1260,DAY (24 HOURS)
+433,TLS-1999-1589-433,"dead person",,
+434,TLS-1999-1589-434,"death",910,DEATH
+435,TLS-1999-1589-435,"decorate",1739,DECORATE
+436,TLS-1999-1589-436,"defecate",676,SHIT (DEFECATE)
+437,TLS-1999-1589-437,"denial",,
+438,TLS-1999-1589-438,"deny",755,DENY
+439,TLS-1999-1589-439,"desire",2117,DESIRE
+440,TLS-1999-1589-440,"destroy, spoil",681,DESTROY
+441,TLS-1999-1589-441,"dew",1977,DEW
+442,TLS-1999-1589-442,"die",1494,DIE
+443,TLS-1999-1589-443,"dig",1418,DIG
+444,TLS-1999-1589-444,"dig hole (in the ground)",1418,DIG
+445,TLS-1999-1589-445,"dig up, dig out",,
+446,TLS-1999-1589-446,"dig up, fling up earth",,
+447,TLS-1999-1589-447,"diminish, grow less",1184,DIMINISH
+448,TLS-1999-1589-448,"dip",,
+449,TLS-1999-1589-449,"dirt",25,DIRT
+450,TLS-1999-1589-450,"dirty",1230,DIRTY
+451,TLS-1999-1589-451,"dish",481,DISH
+452,TLS-1999-1589-452,"district, province, country",1300,COUNTRY
+453,TLS-1999-1589-453,"divide",1119,DIVIDE
+454,TLS-1999-1589-454,"divorce",1134,DIVORCE
+455,TLS-1999-1589-455,"do",813,DO
+456,TLS-1999-1589-456,"do, complete, finish",813,DO
+457,TLS-1999-1589-457,"dog",2009,DOG
+458,TLS-1999-1589-458,"donkey",1862,DONKEY
+459,TLS-1999-1589-459,"door",1567,DOOR
+460,TLS-1999-1589-460,"dove",1853,DOVE
+461,TLS-1999-1589-461,"draw (water from well)",1911,DRAW (WATER)
+462,TLS-1999-1589-462,"draw (water)",1911,DRAW (WATER)
+463,TLS-1999-1589-463,"draw water",1911,DRAW (WATER)
+464,TLS-1999-1589-464,"dream",2374,DREAM
+465,TLS-1999-1589-465,"drink",1401,DRINK
+466,TLS-1999-1589-466,"drizzle",1016,DRIZZLE
+467,TLS-1999-1589-467,"drop, throw down",2866,DROP (SOMETHING)
+468,TLS-1999-1589-468,"drum",908,DRUM
+469,TLS-1999-1589-469,"dry",1398,DRY
+470,TLS-1999-1589-470,"dry up",1786,DRY UP
+471,TLS-1999-1589-471,"dry up, become dry",1786,DRY UP
+472,TLS-1999-1589-472,"dry up, ebb",1786,DRY UP
+473,TLS-1999-1589-473,"duck",1360,DUCK
+474,TLS-1999-1589-474,"dug-out canoe",1970,CANOE
+475,TLS-1999-1589-475,"dull",1397,DULL
+476,TLS-1999-1589-476,"dull (not sharp)",1397,DULL
+477,TLS-1999-1589-477,"dust",2,DUST
+478,TLS-1999-1589-478,"dust, cloud of dust",2,DUST
+479,TLS-1999-1589-479,"dwell",363,"DWELL (LIVE, RESIDE)"
+480,TLS-1999-1589-480,"eagerness, zeal",,
+481,TLS-1999-1589-481,"eagle, bird of prey",1905,EAGLE
+482,TLS-1999-1589-482,"ear",1247,EAR
+483,TLS-1999-1589-483,"earth",626,LAND
+484,TLS-1999-1589-484,"earth, land",626,LAND
+485,TLS-1999-1589-485,"eat",1336,EAT
+486,TLS-1999-1589-486,"effort, exertion",,
+487,TLS-1999-1589-487,"egg",744,EGG
+488,TLS-1999-1589-488,"eight",1705,EIGHT
+489,TLS-1999-1589-489,"elbow",981,ELBOW
+490,TLS-1999-1589-490,"elbow (cha mkono)",981,ELBOW
+491,TLS-1999-1589-491,"elephant",1290,ELEPHANT
+492,TLS-1999-1589-492,"elephant (=tembo)",1290,ELEPHANT
+493,TLS-1999-1589-493,"elephant's tusk",,
+494,TLS-1999-1589-494,"embers",67,EMBERS
+495,TLS-1999-1589-495,"embrace",928,EMBRACE
+496,TLS-1999-1589-496,"enter",749,ENTER
+497,TLS-1999-1589-497,"escape, recover",1978,RECOVER
+498,TLS-1999-1589-498,"evening",1629,EVENING
+499,TLS-1999-1589-499,"everlasting",,
+500,TLS-1999-1589-500,"evil spirit",1973,DEMON
+501,TLS-1999-1589-501,"examine, measure, test",1975,CHECK
+502,TLS-1999-1589-502,"excrement",675,FAECES (EXCREMENT)
+503,TLS-1999-1589-503,"excrement, dung",2057,DUNG (ANIMAL FAECES)
+504,TLS-1999-1589-504,"excreta",47,EXCRETA
+505,TLS-1999-1589-505,"exercise, drive out a devil (-",,
+506,TLS-1999-1589-506,"exercise; drive out a devil",,
+507,TLS-1999-1589-507,"explain",1626,EXPLAIN
+508,TLS-1999-1589-508,"extinguish",127,EXTINGUISH
+509,TLS-1999-1589-509,"eye",1248,EYE
+510,TLS-1999-1589-510,"eyebrow",1173,EYEBROW
+511,TLS-1999-1589-511,"eyelash",1540,EYELASH
+512,TLS-1999-1589-512,"face",1560,FACE
+513,TLS-1999-1589-513,"face downwards",,
+514,TLS-1999-1589-514,"fade, disappear",485,DISAPPEAR
+515,TLS-1999-1589-515,"faint, lose consciousness",,
+516,TLS-1999-1589-516,"fall",1276,AUTUMN
+517,TLS-1999-1589-517,"fall short",,
+518,TLS-1999-1589-518,"falling trap",1075,TRAP (PITFALL)
+519,TLS-1999-1589-519,"fan, wave",1971,FAN (OBJECT)
+520,TLS-1999-1589-520,"far",1406,FAR
+521,TLS-1999-1589-521,"farmer",979,FARMER
+522,TLS-1999-1589-522,"fasten",1094,FASTEN
+523,TLS-1999-1589-523,"fat (of animals)",1282,FAT (FROM ANIMALS)
+524,TLS-1999-1589-524,"fat/grease/oil",323,FAT (ORGANIC SUBSTANCE)
+525,TLS-1999-1589-525,"father",1217,FATHER
+526,TLS-1999-1589-526,"father-in-law, mother-in-law",306,PARENTS-IN-LAW
+527,TLS-1999-1589-527,"fear",781,FEAR (FRIGHT)
+528,TLS-1999-1589-528,"feather",1201,FEATHER
+529,TLS-1999-1589-529,"feathers, fur",1201,FEATHER
+530,TLS-1999-1589-530,"female slave",,
+531,TLS-1999-1589-531,"fence, enclosure",1690,FENCE
+532,TLS-1999-1589-532,"ferment, turn sour",2229,BECOME SOUR
+533,TLS-1999-1589-533,"few",1242,FEW
+534,TLS-1999-1589-534,"field",212,FIELD
+535,TLS-1999-1589-535,"field rat",,
+536,TLS-1999-1589-536,"fierce, sharp",1396,SHARP
+537,TLS-1999-1589-537,"fig mulberry tree",,
+538,TLS-1999-1589-538,"fig tree",,
+539,TLS-1999-1589-539,"fig-mulberry tree",,
+540,TLS-1999-1589-540,"fig-tree",,
+541,TLS-1999-1589-541,"fight",1423,FIGHT
+542,TLS-1999-1589-542,"fill",2006,FILL
+543,TLS-1999-1589-543,"filter, strain",940,STRAIN
+544,TLS-1999-1589-544,"filth",1230,DIRTY
+545,TLS-1999-1589-545,"final, decisive",1529,LAST (FINAL)
+546,TLS-1999-1589-546,"find",719,FIND
+547,TLS-1999-1589-547,"fine, excellent",,
+548,TLS-1999-1589-548,"finger",1303,FINGER
+549,TLS-1999-1589-549,"finger-nail",1258,FINGERNAIL
+550,TLS-1999-1589-550,"fingernail",1258,FINGERNAIL
+551,TLS-1999-1589-551,"finish",1766,FINISH
+552,TLS-1999-1589-552,"fire",221,FIRE
+553,TLS-1999-1589-553,"fireplace",185,FIREPLACE
+554,TLS-1999-1589-554,"fireplace, hearth, kitchen",185,FIREPLACE
+555,TLS-1999-1589-555,"firewood",10,FIREWOOD
+556,TLS-1999-1589-556,"fish",227,FISH
+557,TLS-1999-1589-557,"fish (old Swahili nswi)",227,FISH
+558,TLS-1999-1589-558,"fish up, pull out",2325,PULL OUT
+559,TLS-1999-1589-559,"fish with a line",2796,FISHING (WITH A HOOK)
+560,TLS-1999-1589-560,"fish with line",2796,FISHING (WITH A HOOK)
+561,TLS-1999-1589-561,"fish-hook",1074,FISHHOOK
+562,TLS-1999-1589-562,"fishhook",1074,FISHHOOK
+563,TLS-1999-1589-563,"fishing line",19,FISHING LINE
+564,TLS-1999-1589-564,"fist",1473,FIST
+565,TLS-1999-1589-565,"five",493,FIVE
+566,TLS-1999-1589-566,"flap (wings)",,
+567,TLS-1999-1589-567,"flap the wings wildly, flutter",,
+568,TLS-1999-1589-568,"flap wings",,
+569,TLS-1999-1589-569,"flat of hand",,
+570,TLS-1999-1589-570,"flatulence",,
+571,TLS-1999-1589-571,"float",1574,FLOAT
+572,TLS-1999-1589-572,"flow",2003,FLOW
+573,TLS-1999-1589-573,"flower",239,FLOWER
+574,TLS-1999-1589-574,"fly",,
+575,TLS-1999-1589-575,"foam",1768,FOAM
+576,TLS-1999-1589-576,"foam/froth",1768,FOAM
+577,TLS-1999-1589-577,"fog",249,FOG
+578,TLS-1999-1589-578,"fold",1470,FOLD
+579,TLS-1999-1589-579,"follow",1085,FOLLOW
+580,TLS-1999-1589-580,"follow (in order)",1085,FOLLOW
+581,TLS-1999-1589-581,"food",256,FOOD
+582,TLS-1999-1589-582,"food supply for a journey",,
+583,TLS-1999-1589-583,"foot",1301,FOOT
+584,TLS-1999-1589-584,"footfall",,
+585,TLS-1999-1589-585,"forest",420,FOREST
+586,TLS-1999-1589-586,"forge",288,FORGE
+587,TLS-1999-1589-587,"forgent",,
+588,TLS-1999-1589-588,"forget",1523,FORGET
+589,TLS-1999-1589-589,"forgive",1528,FORGIVE
+590,TLS-1999-1589-590,"fork (in road, etc.)",,
+591,TLS-1999-1589-591,"fork, bifurcation",,
+592,TLS-1999-1589-592,"four",1500,FOUR
+593,TLS-1999-1589-593,"free food (Sw: kimoshi kando)",,
+594,TLS-1999-1589-594,"free food (kimoshi kando)",,
+595,TLS-1999-1589-595,"freeze",1431,FREEZE
+596,TLS-1999-1589-596,"friend",1325,FRIEND
+597,TLS-1999-1589-597,"frog",503,FROG
+598,TLS-1999-1589-598,"fruit",1507,FRUIT
+599,TLS-1999-1589-599,"fry",,
+600,TLS-1999-1589-600,"fry; roast",2146,ROAST OR FRY
+601,TLS-1999-1589-601,"full",1429,FULL
+602,TLS-1999-1589-602,"fur",580,FUR
+603,TLS-1999-1589-603,"gall-bladder",,
+604,TLS-1999-1589-604,"garden",586,GARDEN
+605,TLS-1999-1589-605,"gather (flowers, fruit)",,
+606,TLS-1999-1589-606,"gather up",7,GATHER
+607,TLS-1999-1589-607,"genet",3018,NATIVE CAT
+608,TLS-1999-1589-608,"genet (=kind of speckled civet",3018,NATIVE CAT
+609,TLS-1999-1589-609,"genet (kind of speckled civet",3018,NATIVE CAT
+610,TLS-1999-1589-610,"genet (kind of speckled civet)",3018,NATIVE CAT
+611,TLS-1999-1589-611,"get accustomed",1118,ACCUSTOM
+612,TLS-1999-1589-612,"get dark",,
+613,TLS-1999-1589-613,"get fat (of animals)",,
+614,TLS-1999-1589-614,"get intoxicated",,
+615,TLS-1999-1589-615,"get light",,
+616,TLS-1999-1589-616,"get lost",423,GET LOST
+617,TLS-1999-1589-617,"get obtain",,
+618,TLS-1999-1589-618,"get washed",,
+619,TLS-1999-1589-619,"get wet",2324,GET WET
+620,TLS-1999-1589-620,"get, obtain",694,GET
+621,TLS-1999-1589-621,"giraffe",3089,GIRAFFE
+622,TLS-1999-1589-622,"give",1447,GIVE
+623,TLS-1999-1589-623,"give away",196,DONATE
+624,TLS-1999-1589-624,"give away (present)",196,DONATE
+625,TLS-1999-1589-625,"give birth to",,
+626,TLS-1999-1589-626,"give birth to a child",,
+627,TLS-1999-1589-627,"give in marriage (of parents,",,
+628,TLS-1999-1589-628,"give leave, send away",,
+629,TLS-1999-1589-629,"give light to",,
+630,TLS-1999-1589-630,"give out smoke",,
+631,TLS-1999-1589-631,"glide, trickle",,
+632,TLS-1999-1589-632,"go",,
+633,TLS-1999-1589-633,"go back",581,COME BACK
+634,TLS-1999-1589-634,"go back, return",581,COME BACK
+635,TLS-1999-1589-635,"go down",2014,GO DOWN (DESCEND)
+636,TLS-1999-1589-636,"go home from work",,
+637,TLS-1999-1589-637,"go in, come in",749,ENTER
+638,TLS-1999-1589-638,"go out, go away",1752,LEAVE
+639,TLS-1999-1589-639,"go round, turn round",1445,TURN (SOMETHING)
+640,TLS-1999-1589-640,"go through",,
+641,TLS-1999-1589-641,"go up (climb up)",705,GO UP (ASCEND)
+642,TLS-1999-1589-642,"goat",1502,GOAT
+643,TLS-1999-1589-643,"god",1944,GOD
+644,TLS-1999-1589-644,"good",1035,GOOD
+645,TLS-1999-1589-645,"grain",605,GRAIN
+646,TLS-1999-1589-646,"grain (ya mtama)",605,GRAIN
+647,TLS-1999-1589-647,"grandfather",1383,GRANDFATHER
+648,TLS-1999-1589-648,"grandmother",1496,GRANDMOTHER
+649,TLS-1999-1589-649,"grasp, hold in arm",1448,HOLD
+650,TLS-1999-1589-650,"grass",606,GRASS
+651,TLS-1999-1589-651,"grass (one piece)",606,GRASS
+652,TLS-1999-1589-652,"grass, reeds",659,REED
+653,TLS-1999-1589-653,"grate",,
+654,TLS-1999-1589-654,"great, powerful",3001,POWERFUL
+655,TLS-1999-1589-655,"green",1425,GREEN
+656,TLS-1999-1589-656,"grief, sorrow",1668,GRIEF
+657,TLS-1999-1589-657,"grind",1033,GRIND
+658,TLS-1999-1589-658,"grind (grain with a millstone)",1033,GRIND
+659,TLS-1999-1589-659,"grind coarsely",,
+660,TLS-1999-1589-660,"groan",716,GROAN
+661,TLS-1999-1589-661,"groove, furrow",1794,FURROW
+662,TLS-1999-1589-662,"ground",2159,GROUND
+663,TLS-1999-1589-663,"grow (of plants)",,
+664,TLS-1999-1589-664,"grow up",,
+665,TLS-1999-1589-665,"grow up, get large, become gre",,
+666,TLS-1999-1589-666,"gruel",1167,GRUEL
+667,TLS-1999-1589-667,"grunt with effort",,
+668,TLS-1999-1589-668,"grunt, grumble",,
+669,TLS-1999-1589-669,"guess",1932,GUESS
+670,TLS-1999-1589-670,"guide aright",,
+671,TLS-1999-1589-671,"guinea fowl (Swahili: kanga)",456,GUINEA FOWL
+672,TLS-1999-1589-672,"guinea fowl (kanga)",456,GUINEA FOWL
+673,TLS-1999-1589-673,"guinea-fowl",456,GUINEA FOWL
+674,TLS-1999-1589-674,"gun",1566,GUN
+675,TLS-1999-1589-675,"guts",1334,GUTS
+676,TLS-1999-1589-676,"guts/intestine",1991,INTESTINES
+677,TLS-1999-1589-677,"hair",1040,HAIR
+678,TLS-1999-1589-678,"half-wild tomcat",,
+679,TLS-1999-1589-679,"half-wild tomcat (also shume l",,
+680,TLS-1999-1589-680,"hammer",1481,HAMMER
+681,TLS-1999-1589-681,"hand",1277,HAND
+682,TLS-1999-1589-682,"handle, haft",1254,HANDLE
+683,TLS-1999-1589-683,"hang in mid-air",,
+684,TLS-1999-1589-684,"hang in midair",,
+685,TLS-1999-1589-685,"hard",1884,HARD
+686,TLS-1999-1589-686,"hardship, distress",,
+687,TLS-1999-1589-687,"hare",,
+688,TLS-1999-1589-688,"haste",,
+689,TLS-1999-1589-689,"hate",1607,HATE
+690,TLS-1999-1589-690,"hate, detest",1607,HATE
+691,TLS-1999-1589-691,"have",773,HAVE
+692,TLS-1999-1589-692,"have enough to eat or drink, b",,
+693,TLS-1999-1589-693,"have sexual intercourse with",,
+694,TLS-1999-1589-694,"hay",342,HAY
+695,TLS-1999-1589-695,"he",1211,HE
+696,TLS-1999-1589-696,"he who begets (=parent)",505,PARENTS
+697,TLS-1999-1589-697,"he who begets (parent)",505,PARENTS
+698,TLS-1999-1589-698,"he-goat",264,HE-GOAT
+699,TLS-1999-1589-699,"head",1256,HEAD
+700,TLS-1999-1589-700,"head of arrow, spear head",,
+701,TLS-1999-1589-701,"head, chief person",1256,HEAD
+702,TLS-1999-1589-702,"head-pad",,
+703,TLS-1999-1589-703,"headpad",,
+704,TLS-1999-1589-704,"heap",,
+705,TLS-1999-1589-705,"heap up, ready, set on fire",,
+706,TLS-1999-1589-706,"heap up, ready/set on fire",,
+707,TLS-1999-1589-707,"heap, hump",534,HUMP
+708,TLS-1999-1589-708,"hear",1408,HEAR
+709,TLS-1999-1589-709,"heart",1223,HEART
+710,TLS-1999-1589-710,"hearthstone for putting pots o",,
+711,TLS-1999-1589-711,"heavy",1210,HEAVY
+712,TLS-1999-1589-712,"heavy, serious, dull",,
+713,TLS-1999-1589-713,"heel",980,HEEL
+714,TLS-1999-1589-714,"heel (cha mguu)",980,HEEL
+715,TLS-1999-1589-715,"heifer",,
+716,TLS-1999-1589-716,"held, arrest",,
+717,TLS-1999-1589-717,"hem, make a border",,
+718,TLS-1999-1589-718,"hen, fowl",265,FOWL
+719,TLS-1999-1589-719,"here",136,HERE
+720,TLS-1999-1589-720,"hiccup",,
+721,TLS-1999-1589-721,"hide",602,HIDE (CONCEAL)
+722,TLS-1999-1589-722,"highest point, utmost",2205,PEAK
+723,TLS-1999-1589-723,"highway",,
+724,TLS-1999-1589-724,"hill",614,HILL
+725,TLS-1999-1589-725,"him, her",2642,HE OR SHE
+726,TLS-1999-1589-726,"hip",1745,HIP
+727,TLS-1999-1589-727,"hippopotamus",,
+728,TLS-1999-1589-728,"hit",1433,HIT
+729,TLS-1999-1589-729,"hit with a hammer",,
+730,TLS-1999-1589-730,"hit with hammer",,
+731,TLS-1999-1589-731,"hoe",284,HOE
+732,TLS-1999-1589-732,"hold",1448,HOLD
+733,TLS-1999-1589-733,"hold in arm",,
+734,TLS-1999-1589-734,"hold, arrest",,
+735,TLS-1999-1589-735,"hold/take",2104,HOLD OR TAKE
+736,TLS-1999-1589-736,"hole, nest",539,NEST
+737,TLS-1999-1589-737,"hollow out",46,HOLLOW OUT
+738,TLS-1999-1589-738,"home",2406,HOME
+739,TLS-1999-1589-739,"honey",942,HONEY
+740,TLS-1999-1589-740,"honor",,
+741,TLS-1999-1589-741,"honour",,
+742,TLS-1999-1589-742,"hook (to pull down banches in",1071,HOOK
+743,TLS-1999-1589-743,"hook (to pull down branches in",1071,HOOK
+744,TLS-1999-1589-744,"horn",1393,HORN (ANATOMY)
+745,TLS-1999-1589-745,"horn (animal)",1393,HORN (ANATOMY)
+746,TLS-1999-1589-746,"horn, ivory",,
+747,TLS-1999-1589-747,"horse",615,HORSE
+748,TLS-1999-1589-748,"hot",1286,HOT
+749,TLS-1999-1589-749,"house",1678,HUT
+750,TLS-1999-1589-750,"house/hut",1678,HUT
+751,TLS-1999-1589-751,"how",1239,HOW
+752,TLS-1999-1589-752,"how many?",822,HOW MANY
+753,TLS-1999-1589-753,"how?",1239,HOW
+754,TLS-1999-1589-754,"hump (of cow)",534,HUMP
+755,TLS-1999-1589-755,"hump (of hunchback)",534,HUMP
+756,TLS-1999-1589-756,"hundred",1634,HUNDRED
+757,TLS-1999-1589-757,"hunger",1864,HUNGER
+758,TLS-1999-1589-758,"hunt",1435,HUNT
+759,TLS-1999-1589-759,"hunting",1435,HUNT
+760,TLS-1999-1589-760,"husband",1200,HUSBAND
+761,TLS-1999-1589-761,"hut",1678,HUT
+762,TLS-1999-1589-762,"hyena",1799,HYENA
+763,TLS-1999-1589-763,"ice",617,ICE
+764,TLS-1999-1589-764,"idleness, sloth",2446,SLOTH
+765,TLS-1999-1589-765,"if",1459,IF
+766,TLS-1999-1589-766,"ill",1847,SICK
+767,TLS-1999-1589-767,"imitate",117,IMITATE
+768,TLS-1999-1589-768,"in",1460,IN
+769,TLS-1999-1589-769,"in front of",,
+770,TLS-1999-1589-770,"in the middle of",,
+771,TLS-1999-1589-771,"incite",,
+772,TLS-1999-1589-772,"increase",1041,INCREASE
+773,TLS-1999-1589-773,"increase, make greater",1041,INCREASE
+774,TLS-1999-1589-774,"inheritance",,
+775,TLS-1999-1589-775,"insect",620,INSECT
+776,TLS-1999-1589-776,"inside",1606,INSIDE
+777,TLS-1999-1589-777,"intestines",1991,INTESTINES
+778,TLS-1999-1589-778,"iron",621,IRON
+779,TLS-1999-1589-779,"iron ore",,
+780,TLS-1999-1589-780,"iron-ore",,
+781,TLS-1999-1589-781,"island",622,ISLAND
+782,TLS-1999-1589-782,"itch",148,ITCH
+783,TLS-1999-1589-783,"jaw (bone)",798,JAW
+784,TLS-1999-1589-784,"jaw/chin",798,JAW
+785,TLS-1999-1589-785,"jealousy",2016,JEALOUSY
+786,TLS-1999-1589-786,"journey",2393,JOURNEY
+787,TLS-1999-1589-787,"judge",1818,ADJUDICATE
+788,TLS-1999-1589-788,"jump",1829,JUMP
+789,TLS-1999-1589-789,"jump, leap",1829,JUMP
+790,TLS-1999-1589-790,"keep livestock",,
+791,TLS-1999-1589-791,"kidney",489,KIDNEY
+792,TLS-1999-1589-792,"kill",1417,KILL
+793,TLS-1999-1589-793,"kind of antelope",,
+794,TLS-1999-1589-794,"kind of bean",,
+795,TLS-1999-1589-795,"kind of eagle",,
+796,TLS-1999-1589-796,"kind of hawk",,
+797,TLS-1999-1589-797,"kind of pigeon",,
+798,TLS-1999-1589-798,"kind of poisonous snake",,
+799,TLS-1999-1589-799,"kind of rat",,
+800,TLS-1999-1589-800,"kind of snail",,
+801,TLS-1999-1589-801,"king",1508,KING
+802,TLS-1999-1589-802,"kite",307,HAWK
+803,TLS-1999-1589-803,"knead",274,KNEAD
+804,TLS-1999-1589-804,"knee",1371,KNEE
+805,TLS-1999-1589-805,"kneel",66,KNEEL
+806,TLS-1999-1589-806,"knife",1352,KNIFE
+807,TLS-1999-1589-807,"knot",760,KNOT
+808,TLS-1999-1589-808,"know",,
+809,TLS-1999-1589-809,"know (as: I know him)",,
+810,TLS-1999-1589-810,"lake",624,LAKE
+811,TLS-1999-1589-811,"lame person",2322,LAME PERSON
+812,TLS-1999-1589-812,"lamp",625,LAMP
+813,TLS-1999-1589-813,"large, great",1202,BIG
+814,TLS-1999-1589-814,"laugh",1355,LAUGH
+815,TLS-1999-1589-815,"lay over on one side",,
+816,TLS-1999-1589-816,"lazy",1564,LAZY
+817,TLS-1999-1589-817,"leaf",628,LEAF
+818,TLS-1999-1589-818,"leaf (of tree)",628,LEAF
+819,TLS-1999-1589-819,"leaf (tree)",628,LEAF
+820,TLS-1999-1589-820,"leaf, blade of grass",,
+821,TLS-1999-1589-821,"leak, ooze out",,
+822,TLS-1999-1589-822,"lean",2219,LEAN (MEAT)
+823,TLS-1999-1589-823,"lean on, rely on",,
+824,TLS-1999-1589-824,"lean, bend down, slope",,
+825,TLS-1999-1589-825,"learn",504,LEARN
+826,TLS-1999-1589-826,"leave",1752,LEAVE
+827,TLS-1999-1589-827,"leave (off)",1752,LEAVE
+828,TLS-1999-1589-828,"leave over",,
+829,TLS-1999-1589-829,"leave(off)",1752,LEAVE
+830,TLS-1999-1589-830,"leave, go away",1752,LEAVE
+831,TLS-1999-1589-831,"leave, permission",1752,LEAVE
+832,TLS-1999-1589-832,"leep livestock",,
+833,TLS-1999-1589-833,"left-hand",244,LEFT
+834,TLS-1999-1589-834,"leftside",244,LEFT
+835,TLS-1999-1589-835,"leg",1297,LEG
+836,TLS-1999-1589-836,"leg, foot",2098,FOOT OR LEG
+837,TLS-1999-1589-837,"lend, borrow",1823,BORROW
+838,TLS-1999-1589-838,"leopard",1139,LEOPARD
+839,TLS-1999-1589-839,"lick",319,LICK
+840,TLS-1999-1589-840,"lie down",215,LIE DOWN
+841,TLS-1999-1589-841,"lie on back",1411,LIE (REST)
+842,TLS-1999-1589-842,"lie on one's back",1411,LIE (REST)
+843,TLS-1999-1589-843,"lift",501,LIFT
+844,TLS-1999-1589-844,"lift up, pick up",371,PICK UP
+845,TLS-1999-1589-845,"light in weight",1052,LIGHT (WEIGHT)
+846,TLS-1999-1589-846,"light, sky",1732,SKY
+847,TLS-1999-1589-847,"lightning",1654,LIGHTNING
+848,TLS-1999-1589-848,"like",1117,LIKE
+849,TLS-1999-1589-849,"like/as",,
+850,TLS-1999-1589-850,"lime, whitewash",2540,LIME (MATERIAL)
+851,TLS-1999-1589-851,"line of objects",1048,LINE
+852,TLS-1999-1589-852,"line, row",1048,LINE
+853,TLS-1999-1589-853,"lion",1386,LION
+854,TLS-1999-1589-854,"lip",478,LIP
+855,TLS-1999-1589-855,"listen",1608,LISTEN
+856,TLS-1999-1589-856,"live",2309,LIVE
+857,TLS-1999-1589-857,"liver",1224,LIVER
+858,TLS-1999-1589-858,"lizard",632,LIZARD
+859,TLS-1999-1589-859,"lobster",2397,LOBSTER
+860,TLS-1999-1589-860,"locust",810,LOCUST
+861,TLS-1999-1589-861,"long",1203,LONG
+862,TLS-1999-1589-862,"long straight hair (of animals",,
+863,TLS-1999-1589-863,"look",1819,LOOK
+864,TLS-1999-1589-864,"look after",253,CARE FOR
+865,TLS-1999-1589-865,"look after a child",253,CARE FOR
+866,TLS-1999-1589-866,"look after a child",253,CARE FOR
+867,TLS-1999-1589-867,"look after grazing cattle",,
+868,TLS-1999-1589-868,"look after grazing cattle,",,
+869,TLS-1999-1589-869,"look after grazing cattle, hel",,
+870,TLS-1999-1589-870,"look after, care for",253,CARE FOR
+871,TLS-1999-1589-871,"look at, examine",1819,LOOK
+872,TLS-1999-1589-872,"look for",1468,LOOK FOR
+873,TLS-1999-1589-873,"look for, hand around (to get",1468,LOOK FOR
+874,TLS-1999-1589-874,"look round",,
+875,TLS-1999-1589-875,"lose",1660,LOSE
+876,TLS-1999-1589-876,"louse",1392,LOUSE
+877,TLS-1999-1589-877,"love, want",1784,WANT
+878,TLS-1999-1589-878,"lung",688,LUNG
+879,TLS-1999-1589-879,"magic",392,MAGIC
+880,TLS-1999-1589-880,"maize",506,MAIZE
+881,TLS-1999-1589-881,"make",734,MAKE
+882,TLS-1999-1589-882,"make offerings to the dead",1103,SACRIFICE
+883,TLS-1999-1589-883,"make pottery",,
+884,TLS-1999-1589-884,"make straight",,
+885,TLS-1999-1589-885,"male",1553,MALE
+886,TLS-1999-1589-886,"male slave",,
+887,TLS-1999-1589-887,"man",1554,MAN
+888,TLS-1999-1589-888,"man/a male",1554,MAN
+889,TLS-1999-1589-889,"many",1198,MANY
+890,TLS-1999-1589-890,"market",633,MARKET
+891,TLS-1999-1589-891,"marriage",2432,MARRIAGE
+892,TLS-1999-1589-892,"marry",203,MARRY
+893,TLS-1999-1589-893,"marry (of man)",,
+894,TLS-1999-1589-894,"master",383,MASTER
+895,TLS-1999-1589-895,"mat",195,MAT
+896,TLS-1999-1589-896,"match, harmonise",1133,MATCH
+897,TLS-1999-1589-897,"mature",,
+898,TLS-1999-1589-898,"meat",2615,FLESH OR MEAT
+899,TLS-1999-1589-899,"meat/flesh",2615,FLESH OR MEAT
+900,TLS-1999-1589-900,"medecine",1372,MEDICINE
+901,TLS-1999-1589-901,"medicine",1372,MEDICINE
+902,TLS-1999-1589-902,"medicine (=art of medicine man",1372,MEDICINE
+903,TLS-1999-1589-903,"medicine (art of medicine man)",1372,MEDICINE
+904,TLS-1999-1589-904,"medicine man",394,SHAMAN (FOLK HEALER)
+905,TLS-1999-1589-905,"medicine, remedy",,
+906,TLS-1999-1589-906,"meet",1831,MEET
+907,TLS-1999-1589-907,"meet someone",1831,MEET
+908,TLS-1999-1589-908,"melt",2334,MELT
+909,TLS-1999-1589-909,"metal pot",,
+910,TLS-1999-1589-910,"midwife",,
+911,TLS-1999-1589-911,"milk",635,MILK
+912,TLS-1999-1589-912,"milk (kwa kunywa)",635,MILK
+913,TLS-1999-1589-913,"millipede",,
+914,TLS-1999-1589-914,"mix",2017,MIX
+915,TLS-1999-1589-915,"mix (ingredients)",2017,MIX
+916,TLS-1999-1589-916,"mix (ingredients, e.g. unga ch",2017,MIX
+917,TLS-1999-1589-917,"mix, put together",2017,MIX
+918,TLS-1999-1589-918,"monkey",1350,MONKEY
+919,TLS-1999-1589-919,"monkey (small, dark-coloured)",1350,MONKEY
+920,TLS-1999-1589-920,"moon",1313,MOON
+921,TLS-1999-1589-921,"moonlight",,
+922,TLS-1999-1589-922,"morning",1339,MORNING
+923,TLS-1999-1589-923,"mosquito",1509,MOSQUITO
+924,TLS-1999-1589-924,"mother",1216,MOTHER
+925,TLS-1999-1589-925,"mould (pottery)",289,MOLD
+926,TLS-1999-1589-926,"mould pottery",1166,MOULD
+927,TLS-1999-1589-927,"mountain",639,MOUNTAIN
+928,TLS-1999-1589-928,"mourning",,
+929,TLS-1999-1589-929,"mouse",1491,MOUSE
+930,TLS-1999-1589-930,"mouth",674,MOUTH
+931,TLS-1999-1589-931,"move away, migrate",229,MOVE AWAY
+932,TLS-1999-1589-932,"movement",,
+933,TLS-1999-1589-933,"mud, mire",640,MUD
+934,TLS-1999-1589-934,"mushroom",641,MUSHROOM
+935,TLS-1999-1589-935,"my father",1217,FATHER
+936,TLS-1999-1589-936,"my mother",1216,MOTHER
+937,TLS-1999-1589-937,"name",1405,NAME
+938,TLS-1999-1589-938,"namely",,
+939,TLS-1999-1589-939,"nape (of neck)",1347,NAPE (OF NECK)
+940,TLS-1999-1589-940,"nape of neck",1347,NAPE (OF NECK)
+941,TLS-1999-1589-941,"narrow",1267,NARROW
+942,TLS-1999-1589-942,"navel",1838,NAVEL
+943,TLS-1999-1589-943,"near",1942,NEAR
+944,TLS-1999-1589-944,"neck",1333,NECK
+945,TLS-1999-1589-945,"need, request",,
+946,TLS-1999-1589-946,"new",1231,NEW
+947,TLS-1999-1589-947,"next",1354,NEXT
+948,TLS-1999-1589-948,"next year",515,NEXT YEAR
+949,TLS-1999-1589-949,"night",1233,NIGHT
+950,TLS-1999-1589-950,"nine",1483,NINE
+951,TLS-1999-1589-951,"nine (=tisa)",,
+952,TLS-1999-1589-952,"nose",1221,NOSE
+953,TLS-1999-1589-953,"not",1240,NOT
+954,TLS-1999-1589-954,"not (as: I am not going)",1240,NOT
+955,TLS-1999-1589-955,"now",1376,NOW
+956,TLS-1999-1589-956,"number",1356,NUMBER
+957,TLS-1999-1589-957,"oar",108,RUDDER
+958,TLS-1999-1589-958,"obstruct",,
+959,TLS-1999-1589-959,"offer",,
+960,TLS-1999-1589-960,"offspring",1801,CHILD (DESCENDANT)
+961,TLS-1999-1589-961,"oil",,
+962,TLS-1999-1589-962,"oil (from plants)",,
+963,TLS-1999-1589-963,"oil palm",,
+964,TLS-1999-1589-964,"old",1229,OLD
+965,TLS-1999-1589-965,"old age",1789,AGE
+966,TLS-1999-1589-966,"old people (male)",,
+967,TLS-1999-1589-967,"old person",725,OLD PERSON
+968,TLS-1999-1589-968,"old times",,
+969,TLS-1999-1589-969,"older brother",1759,OLDER BROTHER
+970,TLS-1999-1589-970,"older brother or sister",,
+971,TLS-1999-1589-971,"on",2379,UP OR ABOVE
+972,TLS-1999-1589-972,"one",1493,ONE
+973,TLS-1999-1589-973,"one (=moja)",1493,ONE
+974,TLS-1999-1589-974,"open",1156,OPEN
+975,TLS-1999-1589-975,"open (=set ajar) a door",1156,OPEN
+976,TLS-1999-1589-976,"open (set ajar) a door",1156,OPEN
+977,TLS-1999-1589-977,"open space",,
+978,TLS-1999-1589-978,"open the mouth",,
+979,TLS-1999-1589-979,"open the mouth wide",,
+980,TLS-1999-1589-980,"order, direct",1128,ORDER
+981,TLS-1999-1589-981,"ostrich",,
+982,TLS-1999-1589-982,"other",197,OTHER
+983,TLS-1999-1589-983,"our(s)",780,OUR
+984,TLS-1999-1589-984,"our(s) Pl. 1st person)",780,OUR
+985,TLS-1999-1589-985,"outside",762,OUTSIDE
+986,TLS-1999-1589-986,"overcome, win, vanquish",1999,OVERCOME
+987,TLS-1999-1589-987,"overcome; win, vanquish",1999,OVERCOME
+988,TLS-1999-1589-988,"owner",1036,OWNER
+989,TLS-1999-1589-989,"oyster",2830,OYSTERS
+990,TLS-1999-1589-990,"pack",,
+991,TLS-1999-1589-991,"pack (mizigo)",,
+992,TLS-1999-1589-992,"pack carefully",,
+993,TLS-1999-1589-993,"pack, bale, bundle",,
+994,TLS-1999-1589-994,"pack, flock, group",,
+995,TLS-1999-1589-995,"pack, press together",,
+996,TLS-1999-1589-996,"paddle",234,PADDLE
+997,TLS-1999-1589-997,"palate",540,PALATE
+998,TLS-1999-1589-998,"palm (of hand)",1183,PALM OF HAND
+999,TLS-1999-1589-999,"palm of hand",1183,PALM OF HAND
+1000,TLS-1999-1589-1000,"palm tree",1181,PALM TREE
+1001,TLS-1999-1589-1001,"palm-tree",1181,PALM TREE
+1002,TLS-1999-1589-1002,"palm-wine",,
+1003,TLS-1999-1589-1003,"palpitate",,
+1004,TLS-1999-1589-1004,"parrot",882,PARROT
+1005,TLS-1999-1589-1005,"pass",,
+1006,TLS-1999-1589-1006,"pass in running",,
+1007,TLS-1999-1589-1007,"pass the night",,
+1008,TLS-1999-1589-1008,"pass, surpass",402,SURPASS
+1009,TLS-1999-1589-1009,"path",2252,PATH
+1010,TLS-1999-1589-1010,"pay",718,PAY
+1011,TLS-1999-1589-1011,"pay attention, take care",,
+1012,TLS-1999-1589-1012,"peel, shell",,
+1013,TLS-1999-1589-1013,"peg",361,PEG
+1014,TLS-1999-1589-1014,"penetrate",,
+1015,TLS-1999-1589-1015,"penis",1222,PENIS
+1016,TLS-1999-1589-1016,"penknife",,
+1017,TLS-1999-1589-1017,"person",683,PERSON
+1018,TLS-1999-1589-1018,"person related by blood",1644,RELATIVES
+1019,TLS-1999-1589-1019,"pestle",225,PESTLE
+1020,TLS-1999-1589-1020,"pierce",398,PIERCE
+1021,TLS-1999-1589-1021,"pierce/make hole in",398,PIERCE
+1022,TLS-1999-1589-1022,"pig",1337,PIG
+1023,TLS-1999-1589-1023,"pigeon",1853,DOVE
+1024,TLS-1999-1589-1024,"pile up, pile loads on head",1576,PILE UP
+1025,TLS-1999-1589-1025,"pinch, make narrow",378,PINCH
+1026,TLS-1999-1589-1026,"pit",1667,HOLE
+1027,TLS-1999-1589-1027,"pit, hole",1667,HOLE
+1028,TLS-1999-1589-1028,"place",723,PLACE (POSITION)
+1029,TLS-1999-1589-1029,"place of the dead",,
+1030,TLS-1999-1589-1030,"place, put",998,PUT
+1031,TLS-1999-1589-1031,"plait",1729,PLAIT OR BRAID OR WEAVE
+1032,TLS-1999-1589-1032,"plaited basket",,
+1033,TLS-1999-1589-1033,"plant, sow",748,SOW SEEDS
+1034,TLS-1999-1589-1034,"plate",480,PLATE
+1035,TLS-1999-1589-1035,"platform",,
+1036,TLS-1999-1589-1036,"play",1413,PLAY
+1037,TLS-1999-1589-1037,"please, satisfy",1271,DELIGHT
+1038,TLS-1999-1589-1038,"plot of ground",,
+1039,TLS-1999-1589-1039,"plunder (a town)",,
+1040,TLS-1999-1589-1040,"plunge into, cause to sink",,
+1041,TLS-1999-1589-1041,"point",2669,POINT (WITH FINGER)
+1042,TLS-1999-1589-1042,"poke",,
+1043,TLS-1999-1589-1043,"poke in",,
+1044,TLS-1999-1589-1044,"polish",,
+1045,TLS-1999-1589-1045,"polygamy",,
+1046,TLS-1999-1589-1046,"pool",,
+1047,TLS-1999-1589-1047,"pool (of water)",,
+1048,TLS-1999-1589-1048,"porcupine",2510,PORCUPINE
+1049,TLS-1999-1589-1049,"porridge",,
+1050,TLS-1999-1589-1050,"pot",1462,POT
+1051,TLS-1999-1589-1051,"pot, mug",1462,POT
+1052,TLS-1999-1589-1052,"pot, vessel",1462,POT
+1053,TLS-1999-1589-1053,"potter's kiln",,
+1054,TLS-1999-1589-1054,"pound",354,POUND
+1055,TLS-1999-1589-1055,"pound (grain in a mortar to ge",354,POUND
+1056,TLS-1999-1589-1056,"pound; grind",354,POUND
+1057,TLS-1999-1589-1057,"pour",1487,POUR
+1058,TLS-1999-1589-1058,"pour away",1487,POUR
+1059,TLS-1999-1589-1059,"pregnancy",1123,PREGNANT
+1060,TLS-1999-1589-1060,"prepare",2909,PREPARE
+1061,TLS-1999-1589-1061,"press out (oil seed, sugar can",1913,PRESS
+1062,TLS-1999-1589-1062,"pronounce",,
+1063,TLS-1999-1589-1063,"protect by charm",,
+1064,TLS-1999-1589-1064,"protect by charms",,
+1065,TLS-1999-1589-1065,"puff-adder",,
+1066,TLS-1999-1589-1066,"pull",1455,PULL
+1067,TLS-1999-1589-1067,"pull up",2066,PULL UP (RICE SEEDLINGS)
+1068,TLS-1999-1589-1068,"pull up, come to a halt",,
+1069,TLS-1999-1589-1069,"pull up, root up",2066,PULL UP (RICE SEEDLINGS)
+1070,TLS-1999-1589-1070,"pull, drag",2030,DRAG
+1071,TLS-1999-1589-1071,"pump",,
+1072,TLS-1999-1589-1072,"push",1452,PUSH
+1073,TLS-1999-1589-1073,"put",998,PUT
+1074,TLS-1999-1589-1074,"put a pot on the fire",,
+1075,TLS-1999-1589-1075,"put down a load",,
+1076,TLS-1999-1589-1076,"put down a load on another",,
+1077,TLS-1999-1589-1077,"put forth, produce, display",,
+1078,TLS-1999-1589-1078,"put out, be prominent",,
+1079,TLS-1999-1589-1079,"put to death",1417,KILL
+1080,TLS-1999-1589-1080,"put together for comparison",,
+1081,TLS-1999-1589-1081,"put together, compose",1743,JOIN
+1082,TLS-1999-1589-1082,"put up a load on another",,
+1083,TLS-1999-1589-1083,"put, place, set",160,SET (HEAVENLY BODIES)
+1084,TLS-1999-1589-1084,"python",1563,PYTHON
+1085,TLS-1999-1589-1085,"quarrel",1848,QUARREL
+1086,TLS-1999-1589-1086,"quench, extinguish",127,EXTINGUISH
+1087,TLS-1999-1589-1087,"rain",2108,RAINING OR RAIN
+1088,TLS-1999-1589-1088,"rainy season",453,RAINY SEASON
+1089,TLS-1999-1589-1089,"ramble",,
+1090,TLS-1999-1589-1090,"raphia palm",1181,PALM TREE
+1091,TLS-1999-1589-1091,"rat",1490,RAT
+1092,TLS-1999-1589-1092,"razor",151,RAZOR
+1093,TLS-1999-1589-1093,"read",724,READ
+1094,TLS-1999-1589-1094,"reap",,
+1095,TLS-1999-1589-1095,"receive",694,GET
+1096,TLS-1999-1589-1096,"red",156,RED
+1097,TLS-1999-1589-1097,"reed",659,REED
+1098,TLS-1999-1589-1098,"refuse to give",,
+1099,TLS-1999-1589-1099,"refuse, say no",49,REFUSE
+1100,TLS-1999-1589-1100,"reject, refuse",49,REFUSE
+1101,TLS-1999-1589-1101,"relative by marriage",,
+1102,TLS-1999-1589-1102,"remain",987,REMAIN
+1103,TLS-1999-1589-1103,"remain, stay",987,REMAIN
+1104,TLS-1999-1589-1104,"remain, stay behind",,
+1105,TLS-1999-1589-1105,"remain/stay",987,REMAIN
+1106,TLS-1999-1589-1106,"remember",707,REMEMBER
+1107,TLS-1999-1589-1107,"resemble",1777,RESEMBLE
+1108,TLS-1999-1589-1108,"resemble (very closely)",1777,RESEMBLE
+1109,TLS-1999-1589-1109,"resemble each other",1777,RESEMBLE
+1110,TLS-1999-1589-1110,"rest heavily on, be burdensome",,
+1111,TLS-1999-1589-1111,"rest the cheek on the hand (in",,
+1112,TLS-1999-1589-1112,"rest, take a holiday",,
+1113,TLS-1999-1589-1113,"return",581,COME BACK
+1114,TLS-1999-1589-1114,"revive",,
+1115,TLS-1999-1589-1115,"rhinoceros",2591,RHINOCEROS
+1116,TLS-1999-1589-1116,"rhinocerous",2591,RHINOCEROS
+1117,TLS-1999-1589-1117,"rib",801,RIB
+1118,TLS-1999-1589-1118,"rich",712,RICH
+1119,TLS-1999-1589-1119,"right/correct",1725,CORRECT (RIGHT)
+1120,TLS-1999-1589-1120,"righthand",1019,RIGHT
+1121,TLS-1999-1589-1121,"rightside",1019,RIGHT
+1122,TLS-1999-1589-1122,"ripe",178,RIPE
+1123,TLS-1999-1589-1123,"ripe banana",,
+1124,TLS-1999-1589-1124,"ripen",179,RIPEN
+1125,TLS-1999-1589-1125,"rippen",,
+1126,TLS-1999-1589-1126,"river",666,RIVER
+1127,TLS-1999-1589-1127,"road",667,ROAD
+1128,TLS-1999-1589-1128,"roar",,
+1129,TLS-1999-1589-1129,"roar, rumble",,
+1130,TLS-1999-1589-1130,"roast",1962,ROAST (SOMETHING)
+1131,TLS-1999-1589-1131,"roast (kwa moto)",1962,ROAST (SOMETHING)
+1132,TLS-1999-1589-1132,"roast; burn",1962,ROAST (SOMETHING)
+1133,TLS-1999-1589-1133,"rock",668,ROCK
+1134,TLS-1999-1589-1134,"rooster (=cock)",1511,ROOSTER
+1135,TLS-1999-1589-1135,"rooster (cock)",1511,ROOSTER
+1136,TLS-1999-1589-1136,"root",670,ROOT
+1137,TLS-1999-1589-1137,"rope",1218,ROPE
+1138,TLS-1999-1589-1138,"rotten",1728,ROTTEN
+1139,TLS-1999-1589-1139,"row",1849,ROW
+1140,TLS-1999-1589-1140,"rub",1449,RUB
+1141,TLS-1999-1589-1141,"rubbish heap",909,GARBAGE
+1142,TLS-1999-1589-1142,"rubbish, garbage",909,GARBAGE
+1143,TLS-1999-1589-1143,"rubbish-heap",909,GARBAGE
+1144,TLS-1999-1589-1144,"run",1519,RUN
+1145,TLS-1999-1589-1145,"sacrifice",1103,SACRIFICE
+1146,TLS-1999-1589-1146,"saliva",1503,SALIVA
+1147,TLS-1999-1589-1147,"salt",1274,SALT
+1148,TLS-1999-1589-1148,"salt (=munyu)",1274,SALT
+1149,TLS-1999-1589-1149,"sand",671,SAND
+1150,TLS-1999-1589-1150,"satisfy",,
+1151,TLS-1999-1589-1151,"say",1458,SAY
+1152,TLS-1999-1589-1152,"say to, tell to",1458,SAY
+1153,TLS-1999-1589-1153,"scatter",2064,SCATTER (SEEDS)
+1154,TLS-1999-1589-1154,"scorpion",1538,SCORPION
+1155,TLS-1999-1589-1155,"scrape",1767,SCRAPE
+1156,TLS-1999-1589-1156,"scrape, grace",1767,SCRAPE
+1157,TLS-1999-1589-1157,"scrape, graze",1767,SCRAPE
+1158,TLS-1999-1589-1158,"scratch",1436,SCRATCH
+1159,TLS-1999-1589-1159,"scratch, grate",1436,SCRATCH
+1160,TLS-1999-1589-1160,"scythe, sickle",20,SCYTHE
+1161,TLS-1999-1589-1161,"sea",1474,SEA
+1162,TLS-1999-1589-1162,"search diligently",1468,LOOK FOR
+1163,TLS-1999-1589-1163,"search for",1468,LOOK FOR
+1164,TLS-1999-1589-1164,"seat, stool, chair",1476,CHAIR
+1165,TLS-1999-1589-1165,"seat/chair",1476,CHAIR
+1166,TLS-1999-1589-1166,"see",1409,SEE
+1167,TLS-1999-1589-1167,"seed",714,SEED
+1168,TLS-1999-1589-1168,"seize",855,SEIZE
+1169,TLS-1999-1589-1169,"self",1993,SELF
+1170,TLS-1999-1589-1170,"sell",1571,SELL
+1171,TLS-1999-1589-1171,"send",1127,SEND
+1172,TLS-1999-1589-1172,"separate",1359,SEPARATE
+1173,TLS-1999-1589-1173,"separate, leave each other",1359,SEPARATE
+1174,TLS-1999-1589-1174,"separate, set apart",1359,SEPARATE
+1175,TLS-1999-1589-1175,"serpent, snake",730,SNAKE
+1176,TLS-1999-1589-1176,"set (of the sun)",160,SET (HEAVENLY BODIES)
+1177,TLS-1999-1589-1177,"set a trap",,
+1178,TLS-1999-1589-1178,"set out to dry",2015,MAKE DRY
+1179,TLS-1999-1589-1179,"set trap",,
+1180,TLS-1999-1589-1180,"set up, appoint",,
+1181,TLS-1999-1589-1181,"seven",1704,SEVEN
+1182,TLS-1999-1589-1182,"sew",1457,SEW
+1183,TLS-1999-1589-1183,"sguat (on the haunches)",,
+1184,TLS-1999-1589-1184,"shadow, shade",1388,SHADE
+1185,TLS-1999-1589-1185,"shake",1909,SHAKE
+1186,TLS-1999-1589-1186,"shamba/cultivated area",212,FIELD
+1187,TLS-1999-1589-1187,"shame",1776,SHAME
+1188,TLS-1999-1589-1188,"shame, disgrace",1776,SHAME
+1189,TLS-1999-1589-1189,"shame, modesty",,
+1190,TLS-1999-1589-1190,"share",884,SHARE
+1191,TLS-1999-1589-1191,"sharp",1396,SHARP
+1192,TLS-1999-1589-1192,"sharpen",251,SHARPEN (SOMETHING)
+1193,TLS-1999-1589-1193,"sharpen (to a point)",251,SHARPEN (SOMETHING)
+1194,TLS-1999-1589-1194,"sharpen to a point",251,SHARPEN (SOMETHING)
+1195,TLS-1999-1589-1195,"shave",231,SHAVE
+1196,TLS-1999-1589-1196,"she, he",2642,HE OR SHE
+1197,TLS-1999-1589-1197,"sheep",1331,SHEEP
+1198,TLS-1999-1589-1198,"shell",598,SHELL
+1199,TLS-1999-1589-1199,"shield",1064,SHIELD
+1200,TLS-1999-1589-1200,"shin (bone)",186,SHIN
+1201,TLS-1999-1589-1201,"shiver",52,SHIVER
+1202,TLS-1999-1589-1202,"shiver, shudder",52,SHIVER
+1203,TLS-1999-1589-1203,"shoe",1381,SHOE
+1204,TLS-1999-1589-1204,"shoot",1172,SHOOT
+1205,TLS-1999-1589-1205,"shoot (arrow)",1172,SHOOT
+1206,TLS-1999-1589-1206,"short",1645,SHORT
+1207,TLS-1999-1589-1207,"short sword",,
+1208,TLS-1999-1589-1208,"shoulder",1482,SHOULDER
+1209,TLS-1999-1589-1209,"shout",715,SHOUT
+1210,TLS-1999-1589-1210,"sick",1847,SICK
+1211,TLS-1999-1589-1211,"sift",,
+1212,TLS-1999-1589-1212,"sing",1261,SING
+1213,TLS-1999-1589-1213,"singe",,
+1214,TLS-1999-1589-1214,"sink",1088,SINK (DESCEND)
+1215,TLS-1999-1589-1215,"sink, be drowned",1088,SINK (DESCEND)
+1216,TLS-1999-1589-1216,"sister",1263,SISTER
+1217,TLS-1999-1589-1217,"sit",1416,SIT
+1218,TLS-1999-1589-1218,"sit (e.g. kukaa kitako)",1416,SIT
+1219,TLS-1999-1589-1219,"sit down",1649,SIT DOWN
+1220,TLS-1999-1589-1220,"six",1703,SIX
+1221,TLS-1999-1589-1221,"size, measure",2845,SIZE (OF OBJECT)
+1222,TLS-1999-1589-1222,"skin",763,SKIN
+1223,TLS-1999-1589-1223,"skin (fruit or animal)",,
+1224,TLS-1999-1589-1224,"skin (ya matunda)",,
+1225,TLS-1999-1589-1225,"skin (ya mtu)",,
+1226,TLS-1999-1589-1226,"sky",1732,SKY
+1227,TLS-1999-1589-1227,"slander",,
+1228,TLS-1999-1589-1228,"slap",,
+1229,TLS-1999-1589-1229,"slash",,
+1230,TLS-1999-1589-1230,"slaughter",1796,SLAUGHTER
+1231,TLS-1999-1589-1231,"slave, bond servant",812,SLAVE
+1232,TLS-1999-1589-1232,"slave, bondservant",812,SLAVE
+1233,TLS-1999-1589-1233,"sleep",1585,SLEEP
+1234,TLS-1999-1589-1234,"sleeping-place, accommodation",,
+1235,TLS-1999-1589-1235,"slip, be slippery",1324,SLIP
+1236,TLS-1999-1589-1236,"small",1246,SMALL
+1237,TLS-1999-1589-1237,"small bean",,
+1238,TLS-1999-1589-1238,"small cooking pan",,
+1239,TLS-1999-1589-1239,"small cucumber",,
+1240,TLS-1999-1589-1240,"small gazelle",,
+1241,TLS-1999-1589-1241,"smallpox",1054,SMALLPOX
+1242,TLS-1999-1589-1242,"smell",,
+1243,TLS-1999-1589-1243,"smell (bad)",42,STINKING
+1244,TLS-1999-1589-1244,"smell (sweet)",,
+1245,TLS-1999-1589-1245,"smell out, sniff",1586,SMELL (PERCEIVE)
+1246,TLS-1999-1589-1246,"smoke",778,SMOKE (EXHAUST)
+1247,TLS-1999-1589-1247,"smooth",1234,SMOOTH
+1248,TLS-1999-1589-1248,"snail",1543,SNAIL
+1249,TLS-1999-1589-1249,"snail, slug",1543,SNAIL
+1250,TLS-1999-1589-1250,"snake",730,SNAKE
+1251,TLS-1999-1589-1251,"snare, trap",1075,TRAP (PITFALL)
+1252,TLS-1999-1589-1252,"sneeze",1621,SNEEZE
+1253,TLS-1999-1589-1253,"snore",1983,SNORE
+1254,TLS-1999-1589-1254,"snore, snort",1983,SNORE
+1255,TLS-1999-1589-1255,"snow",784,SNOW
+1256,TLS-1999-1589-1256,"soil",1228,EARTH (SOIL)
+1257,TLS-1999-1589-1257,"some",1241,SOME
+1258,TLS-1999-1589-1258,"song",1096,SONG
+1259,TLS-1999-1589-1259,"soot",830,SOOT
+1260,TLS-1999-1589-1260,"sorcerer",823,SORCERER
+1261,TLS-1999-1589-1261,"sorceror",823,SORCERER
+1262,TLS-1999-1589-1262,"sore",51,SORE
+1263,TLS-1999-1589-1263,"soul, spirit",53,SPIRIT
+1264,TLS-1999-1589-1264,"soul/spirit",811,SOUL
+1265,TLS-1999-1589-1265,"sound, cry",715,SHOUT
+1266,TLS-1999-1589-1266,"sour (of food or drink)",1906,SOUR
+1267,TLS-1999-1589-1267,"spark",518,SPARK
+1268,TLS-1999-1589-1268,"speak",1623,SPEAK
+1269,TLS-1999-1589-1269,"speak/talk",1623,SPEAK
+1270,TLS-1999-1589-1270,"spear",945,SPEAR
+1271,TLS-1999-1589-1271,"spend time",,
+1272,TLS-1999-1589-1272,"sperm",1505,SPERM
+1273,TLS-1999-1589-1273,"spider",843,SPIDER
+1274,TLS-1999-1589-1274,"spirit",53,SPIRIT
+1275,TLS-1999-1589-1275,"spirit (of dead person)",53,SPIRIT
+1276,TLS-1999-1589-1276,"spit",1440,SPIT
+1277,TLS-1999-1589-1277,"spitting cobra",,
+1278,TLS-1999-1589-1278,"spittle",1503,SALIVA
+1279,TLS-1999-1589-1279,"split",1437,SPLIT
+1280,TLS-1999-1589-1280,"split (act)",1437,SPLIT
+1281,TLS-1999-1589-1281,"split, crack",1437,SPLIT
+1282,TLS-1999-1589-1282,"spoil",,
+1283,TLS-1999-1589-1283,"spoil (a child)",,
+1284,TLS-1999-1589-1284,"spoil, blind",1653,BLIND
+1285,TLS-1999-1589-1285,"spoon",1378,SPOON
+1286,TLS-1999-1589-1286,"spot",519,SPOT
+1287,TLS-1999-1589-1287,"spot, speckle",519,SPOT
+1288,TLS-1999-1589-1288,"sprain the angkle",,
+1289,TLS-1999-1589-1289,"sprain the ankle",,
+1290,TLS-1999-1589-1290,"sprawl",,
+1291,TLS-1999-1589-1291,"spread",38,SPREAD OUT
+1292,TLS-1999-1589-1292,"spread (act)",38,SPREAD OUT
+1293,TLS-1999-1589-1293,"spread (as vine or fire)",,
+1294,TLS-1999-1589-1294,"spread as a vine or a fire",,
+1295,TLS-1999-1589-1295,"spread to dry",,
+1296,TLS-1999-1589-1296,"spread, scatter",2064,SCATTER (SEEDS)
+1297,TLS-1999-1589-1297,"spread, smear on",38,SPREAD OUT
+1298,TLS-1999-1589-1298,"spring (of water)",849,SPRING (OF WATER)
+1299,TLS-1999-1589-1299,"spring, machine",144,MACHINE
+1300,TLS-1999-1589-1300,"spy out",,
+1301,TLS-1999-1589-1301,"squat (on the haunches)",,
+1302,TLS-1999-1589-1302,"squeeze",1414,SQUEEZE
+1303,TLS-1999-1589-1303,"squeeze oneself",,
+1304,TLS-1999-1589-1304,"squeeze oneself up against wal",,
+1305,TLS-1999-1589-1305,"squeeze onself up against a wa",,
+1306,TLS-1999-1589-1306,"squeeze out",,
+1307,TLS-1999-1589-1307,"squeeze, milk",93,DRAW MILK
+1308,TLS-1999-1589-1308,"squirrel",1628,SQUIRREL
+1309,TLS-1999-1589-1309,"stab",1434,STAB
+1310,TLS-1999-1589-1310,"stack, pile up",1576,PILE UP
+1311,TLS-1999-1589-1311,"stand",1442,STAND
+1312,TLS-1999-1589-1312,"star",1430,STAR
+1313,TLS-1999-1589-1313,"stare, glare",,
+1314,TLS-1999-1589-1314,"start off, send away",,
+1315,TLS-1999-1589-1315,"startle, jerk",,
+1316,TLS-1999-1589-1316,"steal",713,STEAL
+1317,TLS-1999-1589-1317,"steel",2343,STEEL
+1318,TLS-1999-1589-1318,"stem of maize, millet",931,MILLET
+1319,TLS-1999-1589-1319,"stem of maize, millet, etc.",931,MILLET
+1320,TLS-1999-1589-1320,"step over",,
+1321,TLS-1999-1589-1321,"sterile man (or woman)",,
+1322,TLS-1999-1589-1322,"stick",1295,STICK
+1323,TLS-1999-1589-1323,"stir",696,STIR
+1324,TLS-1999-1589-1324,"stir (up)",696,STIR
+1325,TLS-1999-1589-1325,"stir up",696,STIR
+1326,TLS-1999-1589-1326,"stir up, stir up",696,STIR
+1327,TLS-1999-1589-1327,"stir, mix by stirring",696,STIR
+1328,TLS-1999-1589-1328,"stomach",819,STOMACH
+1329,TLS-1999-1589-1329,"stone",857,STONE
+1330,TLS-1999-1589-1330,"stop up",2006,FILL
+1331,TLS-1999-1589-1331,"stop up, fill a hole",2006,FILL
+1332,TLS-1999-1589-1332,"store up",7,GATHER
+1333,TLS-1999-1589-1333,"store up, collect",7,GATHER
+1334,TLS-1999-1589-1334,"straight",1404,STRAIGHT
+1335,TLS-1999-1589-1335,"straighten",,
+1336,TLS-1999-1589-1336,"stranger",791,STRANGER
+1337,TLS-1999-1589-1337,"stranger, guest",1782,GUEST
+1338,TLS-1999-1589-1338,"stream",947,STREAM
+1339,TLS-1999-1589-1339,"stream, current",947,STREAM
+1340,TLS-1999-1589-1340,"strength, power",2526,POWER
+1341,TLS-1999-1589-1341,"stretch oneself",214,STRETCH
+1342,TLS-1999-1589-1342,"strike with a spear",,
+1343,TLS-1999-1589-1343,"strike with a spear (=fumo)",,
+1344,TLS-1999-1589-1344,"strike, knock",2396,KNOCK
+1345,TLS-1999-1589-1345,"string",362,STRING
+1346,TLS-1999-1589-1346,"strip off (e.g. grains of corn",,
+1347,TLS-1999-1589-1347,"strip off (leaves, etc.)",,
+1348,TLS-1999-1589-1348,"strong",785,STRONG
+1349,TLS-1999-1589-1349,"strut proudly",,
+1350,TLS-1999-1589-1350,"stubbly grass",,
+1351,TLS-1999-1589-1351,"stumble",2894,TUMBLE (FALL DOWN)
+1352,TLS-1999-1589-1352,"stutter",1866,STUTTER
+1353,TLS-1999-1589-1353,"suck",1421,SUCK
+1354,TLS-1999-1589-1354,"suck (the breast)",1421,SUCK
+1355,TLS-1999-1589-1355,"sudden apparition, ghost",1175,GHOST
+1356,TLS-1999-1589-1356,"suffer, bear patiently",,
+1357,TLS-1999-1589-1357,"sugar cane",146,SUGAR CANE
+1358,TLS-1999-1589-1358,"sun",1343,SUN
+1359,TLS-1999-1589-1359,"surround",,
+1360,TLS-1999-1589-1360,"swallow",897,SWALLOW
+1361,TLS-1999-1589-1361,"swear",1939,SWEAR
+1362,TLS-1999-1589-1362,"sweat",125,SWEAT (SUBSTANCE)
+1363,TLS-1999-1589-1363,"sweep",230,SWEEP
+1364,TLS-1999-1589-1364,"sweep (out)",230,SWEEP
+1365,TLS-1999-1589-1365,"sweep up, collect in a heap (r",230,SWEEP
+1366,TLS-1999-1589-1366,"sweet (of food)",717,SWEET
+1367,TLS-1999-1589-1367,"sweet, pleasant",717,SWEET
+1368,TLS-1999-1589-1368,"swell",1573,SWELL
+1369,TLS-1999-1589-1369,"swim",1439,SWIM
+1370,TLS-1999-1589-1370,"sword",1535,SWORD
+1371,TLS-1999-1589-1371,"tail",1220,TAIL
+1372,TLS-1999-1589-1372,"take",1749,TAKE
+1373,TLS-1999-1589-1373,"take a walk",,
+1374,TLS-1999-1589-1374,"take in (from rain)",,
+1375,TLS-1999-1589-1375,"take in (from rain, etc.)",,
+1376,TLS-1999-1589-1376,"take leace of",,
+1377,TLS-1999-1589-1377,"take leave of",,
+1378,TLS-1999-1589-1378,"take off (clothes)",1755,UNDRESS
+1379,TLS-1999-1589-1379,"take off clothes",1755,UNDRESS
+1380,TLS-1999-1589-1380,"take the skin off, bruise",1148,BRUISE
+1381,TLS-1999-1589-1381,"take up a heavy load",,
+1382,TLS-1999-1589-1382,"take, carry",700,CARRY
+1383,TLS-1999-1589-1383,"take, receive",,
+1384,TLS-1999-1589-1384,"tall",711,TALL
+1385,TLS-1999-1589-1385,"tangle",,
+1386,TLS-1999-1589-1386,"taste",21,TASTE (SOMETHING)
+1387,TLS-1999-1589-1387,"teach, instruct",709,TEACH
+1388,TLS-1999-1589-1388,"tear",1651,TEAR (OF EYE)
+1389,TLS-1999-1589-1389,"tear from eye",1651,TEAR (OF EYE)
+1390,TLS-1999-1589-1390,"tears",1651,TEAR (OF EYE)
+1391,TLS-1999-1589-1391,"tell lies",601,LIE (MISLEAD)
+1392,TLS-1999-1589-1392,"ten",1515,TEN
+1393,TLS-1999-1589-1393,"tent pegs",,
+1394,TLS-1999-1589-1394,"termite",883,TERMITE
+1395,TLS-1999-1589-1395,"testicle",797,TESTICLES
+1396,TLS-1999-1589-1396,"that",78,THAT
+1397,TLS-1999-1589-1397,"that (person)",78,THAT
+1398,TLS-1999-1589-1398,"that, namely",78,THAT
+1399,TLS-1999-1589-1399,"thatched roof",,
+1400,TLS-1999-1589-1400,"the day after tomorrow",1179,DAY AFTER TOMORROW
+1401,TLS-1999-1589-1401,"the day before yesterday",1180,DAY BEFORE YESTERDAY
+1402,TLS-1999-1589-1402,"the lesser rains",,
+1403,TLS-1999-1589-1403,"them",817,THEY
+1404,TLS-1999-1589-1404,"there",1937,THERE
+1405,TLS-1999-1589-1405,"they",817,THEY
+1406,TLS-1999-1589-1406,"thick",1244,THICK
+1407,TLS-1999-1589-1407,"thick, fat",1244,THICK
+1408,TLS-1999-1589-1408,"thicket",,
+1409,TLS-1999-1589-1409,"thief",1160,THIEF
+1410,TLS-1999-1589-1410,"thigh",800,THIGH
+1411,TLS-1999-1589-1411,"thigh (cha mtu)",800,THIGH
+1412,TLS-1999-1589-1412,"thigh (cha nyama)",800,THIGH
+1413,TLS-1999-1589-1413,"thin",2308,THIN
+1414,TLS-1999-1589-1414,"thin pole",,
+1415,TLS-1999-1589-1415,"thin, curved, broad-bladed kni",,
+1416,TLS-1999-1589-1416,"thing",738,THING
+1417,TLS-1999-1589-1417,"think",2271,THINK
+1418,TLS-1999-1589-1418,"think, imagine",2271,THINK
+1419,TLS-1999-1589-1419,"thirst",848,THIRST
+1420,TLS-1999-1589-1420,"thirty",1715,THIRTY
+1421,TLS-1999-1589-1421,"this",1214,THIS
+1422,TLS-1999-1589-1422,"thorn",124,THORN
+1423,TLS-1999-1589-1423,"thread/string",,
+1424,TLS-1999-1589-1424,"threaten",1192,THREATEN
+1425,TLS-1999-1589-1425,"three",492,THREE
+1426,TLS-1999-1589-1426,"throat",1346,THROAT
+1427,TLS-1999-1589-1427,"throw",1456,THROW
+1428,TLS-1999-1589-1428,"thrust into",,
+1429,TLS-1999-1589-1429,"thunder",1150,THUNDER
+1430,TLS-1999-1589-1430,"tick",1527,TICK
+1431,TLS-1999-1589-1431,"tie",1917,TIE
+1432,TLS-1999-1589-1432,"tie (=fasten)",1917,TIE
+1433,TLS-1999-1589-1433,"tie (fasten)",1917,TIE
+1434,TLS-1999-1589-1434,"tie up",1094,FASTEN
+1435,TLS-1999-1589-1435,"tie/fasten",1094,FASTEN
+1436,TLS-1999-1589-1436,"tingle with excitement",,
+1437,TLS-1999-1589-1437,"tip, point",2669,POINT (WITH FINGER)
+1438,TLS-1999-1589-1438,"to",,
+1439,TLS-1999-1589-1439,"to break wind",1159,FART
+1440,TLS-1999-1589-1440,"to die",1494,DIE
+1441,TLS-1999-1589-1441,"to fly",1441,FLY (MOVE THROUGH AIR)
+1442,TLS-1999-1589-1442,"to remain, stay",987,REMAIN
+1443,TLS-1999-1589-1443,"to sew",1457,SEW
+1444,TLS-1999-1589-1444,"to stand",1442,STAND
+1445,TLS-1999-1589-1445,"to tie (fasten)",1917,TIE
+1446,TLS-1999-1589-1446,"tobacco",974,TOBACCO
+1447,TLS-1999-1589-1447,"tobacco pipe",1124,PIPE
+1448,TLS-1999-1589-1448,"today",1283,TODAY
+1449,TLS-1999-1589-1449,"toe",1389,TOE
+1450,TLS-1999-1589-1450,"tomato",986,TOMATO
+1451,TLS-1999-1589-1451,"tomorrow",1329,TOMORROW
+1452,TLS-1999-1589-1452,"tongue",1205,TONGUE
+1453,TLS-1999-1589-1453,"tooth",1380,TOOTH
+1454,TLS-1999-1589-1454,"top",1753,TOP
+1455,TLS-1999-1589-1455,"top, peak",2205,PEAK
+1456,TLS-1999-1589-1456,"tortoise",895,TORTOISE
+1457,TLS-1999-1589-1457,"town",1391,TOWN
+1458,TLS-1999-1589-1458,"tramp of feet",,
+1459,TLS-1999-1589-1459,"trap",1075,TRAP (PITFALL)
+1460,TLS-1999-1589-1460,"travel",1443,WALK
+1461,TLS-1999-1589-1461,"travel, walk",1443,WALK
+1462,TLS-1999-1589-1462,"travel; walk",1443,WALK
+1463,TLS-1999-1589-1463,"tree",906,TREE
+1464,TLS-1999-1589-1464,"tremble, shake",1909,SHAKE
+1465,TLS-1999-1589-1465,"trickle away",,
+1466,TLS-1999-1589-1466,"trunk (of elephant)",,
+1467,TLS-1999-1589-1467,"try",1812,TRY
+1468,TLS-1999-1589-1468,"tsetse fly",,
+1469,TLS-1999-1589-1469,"tsetse-fly",,
+1470,TLS-1999-1589-1470,"turn (act)",1445,TURN (SOMETHING)
+1471,TLS-1999-1589-1471,"turn (left or right)",1588,TURN
+1472,TLS-1999-1589-1472,"turn round",1445,TURN (SOMETHING)
+1473,TLS-1999-1589-1473,"turn round, change",1264,CHANGE
+1474,TLS-1999-1589-1474,"turn upside down, turn over",1588,TURN
+1475,TLS-1999-1589-1475,"twenty",1710,TWENTY
+1476,TLS-1999-1589-1476,"twin",1005,TWINS
+1477,TLS-1999-1589-1477,"twist",430,TWIST
+1478,TLS-1999-1589-1478,"two",1498,TWO
+1479,TLS-1999-1589-1479,"udder",154,UDDER
+1480,TLS-1999-1589-1480,"uji",1167,GRUEL
+1481,TLS-1999-1589-1481,"uncover, reveal",1108,UNCOVER
+1482,TLS-1999-1589-1482,"under",1485,BELOW OR UNDER
+1483,TLS-1999-1589-1483,"underneath",1485,BELOW OR UNDER
+1484,TLS-1999-1589-1484,"understand",1536,UNDERSTAND
+1485,TLS-1999-1589-1485,"unripe, half grown",1958,UNRIPE
+1486,TLS-1999-1589-1486,"unripe, uncooked",,
+1487,TLS-1999-1589-1487,"up, above",1741,ABOVE
+1488,TLS-1999-1589-1488,"upright",,
+1489,TLS-1999-1589-1489,"urinate",592,PISS
+1490,TLS-1999-1589-1490,"urine",1142,URINE
+1491,TLS-1999-1589-1491,"use",2072,USE (VERB)
+1492,TLS-1999-1589-1492,"use medicine",,
+1493,TLS-1999-1589-1493,"valley",921,VALLEY
+1494,TLS-1999-1589-1494,"vapour, gas",,
+1495,TLS-1999-1589-1495,"vein",1924,VEIN
+1496,TLS-1999-1589-1496,"village",930,VILLAGE
+1497,TLS-1999-1589-1497,"virgin (bride), girl",1646,GIRL
+1498,TLS-1999-1589-1498,"virgin(bride), girl",1646,GIRL
+1499,TLS-1999-1589-1499,"vision",,
+1500,TLS-1999-1589-1500,"voice",1363,VOICE
+1501,TLS-1999-1589-1501,"vomit",1278,VOMIT
+1502,TLS-1999-1589-1502,"wait for",1590,WAIT (FOR)
+1503,TLS-1999-1589-1503,"wake someone up",,
+1504,TLS-1999-1589-1504,"wake up (someone else)",,
+1505,TLS-1999-1589-1505,"wake up (yourself)",1602,WAKE UP
+1506,TLS-1999-1589-1506,"waken (yourself)",1602,WAKE UP
+1507,TLS-1999-1589-1507,"walk",1443,WALK
+1508,TLS-1999-1589-1508,"walk, travel",1443,WALK
+1509,TLS-1999-1589-1509,"wall",933,WALL (OF HOUSE)
+1510,TLS-1999-1589-1510,"want",1784,WANT
+1511,TLS-1999-1589-1511,"want, need, wish",1784,WANT
+1512,TLS-1999-1589-1512,"war",935,WAR
+1513,TLS-1999-1589-1513,"warm",1232,WARM
+1514,TLS-1999-1589-1514,"warm oneself",,
+1515,TLS-1999-1589-1515,"wart-hog",,
+1516,TLS-1999-1589-1516,"warthog",,
+1517,TLS-1999-1589-1517,"wash",1453,WASH
+1518,TLS-1999-1589-1518,"wash (clothes)",1453,WASH
+1519,TLS-1999-1589-1519,"wash oneself (after evacuating",,
+1520,TLS-1999-1589-1520,"wash, take a bath",1453,WASH
+1521,TLS-1999-1589-1521,"wasp",1517,WASP
+1522,TLS-1999-1589-1522,"water",948,WATER
+1523,TLS-1999-1589-1523,"wave, let off a trap, remove a",978,WAVE
+1524,TLS-1999-1589-1524,"we",1212,WE
+1525,TLS-1999-1589-1525,"we, us",1212,WE
+1526,TLS-1999-1589-1526,"weak",1601,WEAK
+1527,TLS-1999-1589-1527,"wear",976,WEAR
+1528,TLS-1999-1589-1528,"weave",133,WEAVE
+1529,TLS-1999-1589-1529,"weave, knit",133,WEAVE
+1530,TLS-1999-1589-1530,"weep",1839,CRY
+1531,TLS-1999-1589-1531,"weight, rhythm",2466,WEIGHT
+1532,TLS-1999-1589-1532,"well",954,WELL
+1533,TLS-1999-1589-1533,"wet",1726,WET
+1534,TLS-1999-1589-1534,"what?",1236,WHAT
+1535,TLS-1999-1589-1535,"wheat",1077,WHEAT
+1536,TLS-1999-1589-1536,"when?",1238,WHEN
+1537,TLS-1999-1589-1537,"where?",1237,WHERE
+1538,TLS-1999-1589-1538,"which?",727,WHICH
+1539,TLS-1999-1589-1539,"whistling",1025,WHISTLE
+1540,TLS-1999-1589-1540,"white",1335,WHITE
+1541,TLS-1999-1589-1541,"white hair",,
+1542,TLS-1999-1589-1542,"white man",2839,WHITE MAN
+1543,TLS-1999-1589-1543,"white person",2839,WHITE MAN
+1544,TLS-1999-1589-1544,"whiteman",2839,WHITE MAN
+1545,TLS-1999-1589-1545,"who?",1235,WHO
+1546,TLS-1999-1589-1546,"why?",1270,WHY
+1547,TLS-1999-1589-1547,"wicked",,
+1548,TLS-1999-1589-1548,"wide",1243,WIDE
+1549,TLS-1999-1589-1549,"wife",1199,WIFE
+1550,TLS-1999-1589-1550,"wild-cat",2241,WILD CAT
+1551,TLS-1999-1589-1551,"wind",960,WIND
+1552,TLS-1999-1589-1552,"wind round",,
+1553,TLS-1999-1589-1553,"wind up (thread)",,
+1554,TLS-1999-1589-1554,"wing",1257,WING
+1555,TLS-1999-1589-1555,"winnow",2462,WINNOWING
+1556,TLS-1999-1589-1556,"wipe",1454,WIPE
+1557,TLS-1999-1589-1557,"wire",2631,WIRE
+1558,TLS-1999-1589-1558,"wish",1784,WANT
+1559,TLS-1999-1589-1559,"witchcraft",392,MAGIC
+1560,TLS-1999-1589-1560,"with",1340,WITH
+1561,TLS-1999-1589-1561,"withhold from",,
+1562,TLS-1999-1589-1562,"withold from",,
+1563,TLS-1999-1589-1563,"woman",962,WOMAN
+1564,TLS-1999-1589-1564,"womb",804,WOMB
+1565,TLS-1999-1589-1565,"wooden dish",481,DISH
+1566,TLS-1999-1589-1566,"wooden tool for pounding",,
+1567,TLS-1999-1589-1567,"word",1599,WORD
+1568,TLS-1999-1589-1568,"work",984,WORK (LABOUR)
+1569,TLS-1999-1589-1569,"work as a mason",,
+1570,TLS-1999-1589-1570,"worm",1219,WORM
+1571,TLS-1999-1589-1571,"wrap up",,
+1572,TLS-1999-1589-1572,"wring",1414,SQUEEZE
+1573,TLS-1999-1589-1573,"wring (nguo)",1414,SQUEEZE
+1574,TLS-1999-1589-1574,"yam",410,YAM
+1575,TLS-1999-1589-1575,"yawn",1028,YAWN
+1576,TLS-1999-1589-1576,"year",1226,YEAR
+1577,TLS-1999-1589-1577,"yellow",1424,YELLOW
+1578,TLS-1999-1589-1578,"yesterday",1174,YESTERDAY
+1579,TLS-1999-1589-1579,"you (pl)",1213,YOU
+1580,TLS-1999-1589-1580,"you (pl.)",1213,YOU
+1581,TLS-1999-1589-1581,"you (sg)",1215,THOU
+1582,TLS-1999-1589-1582,"you (sg.)",1215,THOU
+1583,TLS-1999-1589-1583,"you (sing.)",1215,THOU
+1584,TLS-1999-1589-1584,"young man",76,YOUNG MAN
+1585,TLS-1999-1589-1585,"your father",,
+1586,TLS-1999-1589-1586,"your(s) (Pl. 2nd person)",,
+1587,TLS-1999-1589-1587,"your(s) (pl.)",,
+1588,TLS-1999-1589-1588,"youth",1366,BOY
+1589,TLS-1999-1589-1589,"zebra",,

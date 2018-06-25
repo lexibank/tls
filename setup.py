@@ -23,5 +23,6 @@ setup(
     },
     install_requires=[
         'pylexibank',
+        'dbfread',
     ]
 )

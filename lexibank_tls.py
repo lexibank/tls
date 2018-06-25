@@ -45,50 +45,47 @@ class Dataset(BaseDataset):
         concept_map = {}
         for c in self.concepts:
             concept_map[c['GLOSS_IN_SOURCE']] = c['CONCEPTICON_ID'] or None
-        language_map = {n['NAME']: n['GLOTTOCODE'] for n in self.languages}
 
         words = list(map(normalized, reader(self.raw.joinpath('tls.txt'),
             dicts=True)))
         glosses = defaultdict(set)
         swas = defaultdict(set)
-        #for word in words:
-        #    glosses[word['GLOSS']].add(word['REFLEX'])
-        #    swas[word['GLOSS']].add(word['SWAHILI'])
+
         with self.cldf as ds:
             for language in self.languages:
                 ds.add_language(
                         ID=language['ID'],
                         Glottocode=language['GLOTTOCODE'],
                         Name=language['NAME'])
+
             for concept in self.concepts:
-                if concept['CONCEPTICON_ID'].strip().strip('?'):
-                    ds.add_concept(
-                            ID=slug(concept['GLOSS_IN_SOURCE']),
-                            Name=concept['GLOSS'],
-                            Concepticon_ID=concept['CONCEPTICON_ID'],
-                            Concepticon_Gloss=concept['CONCEPTICON_GLOSS'])
-                else:
-                    ds.add_concept(
-                            ID=slug(concept['GLOSS_IN_SOURCE']),
-                            Concepticon_ID=None,
-                            Name=concept['GLOSS'],
-                            Concepticon_Gloss=None)
+                ds.add_concept(
+                    ID=slug(concept['GLOSS_IN_SOURCE']),
+                    Name=concept['GLOSS_IN_SOURCE'],
+                    Concepticon_ID=concept['CONCEPTICON_ID'],
+                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS'])
+
             for i, word in enumerate(words):
-                print(word)
                 if word['LGABBR']:
+                    # don't carry internal notes
+                    if word['LGABBR'] == 'Note':
+                        continue
+                
                     for form in split_text(word['REFLEX'], separators=',;/'):
                         if form.strip() and form.replace('-', ''):
+                            # remove any additional information (notes, plurals, etc.)
+                            form = form.split('(')[0].strip()
 
-                            for row in ds.add_lexemes(
-                                    Language_ID=slug(word['LGABBR']),
-                                    Parameter_ID=slug(word['GLOSS']),
-                                    Value=word['REFLEX'],
-                                    Form=form):
-                                pass
+                            if form:
+                                for row in ds.add_lexemes(
+                                        Language_ID=slug(word['LGABBR']),
+                                        Parameter_ID=slug(word['GLOSS']),
+                                        Value=word['REFLEX'],
+                                        Source=['Nurse1975', 'Nurse1979', 'Nurse1980', 'TLS1999'],
+                                        Form=form):
+                                    pass
 
 SWAHILI_GLOSS = re.compile('\(=(?P<gloss>[^\)]+)\)')
-
-
 def normalized(d):
     match = SWAHILI_GLOSS.search(d['GLOSS'])
     if match and not d['SWAHILI']:
