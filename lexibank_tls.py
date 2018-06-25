@@ -74,9 +74,10 @@ class Dataset(BaseDataset):
                             Name=concept['GLOSS'],
                             Concepticon_Gloss=None)
             for i, word in enumerate(words):
+                print(word)
                 if word['LGABBR']:
                     for form in split_text(word['REFLEX'], separators=',;/'):
-                        if form.strip():
+                        if form.strip() and form.replace('-', ''):
 
                             for row in ds.add_lexemes(
                                     Language_ID=slug(word['LGABBR']),
