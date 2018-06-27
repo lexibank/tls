@@ -6,7 +6,7 @@ import re
 import attr
 from dbfread import DBF
 from clldutils.dsv import reader, UnicodeWriter
-from clldutils.text import split_text
+from clldutils.text import split_text, strip_brackets
 from clldutils.path import Path
 from clldutils.misc import slug
 
@@ -55,7 +55,8 @@ class Dataset(BaseDataset):
         swas = defaultdict(set)
 
         with self.cldf as ds:
-            ds.add_sources(*self.raw.read_bib())
+            ds.add_sources(self.raw.read('sources.bib'))
+
             for language in self.languages:
                 ds.add_language(
                         ID=language['ID'],
@@ -74,20 +75,19 @@ class Dataset(BaseDataset):
                     # don't carry internal notes
                     if word['LGABBR'] == 'Note':
                         continue
-                
-                    for form in split_text(word['REFLEX'], separators=',;/'):
-                        if form.strip() and form.replace('-', ''):
-                            # remove any additional information (notes, plurals, etc.)
-                            form = form.split('(')[0].strip()
 
-                            if form:
-                                for row in ds.add_lexemes(
-                                        Language_ID=slug(word['LGABBR']),
-                                        Parameter_ID=slug(word['GLOSS']),
-                                        Value=word['REFLEX'],
-                                        Source=['Nurse1975', 'Nurse1979', 'Nurse1980', 'TLS1999'],
-                                        Form=form):
-                                    pass
+                    for form in split_text(word['REFLEX'], separators=',;/'):
+                        # remove any additional information (notes, plurals, etc.)
+                        form = strip_brackets(form, brackets={'[':']', '{':'}', '(':')'})
+
+                        if form and form != '-':
+                            for row in ds.add_lexemes(
+                                    Language_ID=slug(word['LGABBR']),
+                                    Parameter_ID=slug(word['GLOSS']),
+                                    Value=word['REFLEX'],
+                                    Source=['Nurse1975', 'Nurse1979', 'Nurse1980', 'TLS1999'],
+                                    Form=form):
+                                pass
 
 SWAHILI_GLOSS = re.compile('\(=(?P<gloss>[^\)]+)\)')
 def normalized(d):

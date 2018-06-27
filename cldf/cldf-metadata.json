@@ -18,15 +18,14 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.1.1-94-g1e52df9",
-                "concepticon_version": "v1.1.0-78-g0717e41"
+                "glottolog_version": "v3.2-69-gcf07b00",
+                "concepticon_version": "v1.1.0-79-gaed0c35"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 157588,
             "tableSchema": {
                 "columns": [
                     {
@@ -121,7 +120,6 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 131,
             "tableSchema": {
                 "columns": [
                     {
@@ -167,7 +165,6 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1533,
             "tableSchema": {
                 "columns": [
                     {
@@ -203,7 +200,6 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {

@@ -23,7 +23,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 - **Varieties:** 128
 - **Concepts:** 1,523
-- **Lexemes:** 157,588
+- **Lexemes:** 157,589
 - **Synonymy:** 1.36
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
