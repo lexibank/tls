@@ -22,6 +22,7 @@ class TLSConcept(Concept):
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'tls'
     concept_class = TLSConcept
 
     def cmd_download(self, **kw):
@@ -44,31 +45,14 @@ class Dataset(BaseDataset):
 
 
     def cmd_install(self, **kw):
-        concept_map = {}
-        for c in self.concepts:
-            concept_map[c['GLOSS_IN_SOURCE']] = c['CONCEPTICON_ID'] or None
-
-
-        words = list(map(normalized, reader(self.raw.joinpath('tls.txt'),
-            dicts=True)))
+        words = list(map(normalized, reader(self.raw.joinpath('tls.txt'), dicts=True)))
         glosses = defaultdict(set)
         swas = defaultdict(set)
 
         with self.cldf as ds:
             ds.add_sources(self.raw.read('sources.bib'))
-
-            for language in self.languages:
-                ds.add_language(
-                        ID=language['ID'],
-                        Glottocode=language['GLOTTOCODE'],
-                        Name=language['NAME'])
-
-            for concept in self.concepts:
-                ds.add_concept(
-                    ID=slug(concept['GLOSS_IN_SOURCE']),
-                    Name=concept['GLOSS_IN_SOURCE'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS'])
+            ds.add_languages()
+            ds.add_concepts(id_factory=lambda c: slug(c.label))
 
             for i, word in pb(enumerate(words), desc='add words'):
                 if word['LGABBR']:

@@ -3,14 +3,12 @@
     "dc:bibliographicCitation": "Nurse, Derek and G\u00e9rard Philippson (1975/99). The Tanzanian Language Survey.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html",
-    "dc:license": [
-        "CC-BY-NC-4.0",
-        "Creative Commons Attribution Non Commercial 4.0",
-        "https://creativecommons.org/licenses/by-nc/4.0/"
-    ],
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Tanzania Language Survey (TLS)",
+    "dcat:accessURL": "https://github.com/lexibank/tls",
     "rdf:ID": "tls",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -18,8 +16,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "v1.1.0-48-ga51f8de",
-                "glottolog_version": "v3.2-76-g1a93b39"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
             }
         }
     ],
@@ -121,7 +119,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 131,
+            "dc:extent": 128,
             "tableSchema": {
                 "columns": [
                     {
@@ -167,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1533,
+            "dc:extent": 1523,
             "tableSchema": {
                 "columns": [
                     {
@@ -207,7 +205,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
