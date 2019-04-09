@@ -22,7 +22,8 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=0.11',
-        'dbfread',
+        'pylexibank==1.1.1',
+        'dbfread==2.0.7'
     ]
 )
+
