@@ -12,7 +12,9 @@ Available online at http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html
 
 Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
+
 ## Statistics
+
 
 [![Build Status](https://travis-ci.org/lexibank/tls.svg?branch=master)](https://travis-ci.org/lexibank/tls)
 ![Glottolog: 94%](https://img.shields.io/badge/Glottolog-94%25-green.svg "Glottolog: 94%")
@@ -23,4 +25,3 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Concepts:** 1,523
 - **Lexemes:** 157,589
 - **Synonymy:** 1.36
-

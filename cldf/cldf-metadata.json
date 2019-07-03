@@ -1,9 +1,13 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Nurse, Derek and G\u00e9rard Philippson (1975/99). The Tanzanian Language Survey.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:identifier": "http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Tanzania Language Survey (TLS)",
     "rdf:ID": "tls",
@@ -15,7 +19,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }
