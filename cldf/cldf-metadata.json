@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Nurse, Derek and G\u00e9rard Philippson (1975/99). The Tanzanian Language Survey.",
+    "dc:bibliographicCitation": "Nurse, Derek and G\u00e9rard Philippson (1975). The Tanzanian Language Survey. Department of Foreign Languages and Linguistics of the University of Dar es Salaam: Dar es Salaam.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": null,
     "dc:identifier": "http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html",
@@ -9,7 +9,8 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Tanzania Language Survey (TLS)",
+    "dc:title": "Tanzania Language Survey",
+    "dcat:accessURL": "https://github.com/lexibank/tls",
     "rdf:ID": "tls",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -19,8 +20,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
+                "glottolog_version": "v3.4-1-g07a9b54",
+                "concepticon_version": "pyconcepticon-1.4.0-207-gdf49abe"
             }
         }
     ],

@@ -1,8 +1,8 @@
-# Tanzania Language Survey (TLS)
+# Tanzania Language Survey
 
 Cite the source dataset as
 
-> Nurse, Derek and Gérard Philippson (1975/99). The Tanzanian Language Survey.
+> Nurse, Derek and Gérard Philippson (1975). The Tanzanian Language Survey. Department of Foreign Languages and Linguistics of the University of Dar es Salaam: Dar es Salaam.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
