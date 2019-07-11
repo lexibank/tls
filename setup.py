@@ -20,9 +20,8 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank==1.1.1',
-        'dbfread==2.0.7',
-        'segments==2.0.2'
+        'pylexibank>=1.1.1',
+        'dbfread>=2.0.7',
     ],
     extras_require={
         'test': [
