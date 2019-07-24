@@ -17,7 +17,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 
 [![Build Status](https://travis-ci.org/lexibank/tls.svg?branch=master)](https://travis-ci.org/lexibank/tls)
-![Glottolog: 94%](https://img.shields.io/badge/Glottolog-94%25-green.svg "Glottolog: 94%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 73%](https://img.shields.io/badge/Concepticon-73%25-yellow.svg "Concepticon: 73%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
