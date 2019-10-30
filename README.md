@@ -21,7 +21,8 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 ![Concepticon: 73%](https://img.shields.io/badge/Concepticon-73%25-yellow.svg "Concepticon: 73%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 128
-- **Concepts:** 1,523
-- **Lexemes:** 157,589
-- **Synonymy:** 1.36
+- **Varieties:** 127
+- **Concepts:** 1,581
+- **Lexemes:** 130,556
+- **Sources:** 4
+- **Synonymy:** 1.13
