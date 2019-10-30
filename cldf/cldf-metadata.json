@@ -15,13 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/tls",
-            "dc:created": "v2.0.1-3-ge664592"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.0-56-g185d304"
+            "dc:created": "v2.0.1-4-gab91d61"
         },
         {
             "rdf:type": "prov:Entity",
@@ -34,6 +28,12 @@
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "dc:created": "v2.1.0-104-g9190b75"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.0-56-g185d304"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -237,10 +237,6 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Swahili_gloss"
                     }
                 ],
                 "primaryKey": [
