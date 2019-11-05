@@ -1,6 +1,5 @@
 import attr
 from pathlib import Path
-import re
 
 from pylexibank import Concept
 from pylexibank import progressbar
@@ -39,25 +38,6 @@ class Dataset(BaseDataset):
             # "Gweno1" (a copy of "Gweno")
             if entry["LGABBR"] in ["Note", "Gweno1"]:
                 continue
-
-            # Skip over cross-references; it was manually checked that
-            # all entries beginning with "see " are indeed cross-references
-            if entry["REFLEX"].startswith("see "):
-                continue
-
-            # There are also cross-references with page/entry number at the
-            # end of the string, but these entries contain data. The easieast
-            # way to strip it is to use a regular expression directly on
-            # the raw string, as those cannot be used in FormSpec
-            # The regular expression matches a number of spaces, plus a
-            # reference (composed of digits and dashes), at the end of
-            # the string.
-            ref_re = re.compile(
-                r"""\s+     # at least one space
-                    [0-9-]+ # followed by at least one digit/dash
-                    $       # at the end of the string""",
-                re.VERBOSE)
-            entry["REFLEX"] = re.sub(ref_re, "", entry["REFLEX"])
 
             args.writer.add_forms_from_value(
                 Language_ID=language_lookup[entry["LGABBR"]],
