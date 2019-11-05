@@ -28,7 +28,7 @@ class Dataset(BaseDataset):
 
         # Add concepts
         concept_lookup = args.writer.add_concepts(
-            id_factory=lambda x: "%s_%s" % (x.number, slug(x.gloss)),
+            id_factory=lambda x: "%s_%s" % (x.id.split("-")[-1], slug(x.gloss)),
             lookup_factory="Name",
         )
 
