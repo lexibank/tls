@@ -15,13 +15,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/tls",
-            "dc:created": "v2.0.1-5-g5c2d2b2"
+            "dc:created": "v2.0.1-7-gf833f84"
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.1.0-104-g9190b75"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -31,9 +31,9 @@
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.1.0-104-g9190b75"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 130556,
+            "dc:extent": 130495,
             "tableSchema": {
                 "columns": [
                     {
