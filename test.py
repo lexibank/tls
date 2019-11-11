@@ -6,8 +6,10 @@ def test_forms(cldf_dataset):
     assert len(list(cldf_dataset["FormTable"])) == 130493
     assert any(f["Form"] == "si yetu" for f in cldf_dataset["FormTable"])
 
+
 def test_parameters(cldf_dataset):
     assert len(list(cldf_dataset["ParameterTable"])) == 1581
+
 
 def test_languages(cldf_dataset):
     assert len(list(cldf_dataset["LanguageTable"])) == 127

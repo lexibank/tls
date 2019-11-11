@@ -1,7 +1,5 @@
-import attr
 from pathlib import Path
 
-from pylexibank import Concept
 from pylexibank import progressbar
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import FormSpec
