@@ -26,3 +26,11 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Lexemes:** 130,493
 - **Sources:** 4
 - **Synonymy:** 1.13
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Tiago Tresoldi | @tresoldi | maintainer
+
+
