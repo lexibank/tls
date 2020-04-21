@@ -1,4 +1,4 @@
-# Tanzania Language Survey
+# CLDF dataset derived from Nurse and Philippson's "Tanzania Language Survey" from 1975
 
 Cite the source dataset as
 
