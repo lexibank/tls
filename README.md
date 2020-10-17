@@ -23,7 +23,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 - **Varieties:** 127
 - **Concepts:** 1,581
-- **Lexemes:** 130,961
+- **Lexemes:** 130,960
 - **Sources:** 4
 - **Synonymy:** 1.14
 

@@ -16,29 +16,135 @@ class Dataset(BaseDataset):
         separators=",;/",
         missing_data=("-",),
         replacements=[
+            ("(general)", ""),  # comment
+            ("[general]", ""),  # comment
+            ("(modern)", ""),  # comment
             ("(see below)", ""),  # comment
+            ("(uncommon)", ""),  # comment
             (" ? ", " "),  # denotes uncertainty; note spaces
             ("(?)", ""),  # uncertainty
             ("(!)", ""),  # not clear -- surprising data?
-            
-            ("(i)", "i"),  # phonology
-            ("(u)", "u"),  # phonology
-            ("(ku)", "ku"),  # morpheme
-            ("(li)", "li"),  # morpheme
-            ("(uku)", "uku"),  # morpheme
+            ("(?!)", ""),  # not clear -- surprising data?
+            ("(noun)", ""), # grammar
+            ("(object)", ""), # grammar
+            ("(pl)", ""), # grammar
+            ("(s.)", ""), # grammar
+            ("(s.+pl.)", ""), # grammar
+            ("(sg)", ""), # grammar
+            ("[+ poss.]", ""), # grammar
+            ("[gen.]", ""), # grammar
+            ("(sing.)", ""), # grammar
+            ("(sing.oromambo)", ""), # grammar
+            ("(adopted)", ""), # etymology
+            ("(eng.)", ""), # etymology
+            ("(swahili)", ""), # etymology
 
+            ("(a?)", "a"),  # phonology
+            ("(a)", "a"),  # phonology
+            ("(y)", "y"),  # phonology
+            ("(cha)", "cha"),  # morpheme
+            ("(e)", "e"),  # phonology
+            ("(g)", "g"),  # morpheme
+            ("(gU)", "gU"),  # morpheme
+            ("(gu)", "gu"),  # phonology
+            ("(h)", "h"),  # phonology
+            ("(i)", "i"),  # phonology
+            ("(k)", "k"),  # morpheme
+            ("(khu)", "khu"),  # morpheme
+            ("(ki)", "ki"),  # phonology
+            ("(ko)", "ko"),  # morpheme
+            ("(ku)", "ku"),  # morpheme
+            ("(kU)", "kU"),  # morpheme
+            ("(kw)", "kw"),  # morpheme
+            ("(kwa)", "kwa"),  # phonology
+            ("(kwe)", "kwe"),  # phonology
+            ("(kwi)", "kwi"),  # morpheme
+            ("(l)", "l"),  # phonology
+            ("(li)", "li"),  # morpheme
+            ("(ma-)", "ma-"),  # morpheme
+            ("(ma)", "ma"),  # morpheme
+            ("(mu)", "mu"),  # morpheme
+            ("(n)", "n"),  # phonology
+            ("(na)", "na"),  # morpheme
+            ("(o)", "o"),  # phonology
+            ("(oko)", "oko"),  # morpheme
+            ("(oku)", "oku"),  # morpheme
+            ("(okw)", "okw"),  # morpheme
+            ("(s)", "s"),  # phonology
+            ("(t)", "t"),  # morpheme
+            ("(u)", "u"),  # phonology
+            ("(uku)", "uku"),  # morpheme
+            ("(ukw)", "ukw"),  # morpheme
+            ("(w)", "w"),  # phonology
+            ("(wa)", "wa"),  # morpheme
+            ("(ya)", "ya"),  # morpheme
+            ("(zi)", "zi"),  # morpheme
+
+            ('(verb of carrying the things and piling them)', ""), # gloss
+            ("[b-i-l]", ""), # gloss
+            ("[s-i-l]", ""), # gloss
+            ("(animal)", ""),  # gloss
+            ("(animals)", ""),  # gloss
+            ("(banana tree)", ""),  # gloss
             ("(belly)", ""),  # gloss
+            ("(big iron)", ""),  # gloss
+            ("(birds)", ""),  # gloss
+            ("(borrow)", ""),  # gloss
+            ("(boy)", ""),  # gloss
+            ("(boys)", ""),  # gloss
+            ("(brother in law)", ""),  # gloss
+            ("(cattle)", ""),  # gloss
             ("(chin,jaw)", ""),  # gloss
             ("(crust)", ""),  # gloss
+            ("(dying animals)", ""),  # gloss
+            ("(eyes)", ""),  # gloss
+            ("(father in law)", ""),  # gloss
+            ("(female)", ""),  # gloss
+            ("(for a person)", ""),  # gloss
+            ("(girl)", ""),  # gloss
+            ("(girls)", ""),  # gloss
             ("(grandpa)", ""),  # gloss
+            ("(grass)", ""),  # gloss
             ("(green)", ""),  # gloss
+            ("(groan)", ""),  # gloss
             ("(grow up,ripen)", ""),  # gloss
             ("(heat)", ""),  # gloss
+            ("[male]", ""),  # gloss
+            ("[female]", ""),  # gloss
+            ("(human)", ""),  # gloss
             ("(hyena)", ""),  # gloss
+            ("(lend)", ""),  # gloss
+            ("(lion)", ""),  # gloss
+            ("(listen)", ""),  # gloss
+            ("(male)", ""),  # gloss
             ("(mother)", ""),  # gloss
+            ("(mouth)", ""),  # gloss
+            ("(nest)", ""),  # gloss
+            ("(of church)", ""),  # gloss
+            ("(of house)", ""),  # gloss
+            ("(people)", ""),  # gloss
+            ("(-human)", ""),  # gloss
+            ("(person)", ""),  # gloss
             ("(seed,grain)", ""),  # gloss
+            ("(sick person)", ""),  # gloss
+            ("(a sick person)", ""),  # gloss
+            ("(sister in law)", ""),  # gloss
+            ("(sister)", ""),  # gloss
             ("(skin bark)", ""),  # gloss
+            ("(smoking)", ""),  # gloss
+            ("(snail)", ""),  # gloss
+            ("(arm)", ""),  # gloss
+            ("(hands)", ""),  # gloss
+            ("(hand)", ""),  # gloss
+            ("(-idi in counting)", ""),  # gloss
+            ("(biki=piece of wood)", ""),  # gloss
+            ("(unexpectedly)", ""),  # gloss
             ("(spoil,destroy)", ""),  # gloss
+            ("(thick forest)", ""),  # gloss
+            ("(thick foest)", ""),  # gloss
+            ("(thing)", ""),  # gloss
+            ("(unripe)", ""),  # gloss
+            ("(woman)", ""),  # gloss
         ],
     )
 
