@@ -1,476 +1,2722 @@
 LEXEME,REPLACEMENT,COMMENT
-see  412,-,
-see 935,-,
-see machuchuna,-,
-see mpacha,-,
-buraato  # see note #,-,
-see kahandi,-,
-see kagonju,-,
-see mnyau,-,
-see pasingu payuma,-,
-see various uses,-,
-ku(tetema) see #528,kutetema,
-see liyegha(wind),-,
+-- (imbunda),imbunda,
+-bolo (ubolo),-bolo,alternative
+-caamba (kokona..?),-caamba,
+-chemka(-chemsha),-chemka,alternative
+-daha (minzI),-daha,
+-damanya bome (-tengeneza shimo),-damanya bome,alternative
+-dikwa (-idikwe),-dikwa,alternative
+-doka(-dosha caus.),-doka,alternative
+-duika (-duisha caus.),-duika,alternative
+-dUka (-dUkana),-dUka,alternative
+-dUla (dUlUla),-dUla,alternative
+-enda(-endisha),-enda,alternative
+-futaa (-futa?),-futaa,alternative
+-iri(-ri?),-iri,alternative
+-isama(miayu),-isama,
+-isanya (-isanIja),-isanya,alternative
+-kaluka(kughu),-kaluka,
+-kong'ire(matured),-kong'ire,897_mature
+-ku(lilongalonga),-ku,
+-kundika(njuirI),-kundika,
+-kwara(-ku-kwara(reflexive)),-kwara,alternative
+-ota (-oteela),-ota,alternative
+-ota(idhuva),-ota,
+-puputira(pupurisa),-puputira,alternative
+-pwita(-pwila),-pwita,alternative
+-rera(rear),-rera,alternative
+-shighija (-shighwa(passive)),-shighija,alternative
+-shota (-shotwa),-shota,alternative
+-uha (-wuha?),-uha,alternative
+-vurutu(-vuruta),-vurutu,alternative
+-wonje(koonja),-wonje,alternative
+"--ine",-ine,
+"-(no cattle)",,
+"-dedebe, (-debe)",-dedebe,
+"-gInu, -kando (mtutu)",-gInu,
+"-guzu,obwilaguzu(wensi) ?",-guzu,
+"-kalikali, (mpiti)",-kalikali,
+"-liya,ki?(kiiya)",-liya,
+"-manya(cf.-tisiva)",-manya,
+"-vyibushe,((ku)vyibuha)",-vyibushe,
+"-yambika (pika), kw-ambika (ku-pika)",-yambika,
+"?tale ?",,
+"(-nene)anenipi,kinenipi",anenipi,
+"(-o)(-ri)(-riya)(eg.ogwo,aako,eecho,ori,kiri,guri,",-o/-ri/-riya,
+"(a-baba), tata",tata,
+"(a-mama), maangu",maangu,
+"(bi,ba,zi)-ngaa,nha(h)a(i)",bingaa/bangaa/zingaa,
+"(chini), hasi",chini,
+"(chuma), minya",chuma,
+"(echokaa),inoni",inoni,
+"(embiingo),orubingo",orubingo,
+"(fatuma),ekebhagho",ekebhagho,
+"(g)ubuta, (g)utina, (k)","gubuta/gutina",
+"(g)uguja, (k)","guguja",
+"(g)ugula, (k)","gugula",
+"(g)ugwa, (k)","gugwa",
+"(g)ukima, (k)","gukima",
+"(g)ukolola, (k)","gukolola",
+"(g)umala, (k)","gumala",
+"(g)upula, (k)","gupula",
+"(g)usha, (k)","gusha",
+"(g)wilalangija, (k)","gwilalangija",
+"(g)wilondeleja, (k)","gwilondeleja",
+"(gotumia),ogotumekera",ogotumekera,
+"(ichikundi), u_u_fyo",u_u_fyo,
+"(iindoa), iinsaka",iinsaka,
+"(imisiyano),misigwano",misigwano,
+"(inkopyo), iinkopyo",iinkopyo,
+"(ku-heketa), ku-chinja",ku-chinja,
+"(ku-pya), pyaa",kupya,
+"(kU)buta(ng'hwi),-senha",kUbuta,
+"(ku)goba,(kunula)",kugoba,
+"(kU)nya(mbUla),-tUla",kUnyambUla,
+"(ku)shaba(ngana),kuchuga",shaba,
+"(ku)tenga, (kuhola)",tenga,
+"(kufenafena), kuvinavina",kuvinavina,
+"(kukonyoka),okuzaza",okuzaza,
+"(kukunja), kupinda [kope:nda]",kukunja,
+"(kumukhono) kumulayi, kumusetsa",kumulayi,
+"(kumyanga), kumianga",kumianga,
+"(kunyurura),kukuura",kukuura,
+"(kusanganya), ku_vuluuwa",kuvuluuwa,
+"(kusobola), kuko_po_la",kusobola,
+"(kutambaala)kutambatamba,kutambuka?",kutambatamba,
+"(maangukulu), biibi",biibi,
+"(miangie), ughendo",ughendo,
+"(mUndU wa nja),mUndU mUka",mUndU mUka,
+"(n)jalo,also njale",njalo,
+"(nyimbu), msambu",msambu,
+"(o)kulwana,(obhulwani)",kulwana,
+"(okukata),okubutwa",okubutwa,
+"(okukuba),okukunja",okukunja,
+"(omonto)egone, eroho, ikuge ?",egone,
+"(omutima),omuganya",omuganya,
+"(peneti), kumuboono",kumuboono,
+"(shafi), mzitu, nyika",mzitu;nyika,
+"(uku)ziwata, ((uku)fumpa)",ziwata,
+"(umusi),umubarwa",umubarwa,
+"(umwaanche), umwaana",umwaana,
+"(undezi) [o:nde*:zi], unsimbya [o:nsi:mbja]",undezi,
+"(urubibe),inkiko",inkiko,
+"(use grass) ?",,
+"(uuchilume) [oocelo:me*:], uulume [oolo:me*]",uuchilume,
+"*-cu,/i/ | *-cu,\i,/",*-cu,
+"*-cu,\k-  (*-cu\k-)",*-cu,
+"*-gu\bu/ | *-gu,\bu,/",*-gu,
+"*-gu\du\  (*-gu\du/)  (*-ju\du/)",*-gu\du\,
+"*-ji/ | *ji,",*-ji,
+"*-ku,/pa\  (*-ku/pi,/)",*-ku/pa,
+"*-nu,/-  (*-mu,/-)",*-nu,
+"*-nu\a\  (*-mu,\a\), (*-nyu,\a\)",*-nu\a\,
+"*-ti,/ma/ | *-ci,/ma/",*-ti,
+"*-tu/i,/  (*-tu/)",*-tu/i,
+"*-yi,/gu,-  (*-yu/g-)",*yi,
+"*-yi,\ce/  (*-yi\ce/)  (*-ce/)",*-yi,
+"*-yi,\ce/  (*-yi\ce/)  (*-ce/)",*-yi\ce/,
+"*-yi,\co/ | *-yi\co/  (*-co/)",*-yi,
+"*-yi,\kad-  (*-ka\d-)",*-yi,
+"**-pa/-  (*-pe/-)",**pa-,
+"1) ng'hoso, 2) mbuku","ng'hoso/mbuku",
+"1) ng'hoso, 2) mbuku","ng'hoso/mbuku",
+"1)omuramu,2)omuramukazi","omuramu/omuramukazi",
+"aala, uxu-","aala",
+"afuye aminso, (atakulola aminso)",afuye aminso,
+"aguula, uxu-","aguula",
+"amabere:amata(cattle);amashereka(brest milk)",amabere,
+"amatoko, (amadoho)",amatoko,
+"apaa, (ukwoo)",apaa,
+"awala (inkuwa), (iliwe likulu)",awala,
+"baaga, uxu-","baaga",
+"bonene,abo(those)",bonene,
+"bunta, uxu-","bunta",
+"busa (cowdung), mizi",busa,
+"bwacha(kumekucha),kucha",bwacha,
+"cha, fwa, uxu-","cha, fwa",
+"chifyono (icha ng'ombe), mutembo",chifyono,
+"chindu, (sindu)",chindu,
+"daada, ise (babaake)",daada,
+"dahya, uxu-","dahya",
+"deema, uxu-","deema",
+"doda, uxu-","doda",
+"dulaa, uxu-","dulaa",
+"dulula imiso, uxu-","dulula imiso",
+"dumula, uxu-","dumula",
+"ebihondo(ihangiro),ebishabo",ebihondo,
+"egesarra, (amasarra)",egesarra,
+"ekiguru ,ekima(ebima)",ekiguru,
+"ekilonda,empolela(donda duga)?",ekilonda,
+"ekitumbi(stool),ekiti(chair)",ekitumbi,
+"ekizina,oluhooya(empooya) ekiyaga",ekizina,
+"eliisho,(amaisho)",eliisho,
+"emitugo(mitugo),zing'ombe(cattle)",emitugo,
+"entuboka,(egesima)",entuboka,
+"eryoba(amaryoba),orusiku",eryoba,
+"finika, ili/:ka\",finika,
+"fukilya, uxu-","fukilya",
+"fyo/:m\bo","fyom\bo",
+"galuunxana, uxu-","galuunxana",
+"galuxa, shotomoxa, uxu-","galuxa, shotomoxa",
+"ganda, uxu-","ganda",
+"gava, uxu-","gava",
+"gelya, uxu-","gelya",
+"genda, uxu-","genda",
+"gendageenda, uxu-","gendageenda",
+"gonaxansaga, uxu-","gonaxansaga",
+"gubina mbina, (kubina)",gubina mbina,
+"gugabany'ha, (k)","gugabany'ha",
+"gugaluka, (k)","gugaluka",
+"gula, uxu-","gula",
+"gulya, uxu-","gulya",
+"gusagalala, (k)","gusagalala",
+"gwaa, uxu-","gwaa",
+"gwila wusisya, uxu-","gwila wusisya",
+"hIta,guIma,(kUhita)",hIta,
+"iganie, uxu-","iganie",
+"igikilya, uxu-","igikilya",
+"ihuha, kuhuha (kuwa epesi)",ihuha,
+"iitulu, (amatulu)",iitulu,
+"iiua, (amaua), iingala",iiua,
+"ija, iju, uxu-","ija, iju",
+"ijulaa, uxu-","ijulaa",
+"ijunguluka, (ithunguka)",ijunguluka,
+"ilikhopa,(amakhopo)",ilikhopa,
+"ima, uxu-","ima",
+"inama, uhemba (memba)",inama,
+"indua(unkongolo),ibongoto",indua,
+"ingurubhe, also embeche = wild pig",ingurubhe,
+"ingwena, ngwena  (umbulu)",ingwena,
+"insanko, (intande)",insanko,
+"inyawara,(chinywara)",inyawara,
+"ipaane nu, uxu-","ipaane nu",
+"ipumunte, uxu-","ipumunte",
+"ir*a, ikocha (nyinda)",ir*a,
+"ir^ekyia, ipuo (mr*inga)",ir^ekyia,
+"irikorokonyo(amakorokonyo),irigongora(amagongora)",irikorokonyo,
+"irunduka, (itilyia)",irunduka,
+"isaia, (iambuya)",isaia,
+"isaka [isa\/:ka]",isaka,
+"isiku [esi:ko], (ulusiku) [olosi:ko]",isiku,
+"isole(isoli),lisoli",isole,
+"isutwa(ko monto),isita ko ng'ombe",isutwa,
+"iswa (nyasi), idakala",iswa,
+"itaa, uxu-","itaa",
+"itagho,(matagho)",itagho,
+"itapya imiji, uxu-","itapya imiji",
+"itixa, uxu-","itixa",
+"itutu (matutu), iumbo",itutu,
+"iva, uxu-","iva",
+"ivoya(mavoya),luzoa(mafoa)",ivoya,
+"ivwagha, (ithima)",ivwagha,
+"ixalaa, uxu-","ixalaa",
+"izina, (mazina)",izina,
+"iziso,also ijiso",iziso,
+"jaashe, \"siiji\"",jaashe,
+"jivu, hivu (mahivu)?",jivu,
+"jyukya, andya xavili, uxu-","jyukya, andya xavili",
+"kali, (mkali)",kali,
+"kamlima, (ifumbu)",kamlima,
+"kana, \"kiromu\"",kana,
+"kang'wa ,(lugomo?)",kang'wa,
+"kanolo(kidogo),-nolo",kanolo,
+"kenaa, uxu-","kenaa",
+"kepuxa, gandaa, uxu-","kepuxa, gandaa",
+"khu-roora,(kamarooro)",khu-roora,
+"khuwhida,khukulukha(ndege)",khuwhida,
+"kilambo (kiyOmO), nEma (nyOmO)",kilambo,
+"kimaa, uxu-","kimaa",
+"kimbundi, (lumbundi)",kimbundi,
+"kitsinde, (kachinyi)",kitsinde,
+"kiwunga ingoma,(indusi)",kiwunga ingoma,
+"kohamba,khotemera(jembe)",kohamba,
+"korema,(gochimba)",korema,
+"ku-finyiriza (macho), ku-diwa",ku-finyiriza,
+"ku-kolowa, ku-tingilivu -",ku-kolowa;ku-tingilivu,
+"ku-ngwa(maji), ku-lewa (pombe)",ku-ngwa,
+"ku-teka, (ntete)",ku-teka,
+"ku-wasa, =lugono",ku-wasa,
+"ku(bena),ku(gobola)",kubena,
+"ku(jumba)(long),kughuluka(fly)",kujumba,
+"ku(kumbula),ku(fukula)",kukumbula,
+"ku(lolikesa),ku(lolikeha)(old)",kulolikesa,
+"ku(nuna),ku(nenepa)",kununa,
+"ku(punga), mbungi(the dance)",kupunga,
+"ku(shaba),kwenza",kushaba,
+"ku(timbila), konjughana",kutimbila,
+"ku(tindila),kuvigha luvigha",kutindila,
+"ku(yukuta)(food),ku(lovela)(beer)",kuyukuta,
+"kubaba,kuzagata(kana funza)",kubaba,
+"kuboka, (kujenda)",kuboka,
+"kufunya [kofu:n$a], (kukupa)",kufunya,
+"kuhaguka,kulazya(zima mot)?",kuhaguka,
+"kuhya(ebiraba)(for fruit),kweela(omugusha oburo)",kuhya,
+"kukocha [koco*:ca:], (kupemba) [kope*:mb#",kukocha,
+"kukukumba,kukumanya obu/ofu(kukusanytaka)?",kukukumba,
+"kukuza, (kunyuhanya)",kukuza,
+"kukwegamila [kokwe*game:la], (kusagamila) [kosagam",kukwegamila,
+"kula, uxu-","kula",
+"kulania, uxu-","kulania",
+"kulima,busesa,kupona(kupanda)",kulima,
+"kumamisya(final),obulamuzibyo kumalizya(uamu?wamwi",kumamisya,
+"kumbata, uxu-","kumbata",
+"kumpa, uxu-","kumpa",
+"kumuxa, uxu-","kumuxa",
+"kunagilizya,kubumba-tanya(funga mdomo)",kunagilizya,
+"kungania, uxu-","kungania",
+"kunnya (mavi), kutunda (mhojo)",kunnya,
+"kunnya(mavi),kutunda(mkojo ?)",kunnya,
+"kupota, (kuswokota)",kupota,
+"kusaswa(kuugua),-saswa",kusaswa,
+"kusemela(kuwabora),-semela?",kusemela,
+"kuswelezya(kuona muulana),kugabula(kuoza msichana)",kuswelezya,
+"kuteera(omugusha emperege),kuhogora",kuteera,
+"kutila(hem pombe?),kutundula(milk)",kutila,
+"kutola, (kupapa)",kutola,
+"kutopola, (kuhaka)",kutopola,
+"kututusa, (kupe_nda)",kututusa,
+"kuva, xonta, uxu-","kuva, xonta",
+"kuyota (lijuva), (motu)",kuyota,
+"kuzinga, (kupilimya)",kuzinga,
+"kw-asa, kw-atika (intr.)",kw-asa,
+"kwamira(ndege),kuwinga",kwamira,
+"kwenda,obwezi(mapenzi)",kwenda,
+"kwesa, uxu-","kwesa",
+"kwi-punia,  (shougelyo)",kwi-punia,
+"kyandwi [gen.], (ishami)",kyandwi,
+"kyetu,(bhyetu pl)",kyetu,
+"kyuu, \"shuu\"",kyuu,
+"lavaalava, uxu-","lavaalava",
+"legunxana, uxu-","legunxana",
+"lexa, uxu-","lexa",
+"lifuki, (lihuki)",lifuki,
+"liganga,ilinganga(maganga)",liganga,
+"lihuluhulu, (mahuluhulu)",lihuluhulu,
+"liikhee,(likhoo)",liikhee,
+"likala, (makala)",likala,
+"likokolo (ya mnyama), mmeli (ya mitu)",likokolo,
+"linha (shimo dogo), +",linha,
+"lisaungu,(amasaungu)amabingo",lisaungu,
+"lisomi(vulgar),litongu",lisomi,
+"lolela, uxu-","lolela",
+"londya, igikilia, uxu-","londya, igikilia",
+"lukomela, lugo (corral)",lukomela,
+"lumambo (umoja), +",lumambo,
+"lumbya, uxu-","lumbya",
+"lunwe (index), lugalo",lunwe,
+"lutala, (guganga)",lutala,
+"maizi (mengi), izi (moja)",maizi,
+"maliilya, uxu-","maliilya",
+"malisixa, uxu-","malisixa",
+"mamba, (king'ange)",mamba,
+"manyaa, uxu-","manyaa",
+"maoka, (lioka)",maoka,
+"mayayaghala, liyayaghala (lubafu)",mayayaghala,
+"mbe/:ku\, mbeyu",mbe:ku,
+"mbewa(general),dikweri(wa nyumbani)",mbewa,
+"mbIa,IkindU(makIndu)",mbIa,
+"mbuji, \"mbushi\"",mbuji,
+"mburu, \"yaanri\"",mburu,
+"mendi, (libeva)",mendi,
+"mgeya(okivuka njia hupa), mphukuzu,mendi(wa porini",mgeya,
+"mgosi (mwanamume yeyeto), mnume (mume)",mgosi,
+"milaa, uxu-","milaa",
+"mima, uxu-","mima",
+"minya, syema, uxu-","minya, syema",
+"minya, xama, uxu-","minya, xama",
+"mlachi, (chokaa)",mlachi,
+"moku (mnguu), mala (wa kum#",moku,
+"moongo, mma (mlango)",moongo,
+"mrasa, (ur*iwo)",mrasa,
+"msutu(accepted in the family line, also 728-9)",msutu,
+"mta/:ma\",mta:ma\,
+"mtana, (mzuri)",mtana,
+"mtua, (mfalumi)",mtua,
+"mtuwa, (mbuyi)",mtuwa,
+"mtuwa,(mbuyi) ?",mtuwa,
+"mukati, bofulo (cimumutwa)",mukati,
+"mupata?,ikulubhebha;mupanga(mubata ?)",mupata,
+"mwile (utamu), imwile (tamu)",mwile,
+"mwisho, \"mmando\"",mwisho,
+"mwomu wa kunami,kunogha(taste)",mwomu wa kunami,
+"ndedha, luedha 11",ndedha,alternative
+"ne, (nenga)",ne,
+"ng'ombi, (mlumi)",ng'ombi,
+"ng'uula, uxu-","ng'uula",
+"ng'weela, uxu-","ng'weela",
+"nia, uxu-","nia",
+"nia?, (nyane)",nia,
+"nndunya, \"wembe\"",nndunya,
+"nola, uxu-","nola",
+"nonaa, uxu-","nonaa",
+"nyoka (mdogo), zoka (mkubu)",nyoka,
+"oboraro,(etaracha)",oboraro,
+"oborwaire,(endema)",oborwaire,
+"obuhango(ukubwa),-hango",obuhango,
+"obuhunguzi,kuhungula(kurithi?)",obuhunguzi,
+"obuhyo(nte),ekisibo(mbuzi)(?!),eihye(army)",obuhyo,
+"obulenga(uvivu),-lenga",obulenga,
+"obunolo(uchache),-nolo",obunolo,
+"obuzaza(ukali),-zaza",obuzaza,
+"obuzima(uzuri),-zima",obuzima,
+"oha?(nani?),kiha?(kipi?)",oha,
+"ohu-kanda, ohu-huba(emigahi)",ohu-kanda,
+"okubhila(omumwi),(omulilo)",okubhila,
+"omoboraka,(riteba)",omoboraka,
+"omochie,(etaoni)",omochie,
+"oruganda,(ekika)",oruganda,
+"paapa, uxu-","paapa",
+"palaa, (kulaa)",palaa,
+"panyila, uxu-","panyila",
+"pata, uxu-","pata",
+"patula, uxu-","patula",
+"peela, uxu-","peela",
+"peela, uxu-","peela",
+"pita musingi, uxu-","pita musingi",
+"pita, uxu-","pita",
+"pixa, vela, uxu-","pixa, vela",
+"pokeela, uxu-","pokeela",
+"pola, uxu-","pola",
+"pukuula, uxu-","pukuula",
+"pumpunka, uxu-","pumpunka",
+"pupuntala, uxu-","pupuntala",
+"putililya, uxu-","putililya",
+"rikora(ugoro), omoseire (= bundle)",rikora,
+"ritete,risiyaga(amasiyaga)",ritete,
+"sambalaa, uxu-","sambalaa",
+"se, (che)",se,
+"sentamila, uxu-","sentamila",
+"shi ya, (chini ya)",shi ya,
+"shinsi, (tenyinji)",shinsi,
+"shumile,shumu(khiyumile)",shumile,
+"sigalila, uxu-","sigalila",
+"siimpa, uxu-","siimpa",
+"siliva, uxu-","siliva",
+"simila, uxu-","simila",
+"sina, uxu-","sina",
+"siranga, chigono(ngoma ndoga)",siranga,
+"sogora, (yeepa apa)",sogora,
+"sola, uxu-","sola",
+"sona, uxu-","sona",
+"sonja, uxu-","sonja",
+"soxola, uxu-","soxola",
+"sukula, uxu-","sukula",
+"sulula, uxu-","sulula",
+"sunama, uxu-","sunama",
+"sunxa, uxu-","sunxa",
+"supa, uxu-","supa",
+"suupa, uxu-","suupa",
+"sya, uxu-","sya",
+"talamuxa, uxu-","talamuxa",
+"tamantama, uxu-","tamantama",
+"tambi,  (rera(tall))",tambi,
+"tata, tatililia, uxu-","tata, tatililia",
+"tegaa, uxu-","tegaa",
+"tegela, uxu-","tegela",
+"tembuula, uxu-","tembuula",
+"tetemaa, uxu-","tetemaa",
+"tetemela, ku-ungula (vanaungula)",tetemela,
+"texa, uxu-","texa",
+"tima, banixa, uxu-","tima, banixa",
+"timbana, uxu-","timbana",
+"togotya, uxu-","togotya",
+"tuga, uxu-","tuga",
+"tukila, uxu-","tukila",
+"tula, uxu-","tula",
+"tulangixa, uxu-","tulangixa",
+"tumama, uxu-","tumama",
+"tumama, uxu-","tumama",
+"tumbaku, (litumbaku)",tumbaku,
+"tunda, uxu-","tunda",
+"tungama, uxu-","tungama",
+"tungumala, uxu-","tungumala",
+"tuuva, uxu-","tuuva",
+"tyana, uxu-","tyana",
+"u-khama,(u-sindika)",u-khama,
+"uhundrrya(amaiso),komontania,mumuntania(umunywa)",uhundrrya,
+"ukufena, ukukama (imyenda)",ukufena,
+"ukuipangasha (pangash#, ukuteyanya (teyanya)",ukuipangasha,
+"ukukomanya (komanya), ukuzana (zan#",ukukomanya,
+"ukulanda (landa), ukuvwang#",ukulanda,
+"ukulemula (lemula), zanikizya",ukulemula,
+"ukulila (lila), ukulosha (losha)",ukulila,
+"ukuomba (omba), ukuchita (chita)",ukuomba,
+"ukupama ikoofi, (ukuzyangula)",ukupama ikoofi,
+"ukupata (pata), ukufopola (fopola)",ukupata,
+"ukupilinga (pilinga), kukos#",ukupilinga,
+"ukupuula (imyenda), ukufuula (imyenda)",ukupuula,
+"ukupuula(imyenda),ukufuuta(imyenda)",ukupuula,
+"ukusenda inda (senda inda), ukunyomelela (nyomelel",ukusenda inda,
+"ukutantamala (tantamala), ukololoka (ololoka)",ukutantamala,
+"ukutontenkana (tontenkana), ukuzukilila (zukilila)",ukutontenkana,
+"ukutwala (twala), ukusaka (saka)",ukutwala,
+"ukuyunga (yunga), ukwela (ela)",ukuyunga,
+"ulumboleti, (mboleti)",ulumboleti,
+"uluvha (nnduvha-maua), maluvha",uluvha,
+"ulwimbo,(indzimbo)pl.",ulwimbo,
+"umusafi,(avasafi)",umusafi,
+"umweene, (uwene)",umweene,
+"unezara, (ishivego)",unezara,
+"unkulu [onko:lo], (umwene) [omwe*:ne*]",unkulu,
+"urukwaavu(agakwaavu),bakame",urukwaavu,
+"uxuyaula, gwiila, uxu-","uxuyaula, gwiila",
+"vilaa, uxu-","vilaa",
+"vishimikho,(amakhopo)",vishimikho,
+"wiila, uxu-","wiila",
+"wuga, uxu-","wuga",
+"wuxa, uxu-","wuxa",
+"xalaa, uxu-","xalaa",
+"xalinga, uxu-","xalinga",
+"xanxama, uxu-","xanxama",
+"xanya, uxu-","xanya",
+"xolola, uxu-","xolola",
+"xolwa, uxu-","xolwa",
+"xolya umoto, uxu-","xolya umoto",
+"xomangila, uxu-","xomangila",
+"yapepela, (ukupelela)",yapepela,
+"yava, uxu-","yava",
+"yunga, uxu-","yunga",
+(-sherusha),-sherusha,
+(amasinsi);amanyansonoku,;amanyansonoku,
+(chuma cha) pua,pua,alternative
+(cibU),cibU,
+(daaja) tingetinge,tingetinge,
+(e)ikopo(makopa),eikopomakopa,
+(e)inoni(lime),einonilime,
+(egesimba)ribumburi,ribumburi,
+(endimani),endimani,
+(eshongo),eshongo,
+(ghasuku),ghasuku,
+(ging'ombe)ekinibo ?,ekinibo,
+(gU)daha (minze),gUdaha,
+(gU)kuba(mo),gUkubamo,
+(gU)nung'ha (chiza),gUnung'ha,
+(gUkena),gUkena,
+(he)yaBo 5,heyaBo,alternative
+(i)`taha (mriinga),i`taha,
+(i)for*i (mafori),ifor*i,
+(i)via (mavia),ivia,
+(ichokaa),ichokaa,
+(ifito)imango,imango,
+(ifwagaja)ifigo,ifigo,
+(ighoBe),ighoBe,
+(ihaangwe)omusana,omusana,
+(ihaka) itinia,itinia,
+(ikande)-ungumba,-ungumba,
+(ikande); ungumba [o:n*go:mba#,ungumba,
+(ilelema) amalelema,amalelema,
+(ilisiva)iligimu,iligimu,
+(iliwoko)ilya ndyo,ilya ndyo,
+(imbunda),imbunda,
+(intenti) inyenyenzi,inyenyenzi,
+(irumbi)oruteri,oruteri,
+(itaramo) ifee,ifee,
+(iu),iu,
+(kal*a) nzingo,nzingo,
+(kanda-adopted now)  !,kanda,
+(khu)vonana(kuonana),khuvonana,
+(kigholo)livandu,livandu,
+(kiki?)-ki,-ki,
+(kikokora),kikokora,
+(kile_lu),kile_lu,
+(kimema)vyolofu,vyolofu,
+(kimemena),kimemena,
+(kimereteko?),kimereteko,
+(king'ala),king'ala,
+(kIrauni),kIrauni,
+(kIroto),kIroto,
+(koko),koko,
+(kosafiili)kusafili,kusafili,
+(kotobhera),kotobhera,
+(ku)aa(kuwa),ku)aa(kuwa,
+(ku)bumba(enyungu),kubumba,
+(kU)bUra(nguo),kUbUra,
+(ku)buura(cuma),kubuura,
+(kU)enda(kUthi),kU)enda(kUthi,
+(ku)fula(amenda),kufula,
+(ku)ghonela(injosi),kughonela,
+(ku)huja(umwenda),kuhuja,
+(ku)ita (kwiita),kuita,
+(ku)kosa (moto),kukosa,
+(ku)loba(mfwi),kuloba,
+(ku)lota(maloto),kulota,
+(ku)lowelana (chokolo),kulowelana,
+(ku)lowo (nkati),kulowo,
+(kU)m'yoola (kUgUlu),kUm'yoola,
+(kU)nyunga(naI),kUnyunganaI,
+(kU)nyunga(nesa),kUnyunganesa,
+(ku)papa (monu),kupapa,
+(ku)swika ((ku)sabika),kuswika,
+(ku)teka (masi),kuteka,
+(ku)teteleka (mwendo),kuteteleka,
+(ku)thukia(kaana),kuthukia,
+(ku)ura(na ntiri),kuurana ntiri,
+(ku)ura(nguo),kuuranguo,
+(kU)uta (kIw'u),kUuta,
+(ku)vula (nguu),kuvula,
+(ku)vwumba(ifivija),kuvwumba,
+(ku)woposola (nguwu),kuwoposola nguwu,
+(ku)yupa (zawadi),kuyupa,
+(kUbiza) tigI ?,tigI,
+(kudaila),kudaila,
+(kufundisya)kuwongo,kuwongo,
+(kugimbika),kugimbika,
+(kukongana)kuniengana,kuniengana,
+(kukonja)e.g.construct a boat,kukonja,377_constructputtogether
+(kukua),kukua,
+(kUruta)kIgongona,kIgongona,
+(kusanganya)kuvuluuwa,kuvuluuwa,
+(kushona); kusuma [kosu:ma],kusuma,
+(kushona)kusuma,kusuma,
+(kutunga) ?,kutunga,
+(kuvina),kuvina,
+(kwaata),kwaata,
+(kwongelao),kwongelao,
+(luge),luge,
+(ma-ghobe),ma-ghobe,
+(malango),malango,
+(mbopu),mbopu,
+(mkoma),mkoma,
+(mkono wa) kulila,kulila,alternative
+(mohaghachiwa magena)  ?,mohaghachiwa magena,alternative
+(mphanda),mphanda,
+(mungu);nyamohanga;waryuba,nyamohanga;waryuba,
+(muntu)muka,muka,
+(muthanga),muthanga,
+(mUthe)mUndU mUkUrU,mUndU mUkUrU,
+(mwenene),mwenene,
+(ndabu)eny-eri,eny-eri,
+(nene),nene,
+(nkOndO)byekeranu,byekeranu,
+(nonywe) okunywa,okunywa,
+(ntufi)mundu ywa afwire,mundu ywa afwire,
+(nyumu)nthI,nthI,
+(obhulo) oluto,oluto,
+(okobelekela) chera,chera,
+(okogoga)ugusincha?,ugusincha,
+(okohoyera);omobhaso ghonswe,;omobhaso ghonswe,
+(oku)bila (omumwi-jua?);(omulilo-moto),okubila,
+(oku)hemba(moto),okuhemba,
+(oku)kundeka(zinwele),okukundeka,
+(oku)masura(mutego),okumasura,
+(oku)mita (nguo),okumita,
+(oku)roto(ekeroto),okuroto,
+(okuboko)ekisanyi,ekisanyi,
+(okujuga),okujuga,
+(okusafiri),okusafiri,
+(omonto ohene)ubhuya,ubhuya,alternative
+(omuganya)kuteera na amani   (!),kuteera na amani,
+(omutavu)enyana,enyana,
+(omwana)abana,abana,
+(or^ia) ndor^o,ndor^o,
+(pingoku) [at cock-crow],pingoku,
+(risasi),risasi,
+(s)okukwama(kisime),sokukwama,
+(shaba),shaba,
+(shida?),shida?,
+(shitale),shitale,
+(singo) ugosi,ugosi,
+(tatakulu) sokulu,sokulu,
+(u)Bongo 14,uBongo,alternative
+(u)shaa (ngishaa),ushaa,
+(uku)konka (umusololongo),ukukonka,
+(uku)kosa (umoto),ukukosa,
+(uku)lowa (inswi),ukulowa,
+(uku)luunda(amahwaahwaa),ukuluunda,
+(uku)pama (ulupi),ukupama,
+(uku)puuta;(uku)pwiitula(umoto),ukupuuta;ukupwiitula,
+(uku)ryo (okubhoko-ukuryo),ukuryo,
+(uku)wopola(imyenda),ukuwopola,
+(umuhika),umuhika,
+(umwale)umwenga,umwenga,
+(undezi)unsimbya,unsimbya,
+(uuchilume)uulume,uulume,
+(uuluzi); ulupyuno [olopjo:no*],ulupyuno,
+(uuluzi)ulupyuno,ulupyuno,
+(uwaya) [owa:ja],uwaja,
+(w)ota(jua au mwonki),wotajua au mwonki,
+(wahogosi),wahogosi,
+(yemba)okwemba,okwemba,
+*-bi\ya/  (*-bi\ga/),*-bi\ya,
+*-bu\e\  (*-gu\e\),*-bu\e\,alternative
+*-ga\mb-  (*-ya\mb-),*-ga\mb-,alternative
+*-ga\mbo\  (*-ya\mbo\),*-ga\mbo\,alternative
+*-ge\go\  (*-je\go\),*-ge\go\,alternative
+*-go\mbe\  (*-n$o\mbe\),*-go\mbe\,alternative
+*-gu\d-  (*-yu\d-),*-gu\d-,alternative
+*-ko/  (*-ku/e/),*-ko,
+*-ko/  (*-ku/e/),*-ko,
+*-ma\d-  (*-ma\n-),*-ma\d-,alternative
+*-me\d-  (*-me\n-),*-me\d-,alternative
+*-mu\a\g-  (*-mu\a\n$g-),*-mu\a\g-,alternative
+*-te/  (*-ta/),*-te/,
+*-ye/nje/  (*-jenje),*-ye/nje/,alternative
+*-ye\d-  (*-ge\d-),*-ye\d-,alternative
+*-yu\ndo\  (*-du\ndo\)  (*-ju\ndo\),*-yu\ndo\,alternative
+1.gate   2.monse,gate/monse,
+1)gusunika 2)kwenyegeza - to push firewood or ***,gusunika/kewnyegeza,
+1)kinyongo 2)kikwabhe,kinyongo/kikwabhe,
+1)okuryeka(mtu) 2)okotokera((kitu)=kufukia),1)okuryeka,alternative
+1)okuryeka(mtu) 2)okotokera((kitu)=kufukia),okuryeka/okotokera,
+1)sobukwe(yours)databukwe(mine){male} 2)nyokobukwe,,
+1)sobukwe(yours)databukwe(mine){male} 2)nyokobukwe,1)sobukwe,alternative
+1)uguhola;2)ugukila,uguhola/ugukila,
+abango (lyente),abango,
+afieye (maiti),afieye,
+aha 16,aha,alternative
+aka (shir*iki),aka,
+akapwata (imbuzi),akapwata,
+alehane (italaka),alehane,
+ama mambare meri 6,ama mambare meri,alternative
+amaburi (eriburi),amaburi,alternative
+amagala;ulubahila(ilibahila),amagala;ulubahila,
+amaguta(ga zemono),amaguta,alternative
+amaino gi nchugu(umwino),amaino gi nchugu,
+amakanda(amatonyanga),amakanda,alternative
+amakara (sing.likara),amakara,334_charcoal
+amalingwa(sing.ilingwa),amalingwa,880_maize
+amatuki(tuka),amatuki,alternative
+amavele(ama-vele),amavele,alternative
+asali (ya njuki),asali,alternative
+avana(avanishe),avana,alternative
+awe(awe),awe,alternative
+baba(vava),baba,alternative
+bada (mbada),bada,alternative
+basirya(basirya kusinya izo),basirya,alternative
+baza(tyarya),baza,
+bhosi(bhosigo),bhosi,alternative
+bhuzoki(bhusinga),bhuzoki,alternative
+bi-ngahe(vitu)zi-ngahe,bi-ngahe,alternative
+bibhwe(amabhwe),bibhwe,alternative
+bihuti 8,bihuti,alternative
+bingI (-ingi),bingI,alternative
+binOxO 8,binOxO,alternative
+bita 8,bita,alternative
+bo-giti 14,bo-giti,alternative
+bogabi 14,bogabi,alternative
+bogwE-ne 14,bogwE-ne,alternative
+bohElE bonEnage 14,bohElE bonEnage,alternative
+bohEmbE 14,bohEmbE,alternative
+bojOha 14,bojOha,alternative
+bojoko 14,bojoko,alternative
+bokOlO 14,bokOlO,alternative
+bokwa 14,bokwa,alternative
+bola 14,bola,alternative
+bolO 14,bolO,alternative
+bolOgi 14,bolOgi,alternative
+borEgia 14,borEgia,alternative
+boritO 14,boritO,alternative
+boruri 14,boruri,alternative
+bosa 14,bosa,alternative
+bosElE 14,bosElE,alternative
+bosena 14,bosena,alternative
+bosi 14,bosi,alternative
+bosOka 14,bosOka,alternative
+bosongo 14,bosongo,alternative
+bosyElE 14,bosyElE,alternative
+bota 14,bota,alternative
+bothO 14,bothO,alternative
+botombO 14,botombO,alternative
+boxaxa 14,boxaxa,alternative
+boxo 14,boxo,alternative
+boxOmani 14,boxOmani,alternative
+buna (mabuna),buna,alternative
+Busho 14,Busho,alternative
+chaa (cha muundi),chaa,1449_toe
+chaa (cha muundi),chaa,alternative
+chala (cha kunjayo) (?),chala,alternative
+chamu (chamu),chamu,alternative
+chibu(munene),chibu,
+chimbuche(chindokwa),chimbuche,
+chiwanja (mbuga),chiwanja,
+chombo (vyombo),chombo,alternative
+chulunga (cha chela),chulunga,alternative
+cumbI(mUnyA),cumbI,
+daaha;(daawe),daaha,
+dowa (madowa),dowa,alternative
+ebala 5,ebala,alternative
+ebE:lE 5,ebE:lE,alternative
+ebegO 5,ebegO,alternative
+ebhata(chibhata),ebhata,alternative
+ebhegero(sing.ekegero),ebhegero,1052_potvessel
+ebikiki pl.(ekikiki),ebikiki pl.,alternative
+ebina 5,ebina,alternative
+eburana 5,eburana,alternative
+ebwE 5,ebwE,alternative
+echisalu(ebisalu),echisalu,alternative
+echisango(ebisango),echisango,alternative
+echisike(ebisike),echisike,alternative
+echokezo(etanuru),echokezo,
+echolo(country),echolo,452_districtprovincecountry
+edarV 5,edarV,alternative
+edaxa 5,edaxa,alternative
+eduko 5,eduko,alternative
+egana 5,egana,alternative
+eganjiro 5,eganjiro,alternative
+egechonga(esinga),egechonga,alternative
+egEgO 5,egEgO,alternative
+egEmbE 5,egEmbE,alternative
+egesahu(abanyamwando),egesahu,
+egesara(ibhisara),egesara,alternative
+egesekere(ibhisekere),egesekere,alternative
+egesumuru(gietukia),egesumuru,
+egetomo(ibhitomo),egetomo,alternative
+eghorohe(endahu),eghorohe,
+egira 5,egira,alternative
+egogo(gogobya),egogo,alternative
+egOkO 5,egOkO,alternative
+egolo 5,egolo,alternative
+egOlO 5,egOlO,alternative
+egoria 5,egoria,alternative
+egoro 5,egoro,alternative
+eguha 5,eguha,alternative
+egunku 5,egunku,alternative
+ehagwe(chihagwe),ehagwe,alternative
+ehiga 5,ehiga,alternative
+ehigO 5,ehigO,alternative
+ehiO 5,ehiO,alternative
+ehombu 5,ehombu,alternative
+ehororo 5,ehororo,alternative
+ehoti 5,ehoti,alternative
+ehuru 5,ehuru,alternative
+eiju(emiyonga),eiju,
+eilaka(sound is associated with a thing producing,eilaka,1500_voice
+eirogo(amalogo),eirogo,alternative
+ejere(re),ejere,alternative
+ekala 5,ekala,alternative
+ekalaga 5,ekalaga,alternative
+eke(bhese),eke,alternative
+ekebhe(ekebe),ekebhe,alternative
+ekebhebhe(ekebebe),ekebhebhe,alternative
+ekegenga(ibhigenga),ekegenga,alternative
+ekeko(ebeko pl),ekeko,311_calabash
+ekeng'erre (ibheng'erre),ekeng'erre,alternative
+ekesaka(ebhesaka),ekesaka,alternative
+eketoke(ebhetoke),eketoke,alternative
+ekibaryo(ebibaryo),ekibaryo,alternative
+ekikoba(emitugo),ekikoba,
+ekimasha(e.g.cow),ekimasha,126_barrenoflivingbeing
+ekirongori(obusara),ekirongori,
+ekiroto(ezindoto),ekiroto,alternative
+ekisaka(ebisaka),ekisaka,alternative
+ekitoke(eritoke),ekitoke,alternative
+ekituzi(ekituzi),ekituzi,alternative
+ekObO 5,ekObO,alternative
+ekomi 5,ekomi,alternative
+ekOnO 5,ekOnO,alternative
+ekOrani 5,ekOrani,alternative
+ekOrE 5,ekOrE,alternative
+ekundO 5,ekundO,alternative
+ekyora (ebhyora) pl.    also eghekere,ekyora,alternative
+elabatu 5,elabatu,alternative
+elalu 5,elalu,alternative
+elezya (linganya),elezya,
+eliso(amaso),eliso,
+elwala 5,elwala,alternative
+emambo(s.olumambo),emambo,1393_tentpegs
+embalabala(new usage) - (old Haya - Nyaiya:nda),embalabala,723_highway
+embaragero(irigena  ryu bhuturi),embaragero,alternative
+embura(mbura),embura,alternative
+empooya(oruhooya),empooya,alternative
+emundu (ibunduki),emundu,alternative
+eng'ana (amang'ana pl.),eng'ana,1567_word
+eng'ombe(iching'ombe),eng'ombe,alternative
+engae(omwiko),engae,
+engahi(chingahi),engahi,alternative
+engana(amangana),engana,alternative
+engenda(chingenda),engenda,alternative
+enjala(if famine=eifa),enjala,757_hunger
+enkende(enkobe),enkende,alternative
+enkoromba (eumbu),enkoromba,
+ensase(chinsase),ensase,alternative
+ense yaito (seito),ense yaito,alternative
+ensemo ya(ense),ensemo ya,alternative
+ensi(yaitu),ensi,
+enyEka 5,enyEka,alternative
+enyonyi(zi...),enyonyi,
+enyungu (y'okulesa),enyungu,
+erayo/eraxo 5,erayo/eraxo,alternative
+eri 5,eri,alternative
+eribhanga(ol.amabhanga),eribhanga,alternative
+erigi(amagi),erigi,
+erigo 5,erigo,alternative
+erina(amene),erina,
+erindo 5,erindo,alternative
+eringaringa 5,eringaringa,alternative
+erino(ameno),erino,alternative
+erinyeru(zi...),erinyeru,
+eririma(rima),eririma,alternative
+eriru(ameru),eriru,alternative
+eriso(amaiso),eriso,alternative
+eriso(amaso),eriso,
+eriso(ameso),eriso,alternative
+esai 5,esai,alternative
+esaka 5,esaka,alternative
+esase(zesase pl.),esase,1267_spark
+esia 5,esia,alternative
+esona(zesona),esona,alternative
+esyOka 5,esyOka,alternative
+etara 5,etara,alternative
+etararo 5,etararo,alternative
+etema 5,etema,alternative
+eto 5,eto,alternative
+etumu 5,etumu,alternative
+eubi  (echabu),eubi,
+eubi(echabu),eubi,
+exara 5,exara,alternative
+exau 5,exau,alternative
+exolo lya mbura 5,exolo lya mbura,alternative
+exOndOrO 5,exOndOrO,alternative
+exOti 5,exOti,alternative
+eyai 5,eyai,alternative
+ezinguru(amanaga),ezinguru,
+ezinzweri(inzweri),ezinzweri,alternative
+fia(fia),fia,alternative
+figho 9-10,figho,alternative
+fole 9-10,fole,alternative
+fua 9-10,fua,alternative
+gera(gererera),gera,alternative
+geturo/keturo 7,geturo/keturo,alternative
+gianko(bianko),gianko,alternative
+giempe(rwimbo),giempe,
+gife (vife),gife,alternative
+gikone(makone),gikone,alternative
+goeta(goetania),goeta,alternative
+gokyO 17,gokyO,alternative
+gosoma(gwesomia),gosoma,alternative
+gU(chagUla),gUchagUla,
+gU(sagaja),gUsagaja,
+gu(songora),gusongora,
+gU(twija),gUtwija,
+gucaura(kUbUUra),gucaura,
+guchachuka(kuraruka),guchachuka,alternative
+gUcheria(gUceria),gUcheria,alternative
+gucusa(guteka amazi akabirindu),gucusa,alternative
+gudegeleka (degelekaga),gudegeleka,alternative
+gufata(igihugu),gufata,
+guhotora (guhonyora),guhotora,alternative
+gUIta(gwIta),gUIta,alternative
+gukanza(myenda) +,gukanza,alternative
+gunde (?) 9-10,gunde,alternative
+gUsulwa (lUyaga),gUsulwa,
+gutara(igana?),gutara,alternative
+gutega(umutego:a bait),gutega,alternative
+gUtU(matU),gUtU,alternative
+gUtUla (mbula),gUtUla,
+guzuba (shi) (ndilo),guzuba,alternative
+gwetu(mujii),gwetu,
+gwisambo(hare bhagosambero ichinyongo?),gwisambo,alternative
+ha-ruke 16,ha-ruke,alternative
+hae 16,hae,alternative
+hafuhi 16,hafuhi,alternative
+hafuhi 16,hafuhi,alternative
+hala 16,hala,alternative
+handa (amenda),handa,alternative
+handu 16,handu,alternative
+hayO 16,hayO,alternative
+hena mbeho 16,hena mbeho,alternative
+hetu 16,hetu,alternative
+higa(shaaka),higa,
+i-mene(s) mene(nyingi),i-mene,alternative
+ialuka (kumoso au kulio),ialuka,alternative
+iaua (maua),iaua,alternative
+ibanza(mabanza),ibanza,alternative
+ibara (nungu),ibara,
+ibara(amabara),ibara,alternative
+ibata (mabata),ibata,alternative
+ibhwa (mbhwa),ibhwa,alternative
+ibubi (ulububi),ibubi,alternative
+ibUpU (mabUpU) ?,ibUpU,alternative
+ichaala(cha mwigulu),ichaala,alternative
+ichala(cha mwiwoko),ichala,alternative
+ichio 7,ichio,alternative
+ichivya (chombo),ichivya,
+ichumo(kachumo),ichumo,alternative
+idalu(madalu),idalu,alternative
+idu (madu),idu,alternative
+idumbu (madumbu),idumbu,alternative
+idwaji(amaduvaji)?,idwaji,alternative
+iemba (maemba),iemba,alternative
+Ieo(maeo),Ieo,alternative
+ifiga (mafiga),ifiga,alternative
+ifigha (mafigha),ifigha,alternative
+ifinga (ikohia),ifinga,alternative
+ifisaka (ikisaka),ifisaka,alternative
+ifiya(amafiya),ifiya,alternative
+ifofori (mafofori),ifofori,alternative
+ifori (mafori),ifori,alternative
+ifua (thori),ifua,
+ifumbi (amafumbi),ifumbi,alternative
+ifune(chifune),ifune,alternative
+ifunya (thori),ifunya,
+ifuro(amafuro),ifuro,alternative
+ifwe (ifwi),ifwe,alternative
+igego (magego),igego,alternative
+igi (magi),igi,alternative
+igichohe(ikimune),igichohe,
+igihugu(chachu),igihugu,
+igikopo(ibhikopo),igikopo,alternative
+igisiiga(ibisiiga),igisiiga,alternative
+igo (mago),igo,alternative
+igobe(amagobe),igobe,alternative
+Igoko(magoko),Igoko,alternative
+igonji (magonji),igonji,alternative
+iguro 5-6,iguro,alternative
+iguwa (maguwa),iguwa,alternative
+ihiga(amahiga),ihiga,alternative
+ihove(amahove),ihove,alternative
+ihu`te (mahu`te),ihu`te,alternative
+ihuli(churi),ihuli,alternative
+ihute (mahute),ihute,alternative
+ihwaa (ngalava),ihwaa,
+iinyi yetu(ya muyeetu),iinyi yetu,alternative
+ijini (majini),ijini,alternative
+ijo 10,ijo,alternative
+ika (maka),ika,alternative
+ikaa (kirombo),ikaa,
+ikaa (makaa),ikaa,alternative
+Ikaa(makaa),Ikaa,alternative
+ikama [= to milk],ikama,1302_squeeze
+ikanda(la mti),ikanda,alternative
+ikandi (amakandi),ikandi,alternative
+ikapakapa (makungo),ikapakapa,
+ikhambalala(ya kumwani),ikhambalala,alternative
+ikhosi(amakhoshi),ikhosi,alternative
+ikibaara (ichokaa),ikibaara,alternative
+ikibaba(mababa),ikibaba,alternative
+ikiburungus(u?),ikiburungus,
+ikiliilo(filiilo),ikiliilo,alternative
+ikisalulenga(ifisalulenga),ikisalulenga,alternative
+ikisangi(isangi),ikisangi,alternative
+ikivula bhahizi (higi ?),ikivula bhahizi,alternative
+ikoko (la ikiti),ikoko,alternative
+ikoko (makoko),ikoko,alternative
+ikongoti (makongoti),ikongoti,alternative
+ikora [= to cook],ikora,303_burn
+ikoru (makoru),ikoru,alternative
+ikshingo (makshingo),ikshingo,alternative
+ikumba [= to sell],ikumba,1427_throw
+ikundu (makundu),ikundu,alternative
+ikungu (makungu),ikungu,alternative
+ikuo (lya ngombe) [ikuo* lja n*o*:mbe*],ikuo,alternative
+ikuo(lya ng'ombe),ikuo,alternative
+ikure (kumonyi),ikure,
+ikwapa(kwapa),ikwapa,alternative
+ikyaro(kyeto),ikyaro,alternative
+ilaa (mario),ilaa,
+Ilaa(malaa),Ilaa,alternative
+ilago (malago),ilago,alternative
+ilaka(iraka),ilaka,alternative
+ilanga (malanga),ilanga,alternative
+ilemba (malemba),ilemba,alternative
+ilifa ipupa(amapupa),ilifa ipupa,alternative
+ilifa(amifa),ilifa,alternative
+ilihakha(ihakha),ilihakha,alternative
+iliheela(maheela)pl.,iliheela,alternative
+iliino(lya ndembwe),iliino,alternative
+ilikoona(makoona)pl.,ilikoona,alternative
+ilikoondolo(ilikolo),ilikoondolo,alternative
+ililindi(amalindi),ililindi,alternative
+ililonda(ilikon'go),ililonda,alternative
+ilino(amino),ilino,alternative
+ilinsina(amansina),ilinsina,alternative
+ilipishi(lipishi),ilipishi,alternative
+ilumbu (lyaje),ilumbu,
+ilyulu (amulu),ilyulu,alternative
+imana(mwimani),imana,alternative
+imango (ya mukoti),imango,alternative
+imbaata(imbata),imbaata,alternative
+imbeze (-ahaveze),imbeze,
+imboi (mamboi),imboi,alternative
+imboni (mamboni),imboni,alternative
+imboroso (mamboroso),imboroso,alternative
+imburi(chimburi),imburi,alternative
+imbusi (imbudi),imbusi,alternative
+imbwa(zimbwa) zimbwa,imbwa,alternative
+imikulo yu ukutamba  (ya?),imikulo yu ukutamba,
+imunja (kutende),imunja,
+indigi(ichindigi),indigi,alternative
+indooto(kulazirana),indooto,
+indume(chindume),indume,alternative
+ingedzi(ngedzi)pl.,ingedzi,alternative
+ingubi(ya mwihala),ingubi,alternative
+inguruo (iruuna),inguruo,
+inje(ngomelewula),inje,
+injosi (uku# gogwa injosi),injosi,alternative
+inkunda injogolo (injiva),inkunda injogolo,
+inkundi(ichinkundi),inkundi,alternative
+insi (inkale),insi,
+invunzi(amanvuzi),invunzi,alternative
+inyala (manyala),inyala,alternative
+inyalafu;(umuvaamba),inyalafu,
+inyama (akahano),inyama,
+inyele(ulunyele),inyele,alternative
+inyiki(zinyiki pl.),inyiki,1509_wall
+inyinyi (mbugo),inyinyi,
+inywaa [= become fat],inywaa,1193_sharpentoapoint
+ionge (maonge),ionge,alternative
+ipaa (mapaa),ipaa,alternative
+ipata msinga (ngel*el*e),ipata msinga,
+ipele (uvwalwa),ipele,
+ir*u (mar*u),ir*u,alternative
+ira (mara),ira,alternative
+irahira-(ryemuma),irahira-,
+ireiya (samaji),ireiya,
+irenge (marenge),irenge,alternative
+iria(mwitha),iria,
+iria(rIa kunyua),iria,alternative
+iria(rIa mUtumia),iria,alternative
+irigena(amagena),irigena,alternative
+irigogoni(amagogoni),irigogoni,alternative
+irihicho(amahicho),irihicho,alternative
+irihute(amahute),irihute,alternative
+irika [= to hide],irika,305_bury
+irikanda(amakanda),irikanda,alternative
+irikara (amakara),irikara,alternative
+irikumi(emerongo),irikumi,
+irimu (varimu),irimu,alternative
+iring'ondi (amangondi),iring'ondi,alternative
+irino(amaino),irino,alternative
+irinyamu tito(inguti),irinyamu tito,alternative
+irireko(amareko),irireko,alternative
+iritina(amatina),iritina,alternative
+iritoro(amatoro),iritoro,alternative
+irube (marube),irube,alternative
+irugu (marugu),irugu,alternative
+isa\nga (masanga),isa\nga,alternative
+isaafu (masaafu),isaafu,alternative
+isaka(amasaka),isaka,alternative
+isanju (masanju),isanju,alternative
+ishagama(amaraso),ishagama,
+ishimba (mashimba),ishimba,alternative
+ishimuli sha moto(vishimuli sha moto),ishimuli sha moto,alternative
+ishipagalo(amapagalo),ishipagalo,alternative
+ishisheto (ishi nyama),ishisheto,alternative
+ishisonyonje (ishisonje),ishisonyonje,alternative
+ishokolo(lukolo) khimo,ishokolo,alternative
+ishuduru (ividuru),ishuduru,alternative
+isi (inyala),isi,
+isi (yangu),isi,
+isiku(ulusiku),isiku,alternative
+isoro (masoro),isoro,alternative
+isuka(sundagira),isuka,
+isuya(amasuya),isuya,alternative
+Itako(matako),Itako,alternative
+itaku(mataku),itaku,alternative
+italaka(foreign) we had no divorces,italaka,454_divorce
+italakha(kulekhana),italakha,alternative
+itanda (matanda),itanda,alternative
+iteta (mateta),iteta,alternative
+itete(amatete),itete,alternative
+ithaati(nthi),ithaati,alternative
+ithanga (lyeru),ithanga,
+Ithiga(mathiga),Ithiga,alternative
+itho(metho),itho,alternative
+itiko (matiko),itiko,alternative
+itima (matima),itima,alternative
+itondo (matondo),itondo,alternative
+itongoyo (matongoyo),itongoyo,alternative
+itonto(t?),itonto,
+itope(amatope),itope,alternative
+itub*i (matub*i),itub*i,alternative
+Itumbi(matumbI),Itumbi,alternative
+itunda (matunda),itunda,alternative
+itunda(matunda),itunda,alternative
+ituu (matuu),ituu,alternative
+itwitwi(amatwitwi),itwitwi,alternative
+iula (maula),iula,alternative
+Iusya (mausya),Iusya,alternative
+IvavIa(mavavIa),IvavIa,alternative
+ivele (mavele),ivele,alternative
+iveva (maveva),iveva,alternative
+ivu (mavu),ivu,alternative
+Ivu(Ivu rIa gUciara),Ivu,alternative
+ivu(maivu),ivu,alternative
+IvUi(mavUi),IvUi,alternative
+ivunde (mavunde),ivunde,alternative
+IvUri(mavUri),IvUri,alternative
+iwaluka (kumoso au kulyo),iwaluka,alternative
+iwalukyia (kumoso au kulyo),iwalukyia,alternative
+iwana (lyimu),iwana,
+iwe (mawe),iwe,alternative
+iwembe(igirita),iwembe,
+iwero (mawero),iwero,alternative
+iwiri (mawiri),iwiri,alternative
+iyavya (mayavya),iyavya,alternative
+iyayi (mayayi),iyayi,alternative
+iyefwe(-fwe),iyefwe,alternative
+iyinyi(inyi),iyinyi,alternative
+iyo (-yo),iyo,alternative
+iyo (mayo),iyo,alternative
+iyob*a (mayob*a),iyob*a,alternative
+iyoo (mayoo),iyoo,alternative
+iyoova (mayoova),iyoova,alternative
+iyowo(-owo),iyowo,alternative
+IyUa(maUa),IyUa,alternative
+izinga (lya nyanza),izinga,alternative
+jwankongwe (bhanavhakongwe),jwankongwe,alternative
+kaa (rembo),kaa,
+kaa 9-10,kaa,alternative
+kabaga 12,kabaga,alternative
+kabago (hasa ni pori dogo),kabago,alternative
+kabogi 12,kabogi,alternative
+kaburi(irinya),kaburi,
+kaburu 12,kaburu,alternative
+kadole (ko muono),kadole,alternative
+kagEmbE 12,kagEmbE,alternative
+kagita 12,kagita,alternative
+kagonda 12,kagonda,alternative
+kagOngO 12,kagOngO,alternative
+kahandi 12-8,kahandi,alternative
+kaholo(kiholo),kaholo,alternative
+kajwale 12,kajwale,alternative
+kala (makala),kala,alternative
+kameno kamok(i?),kameno kamok,
+kamoje 12,kamoje,alternative
+kasEngi 12,kasEngi,alternative
+kaserendei 12,kaserendei,alternative
+katabara 12,katabara,alternative
+katojo 12,katojo,alternative
+katorontoro 12,katorontoro,alternative
+kaviU(tUviU),kaviU,alternative
+kaxoje 12,kaxoje,alternative
+kebaba 7,kebaba,alternative
+kebakero 7,kebakero,alternative
+kebasyo/kebasho 7,kebasyo/kebasho,alternative
+kebElO 7,kebElO,alternative
+kebere 7,kebere,alternative
+keburi 7,keburi,alternative
+keburu 7,keburu,alternative
+kedentwe 7,kedentwe,alternative
+keditini 7,keditini,alternative
+kedudutya 7,kedudutya,alternative
+keero (kigingi),keero,
+kegambO 7,kegambO,alternative
+kegErO 7,kegErO,alternative
+kegEtO 7,kegEtO,alternative
+kegOkOrO 7,kegOkOrO,alternative
+kegOliV 7,kegOliV,alternative
+kehehe 7,kehehe,alternative
+kehori 7,kehori,alternative
+kejerambura 7,kejerambura,alternative
+kejomi 7,kejomi,alternative
+kejori 7,kejori,alternative
+kejugujugu 7,kejugujugu,alternative
+kejwena/kejwEna 7,kejwena/kejwEna,alternative
+kekerero (for shambas),kekerero,283_bridge
+kekOrOrwa 7,kekOrOrwa,alternative
+kekuburi 7,kekuburi,alternative
+kelango 7,kelango,alternative
+kelemela 7,kelemela,alternative
+kelEngo 7,kelEngo,alternative
+kelohia 7,kelohia,alternative
+kemEndE 7,kemEndE,alternative
+kemugumugu 7,kemugumugu,alternative
+kento 7,kento,alternative
+kenyunga 7,kenyunga,alternative
+kerEru 7,kerEru,alternative
+keribyari 7,keribyari,alternative
+kerigani 7,kerigani,alternative
+kerigo 7,kerigo,alternative
+keripelo 7,keripelo,alternative
+keriryonda 7,keriryonda,alternative
+keritO-ne 7,keritO-ne,alternative
+kerOmO 7,kerOmO,alternative
+kerOs 7,kerOs,alternative
+keroxo 7,keroxo,alternative
+keruguru 7,keruguru,alternative
+keryoka 7,keryoka,alternative
+kesabiuk 7,kesabiuk,alternative
+kesaguha 7,kesaguha,alternative
+kesElO 7,kesElO,alternative
+kesErEndEy 7,kesErEndEy,alternative
+kesEria 7,kesEria,alternative
+kesoha 7,kesoha,alternative
+ketara 7,ketara,alternative
+ketEmi 7,ketEmi,alternative
+ketEmi 7,ketEmi,alternative
+ketenekela 7,ketenekela,alternative
+ketilitili 7,ketilitili,alternative
+kexundu 7,kexundu,alternative
+khu-khwonaka(umwana),khu-khwonaka,
+khukona itulo(kulala usingi),khukona itulo,alternative
+ki-dajilisa(kidaga),ki-dajilisa,alternative
+kiara(gia kuguru),kiara,alternative
+kibua(mabua),kibua,alternative
+kibuha (ibuha),kibuha,alternative
+kichaa(cha mkono),kichaa,alternative
+kifanana(kiyanana),kifanana,alternative
+kifuluta(kipenya),kifuluta,
+kifundo (chifundo),kifundo,alternative
+kigewusa(kisetukha),kigewusa,alternative
+kigonja(-gonja),kigonja,alternative
+kihela(vihela),kihela,alternative
+kiii(rwii),kiii,alternative
+kijenda(kiluta namagulu),kijenda,alternative
+kikhanja(kiganya),kikhanja,alternative
+kikhunja(kikungula),kikhunja,alternative
+kikundi (makundi),kikundi,alternative
+kilambo (chitu),kilambo,
+kilambo (kijomo),kilambo,alternative
+kilambo (siitu) nEma (witu),kilambo,alternative
+kilambo (vilambo),kilambo,alternative
+kilema (filema),kilema,alternative
+kilingana(kihwanana),kilingana,alternative
+kilinganisha(kihwanisa),kilinganisha,alternative
+kiliya(kile),kiliya,alternative
+kimba(ciimba),kimba,alternative
+kimbundi(lumbundi?),kimbundi,alternative
+kimwela(king'wa),kimwela,alternative
+kinama (finama),kinama,alternative
+kindU(ciIndU),kindU,alternative
+kinko (pronounciation of this word proves a Bondei,kinko (pronounciation of this word proves a Bondei,489_elbow
+kinusi (vinusi),kinusi,alternative
+kinyu (finyu),kinyu,alternative
+kio 7-8,kio,alternative
+kio 7-8,kio,alternative
+kiponda (kihinya ni nyundo),kiponda,alternative
+kirero (firero),kirero,alternative
+kIreru(Ireru),kIreru,alternative
+kirundu(nkoma),kirundu,
+kirya  (kisuhu?),kirya,
+kisakula(kilonda),kisakula,
+kisanvia(kisanvila),kisanvia,alternative
+kisima (isima),kisima,alternative
+kisingamala(kivatama),kisingamala,alternative
+kisuga(kilela),kisuga,alternative
+kitambala (ritambala),kitambala,alternative
+kitambala (vitambala),kitambala,alternative
+kitambela(kijenda),kitambela,
+kitelela(kityelela),kitelela,alternative
+kithaka(kigundu),kithaka,
+kiva nu lwanda(mimba=lwanda),kiva nu lwanda,alternative
+kivasa(ki-vasa),kivasa,alternative
+kIveti(iveti),kIveti,alternative
+kIviU(iviU),kIviU,alternative
+kiyelenganywa(kiyelenganya) ?,kiyelenganywa,alternative
+kiyinza(yinsa),kiyinza,alternative
+kiyuni(njuni),kiyuni,alternative
+klema (filema),klema,alternative
+knama (finama),knama,alternative
+ko(komenga),kokomenga,
+kogenda gotara(esabari),kogenda gotara,
+kohobora kotora(masikio),kohobora kotora,
+koibora(kogokia),koibora,alternative
+koiborwa(gotoka),koiborwa,
+kolo 9-10,kolo,alternative
+kopo (makopo),kopo,alternative
+kora modo (tekera modo cho) [chochea moto jikoni],kora modo,alternative
+kosoma(ritimo),kosoma,
+kotena ikina  (n?),kotena ikina,
+kova (makova),kova,alternative
+ku-chimula (ku-ka mwando)(?),ku-chimula,alternative
+ku-diza (ugali),ku-diza,
+ku-gimba (haso moto),ku-gimba,alternative
+ku-jota (liduva) (moto),ku-jota,alternative
+ku-jota (lumu) moto,ku-jota,alternative
+ku-junya bundi (kivundi),ku-junya bundi,alternative
+ku-junya kusea (kabobo),ku-junya kusea,
+ku-kamaja (kamala),ku-kamaja,alternative
+ku-kulukuta (ku-ting'inda),ku-kulukuta,
+kU-kUUla (mpalala),kU-kUUla,
+ku-kwata  (sompa),ku-kwata,
+ku-loba (homba),ku-loba,alternative
+ku-lota (kiroto),ku-lota,
+ku-nywa=(ku-kusa),ku-nywa=,alternative
+ku-pula (ngobo),ku-pula,
+ku-sila (sila-njia),ku-sila,alternative
+ku-sua (kamba),ku-sua,
+ku-sunta (ku-sunda),ku-sunta,alternative
+ku-swa (kwa  rwasu),ku-swa,alternative
+ku-teka (machi),ku-teka,
+ku-teka (mazi),ku-teka,461_drawwaterfromwell
+ku-tingana (mtinga),ku-tingana,alternative
+ku-tunda (ku0kojoa),ku-tunda,alternative
+ku-ula (dyomba),ku-ula,
+ku-vika (tsinguvu),ku-vika,
+ku-visavisa (visa),ku-visavisa,alternative
+ku-vua (somba),ku-vua,
+ku-wa na ndaa (ana ndaa),ku-wa na ndaa,alternative
+ku-zumba (-zumpha),ku-zumba,alternative
+ku(bagata),kubagata,alternative
+ku(bala),kubala,alternative
+ku(balula),kubalula,alternative
+kU(bimba),kUbimba,
+ku(binga),kubinga,alternative
+ku(bola),kubola,alternative
+kU(bumba) (nungU),kU,alternative
+kU(byala),kUbyala,
+ku(daila),kudaila,alternative
+ku(dayila),kudayila,alternative
+ku(deng'uka),kudeng'uka,alternative
+ku(deta),kudeta,alternative
+ku(diva),kudiva,alternative
+ku(dumbusila),kudumbusila,alternative
+ku(dumula),kudumula,alternative
+ku(dyama)hasi,kudyamahasi,alternative
+ku(faa),kufaa,alternative
+ku(fila),kufila,alternative
+ku(fimba),kufimba,alternative
+ku(fisa),kufisa,alternative
+ku(fugha),kufugha,alternative
+ku(fukutila),kufukutila,alternative
+ku(fula),kufula,alternative
+ku(funda),kufunda,alternative
+ku(funda)nunga,kufundanunga,alternative
+ku(fwala),kufwala,alternative
+ku(fwalisa),kufwalisa,alternative
+ku(fyaghila),kufyaghila,alternative
+ku(gava),kugava,alternative
+ku(gayila),kugayila,alternative
+ku(genda),kugenda,alternative
+ku(ghanda),kughanda,alternative
+ku(ghesa),kughesa,alternative
+ku(ghofugha)?,kughofugha,alternative
+ku(ghola),kughola,alternative
+ku(gholosa),kugholosa,alternative
+ku(ghonja),kughonja,alternative
+ku(ghonja)lughali,kughonjalughali,alternative
+ku(ghonja)na,kughonjana,alternative
+ku(ghopa),kughopa,alternative
+ku(ghopola)nguu,kughopolanguu,alternative
+ku(ghopusola),kughopusola,alternative
+ku(ghulunga),kughulunga,alternative
+ku(ghumba) kivigha,kughumba kivigha,alternative
+ku(gola),kugola,alternative
+ku(goroola),kugoroola,alternative
+ku(gubika),kugubika,alternative
+ku(gubika)mesu ?,kugubikamesu,alternative
+ku(hama),kuhama,alternative
+ku(hanganyila),kuhanganyila,alternative
+ku(havila),kuhavila,alternative
+ku(heka),kuheka,alternative
+ku(henga),kuhenga,alternative
+ku(higha)milandu,kuhighamilandu,alternative
+ku(hika),kuhika,alternative
+ku(homa),kuhoma,alternative
+ku(honda),kuhonda,alternative
+ku(hongola),kuhongola,alternative
+ku(hova) ,kuhova,alternative
+ku(humbata),kuhumbata,alternative
+ku(hutusa),kuhutusa,alternative
+ku(hyagha),kuhyagha,alternative
+ku(hyaghula) ?,kuhyaghula,alternative
+ku(jabika),kujabika,alternative
+ku(jibu),kujibu,alternative
+ku(jimisa) (of fire),kujimisa,alternative
+ku(jumba),kujumba,alternative
+ku(kagha),kukagha,alternative
+ku(kala)na ?,kukalana,alternative
+ku(kalanga),kukalanga,alternative
+ku(kama),kukama,alternative
+ku(kamula),kukamula,alternative
+ku(kamula)(properly:ku(onela): to see one doing a,kukamula,alternative
+ku(kana),kukana,alternative
+ku(kanja),kukanja,alternative
+ku(keha),kukeha,alternative
+ku(kema),kukema,alternative
+ku(kokisela),kukokisela,alternative
+ku(kologha),kukologha,alternative
+ku(koloma),kukoloma,alternative
+ku(koma),kukoma,alternative
+ku(konganika),kukonganika,alternative
+ku(kosa)motu,kukosamotu,alternative
+ku(kowikela),kukowikela,alternative
+ku(kula),kukula,alternative
+ku(kulughula),kukulughula,alternative
+ku(kumba),kukumba,alternative
+ku(kumba)songola,kukumbasongola,alternative
+ku(kumbatila),kukumbatila,alternative
+ku(kumbuka),kukumbuka,alternative
+ku(kun)seneka,kukunseneka,alternative
+ku(kung'a),kukung'a,alternative
+ku(kung'unda),kukung'unda,alternative
+ku(kuyuga),kukuyuga,alternative
+ku(kwama),kukwama,alternative
+ku(kwasinga),kukwasinga,alternative
+ku(kwava),kukwava,alternative
+ku(kwegha),kukwegha,alternative
+ku(kwela),kukwela,alternative
+ku(lapa),kulapa,alternative
+ku(leka),kuleka,alternative
+ku(lekana),kulekana,alternative
+ku(lema),kulema,alternative
+ku(lifuna),kulifuna,alternative
+ku(lifwana),kulifwana,alternative
+ku(lihola),kulihola,alternative
+ku(lijuma)kulifuna,kulijumakulifuna,alternative
+ku(likala),kulikala,alternative
+ku(likala)(live),kulikala,alternative
+ku(likwala),kulikwala,alternative
+ku(lila),kulila,alternative
+ku(lima),kulima,alternative
+ku(limata),kulimata,alternative
+ku(liminda),kuliminda,alternative
+ku(liminya),kuliminya,alternative
+ku(limusa),kulimusa,alternative
+ku(limwagha),kulimwagha,alternative
+ku(lipa),kulipa,alternative
+ku(lola),kulola,alternative
+ku(lola)dii,kuloladii,alternative
+ku(lolela),kulolela,alternative
+ku(longa),kulonga,alternative
+ku(longela),kulongela,alternative
+ku(lota),kulota,alternative
+ku(lovela),kulovela,alternative
+ku(luka),kuluka,alternative
+ku(luka)?,kuluka,alternative
+ku(luma),kuluma,alternative
+ku(lunda),kulunda,alternative
+ku(lungula),kulungula,alternative
+ku(luva),kuluva,alternative
+ku(lwala),kulwala,alternative
+ku(lya),kulya,alternative
+ku(malisa),kumalisa,alternative
+ku(mela),kumela,alternative
+ku(memesa),kumemesa,alternative
+ku(mkigha),kumkigha,alternative
+ku(mogha),kumogha,alternative
+ku(mulika),kumulika,alternative
+ku(nola),kunola,alternative
+ku(nuha),kunuha,alternative
+ku(nunga),kununga,alternative
+ku(nungilila),kunungilila,alternative
+ku(nya),kunya,alternative
+ku(nyala),kunyala,alternative
+ku(nyamala),kunyamala,alternative
+ku(nyanya),kunyanya,alternative
+ku(nyapa),kunyapa,alternative
+ku(nyegeza),kunyegeza,alternative
+ku(nyima),kunyima,alternative
+ku(paka),kupaka,alternative
+ku(panganila),kupanganila,alternative
+ku(papa),kupapa,alternative
+ku(pata),kupata,alternative
+ku(pela),kupela,alternative
+ku(penyesa),kupenyesa,alternative
+ku(pepea),kupepea,alternative
+ku(peta),kupeta,alternative
+ku(pikanila),kupikanila,alternative
+ku(pinda),kupinda,alternative
+ku(pinduka),kupinduka,alternative
+ku(pinga),kupinga,alternative
+ku(pinya),kupinya,alternative
+ku(pita),kupita,alternative
+ku(piya),kupiya,alternative
+ku(pokela),kupokela,alternative
+ku(ponda) mponji,kuponda mponji,alternative
+ku(pota)(rope),kupota,alternative
+ku(pugha) (of wind),kupugha,alternative
+ku(pukuta),kupukuta,alternative
+ku(pula),kupula,alternative
+ku(pumula),kupumula,alternative
+ku(punguka),kupunguka,alternative
+ku(puputika)(for a dying bird),kupuputikafor,alternative
+ku(runguria),kurunguria,alternative
+ku(saka),kusaka,alternative
+ku(samba),kusamba,alternative
+ku(sasa),kusasa,alternative
+kU(sebya),kUsebya,
+ku(shukumbula),kushukumbula,alternative
+ku(shunguta),kushunguta,alternative
+ku(shyovelela),kushyovelela,alternative
+ku(sika),kusika,alternative
+ku(sisila),kusisila,alternative
+ku(soma)mgoha,kusomamgoha,alternative
+ku(sona),kusona,alternative
+ku(sukuma),kusukuma,alternative
+ku(sulula),kusulula,alternative
+ku(sulula)(blood),kusululablood,alternative
+ku(syagha),kusyagha,alternative
+ku(talipa),kutalipa,alternative
+ku(tambika),kutambika,alternative
+ku(tandika),kutandika,alternative
+ku(tegha)mtambu,kuteghamtambu,alternative
+ku(teka)machi,kutekamachi,alternative
+ku(teleka),kuteleka,alternative
+ku(tetema) see #528,kutetema,alternative
+ku(tetema),kutetema,alternative
+ku(tila) vandu,kutila vandu,alternative
+ku(tiyika) machi?,kutiyika machi,alternative
+ku(tobola),kutobola,alternative
+ku(tokosa) ,kutokosa,alternative
+ku(tola),kutola,alternative
+ku(tona),kutona,alternative
+ku(tonya),kutonya,alternative
+ku(topela),kutopela,alternative
+ku(tukana),kutukana,alternative
+ku(tukuta),kutukuta,alternative
+ku(tuma),kutuma,alternative
+ku(tunda),kutunda,alternative
+ku(tundama),kutundama,alternative
+ku(tunga),kutunga,alternative
+ku(tupa),kutupa,alternative
+ku(tupula),kutupula,alternative
+ku(tutika),kututika,alternative
+ku(tutulika),kututulika,alternative
+ku(tutulisa),kututulisa,alternative
+ku(twika),kutwika,alternative
+ku(tyanga),kutyanga,alternative
+ku(tyesemula),kutyesemula,alternative
+ku(vamba),kuvamba,alternative
+ku(vanga)likofi,kuvangalikofi,alternative
+ku(vata),kuvata,alternative
+ku(vika),kuvika,alternative
+ku(vika)pamu,kuvikapamu,alternative
+ku(vinga),kuvinga,alternative
+ku(vola),kuvola,alternative
+ku(vona),kuvona,alternative
+ku(vuka) ,kuvuka,alternative
+ku(vuka),kuvuka,alternative
+ku(vuna),kuvuna,alternative
+ku(vusa),kuvusa,alternative
+ku(vuya),kuvuya,alternative
+ku(yaghama),kuyaghama,alternative
+ku(yaka),kuyaka,alternative
+ku(yangalila),kuyangalila,alternative
+ku(yanika),kuyanika,alternative
+ku(yara),kuyara,alternative
+ku(yegama),kuyegama,alternative
+ku(yegha),kuyegha,alternative
+ku(yenda),kuyenda,alternative
+ku(yenda)kwa maghulu/kutyanga ?,kuyendakwa maghulu,alternative
+ku(yesa),kuyesa,alternative
+ku(yigha),kuyigha,alternative
+ku(yima),kuyima,alternative
+ku(yimba),kuyimba,alternative
+ku(yingila),kuyingila,alternative
+ku(yogha),kuyogha,alternative
+ku(yoghosa),kuyoghosa,alternative
+ku(yokola),kuyokola,alternative
+ku(yomboka),kuyomboka,alternative
+ku(yonga),kuyonga,alternative
+ku(yongesa),kuyongesa,alternative
+ku(yuma),kuyuma,alternative
+ku(yuvila),kuyuvila,alternative
+kube(ta) kulela,kube,alternative
+kubecana(kibeo),kubecana,alternative
+kubeleka (mwana),kubeleka,
+kubhusabhusa(stir trouble),kubhusabhusa,1325_stirup
+kubinga(omukazi),kubinga,
+kubona(kupata),kubona,alternative
+kubutira(kuthamba),kubutira,alternative
+kubUUra(kUbinyIrIria),kubUUra,
+kuc_h_eka (kukwilila),kuc_h_eka,
+kuc_h_uka (vyombo),kuc_h_uka,
+kuchapa (nchalu),kuchapa,
+kufumbata (kuvumbatila),kufumbata,alternative
+kufumya (pabwelu),kufumya,
+kufumya(pabwelu),kufumya,
+kufunya(kukupa),kufunya,alternative
+kufupila (kupelela),kufupila,alternative
+kufuva (nguwu),kufuva,
+kughenda(kwa magholo),kughenda,alternative
+kugov*a (kwina ma),kugov*a,alternative
+kuguma(kuwa gumu)?,kuguma,alternative
+kuhoma (nkoa),kuhoma,alternative
+kuhula (ingobu),kuhula,
+kuhuutilira(kuuuta),kuhuutilira,alternative
+kuiganua(kUnyira),kuiganua,
+kuihuna(unintentional),kuihuna,1344_strikeknock
+kUina(rUimbo),kUina,
+kujenda (jendaga),kujenda,alternative
+kukajola(kusheshekara- polite for women),kukajola,1489_urinate
+kukanda (imyenda) [koka:nda],kukanda,alternative
+kukanda(imyenda),kukanda,
+kukansa (myenda),kukansa,
+kukea(kuwelera),kukea,alternative
+kukocha(kupemba),kukocha,
+kukokola (uchafu),kukokola,
+kukokosa(kupokosa),kukokosa,alternative
+kuku(kuu-kuu),kuku,alternative
+kukula (ukuzile),kukula,alternative
+kukupikila(kukupika),kukupikila,alternative
+kukwegamila(kusagamila),kukwegamila,alternative
+kula(pala),kula,alternative
+kulamba(ikofi),kulamba,
+kuleba(kuleeba),kuleba,alternative
+kulegana na muka (na mdwawomi),kulegana na muka,alternative
+kulekana(talaka),kulekana,
+kulola(ekiloto),kulola,alternative
+kulota (ndoto),kulota,
+kulumuka (lumuka),kulumuka,alternative
+kuma (yuma),kuma,alternative
+kUmakia(kUgegia),kUmakia,alternative
+kunanukia(mwana),kunanukia,
+kundi (makundi),kundi,alternative
+kundika(kuboha),kundika,alternative
+kung'onyia(macho),kung'onyia,
+kungulu (makungulu),kungulu,alternative
+kunia(kunya),kunia,alternative
+kunogora(kubumba),kunogora,
+kunyepa (nyepa),kunyepa,alternative
+kuoga(mirigo),kuoga,
+kuonga (onga),kuonga,alternative
+kupamba(ghulima kunogha),kupamba,alternative
+kurera(mwana),kurera,
+kUrIo(njohi),kUrIo,
+kuroba(isamaki ifi),kuroba,alternative
+kUrota(kiroto-noun),kUrota,alternative
+kurota(kiroto),kurota,alternative
+kuruta(kwonania),kuruta,
+kusaala (kugomoka),kusaala,
+kusanganya (kupatinkanya),kusanganya,alternative
+kushala (shala),kushala,alternative
+kusingisa(kurigita),kusingisa,alternative
+kusinzila (kusupila),kusinzila,alternative
+kusunta (sunta),kusunta,alternative
+kusyoya (kusumba),kusyoya,alternative
+kutabika(gutaika),kutabika,alternative
+kutaha(ameizi),kutaha,
+kutata(tatanila),kutata,alternative
+kUtava(kUuta)kIw'U,kUtava,alternative
+kutega (ntegu),kutega,alternative
+kuteka (machi),kuteka,
+kutema (kusolela) ng'hwi,kutema,alternative
+kutepa(kutefya),kutepa,alternative
+kuteta (mahoka),kuteta,
+kUthica (kUthicwa),kUthica,alternative
+kutoka (lushemba),kutoka,
+kutoka(lushemba),kutoka,
+kutokosya(kuteleka),kutokosya,alternative
+kutola (mdala),kutola,
+kutola(mdala),kutola,
+kutyelepa(kutyelemka),kutyelepa,alternative
+kutyeshemla(kutyeshemula),kutyeshemla,alternative
+kuuma (j_iko),kuuma,
+kuumba (vilongo),kuumba,
+kuvimba (kuum#) nyungu,kuvimba,alternative
+kuvula (nc_h_alu),kuvula,
+kuwinga shetani (lihoka),kuwinga shetani,
+kuyenga (mafuta),kuyenga,
+kuziinga(uruzi),kuziinga,alternative
+kuzimya(kuzimanya),kuzimya,alternative
+kwa [kwa wenu = going to someone],kwa,1438_to
+kwankanya (ankanya),kwankanya,alternative
+kwegama(kwinama?),kwegama,alternative
+kwegesa(v)ekyegeso(n),kwegesa,alternative
+kwezingola(zingola),kwezingola,alternative
+kwi-laangUla (miiso),kwi-laangUla,
+kwi-vika (tsinguvu),kwi-vika,
+kwigungudura(kukwara),kwigungudura,
+kwilirana(kutuumangana),kwilirana,
+kwipa (yipa),kwipa,alternative
+kwita (kumwita umuntu),kwita,alternative
+kwizula (kududuha),kwizula,
+kwocha(kwoocha),kwocha,alternative
+kwonija (macho) kunumunaja (kinywa),kwonija,alternative
+kwota (omusana),kwota,
+kyaho 7,kyaho,alternative
+kyala 7,kyala,alternative
+kyalo (kyaiswe),kyalo,alternative
+kyareryo 7,kyareryo,alternative
+kyola 7,kyola,alternative
+kyoma 7,kyoma,alternative
+leha (kuleha),leha,alternative
+leupiya (ku-puya leupa),leupiya,alternative
+liberegi(miberegi),liberegi,alternative
+libheka(amabheka),libheka,alternative
+libwii(amabwii),libwii,alternative
+lidodi(-dodi),lidodi,alternative
+lifinga (mafinga),lifinga,alternative
+lifuki(lihuki),lifuki,alternative
+lijo (minyo),lijo,
+lijumbi inkhome(ugujumbi),lijumbi inkhome,
+likala(amakala),likala,alternative
+likanja (lya wushu),likanja,alternative
+likobho(amakobho),likobho,alternative
+likono (makono),likono,alternative
+lilete (mabua),lilete,
+lilundo(amalundo),lilundo,alternative
+lilundu (la njwili),lilundu,alternative
+lingharanghara(ling'harang'hara),lingharanghara,alternative
+linguluvi(umusimu),linguluvi,
+linje_ye_ (livaha),linje_ye_,
+lino (lya mhUlI),lino,alternative
+lino (mino),lino,alternative
+lipamba (mapamba),lipamba,alternative
+lipanga (mapanga),lipanga,alternative
+lipasa (mapasa),lipasa,alternative
+lipinga (mapinga),lipinga,alternative
+lisebhe (impoverished),lisebhe,125_barrenofland
+liseguve(maseguve),liseguve,alternative
+lisina(amasina),lisina,alternative
+lisoso (risooso),lisoso,alternative
+lisuke(amasuke),lisuke,alternative
+litabi(amatabi),litabi,alternative
+litango (livatswa),litango,alternative
+litego(amatego),litego,alternative
+litimbe (bustani ya mboga),litimbe,alternative
+litongo(mutongo)pl.,litongo,alternative
+litoo(obutoo),litoo,alternative
+litumba (matumba),litumba,alternative
+litunda(amatunda),litunda,alternative
+litunda(matunda),litunda,alternative
+livalu (mavalu),livalu,alternative
+liwega(mawega),liwega,alternative
+lobago 11,lobago,alternative
+lobala 11,lobala,alternative
+lobaru 1,lobaru,alternative
+lobina 11,lobina,alternative
+logEmbE 11,logEmbE,alternative
+logEndo 11,logEndo,alternative
+logOkO 11,logOkO,alternative
+lohEmbE 11,lohEmbE,alternative
+lohyo 11,lohyo,alternative
+lojalelV 11,lojalelV,alternative
+lojele 11,lojele,alternative
+lojuru 11,lojuru,alternative
+loko 11,loko,alternative
+lokyo 11,lokyo,alternative
+lolela 11,lolela,alternative
+loleme 11,loleme,alternative
+lonyEka 11,lonyEka,alternative
+lorende 11,lorende,alternative
+losaya 11,losaya,alternative
+losela 11,losela,alternative
+losOlOkO 11,losOlOkO,alternative
+lubafu(mbafu),lubafu,alternative
+lubafu(mbafu)pl.,lubafu,alternative
+ludela(lwa danda),ludela,alternative
+luga (lwa paga),luga,alternative
+lugOlO (magOlO),lugOlO,alternative
+luhala(akili),luhala,
+luhama (shilonga),luhama,
+luhembe(mbembe),luhembe,alternative
+luhembe(mpembe),luhembe,alternative
+lujwi(nywii),lujwi,
+lujwii(nywii),lujwii,alternative
+lukaani(naani)pl.,lukaani,alternative
+lukombe?(nkombe),lukombe,
+lukonji (lua mwagOlO),lukonji,alternative
+lukonji (lwa kigolo),lukonji,alternative
+lukonji (lwa magulu),lukonji,alternative
+lukonji (ngonji),lukonji,alternative
+lumbo (chumbo),lumbo,alternative
+lumbu (lyake),lumbu,
+lunenele (vunenele),lunenele,alternative
+lunyasi (bunyasi),lunyasi,alternative
+lwahacha [have come soon],lwahacha,372_come
+lwala 11,lwala,alternative
+lwerEvu 11,lwerEvu,alternative
+lwimbu(nimbu),lwimbu,alternative
+m(o)ri 3,mori,alternative
+m(o)ringa 3,moringa,alternative
+m(o)te 3,mote,alternative
+m(o)xOba 3,moxOba,alternative
+m|baka (m|baka),m|baka,alternative
+mabi 6,mabi,alternative
+madaxa 6,madaxa,alternative
+mae 6,mae,alternative
+mafina [sometimes ifina],mafina,54_asong
+mafundu (ifundu),mafundu,alternative
+magare 6,magare,alternative
+magoti 6,magoti,alternative
+maguta 6,maguta,alternative
+maharage (mandondo),maharage,
+mahuta (hasa kwa mafuta),mahuta,alternative
+maiso (s. lisoo),maiso,512_face
+makolombi(lukolombi (s)),makolombi,alternative
+makumi kumi (ten tens),makumi kumi,alternative
+makutano(ma nzia),makutano,alternative
+mala(limala),mala,alternative
+mama (mnale),mama,
+mambo - (rumambo),mambo -,alternative
+mambo(zimambo),mambo,alternative
+mamuna (mp_ongo),mamuna,
+manzhi (malenga),manzhi,
+maragharagha(gha fula),maragharagha,alternative
+marEndE 6,marEndE,alternative
+mariba 6,mariba,alternative
+masO:ka 6,masO:ka,alternative
+masuti 6,masuti,alternative
+mata 6,mata,alternative
+mathiga ma cuma(kIgera),mathiga ma cuma,
+matu(iguru),matu,
+matunda 6,matunda,alternative
+maveli(liveli),maveli,alternative
+mayi (umayi),mayi,alternative
+mbafu 9-10,mbafu,alternative
+mbaga 9,mbaga,alternative
+mbako (mbako),mbako,alternative
+mbande 10,mbande,alternative
+mbaragobo 9,mbaragobo,alternative
+mbarambara 9,mbarambara,alternative
+mbari (charanga chango),mbari,alternative
+mbarimbari 9,mbarimbari,alternative
+mbasu 9,mbasu,alternative
+mbebe 9,mbebe,alternative
+mbeho (nikwode mbeho),mbeho,alternative
+mbeho 9-10,mbeho,alternative
+mbEho 9,mbEho,alternative
+mbembe (ra chovu),mbembe,alternative
+mbilibili 9,mbilibili,alternative
+mbinda 9-10,mbinda,alternative
+mbirato 9,mbirato,alternative
+mbobwa 9,mbobwa,alternative
+mbOgO 9,mbOgO,alternative
+mbojo 9-10,mbojo,alternative
+mbombe 9-10,mbombe,alternative
+mbora 1-2,mbora,alternative
+mbori 9,mbori,alternative
+mborua 9,mborua,alternative
+mbOxO 9,mbOxO,alternative
+mboxolo 9,mboxolo,alternative
+mbudwai 9,mbudwai,alternative
+mbuga (lwazo),mbuga,
+mbungo 9-10,mbungo,alternative
+mbura 9,mbura,alternative
+mburya 9,mburya,alternative
+mbusi (likabholobholo),mbusi,
+mbuya (samu a kwa),mbuya,alternative
+mbwange 1-2,mbwange,alternative
+mbyari 1,mbyari,alternative
+mche (wangu),mche,
+mdala(munu-va)mtuwa fulani,mdala,alternative
+mdi [= medecine],mdi,1463_tree
+mdOngOrane 3,mdOngOrane,alternative
+mdOxane 3,mdOxane,alternative
+mdukwa 3,mdukwa,alternative
+mee (ya kuganda),mee,307_buttermilk
+melemo 4,melemo,alternative
+mendi(libeva),mendi,
+menya (shuma)  # ( ? #,menya,alternative
+mganga 1,mganga,alternative
+mgEni 1,mgEni,alternative
+mgere (migere),mgere,alternative
+mgEro 3,mgEro,alternative
+mghoi (mighoi),mghoi,alternative
+mgonda 3,mgonda,alternative
+mgOngO 3,mgOngO,alternative
+mgongo(uludela lwa mugongo),mgongo,alternative
+mhaBe 3-4,mhaBe,alternative
+mhendo 4,mhendo,alternative
+mhoho 3,mhoho,alternative
+mhOkO 3,mhOkO,alternative
+mhola 3,mhola,alternative
+mhombo 3,mhombo,alternative
+mhowi(wambowi),mhowi,alternative
 mikisi/see makala,mikisi,
-ku-kolowa, ku-tingilivu -,ku-kolowa, ku-tingilivu,
-yuuta --,yuuta,
+minga (minga),minga,alternative
+mingI (-ingI),mingI,alternative
+mjakazi (mtumwa),mjakazi,
+mjie 3,mjie,alternative
+mjogo jwa mae 3,mjogo jwa mae,alternative
+mka 1,mka,alternative
+mkati (nkati),mkati,alternative
+mkolwa 1,mkolwa,alternative
+mkono 3-4,mkono,alternative
+mkOnO 3,mkOnO,alternative
+mkota 3-4,mkota,alternative
+mkoyo 3,mkoyo,alternative
+mkuju 3-4,mkuju,alternative
+mkuu 3-4,mkuu,alternative
+mkuyu (nkuyu-matunde ya mkuyu),mkuyu,alternative
+mkwe 3-4,mkwe,alternative
+mkwea 1-2,mkwea,alternative
+mlaka 3,mlaka,alternative
+mlala 1-2,mlala,alternative
+mlamu 1-2,mlamu,alternative
+mlao 1-2,mlao,alternative
+mlema(avalema),mlema,alternative
+mlima 3-4,mlima,alternative
+mlomE 1,mlomE,alternative
+mlOngO 3,mlOngO,alternative
+mlyangO 3,mlyangO,alternative
+mlyElV 3,mlyElV,alternative
+mmehe(salafu),mmehe,
+mndu mfele (vandu vafele),mndu mfele,alternative
+mnyo (ya machende),mnyo,alternative
+mO:ki 3,mO:ki,alternative
+moba 3,moba,alternative
+mobele 3,mobele,alternative
+mobwa 3,mobwa,alternative
+mobye 3,mobye,alternative
+moi 9,moi,alternative
+moje 3,moje,alternative
+mokyama 1,mokyama,alternative
+molagori 3,molagori,alternative
+molO 3,molO,alternative
+momorati 1,momorati,alternative
+mondogo 1,mondogo,alternative
+mondosOni 1,mondosOni,alternative
+monnyi (kyigo kya mori),monnyi,alternative
+monto 1,monto,alternative
+mosakuti 1,mosakuti,alternative
+mota:na 1,mota:na,alternative
+motEmi 1,motEmi,alternative
+motu 3,motu,alternative
+moyo (ng'holo),moyo,
+mpua (a  njou),mpua,alternative
+mpunga(mupunga),mpunga,alternative
+mra:tina 3,mra:tina,alternative
+mramba 3-4,mramba,alternative
+mrangi 3-4,mrangi,alternative
+mraru 3,mraru,alternative
+mrigO 3,mrigO,alternative
+mrogo 3,mrogo,alternative
+mrongo (mirongo),mrongo,alternative
+mrukE 3,mrukE,alternative
+msanga 3,msanga,alternative
+msari mdo [mlima = mdidoge],msari mdo,724_hill
+msavi (va) [mchawi wa],msavi,alternative
+msEngi 3,msEngi,alternative
+msEnya 3,msEnya,alternative
+msera 3,msera,alternative
+mshindo(musindo),mshindo,alternative
+msori 3,msori,alternative
+msoye 3,msoye,alternative
+msungu (vasungu),msungu,alternative
+msungu 1,msungu,alternative
+msyaka 1,msyaka,alternative
+mtaimbo (mkuki),mtaimbo,
+mtala 3,mtala,alternative
+mtene 3,mtene,alternative
+mteregwe 1,mteregwe,alternative
+mthae 3,mthae,alternative
+mtheri 1,mtheri,alternative
+mtua(mfalumi?),mtua,
+mtwana (mtumwa),mtwana,alternative
+mtwE 3,mtwE,alternative
+muciarwa(p.aciarwa),muciarwa,alternative
+muhiti (mihiti),muhiti,alternative
+muka(akaa),muka,alternative
+mukaka (iziya),mukaka,
+mUkengani(akengani),mUkengani,alternative
+mukoyobaka (mukoyubaka ?),mukoyobaka,alternative
+mukuru (omwojo),mukuru,
+mumura(male only),mumura,1588_youth
+mund'u (munthu),mund'u,alternative
+mUndU(andU),mUndU,alternative
+mungua(kaboro)?,mungua,
+munjwa (minjwa),munjwa,alternative
+munta(tuura),munta,
+muntu-muki (vantu vaki),muntu-muki,alternative
+mUrigo(mIrigo),mUrigo,alternative
+muromo(nguutu?),muromo,
+murongo(mirongo),murongo,alternative
+mUruke(mIruke),mUruke,alternative
+musenyu(i ?),musenyu,alternative
+mUthenya mUima(w'onthe),mUthenya mUima,
+muthongi(nkanya),muthongi,
+mUUi(mIUi),mUUi,alternative
+muundu(mundu),muundu,alternative
+muurano (gwikia),muurano,
+muzu (mizu),muzu,alternative
+mvi (wavi),mvi,alternative
+mvua(mbua),mvua,alternative
+mvwa 3-4,mvwa,alternative
+mvyee (mani ya mwana),mvyee,alternative
+mwaka 3,mwaka,alternative
+mwaletV 3,mwaletV,alternative
+mwana (wana),mwana,alternative
+mwana 1,mwana,alternative
+mwana(ciana),mwana,alternative
+mwanidu wa womi# [mbaa,mwanidu wa womi,17_olderbrother
+mwaraheta 3,mwaraheta,alternative
+mwe:gObi 1,mwe:gObi,alternative
+mwendo (miendo),mwendo,alternative
+mwEnemjie 1,mwEnemjie,alternative
+mwerehi 3,mwerehi,alternative
+mwEri 3,mwEri,alternative
+mweria 3,mweria,alternative
+mwesi 3,mwesi,alternative
+mwibhurwa(bibhurwa),mwibhurwa,alternative
+mwigua(migua),mwigua,alternative
+mwII(mII),mwII,alternative
+mwipa wa (myadi),mwipa wa,
+mwIrI(mIrri),mwIrI,alternative
+mwiwa (miwi),mwiwa,alternative
+mwobi 1,mwobi,alternative
+mwoborya 1,mwoborya,alternative
+mxarisha 1,mxarisha,alternative
+myaga 3,myaga,alternative
+mzuzu (ng'hoo),mzuzu,
+ncaamba(nguku),ncaamba,
+nciuri(cia metha),nciuri,alternative
+nciuri(cia metho),nciuri,alternative
+nda (ida),nda,alternative
+nda 9,nda,alternative
+nda 9,nda,alternative
+nda:xuya 9,nda:xuya,alternative
+nda:xwa 9,nda:xwa,alternative
+ndabO 9,ndabO,alternative
+ndame 9,ndame,alternative
+ndarami 9,ndarami,alternative
+ndaraweti 9,ndaraweti,alternative
+ndaxamE 9,ndaxamE,alternative
+nde_ma (guyo_mu),nde_ma,
+nde_ma (gwitu),nde_ma,
+ndebe(kidogo fupi),ndebe,alternative
+ndedekwa 9,ndedekwa,alternative
+nderege 9,nderege,alternative
+ndetele 9,ndetele,alternative
+ndetu(ntarara),ndetu,
+ndeza 9-10,ndeza,alternative
+ndezi (tamba ndezi dume),ndezi,alternative
+ndiba 9,ndiba,alternative
+ndikele 9,ndikele,alternative
+ndito (-ito),ndito,alternative
+ndombo(mhaja),ndombo,
+ndoromE 9,ndoromE,alternative
+nduBi(mbaha),nduBi,
+ndugenda 9,ndugenda,alternative
+ndyolo 9,ndyolo,alternative
+nEdani 9,nEdani,alternative
+nfele (vafele),nfele,alternative
+ng-ola(nguo)(take off),ng-ola,alternative
+ng'ombi(mlumi),ng'ombi,
+ng'woBa (m'ooBa),ng'woBa,alternative
+ngaghina 9-10,ngaghina,alternative
+ngai 9,ngai,alternative
+ngai(murungu),ngai,
+ngaku ya mote 9,ngaku ya mote,alternative
+ngalala 9,ngalala,alternative
+ngambu 9,ngambu,alternative
+nganga 9,nganga,alternative
+ngE 9,ngE,alternative
+nge:ng 9,nge:ng,alternative
+ngele 9,ngele,alternative
+ngi 9,ngi,alternative
+ngirazi(ngirazio?),ngirazi,alternative
+ngisiroi 9,ngisiroi,alternative
+ngita 9,ngita,alternative
+ngiti 9,ngiti,alternative
+ngO 9,ngO,alternative
+ngobi 9,ngobi,alternative
+ngOgE 9,ngOgE,alternative
+ngogolo 9,ngogolo,alternative
+ngoko 9,ngoko,alternative
+ngoli 9,ngoli,alternative
+ngolobE 9,ngolobE,alternative
+ngOmbE 9,ngOmbE,alternative
+ngOndi 9,ngOndi,alternative
+ngOngOtV 9,ngOngOtV,alternative
+ngoroji 9,ngoroji,alternative
+ngOrOngOrO 9,ngOrOngOrO,alternative
+ngoru 9,ngoru,alternative
+nguia 9,nguia,alternative
+ngule (kipuku)  -  wild rat,ngule,alternative
+nguluwe (guluwe-mkubwa mno),nguluwe,alternative
+ngumama (ya balomE),ngumama,alternative
+ngur*u [= tortoise],ngur*u,1208_shoulder
+nguro 9-10,nguro,alternative
+nguru (nguru),nguru,alternative
+ngutha(biempe),ngutha,
+nguuwe ya tundui (ngivi),nguuwe ya tundui,
+nguvu (likakala),nguvu,
+ngwaci/ngwasi 9,ngwaci/ngwasi,alternative
+ngwandi 9,ngwandi,alternative
+ngwena (umbulu),ngwena,
+nhipa (wa mwai),nhipa,alternative
+ninne(nini),ninne,alternative
+nitu(-titu),nitu,alternative
+njagu 9,njagu,alternative
+njanangifu(dhambi),njanangifu,
+njara(njara),njara,alternative
+njaxamba 9,njaxamba,alternative
+njegani 9,njegani,alternative
+njoke 9,njoke,alternative
+njOtO 9,njOtO,alternative
+njwechwe (hutumika haswa kwa matunguja),njwechwe,alternative
+nk(h)(ambaku),nk,
+nka(y)a 9,nka(y)a,alternative
+nkanO 9,nkanO,alternative
+nko(k?),nko,
+nkoba 9,nkoba,alternative
+nkobia 9,nkobia,alternative
+nkOlO 9,nkOlO,alternative
+nkoma (k?),nkoma,
+nkOndO 9,nkOndO,alternative
+nkOrOrO 9,nkOrOrO,alternative
+nkumE (ya utyaana),nkumE,alternative
+nkundi 9,nkundi,alternative
+nkuru 9,nkuru,alternative
+nkya 9,nkya,alternative
+nndema(gwitu),nndema,
+noru(nuru),noru,alternative
+nsabageri 9,nsabageri,alternative
+nsasi 9,nsasi,alternative
+nse 9,nse,alternative
+nsEE   (nkaku),nsEE,
+nsEngi 9,nsEngi,alternative
+nserero 9,nserero,alternative
+nsero:tV 9,nsero:tV,alternative
+nsindu (gwa mago_lo_),nsindu,alternative
+nsingiri 9,nsingiri,alternative
+nsiriri 9,nsiriri,alternative
+nso:ko 9,nso:ko,alternative
+nsOni 9,nsOni,alternative
+nsonjo 9,nsonjo,alternative
+nsoto 9,nsoto,alternative
+nsuguhu 9,nsuguhu,alternative
+nta:ra 9,nta:ra,alternative
+ntEmi 9,ntEmi,alternative
+ntya:nyi 9,ntya:nyi,alternative
+nundu 9,nundu,alternative
+nungu 9,nungu,alternative
+nura(ekinura),nura,alternative
+nuru(ekinura),nuru,alternative
+nxa:ti 9,nxa:ti,alternative
+nyama 9,nyama,alternative
+nyama 9,nyama,alternative
+nyamada (mayo) [mayo = teeth],nyamada,239_bite
+nyamao 9,nyamao,alternative
+nyami 9,nyami,alternative
+nyamoko(banyamoko pl.),nyamoko,405_crow
+nyamu;(inyamu),nyamu,
+nyErEmbE 9,nyErEmbE,alternative
+nyihi (ini)  # nyini ? #,nyihi,alternative
+nyoka  9,nyoka,alternative
+nyomba 9,nyomba,alternative
+nyongo 9,nyongo,alternative
+nyongo 9,nyongo,alternative
+nyonyi 9,nyonyi,alternative
+nyumba  9,nyumba,alternative
+nyUmU(thI nyUmU),nyUmU,alternative
+nyundo 9,nyundo,alternative
+nyungu 9,nyungu,alternative
+obhwalwa(r)  ?,obhwalwa,alternative
+obuma(any metal ore),obuma,779_ironore
+obusinga(sing.olusinga),obusinga,862_longstraighthairofanimals
+obusitani(inosi),obusitani,
+odoi 9,odoi,alternative
+ogokuncha(okoboa),ogokuncha,
+oho 16,oho,alternative
+ohu-hamula (engubo),ohu-hamula,
+ohw-onona (umwana),ohw-onona,
+okobherakera (kwitabha),okobherakera,
+okogoro(amagoro),okogoro,alternative
+oku(otufya),oku,
+oku(sombola),oku,
+oku(yana) echibalo,oku,alternative
+okubaga(okuchinja),okubaga,alternative
+okufuga(obwato),okufuga,
+okugorora(okunyororya),okugorora,alternative
+okuhungiza(amaisho),okuhungiza,
+okukangara(kugwa),okukangara,
+okusikala(inyuma),okusikala,
+okwimbo(chinyimbo),okwimbo,alternative
+olubhibhi(chimbibhi),olubhibhi,alternative
+oluhabyo(oruhabyo),oluhabyo,alternative
+olukada (lwe ndaba),olukada,alternative
+olulimi(chindimi),olulimi,
+olumambo(chimambo),olumambo,alternative
+olutindo(lwembao),olutindo,
+omokari(abhakari),omokari,alternative
+omorema(abharema),omorema,alternative
+omosanga(emesanga),omosanga,alternative
+omosekenya(amaroba),omosekenya,
+omoterebhi(kyiko-ikizuryo),omoterebhi,
+omubhili(emibhili),omubhili,alternative
 omuchuru abha -,omuchuru abha,
-bihuti 8,bihuti,
-binOxO 8,binOxO,
-bita 8,bita,
-bo-giti 14,bo-giti,
-boxaxa 14,boxaxa,
-boxOmani 14,boxOmani,
-boxo 14,boxo,
-bohElE bonEnage 14,bohElE bonEnage,
-bohEmbE 14,bohEmbE,
-bojOha 14,bojOha,
-bojoko 14,bojoko,
-bokOlO 14,bokOlO,
-bola 14,bola,
-bolO 14,bolO,
-borEgia 14,borEgia,
-boruri 14,boruri,
-bosa 14,bosa,
-bosElE 14,bosElE,
-bosena 14,bosena,
-bosi 14,bosi,
-bosOka 14,bosOka,
-bosongo 14,bosongo,
-bosyElE 14,bosyElE,
-bothO 14,bothO,
-bota 14,bota,
-botombO 14,botombO,
-mbyari 1,mbyari,
-keribyari 7,keribyari,
-mdOngOrane 3,mdOngOrane,
-ebala 5,ebala,
-ebE:lE 5,ebE:lE,
-ebegO 5,ebegO,
-ebina 5,ebina,
-eburana 5,eburana,
-ebwE 5,ebwE,
-edaxa 5,edaxa,
-edarV 5,edarV,
-eduko 5,eduko,
-egana 5,egana,
-eganjiro 5,eganjiro,
-egEgO 5,egEgO,
-egEmbE 5,egEmbE,
-kagEmbE 12,kagEmbE,
-logEmbE 11,logEmbE,
-egira 5,egira,
-egOkO 5,egOkO,
-logOkO 11,logOkO,
-egOlO 5,egOlO,
-egolo 5,egolo,
-egoria 5,egoria,
-egoro 5,egoro,
-eguha 5,eguha,
-egunku 5,egunku,
-exara 5,exara,
-exau 5,exau,
-exOti 5,exOti,
-exolo lya mbura 5,exolo lya mbura,
-exOndOrO 5,exOndOrO,
-ehiga 5,ehiga,
-ehigO 5,ehigO,
-ehiO 5,ehiO,
-ehombu 5,ehombu,
-ehuru 5,ehuru,
-ehororo 5,ehororo,
-ehoti 5,ehoti,
-ekala 5,ekala,
-ekObO 5,ekObO,
-ekOnO 5,ekOnO,
-ekOrani 5,ekOrani,
-ekOrE 5,ekOrE,
-ekomi 5,ekomi,
-ekundO 5,ekundO,
-elabatu 5,elabatu,
-elalu 5,elalu,
-enyEka 5,enyEka,
-lonyEka 11,lonyEka,
-erayo/eraxo 5,erayo/eraxo,
-eri 5,eri,
-erigo 5,erigo,
-kerigo 7,kerigo,
-erindo 5,erindo,
-eringaringa 5,eringaringa,
-esai 5,esai,
-esaka 5,esaka,
-esia 5,esia,
-esyOka 5,esyOka,
-etara 5,etara,
-etararo 5,etararo,
-eto 5,eto,
-etema 5,etema,
-etumu 5,etumu,
-eyai 5,eyai,
-bogabi 14,bogabi,
-kegambO 7,kegambO,
-logEndo 11,logEndo,
-geturo/keturo 7,geturo/keturo,
-lojuru 11,lojuru,
-kaburu 12,kaburu,
-keburu 7,keburu,
-kaxoje 12,kaxoje,
-kajwale 12,kajwale,
-ekalaga 5,ekalaga,
-katabara 12,katabara,
-katojo 12,katojo,
-kaserendei 12,kaserendei,
-katorontoro 12,katorontoro,
-kebaba 7,kebaba,
-kebakero 7,kebakero,
-kebasyo/kebasho 7,kebasyo/kebasho,
-kebElO 7,kebElO,
-kebere 7,kebere,
-keburi 7,keburi,
-kedentwe 7,kedentwe,
-keditini 7,keditini,
-kedudutya 7,kedudutya,
-kegErO 7,kegErO,
-kegEtO 7,kegEtO,
-kegOkOrO 7,kegOkOrO,
-kegOliV 7,kegOliV,
-kexundu 7,kexundu,
-kehehe 7,kehehe,
-kehori 7,kehori,
-kejerambura 7,kejerambura,
-kejomi 7,kejomi,
-kejori 7,kejori,
-kejugujugu 7,kejugujugu,
-kejwena/kejwEna 7,kejwena/kejwEna,
-kekOrOrwa 7,kekOrOrwa,
-kekuburi 7,kekuburi,
-kelango 7,kelango,
-kelEngo 7,kelEngo,
-kelemela 7,kelemela,
-kelohia 7,kelohia,
-kemEndE 7,kemEndE,
-kento 7,kento,
-kenyunga 7,kenyunga,
-kerEru 7,kerEru,
-kerigani 7,kerigani,
-keripelo 7,keripelo,
-keriryonda 7,keriryonda,
-keritO-ne 7,keritO-ne,
-kerOmO 7,kerOmO,
-kerOs 7,kerOs,
-keroxo 7,keroxo,
-keruguru 7,keruguru,
-keryoka 7,keryoka,
-kesabiuk 7,kesabiuk,
-kesaguha 7,kesaguha,
-kesElO 7,kesElO,
-kesEria 7,kesEria,
-kesErEndEy 7,kesErEndEy,
-kesoha 7,kesoha,
-ketara 7,ketara,
-ketEmi 7,ketEmi,
-ketenekela 7,ketenekela,
-ketilitili 7,ketilitili,
-lokyo 11,lokyo,
-bokwa 14,bokwa,
-kyaho 7,kyaho,
-kyala 7,kyala,
-kyareryo 7,kyareryo,
-kyola 7,kyola,
-kyoma 7,kyoma,
-bolOgi 14,bolOgi,
-lobago 11,lobago,
-lobala 11,lobala,
-lobaru 1,lobaru,
-lobina 11,lobina,
-lohEmbE 11,lohEmbE,
-lohyo 11,lohyo,
-lojalelV 11,lojalelV,
-lojele 11,lojele,
-loko 11,loko,
-lolela 11,lolela,
-loleme 11,loleme,
-lorende 11,lorende,
-losaya 11,losaya,
-losela 11,losela,
-losOlOkO 11,losOlOkO,
-lwala 11,lwala,
-elwala 5,elwala,
-lwerEvu 11,lwerEvu,
-mabi 6,mabi,
-madaxa 6,madaxa,
-mae 6,mae,
-magare 6,magare,
-magoti 6,magoti,
-maguta 6,maguta,
-marEndE 6,marEndE,
-mariba 6,mariba,
-masO:ka 6,masO:ka,
-masuti 6,masuti,
-mata 6,mata,
-matunda 6,matunda,
-moba 3,moba,
-mbaga 9,mbaga,
-kabaga 12,kabaga,
-mbaragobo 9,mbaragobo,
-mbarambara 9,mbarambara,
-mbarimbari 9,mbarimbari,
-mbasu 9,mbasu,
-mbEho 9,mbEho,
-mbebe 9,mbebe,
-mobele 3,mobele,
-mbilibili 9,mbilibili,
-mbirato 9,mbirato,
-mbOgO 9,mbOgO,
-mbOxO 9,mbOxO,
-mbobwa 9,mbobwa,
-mboxolo 9,mboxolo,
-mbori 9,mbori,
-mborua 9,mborua,
-mbudwai 9,mbudwai,
-mbura 9,mbura,
-mburya 9,mburya,
-mobye 3,mobye,
-mobwa 3,mobwa,
-mdOxane 3,mdOxane,
-mdukwa 3,mdukwa,
-melemo 4,melemo,
-mganga 1,mganga,
-mgEni 1,mgEni,
-mgEro 3,mgEro,
-mgOngO 3,mgOngO,
-kagOngO 12,kagOngO,
-mgonda 3,mgonda,
-kagonda 12,kagonda,
-bogwE-ne 14,bogwE-ne,
-mxarisha 1,mxarisha,
-m(o)xOba 3,m(o)xOba,
-mhOkO 3,mhOkO,
-mhoho 3,mhoho,
-mhola 3,mhola,
-mhombo 3,mhombo,
-mhendo 4,mhendo,
-moi 9,moi,
-moje 3,moje,
-kamoje 12,kamoje,
-mjie 3,mjie,
-mwEnemjie 1,mwEnemjie,
-mjogo jwa mae 3,mjogo jwa mae,
-mka 1,mka,
-mkOnO 3,mkOnO,
-mkolwa 1,mkolwa,
-mkoyo 3,mkoyo,
-mokyama 1,mokyama,
-molagori 3,molagori,
-mlaka 3,mlaka,
-molO 3,molO,
-mlOngO 3,mlOngO,
-mlomE 1,mlomE,
-mlyangO 3,mlyangO,
-mlyElV 3,mlyElV,
-mO:ki 3,mO:ki,
-momorati 1,momorati,
-mondogo 1,mondogo,
-mondosOni 1,mondosOni,
-monto 1,monto,
-mraru 3,mraru,
-mra:tina 3,mra:tina,
-m(o)ri 3,m(o)ri,
-mrigO 3,mrigO,
-m(o)ringa 3,m(o)ringa,
-mrogo 3,mrogo,
-mrukE 3,mrukE,
-mosakuti 1,mosakuti,
-msanga 3,msanga,
-msEnya 3,msEnya,
-msera 3,msera,
-msori 3,msori,
-msoye 3,msoye,
-msungu 1,msungu,
-msyaka 1,msyaka,
-mthae 3,mthae,
-mtheri 1,mtheri,
-mtala 3,mtala,
-mota:na 1,mota:na,
-motEmi 1,motEmi,
-ketEmi 7,ketEmi,
-ntEmi 9,ntEmi,
-m(o)te 3,m(o)te,
-mtene 3,mtene,
-mteregwe 1,mteregwe,
-motu 3,motu,
-mtwE 3,mtwE,
-kemugumugu 7,kemugumugu,
-mwaka 3,mwaka,
-mwaletV 3,mwaletV,
-mwana 1,mwana,
-mwaraheta 3,mwaraheta,
-mwe:gObi 1,mwe:gObi,
-mwerehi 3,mwerehi,
-mwEri 3,mwEri,
-mweria 3,mweria,
-mwesi 3,mwesi,
-mwobi 1,mwobi,
-mwoborya 1,mwoborya,
-myaga 3,myaga,
-nda 9,nda,
-nda 9,nda,
-ndabO 9,ndabO,
-ndaxamE 9,ndaxamE,
-nda:xuya 9,nda:xuya,
-nda:xwa 9,nda:xwa,
-ndame 9,ndame,
-ndaraweti 9,ndaraweti,
-ndedekwa 9,ndedekwa,
-nderege 9,nderege,
-ndetele 9,ndetele,
-ndiba 9,ndiba,
-ndikele 9,ndikele,
-ndoromE 9,ndoromE,
-ndyolo 9,ndyolo,
-ndugenda 9,ndugenda,
-nEdani 9,nEdani,
-ngai 9,ngai,
-nganga 9,nganga,
-ngE 9,ngE,
-ngele 9,ngele,
-ngi 9,ngi,
-ngisiroi 9,ngisiroi,
-ngita 9,ngita,
-kagita 12,kagita,
-ngO 9,ngO,
-ngOgE 9,ngOgE,
-ngOngOtV 9,ngOngOtV,
-ngOrOngOrO 9,ngOrOngOrO,
-ngobi 9,ngobi,
-kabogi 12,kabogi,
-ngogolo 9,ngogolo,
-ngoko 9,ngoko,
-ngoli 9,ngoli,
-ngolobE 9,ngolobE,
-ngoru 9,ngoru,
-nguia 9,nguia,
-ngwaci/ngwasi 9,ngwaci/ngwasi,
-nxa:ti 9,nxa:ti,
-njagu 9,njagu,
-njaxamba 9,njaxamba,
-njegani 9,njegani,
-njOtO 9,njOtO,
-njoke 9,njoke,
-nka(y)a 9,nka(y)a,
-nkanO 9,nkanO,
-nkOlO 9,nkOlO,
-nkOndO 9,nkOndO,
-nkOrOrO 9,nkOrOrO,
-nkoba 9,nkoba,
-nkobia 9,nkobia,
-nkundi 9,nkundi,
-nkuru 9,nkuru,
-nkya 9,nkya,
-nsasi 9,nsasi,
-nsEngi 9,nsEngi,
-msEngi 3,msEngi,
-kasEngi 12,kasEngi,
-nse 9,nse,
-nserero 9,nserero,
-nsero:tV 9,nsero:tV,
-nsingiri 9,nsingiri,
-nsiriri 9,nsiriri,
-nsOni 9,nsOni,
-nso:ko 9,nso:ko,
-nsonjo 9,nsonjo,
-nsoto 9,nsoto,
-nsuguhu 9,nsuguhu,
-nta:ra 9,nta:ra,
-ntya:nyi 9,ntya:nyi,
-nungu 9,nungu,
-nyama 9,nyama,
-nyErEmbE 9,nyErEmbE,
-nyonyi 9,nyonyi,
-nyomba 9,nyomba,
-nyongo 9,nyongo,
-ngaku ya mote 9,ngaku ya mote,
-ngalala 9,ngalala,
-ngambu 9,ngambu,
-nge:ng 9,nge:ng,
-ngiti 9,ngiti,
-ngOmbE 9,ngOmbE,
-ngOndi 9,ngOndi,
-ngoroji 9,ngoroji,
-ngwandi 9,ngwandi,
-gokyO 17,gokyO,
-hayO 16,hayO,
-oho 16,oho,
-boritO 14,boritO,
-nsabageri 9,nsabageri,
-sakama 9,sakama,
-ndarami 9,ndarami,
-nguro 9-10,nguro,
-iguro 5-6,iguro,
-ngaghina 9-10,ngaghina,
-nyami 9,nyami,
-nyama 9,nyama,
-nyamao 9,nyamao,
-nyoka  9,nyoka,
-nyumba  9,nyumba,
-nyundo 9,nyundo,
-nyungu 9,nyungu,
-zaa 9,zaa,
-zao 9,zao,
-zighe 9,zighe,
-odoi 9,odoi,
-(u)Bongo 14,(u)Bongo,
-Busho 14,Busho,
-(he)yaBo 5,(he)yaBo,
-yoo 5,yoo,
-nundu 9,nundu,
-nyongo 9,nyongo,
-ichio 7,ichio,
--o, ivyo 8,-o, ivyo,
-avo 2, ijo 10, ivyo 8,avo 2, ijo 10, ivyo,
-ijo 10,ijo,
-vueza 14,vueza,
-ndeza 9-10,ndeza,
-figho 9-10,figho,
-fole 9-10,fole,
-fua 9-10,fua,
-hafuhi 16,hafuhi,
-gunde (?) 9-10,gunde (?),
-hae 16,hae,
-hafuhi 16,hafuhi,
-hala 16,hala,
-ha-ruke 16,ha-ruke,
-hena mbeho 16,hena mbeho,
-handu 16,handu,
-kaa 9-10,kaa,
-kahandi 12-8,kahandi,
-kolo 9-10,kolo,
-ama mambare meri 6,ama mambare meri,
-mbinda 9-10,mbinda,
-mbora 1-2,mbora,
-mbungo 9-10,mbungo,
-mbwange 1-2,mbwange,
-mhaBe 3-4,mhaBe,
-mkono 3-4,mkono,
-mkota 3-4,mkota,
-mkuju 3-4,mkuju,
-mbafu 9-10,mbafu,
-mbande 10,mbande,
-mbeho 9-10,mbeho,
-mbombe 9-10,mbombe,
-mrangi 3-4,mrangi,
-mvwa 3-4,mvwa,
-ndedha, luedha 11,ndedha, luedha,
-aha 16,aha,
-kio 7-8,kio,
-mkuu 3-4,mkuu,
-mkwe 3-4,mkwe,
-mkwea 1-2,mkwea,
-mlala 1-2,mlala,
-mlamu 1-2,mlamu,
-mlima 3-4,mlima,
-mbojo 9-10,mbojo,
-mramba 3-4,mramba,
-hetu 16,hetu,
-kio 7-8,kio,
-mlao 1-2,mlao,
+omugasi muka(rebe) ?,omugasi muka,alternative
+omugye(omugini),omugye,alternative
+omukasi(abakasi),omukasi,alternative
+omukate(foreign),omukate,270_bread
+omukono(gwenjojo),omukono,
+omunwa(rinebwenebwe),omunwa,
+omutego(only for fish?),omutego,1251_snaretrap
+omutsi(gw'eshagama),omutsi,
+omutu(avatu),omutu,
+omuzana(servant),omuzana,530_femaleslave
+omuzana(servant),omuzana,886_maleslave
+omuzungu(erinani),omuzungu,
+omwaka(emi...),omwaka,
+omwana(abana),omwana,alternative
+omwiika(emiika),omwiika,alternative
+omwora(otari na nguni),omwora,alternative
+oringo (ringo),oringo,alternative
+orobebe(zebhebhe pl.),orobebe,264_boundary
+orogembe(zengembe pl),orogembe,1092_razor
+orokarra(chinkarra),orokarra,alternative
+ororeme(chindeme),ororeme,
+orosa(chinsa),orosa,
+orubaru(zimbaru),orubaru,alternative
+orubhere(zimbere),orubhere,alternative
+oruhembe(zihembe pl),oruhembe,alternative
+orukobha  (ka?),orukobha,
+orusu rwebinyansi(rwebigogo),orusu rwebinyansi,
+orwembo(amembo),orwembo,alternative
+osa (bosa),osa,alternative
+pakulekela(pakifinja),pakulekela,
+pala(kala),pala,alternative
+pala(kula),pala,alternative
+panu(wgau?),panu,
+papipi (mahali),papipi,
+pawunyanyilo(wa fitonga),pawunyanyilo,alternative
+rangi ya (mara) [greenish],rangi ya,655_green
+ribe (ibe),ribe,alternative
+ribhega(amabhega),ribhega,alternative
+rikanda(amakaanda)..,rikanda,alternative
+rikanda(amakanda),rikanda,alternative
+rikorokonyo(amakorokonyo),rikorokonyo,alternative
+rikubhate(amakubhate),rikubhate,alternative
+ritho(metho),ritho,alternative
+riundu?(amaundu),riundu,alternative
+riwa (amawa),riwa,
+riyaya(amayaya),riyaya,alternative
+rughu (marughu),rughu,alternative
+rugoji(ngochi),rugoji,alternative
+ruili(mwera),ruili,
+rumbu (ndumbu),rumbu,alternative
+rungwi (ya ngoe),rungwi,alternative
+ruva [= God],ruva,1226_sky
+rwaru(mbaru),rwaru,alternative
+rwembe(ndwembe),rwembe,alternative
+rwImbo(nyImbo),rwImbo,alternative
+safu (masafu),safu,alternative
+sakama 9,sakama,alternative
+salaka (mahoka),salaka,alternative
+sambuta (lurure),sambuta,
+see(kulifunila),see,
+senge (milani),senge,
+sese (za moto),sese,alternative
+shidebe(-debe),shidebe,alternative
+shikwawakwawa(vikwawakwawa),shikwawakwawa,alternative
+shiv*ozu (ukuv*ola),shiv*ozu,
+shiwiga(viwiga),shiwiga,alternative
+shokulu (t?),shokulu,
+shomba [very old term],shomba,1457_town
+shtwiku(utwiku),shtwiku,alternative
+sI(nzUmu),sInzUmu,
+sibaala (sisiomu),sibaala,
+silayi(-ayi),silayi,alternative
+similato bamboo wine (vulanji),similato bamboo wine,
+sina(nsina),sina,alternative
+sironda (nonie),sironda,
+sita(masita),sita,alternative
+soma(okusoma),soma,alternative
+suka(ezisoni),suka,
+sya(kusya),sya,alternative
+syala (kusyala),syala,alternative
+syila (fushila),syila,alternative
+tabana (mitigo),tabana,
+tako (matako),tako,alternative
+tat'enkuru(my grandfather:menkuru),tat'enkuru,647_grandfather
+tata (mangu) vyala,tata,alternative
+tate mwelesi (baba mzazi),tate mwelesi,alternative
+thutha(mugongo),thutha,
+toleza(tooleza),toleza,alternative
+tul*u (matul*u),tul*u,alternative
+tumbaku(litumbaku),tumbaku,alternative
+tuna(rwinyuma),tuna,
+tuna(tunirira),tuna,alternative
+u-tumbika (uning'inia),u-tumbika,
+ub*ari (mbari),ub*ari,alternative
+ubaba (utata),ubaba,alternative
+ubaba wani (utata wani),ubaba wani,alternative
+ufi (intumpu),ufi,
+uga (senge),uga,
+ugucha(amagambo),ugucha,
+ugutuha(igituho),ugutuha,alternative
+ugutunula(amaso),ugutunula,
+ugwikarana(goteto kihingo hai),ugwikarana,alternative
+uhengu (idima),uhengu,
+uhii (kkooko),uhii,
+UImI(nImI),UImI,alternative
+UImI(UIme),UImI,alternative
+ukakatuja (utundumnya),ukakatuja,
+uki(muchencha),uki,
+ukocha (ocha),ukocha,alternative
+ukofya (ofya),ukofya,alternative
+ukogwa(irioba),ukogwa,
+ukolola (olola),ukolola,alternative
+ukololoka (loloka),ukololoka,alternative
+ukonda (onda),ukonda,alternative
+ukonka (onka),ukonka,alternative
+ukonona (onona) umuz#,ukonona,alternative
+ukonona (onona),ukonona,alternative
+ukonona (onono),ukonona,alternative
+ukopa (opa),ukopa,alternative
+ukotela (otela),ukotela,alternative
+ukotelela (umusanya),ukotelela,
+uku-fina (imyenda),uku-fina,
+uku-kanda (inzwalo),uku-kanda,
+uku-lowa (inswi),uku-lowa,
+uku-mata (inyungu),uku-mata,
+uku-nyepa (iviya),uku-nyepa,
+uku-nyepa (nu lukusa),uku-nyepa,alternative
+uku-pemba (umulilo),uku-pemba,
+uku-pomba (umunyeta),uku-pomba,
+uku-semba (aminzi),uku-semba,
+uku-swila (amati),uku-swila,
+uku-wunganika (ivikunko),uku-wunganika,
+uku(gunda),ukugunda,
+uku=tuka (tuka),uku=tuka,alternative
+ukuchema (chema),ukuchema,alternative
+ukuchepa (chepa),ukuchepa,alternative
+ukuchikula (chikula),ukuchikula,alternative
+ukuchina (china),ukuchina,alternative
+ukuchindika (kuchindika),ukuchindika,alternative
+ukuchinga (chinga),ukuchinga,alternative
+ukuchintukila (chintukila),ukuchintukila,alternative
+ukuchita (chita),ukuchita,alternative
+ukudub'a (inswi),ukudub'a,
+ukuenvya (sansa),ukuenvya,
+ukufena (fena),ukufena,alternative
+ukufima (fima),ukufima,alternative
+ukufipa (fipa),ukufipa,alternative
+ukufisa (fisa),ukufisa,alternative
+ukufokonta (fakonta),ukufokonta,alternative
+ukufukama (fukama),ukufukama,alternative
+ukufula (fula),ukufula,alternative
+ukufula (fyula),ukufula,alternative
+ukufulala (fulala),ukufulala,alternative
+ukufumila (fumila),ukufumila,alternative
+ukufumya (fumya),ukufumya,alternative
+ukufunya (funya),ukufunya,alternative
+ukufuta (futa),ukufuta,alternative
+ukufutilizya (futilizya),ukufutilizya,alternative
+ukufutuka (futuka),ukufutuka,alternative
+ukufwa (fwa),ukufwa,alternative
+ukufyamya (fyamya),ukufyamya,alternative
+ukufyantama (fyantama),ukufyantama,alternative
+ukugeuka(okuinduka),ukugeuka,alternative
+ukugulu (magulu),ukugulu,alternative
+ukuinga (inga),ukuinga,alternative
+ukukala (kala),ukukala,alternative
+ukukalaya (kalaya) [mainly with paint],ukukalaya,alternative
+ukukalaya (kalaya) [paint],ukukalaya,alternative
+ukukana (kana),ukukana,alternative
+ukukasula (kasula),ukukasula,alternative
+ukukavya (kavya),ukukavya,alternative
+ukukazya (kazya),ukukazya,alternative
+ukukola (kola),ukukola,alternative
+ukukola(ibhilungwa),ukukola,
+ukukolana (kolana),ukukolana,alternative
+ukukolanya (kolanya),ukukolanya,alternative
+ukukoleka (koleka),ukukoleka,alternative
+ukukolola (ivikona),ukukolola,
+ukukomela (komela),ukukomela,alternative
+ukukompola (kompola),ukukompola,alternative
+ukukomya (komya),ukukomya,alternative
+ukukonkola (konkola),ukukonkola,alternative
+ukukonza (konza),ukukonza,alternative
+ukukonzana (konzan#),ukukonzana,alternative
+ukukovyenkanya (kovyenkanya),ukukovyenkanya,alternative
+ukukowa (kowa),ukukowa,alternative
+ukukozya (kozy#),ukukozya,alternative
+ukukula (kula),ukukula,alternative
+ukukulana (kukulana),ukukulana,alternative
+ukukumba (kumba),ukukumba,alternative
+ukukunda (kunda),ukukunda,alternative
+ukukupama (kupama),ukukupama,alternative
+ukukupika (kupika),ukukupika,alternative
+ukukupula (kupula),ukukupula,alternative
+ukukwawa (kwawa),ukukwawa,alternative
+ukulamba (lamba),ukulamba,alternative
+ukulamba (ulusi),ukulamba,
+ukulambalika (lambalika),ukulambalika,alternative
+ukulanda (landa),ukulanda,alternative
+ukulangasa (langasa),ukulangasa,alternative
+ukulapa (lapa),ukulapa,alternative
+ukulea (lela),ukulea,alternative
+ukulema (lema),ukulema,alternative
+ukulemala (lemala),ukulemala,alternative
+ukulemanila (lemanila),ukulemanila,alternative
+ukulenga (lenga),ukulenga,alternative
+ukuleuka (leuka),ukuleuka,alternative
+ukuleusya (leusya),ukuleusya,alternative
+ukulima (lima),ukulima,alternative
+ukulimba (limba),ukulimba,alternative
+ukulinda (linda),ukulinda,alternative
+ukulinganya (linganya),ukulinganya,alternative
+ukulola (lola),ukulola,alternative
+ukulolekesya (lolekesya),ukulolekesya,alternative
+ukulolola (lolola),ukulolola,alternative
+ukulonda (londa),ukulonda,alternative
+ukulondela (londela),ukulondela,alternative
+ukulota (ichilota),ukulota,alternative
+ukulota (indoto),ukulota,
+ukulota (lota),ukulota,alternative
+ukuluka (luka),ukuluka,alternative
+ukuluka (uluka),ukuluka,alternative
+ukuluma (luma),ukuluma,alternative
+ukulunda (lunda),ukulunda,alternative
+ukulunduka (lunduka),ukulunduka,alternative
+ukulusya (ulusya),ukulusya,alternative
+ukuluta (luta),ukuluta,alternative
+ukulwa (lwa),ukulwa,alternative
+ukulwala (lwala),ukulwala,alternative
+ukulya (lya),ukulya,alternative
+ukuma (uma),ukuma,alternative
+ukumala (mala),ukumala,alternative
+ukumanya (manya),ukumanya,alternative
+ukumanyika (manyika),ukumanyika,alternative
+ukumata (insonta),ukumata,
+ukumata (mata),ukumata,alternative
+ukumila (mila),ukumila,alternative
+ukumola (umola),ukumola,alternative
+ukumviila(uguteg'amatwi),ukumviila,
+ukumyanta (myanta),ukumyanta,alternative
+ukunena (nena),ukunena,alternative
+ukunengula (nengula),ukunengula,alternative
+ukung'wa (ng'wa),ukung'wa,alternative
+ukung'winta (ng'winta),ukung'winta,alternative
+ukuntuma (tuntuma),ukuntuma,alternative
+ukununka (nunka),ukununka,alternative
+ukununkila (nunkila),ukununkila,alternative
+ukununsya (nunsya),ukununsya,alternative
+ukunwila (nwila),ukunwila,alternative
+ukunya (nya),ukunya,alternative
+ukunya=ma (nya=ma),ukunya=ma,alternative
+ukunyatula (nyatula),ukunyatula,alternative
+ukunyepa (nyepa),ukunyepa,alternative
+ukunyepa (umligo),ukunyepa,
+ukunyepa(umligo),ukunyepa,
+ukunyola (nyola),ukunyola,alternative
+ukuola (ola),ukuola,alternative
+ukupala (pala),ukupala,alternative
+ukupampamuka (pampamuka),ukupampamuka,alternative
+ukupantula (pantula),ukupantula,alternative
+ukupela (pela),ukupela,alternative
+ukupemba (pemba),ukupemba,alternative
+ukupemba (umoto),ukupemba,
+ukupepela (pepela),ukupepela,alternative
+ukupilinganya (pilinganya),ukupilinganya,alternative
+ukupinda (pinda),ukupinda,alternative
+ukupita (pita),ukupita,alternative
+ukupitisha (pitisha),ukupitisha,alternative
+ukupokelela (pokelela),ukupokelela,alternative
+ukupololokezy# (pololokezya),ukupololokezy#,alternative
+ukupona (pona),ukupona,alternative
+ukuponga (ponga),ukuponga,alternative
+ukupula (imyenda),ukupula,
+ukupuma (puma),ukupuma,alternative
+ukupumika (pumika),ukupumika,alternative
+ukupupa (pupa),ukupupa,alternative
+ukupupanya (pupanya),ukupupanya,alternative
+ukuputula (putula),ukuputula,alternative
+ukupuza (puza),ukupuza,alternative
+ukupuzisha (puzisha),ukupuzisha,alternative
+ukupya (pya),ukupya,alternative
+ukupyela (pyela),ukupyela,alternative
+ukurusia(ichingebo),ukurusia,
+ukusakisha (sakisha),ukusakisha,alternative
+ukusalala (salala),ukusalala,alternative
+ukusalula (salula),ukusalula,alternative
+ukusama (sam#),ukusama,alternative
+ukusambilila (sambilila),ukusambilila,alternative
+ukusapola (sapola),ukusapola,alternative
+ukusasa (sasa),ukusasa,alternative
+ukusasula (sasula),ukusasula,alternative
+ukusela (sela),ukusela,alternative
+ukusemba (manzi),ukusemba,
+ukusenda (senda),ukusenda,alternative
+ukusenema (senema),ukusenema,alternative
+ukusengama (sengama),ukusengama,alternative
+ukusenuka (senuka),ukusenuka,alternative
+ukusenula (senula),ukusenula,alternative
+ukusezya (sezya),ukusezya,alternative
+ukusha (sha),ukusha,alternative
+ukushala (shala),ukushala,alternative
+ukusila (sila),ukusila,alternative
+ukusina (sina),ukusina,alternative
+ukusinta (sinta),ukusinta,alternative
+ukusipula (sipula),ukusipula,alternative
+ukusoka (soka),ukusoka,alternative
+ukusokonfya (sokonfya),ukusokonfya,alternative
+ukusola (sola),ukusola,alternative
+ukusolola (solola),ukusolola,alternative
+ukusuka (suka) [< Sw.],ukusuka,alternative
+ukusuka (suka),ukusuka,alternative
+ukusula (sula),ukusula,alternative
+ukusulika (sulika),ukusulika,alternative
+ukusuma (suma),ukusuma,alternative
+ukusumba (sumba) [lose],ukusumba,alternative
+ukusumbila (sumbila),ukusumbila,alternative
+ukusunguluka (sunguluka),ukusunguluka,alternative
+ukusunka (sunka),ukusunka,alternative
+ukusupa (supa),ukusupa,alternative
+ukuswila (swila),ukuswila,alternative
+ukusya (sya),ukusya,alternative
+ukuta (ta),ukuta,alternative
+ukutagika;ugutola indubhi(porini),ukutagika;ugutola indubhi,
+ukutalimpa (talimpa),ukutalimpa,alternative
+ukutama (tama),ukutama,alternative
+ukutamba (tamba),ukutamba,alternative
+ukutampuka (tampuka),ukutampuka,alternative
+ukutana (tana),ukutana,alternative
+ukutanya (tanya),ukutanya,alternative
+ukutapa (tapa),ukutapa,alternative
+ukuteka (teka),ukuteka,alternative
+ukutelefya (telefya),ukutelefya,alternative
+ukuteya (teya),ukuteya,alternative
+ukutikanya (tikanya),ukutikanya,alternative
+ukutimpika (timpika),ukutimpika,alternative
+ukutina (tina),ukutina,alternative
+ukutisya (tisya),ukutisya,alternative
+ukutitisha (titisha),ukutitisha,alternative
+ukutonkola (tonkola),ukutonkola,alternative
+ukutota (tola),ukutota,alternative
+ukutota (tota) nisum#,ukutota,alternative
+ukutufya (tufya),ukutufya,alternative
+ukutuka (utuka),ukutuka,alternative
+ukutulika (tulika),ukutulika,alternative
+ukutulula (iliina),ukutulula,
+ukutulula (tulula),ukutulula,alternative
+ukutuma (tuma),ukutuma,alternative
+ukutumpa (tumpa),ukutumpa,alternative
+ukutunga (tunga),ukutunga,alternative
+ukutuntuma (tuntuma),ukutuntuma,alternative
+ukututulula (tutulula),ukututulula,alternative
+ukutuzya (tuzya),ukutuzya,alternative
+ukutwala (twala),ukutwala,alternative
+ukutwika (twika),ukutwika,alternative
+ukutwila (twila),ukutwila,alternative
+ukutwilila (twilila),ukutwilila,alternative
+ukuulungan# (ulungana),ukuulungan#,alternative
+ukuulungana (ulungana),ukuulungana,alternative
+ukuundela (undela),ukuundela,alternative
+ukuuvwa (uvwa),ukuuvwa,alternative
+ukuuza (uuza),ukuuza,alternative
+ukuvina (vina),ukuvina,alternative
+ukuvunda (vunda),ukuvunda,alternative
+ukuvwa (uvwa),ukuvwa,alternative
+ukuvwanga (vwanga),ukuvwanga,alternative
+ukuvyala (vyala),ukuvyala,alternative
+ukuvyalwa (vyalwa),ukuvyalwa,alternative
+ukuwanda (wanda),ukuwanda,alternative
+ukuwela (wela),ukuwela,alternative
+ukuwelenga (welenga),ukuwelenga,alternative
+ukuyengane (yengane),ukuyengane,alternative
+ukuyiima (iime),ukuyiima,alternative
+ukuyula (yula),ukuyula,alternative
+ukuzakaza (zakaza),ukuzakaza,alternative
+ukuzanga (zanga),ukuzanga,alternative
+ukuzilika (zilika),ukuzilika,alternative
+ukuzimya (zimya),ukuzimya,alternative
+ukuzindika (zindika),ukuzindika,alternative
+ukuzuka (zuka),ukuzuka,alternative
+ukuzula (zula),ukuzula,alternative
+ukuzulula (zulula),ukuzulula,alternative
+ukuzumila (zumila),ukuzumila,alternative
+ukuzusha (zusha),ukuzusha,alternative
+ukuzuta (zuta),ukuzuta,alternative
+ukuzuwa (zuwa),ukuzuwa,alternative
+ukuzuzya (zuzya),ukuzuzya,alternative
+ukuzwa (zwa),ukuzwa,alternative
+ukuzwala (zwala),ukuzwala,alternative
+ukuzwika (zwika),ukuzwika,alternative
+ukwa (iteleko),ukwa,
+ukwama (wala),ukwama,alternative
+ukwangula (angula),ukwangula,alternative
+ukwanika (anika),ukwanika,alternative
+ukwanka(ukwihakana),ukwanka,alternative
+ukwanza (anza),ukwanza,alternative
+ukwasama (asama),ukwasama,alternative
+ukwaula (aula),ukwaula,alternative
+ukwela (ela),ukwela,alternative
+ukweleka (eleka),ukweleka,alternative
+ukwelenganya (elenganya),ukwelenganya,alternative
+ukweleuzya (eleuzya),ukweleuzya,alternative
+ukwelezya (elezya),ukwelezya,alternative
+ukwemelela (emelela),ukwemelela,alternative
+ukwendekezya (umwaana),ukwendekezya,
+ukwezya (ezya),ukwezya,alternative
+ukwifikizya (ifikizya),ukwifikizya,alternative
+ukwika (ika),ukwika,alternative
+ukwikala (ikala),ukwikala,alternative
+ukwikala (ikela),ukwikala,alternative
+ukwikalana (ikalana),ukwikalana,alternative
+ukwikusha (ikusha),ukwikusha,alternative
+ukwikuta (ikuta),ukwikuta,alternative
+ukwilila (ilila),ukwilila,alternative
+ukwima (ima),ukwima,alternative
+ukwimba (imba),ukwimba,alternative
+ukwimika (imika),ukwimika,alternative
+ukwimilila (imilila),ukwimilila,alternative
+ukwina (ina),ukwina,alternative
+ukwingila (ingila),ukwingila,alternative
+ukwingizya (ingizya),ukwingizya,alternative
+ukwisha (isha),ukwisha,alternative
+ukwita (ita),ukwita,alternative
+ukwitika (itika),ukwitika,alternative
+ukwitila (itila),ukwitila,alternative
+ukwiusha (iusha),ukwiusha,alternative
+ukwiya (iya),ukwiya,alternative
+ukwiza (iza),ukwiza,alternative
+ula (ngObo),ula,
+ula (uk# la),ula,alternative
+ulimbo (sangwo) ?,ulimbo,alternative
+uludela(lwa daanda),uludela,alternative
+ulufwili(uluyele),ulufwili,alternative
+ulugasi(ingasi),ulugasi,alternative
+ulugulu(iligulu),ulugulu,alternative
+ulukwegu(lukwegu),ulukwegu,alternative
+ulupanda (impanda),ulupanda,alternative
+ulupote (ubusi),ulupote,
+ulusambo (insambo),ulusambo,alternative
+ulusisi(lwa ndovano),ulusisi,alternative
+ulutiya (tiya) (i)nkwi,ulutiya,alternative
+uluvungano (uluvingilo),uluvungano,alternative
+ulwimbo(inyimbo),ulwimbo,alternative
+umba (isanzia),umba,
+umkandi (umzungu),umkandi,
+umpofu(umbofu),umpofu,alternative
+umtumba (imitumba),umtumba,alternative
+umugore(umukazi),umugore,
+umuheha(imiheha),umuheha,alternative
+umukonga(umwakho),umukonga,alternative
+umukoyo;umusobhe(amasobhe),umukoyo;umusobhe,
+umukuru(mukuru),umukuru,alternative
+umuntu umutiswe (umuzungu),umuntu umutiswe,
+umururyo(imiruryo),umururyo,alternative
+umutela(de fani),umutela,alternative
+umuva(amiva),umuva,alternative
+umuva(imyuva),umuva,alternative
+umwana [omwa:na]; (uncheche),umwana,
+umwana(avana),umwana,alternative
+umwana(uncheche),umwana,
+umwanishe(mwana),umwanishe,alternative
+umweegasi(veegasi),umweegasi,alternative
+umwifwa(imifwa)pl.,umwifwa,alternative
+unkulu(umwene),unkulu,
+upusi (unyav*o),upusi,
+uruche(ubhuche),uruche,alternative
+urwibhoro(zinyibhoro),urwibhoro,alternative
+UtU(mauta ma UtU),UtU,alternative
+uv*udiri (indiri),uv*udiri,alternative
+uv*umeme (iradi),uv*umeme,
+uvari (mbari),uvari,alternative
+uvaya (ikhwe),uvaya,
+uvudokho (vudokho),uvudokho,alternative
+uvukomi(ukubwa),uvukomi,
+uvuluva(amaluva),uvuluva,alternative
+uwembe (mbembe),uwembe,alternative
+uwono(pawono),uwono,alternative
+uwudambi(ikumbulu),uwudambi,
+uwuholo(wuholo),uwuholo,alternative
+uwuuki(ichuuki),uwuuki,alternative
+uzangazi(z?),uzangazi,
+veve(bebe),veve,alternative
+vigingi (va hema),vigingi,alternative
+vueza 14,vueza,alternative
+wathi(mbathi),wathi,alternative
+wawee (o kyuumi),wawee,alternative
+wembe(wembe),wembe,alternative
+wenge (la moto),wenge,alternative
+wila (sadaka),wila,
+wiliwitya (eyes) iba (masikio),wiliwitya,alternative
+wuzi(ngoyi),wuzi,
+yaanri (maanri),yaanri,alternative
+yambuha (omwalo),yambuha,
+yega (mayega),yega,alternative
+yega(meega),yega,alternative
+yiwolile(-wolile),yiwolile,alternative
+yoma(maji),yoma,alternative
+yoo 5,yoo,alternative
+yumwene(-mwene),yumwene,alternative
+yuuta --,yuuta,
+zaa 9,zaa,alternative
+zama (kuzama),zama,alternative
+zao 9,zao,alternative
+zeiza (omukali),zeiza,
+zeiza (omusaiza),zeiza,
+zembere(sing. orobhere),zembere,277_breast
+zeng'ondo(sing. eng'ondu),zeng'ondo,1197_sheep
+zighe 9,zighe,alternative
+zisengi(isengi sing.),zisengi,alternative
+ziza (ziza-zimekuja),ziza,
+zoka (kugwa),zoka,
