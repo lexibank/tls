@@ -621,7 +621,10 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "tls"
     form_spec = FormSpec(
-        brackets={}, separators=",;/", missing_data=("-",), replacements=REPLACEMENTS
+        brackets={},
+        separators=",;/",
+        missing_data=("-", "?", "???", "+"),
+        replacements=REPLACEMENTS,
     )
 
     def cmd_makecldf(self, args):
@@ -647,6 +650,9 @@ class Dataset(BaseDataset):
             # Fix values if possible (for common problems not in lexemes.csv)
             value = entry["REFLEX"]
 
+            # Delete all brackets
+            value = re.sub(r"\[[^]]*\]", "", value)
+
             # Delete plural annotations of the type "(pl. <form>)", which might be
             # preceded by stray commas and spaces, like "lihamba, (pl. mahamba)"
             value = re.sub(r",?\s*\(pl\.[^)]*\)", "", value)
@@ -660,6 +666,9 @@ class Dataset(BaseDataset):
             value = re.sub(r"\(see\s[^)]*\)", "", value)
             value = re.sub(r"\(also\s[^)]*\)", "", value)
             value = re.sub(r"\(from\s[^)]*\)", "", value)
+
+            # Remove the many final question marks
+            value = re.sub(r"\?$", "", value)
 
             args.writer.add_forms_from_value(
                 Language_ID=language_lookup[entry["LGABBR"]],

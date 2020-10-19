@@ -13,7 +13,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Pairs of strings that should be recognized as brackets, specified as `dict` mapping opening string to closing string
 - `separators`: `,;/`
   Iterable of single character tokens that should be recognized as word separator
-- `missing_data`: `('-',)`
+- `missing_data`: `('-', '?', '???', '+')`
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `True`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
@@ -28,5 +28,5 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
 
 ### Replacement of invalid lexemes
 
-Source lexemes may be impossible to interpret correctly. 2508 such lexemes are listed
+Source lexemes may be impossible to interpret correctly. 2706 such lexemes are listed
 in [`etc/lexemes.csv`](etc/lexemes.csv) and replaced as specified in this file.
