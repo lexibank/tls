@@ -1,5 +1,7 @@
 # Contributors
 
-Name | GitHub user | Role
+Name | GitHub user | Description | Role
 --- | --- | ---
-Tiago Tresoldi | @tresoldi | maintainer
+Tiago Tresoldi | @tresoldi | maintainer | Other
+Derek Nurse | | original data collection | Author
+Gerard Philippson | | original data collection | Author

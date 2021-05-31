@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Nurse, Derek and Gérard Philippson (1975). The Tanzanian Language Survey. Department of Foreign Languages and Linguistics of the University of Dar es Salaam: Dar es Salaam.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html
 
@@ -29,8 +29,10 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 # Contributors
 
-Name | GitHub user | Role
+Name | GitHub user | Description | Role
 --- | --- | ---
-Tiago Tresoldi | @tresoldi | maintainer
+Tiago Tresoldi | @tresoldi | maintainer | Other
+Derek Nurse | | original data collection | Author
+Gerard Philippson | | original data collection | Author
 
 
