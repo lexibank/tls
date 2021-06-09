@@ -24,14 +24,14 @@ Conceptlists in Concepticon:
 
 [![CLDF validation](https://github.com/lexibank/tls/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/tls/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 68%](https://img.shields.io/badge/Concepticon-68%25-orange.svg "Concepticon: 68%")
+![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 127
-- **Concepts:** 1,018
-- **Lexemes:** 126,801
+- **Concepts:** 1,052
+- **Lexemes:** 126,815
 - **Sources:** 4
-- **Synonymy:** 1.14
+- **Synonymy:** 1.12
 
 # Contributors
 

@@ -1,1019 +1,1053 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss
-1_bebecome,"be, become",1990,BECOME
-2_itch,itch,148,ITCH
-3_singe,singe,3698,SINGE
-4_count,count,1420,COUNT
-5_spotspeckle,"spot, speckle",519,SPOT
-6_raphiapalm,raphia palm,,
-7_borassuspalm,borassus palm,,
-8_oilpalm,oil palm,,
-9_datepalm,date palm,,
-10_kindofpoisonoussnake,(kind of poisonous snake),,
-11_tentpegs,tent pegs,,
-12_peg,peg,361,PEG
-13_plotofground,plot of ground,,
-14_courtyard,courtyard,4,COURTYARD
-15_yousg,you (sg.),1215,THOU
-16_infrontof,in front of,1883,IN FRONT OF
-17_breast,breast,1402,BREAST
-18_udder,udder,154,UDDER
-19_milk,milk,635,MILK
-20_curdledmilk,curdled milk,,
-21_buttermilk,buttermilk,,
-22_thigh,thigh,800,THIGH
-23_thigh,thigh,800,THIGH
-24_rat,rat,1490,RAT
-25_verylargelongtailedrat,(very large long-tailed rat),,
-26_kindofrat,(kind of rat),,
-27_bad,bad,1292,BAD
-28_wicked,wicked,45,EVIL
-29_rotten,rotten,1728,ROTTEN
-30_boil,boil,2493,BOIL
-31_call,call,,
-32_chaseaway,chase (away),,
-33_hunt,hunt,1435,HUNT
-34_professionalhunter,(professional) hunter,1053,HUNTER
-35_hunting,hunting,,
-36_soot,soot,830,SOOT
-37_becomebadrotten,"become bad, rotten",1728,ROTTEN
-38_behighofmeat,be high (of meat),,
-39_potmug,"pot, mug",,
-40_earthencookingpot,(earthen) cooking pot,,
-41_potvessel,"pot, vessel",1462,POT
-42_metalpot,metal pot,,
-43_smallcookingpan,small cooking pan,,
-44_earthenwarevesselforservingupfood,(earthenware vessel for serving up food) ,,
-45_excrementdung,"excrement, dung",2057,DUNG (ANIMAL FAECES)
-46_givebirthtoachild,give birth to a child,1195,GIVE BIRTH
-47_hewhobegetsparent,he who begets (=parent),,
-48_offspring,offspring,1801,CHILD (DESCENDANT)
-49_dirt,dirt,25,DIRT
-50a_filth,filth,,
-51_swell,swell,1573,SWELL
-53_dance,dance,1879,DANCE
-54_they,they,817,THEY
-55_armhand,"arm, hand",2121,ARM OR HAND
-56_getwet,get wet,2324,GET WET
-57_pump,pump,,
-58_brain,brain,1583,BRAIN
-59_mosquito,mosquito,1509,MOSQUITO
-60_dog,dog,2009,DOG
-61_stone,stone,857,STONE
-62_spider,spider,843,SPIDER
-63_goat,goat,1502,GOAT
-64_openspace,open space,,
-65_mouldpottery,mould (pottery),289,MOLD
-66_oilfromplants,oil (from plants),2555,OIL (FROM PLANTS)
-67_seed,seed,714,SEED
-68_grain,grain,605,GRAIN
-69_soil,soil,1228,EARTH (SOIL)
-70_earthland,"earth, land",3603,EARTH OR LAND
-71_buffalo,buffalo,934,BUFFALO
-72_mixputtogether,"mix, put together",2017,MIX
-73_mixingredients,mix (ingredients),,
-74_stirmixbystirring,"stir, mix by stirring",696,STIR
-75_whitehair,white hair,,
-77_breaksnap,"break, snap",2558,BREAK (CLEAVE)
-78_stirup,stir up,,
-79_crumple,crumple,,
-80_bunch,bunch,1966,BUNCH
-81_wrapup,wrap up,,
-82_spark,spark,518,SPARK
-83_choose,choose,1750,CHOOSE
-84_searchfor,search for,1468,LOOK FOR
-85_searchdiligently,search diligently,,
-87_bait,bait,2013,BAIT
-88_brasswire,(brass) wire,2631,WIRE
-89_assemblecollect,"assemble, collect",,
-90_meet,meet,1831,MEET
-91_begatheredbeassembled,"be gathered, be assembled",,
-92_becomecheerful,become cheerful,,
-93_bepleased,be pleased,,
-94_laugh,laugh,1355,LAUGH
-95_sand,sand,671,SAND
-96_leanbenddownslope,"lean, bend down, slope",,
-97_carryastrideonthehip,carry astride on the hip,,
-98_cutlop,"cut, lop",1432,CUT
-99_dryland,(dry) land,626,LAND
-100_ourcountry,(our) country,1300,COUNTRY
-101_belowunderneath,"below, underneath",1485,BELOW OR UNDER
-102_squirrel,squirrel,1628,SQUIRREL
-103_lion,lion,1386,LION
-104_cat,cat,1208,CAT
-105_halfwildtomcat,half-wild tomcat,,
-106_cheetah,cheetah,3146,CHEETAH
-107_leopard,leopard,1139,LEOPARD
-108_genetkindofspeckledcivetcat,genet (=kind of speckled civet cat) ,,
-109_civetcat,civet cat,3018,NATIVE CAT
-110_rub,rub,1449,RUB
-111_polish,polish,3659,POLISH (SOMETHING)
-112_wipe,wipe,1454,WIPE
-113_broth,broth,,
-114_poke,poke,,
-115_thrustinto,thrust into,,
-116_shame,shame,1776,SHAME
-117_cuttoshapesharpentoapoint,"cut to shape, sharpen to a point",,
-118_incite,incite,,
-119_tippoint,"tip, point",,
-120_caninetoothtoothfiledtoapoint,"canine tooth, tooth filed to a point",,
-121_termite,termite,883,TERMITE
-122_anthill,ant-hill,1873,ANTHILL
-123_skin,skin,763,SKIN
-124_skin,skin,763,SKIN
-125_bite,bite,1403,BITE
-126_fish,fish,227,FISH
-127_wash,wash,1453,WASH
-128_washclothes,wash (clothes),1453,WASH
-129_washtakeabath,"wash, take a bath",1453,WASH
-130_day,day,,
-131_lookaftercarefor,"look after, care for",253,CARE FOR
-132_intestines,intestines,1991,INTESTINES
-133_bellystomach,"belly, stomach",,
-134_liedown,lie down,215,LIE DOWN
-135_havesexualintercoursewith,have sexual intercourse with,,HAVE SEX
-137_spendtime,spend time,,
-139_bridge,bridge,1011,BRIDGE
-140_stretchoneself,stretch oneself,214,STRETCH
-141_bespreadout,be spread out,,
-142_follow,follow,1085,FOLLOW
-143_followinorder,follow (in order),,
-144_long,long,1203,LONG
-145_serpentsnake,"serpent, snake",730,SNAKE
-146_today,today,1283,TODAY
-147_beard,beard,678,BEARD
-148_avoid,avoid,,
-149_restheavilyonbeburdensome,"rest heavily on, be burdensome",,
-150_honor,honor,,
-151_belame,be lame,320,LAME
-152_bemutilated,be mutilated,,
-153_cripple,cripple,,
-154_makestraight,make straight,,
-155a_increase,increase,1041,INCREASE
-156_eat,eat,1336,EAT
-157_righthand,righthand,1019,RIGHT
-158_snaretrap,"snare, trap",1075,TRAP (PITFALL)
-159_pay,pay,718,PAY
-160_crywail,"cry, wail",,
-161_bedstead,bedstead,,
-162_bed,bed,1663,BED
-163_mourning,mourning,,
-164_griefsorrow,"grief, sorrow",1668,GRIEF
-165_cultivate,cultivate,1541,CULTIVATE
-166_tongue,tongue,1205,TONGUE
-167_work,work,984,WORK (LABOUR)
-168_agriculture,agriculture,,
-169_root,root,670,ROOT
-170_sink,sink,1088,SINK (DESCEND)
-171_bringtolight,bring to light,,
-172_pulluprootup,"pull up, root up",2066,PULL UP (RICE SEEDLINGS)
-173_pullupcometoahalt,"pull up, come to a halt",,
-174_turnround,turn round,1445,TURN (SOMETHING)
-175_whiteman,white man,2839,WHITE MAN
-176_stopupfillahole,"stop up, fill a hole",,
-177_pool,pool,,
-178_lake,lake,624,LAKE
-179_bury,bury,1719,BURY
-180_quenchextinguish,"quench, extinguish",127,EXTINGUISH
-181_getlost,get lost,423,GET LOST
-182_spiritofdeadperson,spirit (of dead person),,
-183_goroundturnround,"go round, turn round",,TURN AROUND
-184_surround,surround,,
-186_bendtwist,"bend, twist",,BEND
-187_windupthread,wind up (thread),,
-188_close,close,,CLOSE (MOUTH)
-189_fishhook,fish-hook,1074,FISHHOOK
-190_fish,fish,,FISHING
-191_fishuppullout,"fish up, pull out",2325,PULL OUT
-192_whistling,whistling,1025,WHISTLE
-193_bewitch,bewitch,118,BEWITCH
-194_witchcraft,witchcraft,392,MAGIC
-195_sorcerer,sorcerer,823,SORCERER
-196_drizzle,drizzle,1016,DRIZZLE
-197_rainyseason,rainy season,453,RAINY SEASON
-198_lip,lip,478,LIP
-199_askfor,ask for,1828,ASK (REQUEST)
-200_lookforhandaroundtogetsomething,"look for, hand around (to get something) ",,
-201_sore,sore,51,SORE
-202_startoffsendaway,"start off, send away",,
-203_arrangeputinorder,"arrange, put in order",1568,ARRANGE
-204_arrangeputrightrepair,"arrange, put right, repair",2243,REPAIR
-205_guidearight,guide aright,,
-206_increasemakegreater,"increase, make greater",1041,INCREASE
-207_pack,pack,,
-208_packpresstogether,"pack, press together",,
-209_river,river,666,RIVER
-210_well,well,954,WELL
-211_number,number,1356,NUMBER
-212_groovefurrow,"groove, furrow",1794,FURROW
-213_linerow,"line, row",1048,LINE
-214_beingoneeyed,being one-eyed,,
-216_fight,fight,1423,FIGHT
-217_overcomewinvanquish,"overcome, win, vanquish",1999,OVERCOME
-218_kill,kill,1417,KILL
-219_puttodeath,put to death,,
-220_slaughter,slaughter,1796,SLAUGHTER
-221_bitter,bitter,887,BITTER
-222_bile,bile,1780,BILE
-223_bladder,bladder,1746,BLADDER
-224_vomit,vomit,1278,VOMIT
-225_plait,plait,1729,PLAIT OR BRAID OR WEAVE
-226_male,male,1553,MALE
-227_husband,husband,1200,HUSBAND
-228_storeupcollect,"store up, collect",,
-229_addup,add up,,ADD
-230_constructputtogether,"construct, put together",,
-231_becomeburnt,become burnt,1428,BURNING
-232_passsurpass,"pass, surpass",402,SURPASS
-233_takeoffclothes,take off (clothes),1755,UNDRESS
-234_wear,wear,976,WEAR
-235_clothe,clothe,158,PUT ON
-236_paddle,paddle,234,PADDLE
-237_oar,oar,108,RUDDER
-238_blowbellows,blow bellows,,
-239_roarrumble,"roar, rumble",,
-240_smellbad,smell (bad),42,STINKING
-241_smellsweet,smell (sweet),,
-242_badsmelloffish,bad smell (of fish),,
-243_dustcloudofdust,"dust, cloud of dust",2,DUST
-244_pull,pull,1455,PULL
-245_divide,divide,1119,DIVIDE
-246_giveawaypresent,give away (present),196,DONATE
-247_turnroundchange,"turn round, change",,
-248_alterchange,"alter, change",1264,CHANGE
-249_gobackreturn,"go back, return",,RETURN HOME
-250_lieononesback,lie on one's back,1411,LIE (REST)
-251_saytotellto,"say to, tell to",1458,SAY
-253_speak,speak,1623,SPEAK
-254_affair,affair,2214,AFFAIR
-255_clan,clan,302,CLAN
-256_navel,navel,1838,NAVEL
-257_palmofhand,palm (of hand),1183,PALM OF HAND
-258_tieup,tie up,1094,FASTEN
-259_medicineremedy,"medicine, remedy",,
-260_medicineartofmedicineman,medicine (=art of medicine man) ,1372,MEDICINE
-261_medicineman,medicine man,394,SHAMAN (FOLK HEALER)
-262_bindupsplice,"bind up, splice",,
-263_howmany,how many?,822,HOW MANY
-264_iron,iron,621,IRON
-265_copperbrass,"copper, brass",1825,COPPER
-266_steel,steel,2343,STEEL
-267_tooth,tooth,1380,TOOTH
-268_strangerguest,"stranger, guest",1782,GUEST
-269_go,go,,
-270_travel,travel,,
-271_journey,journey,2393,JOURNEY
-272_movement,movement,,
-273_egg,egg,744,EGG
-274_act,act,,
-275_imitate,imitate,117,IMITATE
-276_village,village,930,VILLAGE
-277_town,town,1391,TOWN
-279_withholdfrom,withhold from,,
-280_fireplacehearthkitchen,"fireplace, hearth, kitchen",185,FIREPLACE
-281_name,name,1405,NAME
-282_string,string,362,STRING
-283_copyapattern,copy a pattern,,
-284_drum,drum,908,DRUM
-285_cow,cow,1007,COW
-286_cattle,cattle,1153,CATTLE
-287_sheep,sheep,1331,SHEEP
-288_horse,horse,615,HORSE
-289_duck,duck,1360,DUCK
-290_millipede,millipede,,
-291_roostercock,rooster (=cock),1511,ROOSTER
-292_donkey,donkey,1862,DONKEY
-293_tortoise,tortoise,895,TORTOISE
-294_hare,hare,,
-295_frog,frog,503,FROG
-296_snoresnort,"snore, snort",1983,SNORE
-297_back,back,1291,BACK
-298_fall,fall,1276,AUTUMN
-299_cloth,cloth,1616,CLOTH
-300_clothesmaterial,"clothes, material",1895,CLOTHES
-301_buy,buy,1869,BUY
-302_sell,sell,1571,SELL
-303_sky,sky,1732,SKY
-304_lightsky,"light, sky",,LIGHT (RADIATION)
-305_cloud,cloud,1489,CLOUD
-306_toppeak,"top, peak",,TOP
-307_highestpointutmost,"highest point, utmost",2205,PEAK
-308_crownofthehead,crown of the head,,
-309_hill,hill,614,HILL
-310_legfoot,"leg, foot",2098,FOOT OR LEG
-311_upabove,"up, above",1741,ABOVE
-312_pig,pig,1337,PIG
-313_barrenoflivingbeing,barren (of living being),,
-314_barrenofland,barren (of land),,
-315_sterilemanorwoman,sterile man (or woman),,
-316_garden,garden,586,GARDEN
-317_hippopotamus,hippopotamus,,
-318_rhinoceros,rhinoceros,2591,RHINOCEROS
-319_crossariver,cross (a river),1742,TRAVERSE
-320_hunger,hunger,1864,HUNGER
-321_rubbishheap,rubbish heap,909,GARBAGE
-322_water,water,948,WATER
-323_fingernail,fingernail,1258,FINGERNAIL
-324_outside,outside,762,OUTSIDE
-325_path,path,2252,PATH
-326_highway,highway,,
-327_vision,vision,,
-328_dream,dream,2374,DREAM
-329_elephant,elephant,1290,ELEPHANT
-330_voice,voice,1363,VOICE
-331_soundcry,"sound, cry",,SOUND (OF INSTRUMENT OR VOICE)
-332_smallpox,smallpox,1054,SMALLPOX
-333_sun,sun,1343,SUN
-334_charcoal,charcoal,1188,CHARCOAL
-335_crab,crab,2348,CRAB
-336_embers,embers,67,EMBERS
-337_ashes,ashes,646,ASH
-338_woman,woman,962,WOMAN
-339_wife,wife,1199,WIFE
-340_protectbycharm,protect by charm,,
-341_olderbrother,(older) brother,1759,OLDER BROTHER
-342_palate,palate,540,PALATE
-343_squeezemilk,"squeeze, milk",93,DRAW MILK
-344_wring,wring,1414,SQUEEZE
-345_dryupbecomedry,"dry up, become dry",1786,DRY UP
-346_dry,dry,1398,DRY
-347_knead,knead,274,KNEAD
-348_knee,knee,1371,KNEE
-349_fry,fry,,
-350_roast,roast,1962,ROAST (SOMETHING)
-351_guineafowl,guinea-fowl,456,GUINEA FOWL
-352_headpad,head-pad,,
-354_lookatexamine,"look at, examine",1819,LOOK
-355_cut,cut,,
-356_head,head,1256,HEAD
-357_tobaccopipe,tobacco pipe,1124,PIPE
-358_gruntgrumble,"grunt, grumble",,
-359_dawndaybreak,"dawn, daybreak",729,DAWN
-360_tail,tail,1220,TAIL
-361_monkeysmalldarkcoloured,"monkey (small, dark-coloured)",1350,MONKEY
-362_colobusmonkeywithlongblacksilkhairwhiteontheshoulders,"colobus monkey (with long black silk hair, white on the shoulders) ",,
-363_smalllightishcolouredmonk,(small lightish-coloured) monk,,
-364_baboonape,"baboon, ape",1197,BABOON
-365_danceofmentoshowcourage,"dance (of men, to show courage",,
-366_do,do,813,DO
-367_docompletefinish,"do, complete, finish",,FINISH
-368_grantsgazelle,Grant's gazelle,5,GAZELLE
-369_poundgraininamortartogethusksoff,pound (grain in a mortar to get husks off) ,354,POUND
-370_crushbypoundingpulverise,"crush by pounding, pulverise",1520,CRUSH
-371_grindgrainwithamillstone,grind (grain with a millstone),1033,GRIND
-372_grindcoarsely,grind coarsely,,
-373_gruel,gruel,1167,GRUEL
-374_porridge,porridge,,
-375_bread,bread,1368,BREAD
-376_baseoftreetrunk,base of tree-trunk,,
-377_hardshipdistress,"hardship, distress",,
-378_trampoffeet,tramp of feet,,
-379_neck,neck,1333,NECK
-380_vein,vein,1924,VEIN
-381_brotherinlawsisterinlaw,"brother-in-law, sister-in-law",,
-382_fatherinlawmotherinlaw,"father-in-law, mother-in-law",306,PARENTS-IN-LAW
-383_cough,cough,879,COUGH
-384_beproperlyflavoured,be properly flavoured,,
-385_becomecoolgetwell,become cool; get well,,
-386_besharp,be sharp,1396,SHARP
-387_snailslug,"snail, slug",1543,SNAIL
-388_eastafricangoshawk,East African goshawk,,
-389_getintoxicated,get intoxicated,,
-390_stareglare,"stare, glare",,
-391_heapupreadysetonfire,"heap up, ready, set on fire",,
-392_sweepupcollectinaheaprubbish,"sweep up, collect in a heap (rubbish) ",230,SWEEP
-393_crust,crust,,
-394_cometoanend,come to an end,,
-395_strikeknock,"strike, knock",2396,KNOCK
-396_hitwithahammer,hit with a hammer,,
-397_bananafruit,banana (fruit),868,BANANA
-398_bananaplant,banana (plant),,BANANA TREE
-399_bananaforcooking,banana for cooking,,
-400_fist,fist,1473,FIST
-401_trunkofelephant,trunk (of elephant),,
-402_thincurvedbroadbladedknife,"thin, curved, broad-bladed knife ",,
-403_napeofneck,nape (of neck),1347,NAPE (OF NECK)
-404_seize,seize,855,SEIZE
-405_growupgetlargebecomegreat,"grow up, get large, become great ",,
-406_grate,grate,,
-407_stumble,stumble,2894,TUMBLE (FALL DOWN)
-408_getobtain,"get, obtain",694,GET
-409_greatpowerful,"great, powerful",3001,POWERFUL
-410_old,old,1229,OLD
-411_oldperson,old person,725,OLD PERSON
-412_ten,ten,1515,TEN
-413_firewood,firewood,10,FIREWOOD
-414_kindofpigeon,(kind of pigeon),,
-415_redeyeddove,(red-eyed) dove,1853,DOVE
-416_kindofbean,(kind of bean),,
-417_smallbean,small bean,,
-418_hemmakeaborder,"hem, make a border",,
-419_gatherflowersfruit,"gather (flowers, fruit)",,
-420_cattleordogtick,(cattle or dog) tick,1527,TICK
-421_figtree,fig tree,,
-422_figmulberrytree,fig mulberry tree,,
-423_deadperson,dead person,,
-424_death,death,910,DEATH
-426_inheritance,inheritance,,
-427_kneel,kneel,66,KNEEL
-428_giveoutsmoke,give out smoke,,
-429_keeplivestock,keep livestock,,
-431_chief,chief,301,CHIEFTAIN
-432_graspholdinarm,"grasp, hold in arm",1448,HOLD
-433_bone,bone,1394,BONE
-434_short,short,1645,SHORT
-435_oil,oil,,
-436_mother,mother,1216,MOTHER
-437_dew,dew,1977,DEW
-438_swallow,swallow,897,SWALLOW
-439_lefthand,left-hand,244,LEFT
-440_one,one,1493,ONE
-441_pouraway,pour away,,
-442_four,four,1500,FOUR
-443_eight,eight,1705,EIGHT
-444_thickfat,"thick, fat",1244,THICK
-445_tomato,tomato,986,TOMATO
-446_urinate,urinate,592,PISS
-447_finger,finger,1303,FINGER
-448_drink,drink,1401,DRINK
-449_give,give,1447,GIVE
-450_separateleaveeachother,"separate, leave each other",,
-451_separatesetapart,"separate, set apart",1359,SEPARATE
-452_twin,twin,1005,TWINS
-453_scrape,scrape,1767,SCRAPE
-454_smallgazelle,small gazelle,,
-455_thatchedroof,thatched roof,,
-456_packflockgroup,"pack, flock, group",,
-457_packbalebundle,"pack, bale, bundle",,
-458_forkbifurcation,"fork, bifurcation",,
-459_palpitate,palpitate,,
-460_becomejammed,become jammed,,
-461_befullygrown,be fully grown,,
-462_fanwave,"fan, wave",1971,FAN (OBJECT)
-463_blowaway,blow away,176,BLOW (WITH MOUTH)
-464_disembodiedspirit,(disembodied) spirit,53,SPIRIT
-465_cold,cold,102,COMMON COLD (DISEASE)
-466_diminishgrowless,"diminish, grow less",1184,DIMINISH
-467_lightinweight,light in weight,1052,LIGHT (WEIGHT)
-468_bend,bend,2224,BEND (SOMETHING)
-469_which,which?,727,WHICH
-470_slap,slap,,
-471_cook,cook,1100,COOK (SOMETHING)
-473_ripe,ripe,178,RIPE
-474_fire,fire,221,FIRE
-475_puffadder,puff-adder,,
-476_handlehaft,"handle, haft",1254,HANDLE
-477_kidney,kidney,489,KIDNEY
-478_arrive,arrive,1387,ARRIVE
-479_pinchmakenarrow,"pinch, make narrow",378,PINCH
-480_suck,suck,1421,SUCK
-481_darkness,darkness,11,DARKNESS
-482_blindperson,blind person,457,BLIND PERSON
-483_twist,twist,430,TWIST
-484_nose,nose,1221,NOSE
-485_bequiet,be quiet,1314,QUIET
-486_ceasefinish,"cease, finish",1928,CEASE
-487_stripoffeggrainsofcorn,strip off (e.g. grains of corn),,
-488_fieldrat,field rat,,
-489_breathbreathing,"breath, breathing",870,BREATH
-490_breatherest,"breathe, rest",,
-491_eaglebirdofprey,"eagle, bird of prey",1905,EAGLE
-492_eagernesszeal,"eagerness, zeal",,
-493_flapthewingswildlyflutter,"flap the wings wildly, flutter",,
-494_penetrate,penetrate,,
-495_boilabscess,"boil, abscess",793,BOIL (OF SKIN)
-496_blowonblowup,"blow on, blow up",,
-497_befitsuit,"befit, suit",764,SUIT
-498_befittingbehoove,"be fitting, behoove",,
-500_revive,revive,,
-501_weaveknit,"weave, knit",,
-503_dig,dig,1418,DIG
-504_digupdigout,"dig up, dig out",,
-505_comeonsuddenlytakeintheact,"come on suddenly, take in the act ",,
-506_gooutgoaway,"go out, go away",1752,LEAVE
-507_war,war,935,WAR
-508_bow,bow,994,BOW
-509_branch,branch,1531,BRANCH
-510_platform,platform,,
-511_lamp,lamp,625,LAMP
-512_divorce,divorce,1134,DIVORCE
-513_ironore,iron ore,,
-514_buttock,buttock,834,BUTTOCKS
-515_cheek,cheek,1730,CHEEK
-516_finaldecisive,"final, decisive",1529,LAST (FINAL)
-517_sweetpleasant,"sweet, pleasant",717,SWEET
-518_pronounce,pronounce,,
-519_strutproudly,strut proudly,,
-520_crawlcreep,"crawl, creep",3456,CRAWL OR CREEP
-521_makeofferingstothedead,make offerings to the dead,,
-522_sacrifice,sacrifice,1103,SACRIFICE
-523_receive,receive,,
-524_takeawalk,take a walk,2890,WALK (TAKE A WALK)
-525_five,five,493,FIVE
-526_centipede,centipede,1974,CENTIPEDE
-527_spread,spread,38,SPREAD OUT
-528_shiver,shiver,52,SHIVER
-529_drawwaterfromwell,draw (water from well),1911,DRAW (WATER)
-530_tangle,tangle,,
-531_father,father,1217,FATHER
-532_three,three,492,THREE
-533_spittle,spittle,1503,SALIVA
-534_setatrap,set a trap,,
-535_beleaning,be leaning,,
-536_leanonrelyon,"lean on, rely on",,
-537_reed,reed,659,REED
-538_trembleshake,"tremble, shake",,
-539_namely,namely,,
-540_tree,tree,906,TREE
-541_stick,stick,1295,STICK
-542_inside,inside,1606,INSIDE
-543_heart,heart,1223,HEART
-544_leaveoff,leave (off),,
-545_remainstaybehind,"remain, stay behind",,
-546_leavepermission,"leave, permission",,
-547_leavegoaway,"leave, go away",1752,LEAVE
-548_push,push,1452,PUSH
-549_fallshort,fall short,,
-550_clodlump,"clod, lump",,
-551_unripehalfgrown,"unripe, half grown",1958,UNRIPE
-552_pithole,"pit, hole",1667,HOLE
-553_pressoutoilseedsugarcane,"press out (oil seed, sugar cane)",1913,PRESS
-554_stemofmaizemillet,"stem of maize, millet",,
-555_bush,bush,1683,BUSH
-556_forest,forest,420,FOREST
-557_cookinwaterorfat,cook in water or fat,,
-558_person,person,683,PERSON
-559_thing,thing,738,THING
-561_heap,heap,2984,HEAP
-562_stackpileup,"stack, pile up",1576,PILE UP
-563_ear,ear,1247,EAR
-564_boreahole,bore a hole,1501,BORE
-565_takecarry,"take, carry",,
-566_trickleaway,trickle away,,
-567_takeupaheavyload,take up a heavy load,,
-568_giraffe,giraffe,3089,GIRAFFE
-569_use,use,2072,USE (VERB)
-570_send,send,1127,SEND
-571_abuse,abuse,,
-572_humpofhunchback,hump (of hunchback),534,HUMP
-573_humpofcow,hump (of cow),,
-574_fruit,fruit,1507,FRUIT
-575_holenest,"hole, nest",,
-576_basketofopenwickerwork,basket of open wicker-work,1539,BASKET
-577_plaitedbasket,plaited basket,,
-578_carry,carry,700,CARRY
-579_pileuppileloadsonhead,"pile up, pile loads on head",,
-580_ramble,ramble,,
-581_boilup,boil up,,
-582_spit,spit,1440,SPIT
-583_filterstrain,"filter, strain",940,STRAIN
-584_forge,forge,288,FORGE
-585_chest,chest,1592,CHEST
-586_anvil,anvil,1648,ANVIL
-587_facedownwards,face downwards,,
-588_shoulder,shoulder,1482,SHOULDER
-590_openthemouthwide,open the mouth wide,3437,OPEN (MOUTH)
-591_spreadscatter,"spread, scatter",3705,SCATTER
-592_spreadsmearon,"spread, smear on",364,SMEAR
-593_year,year,1226,YEAR
-594_suckthebreast,suck (the breast),1421,SUCK
-595_animal,animal,619,ANIMAL
-596_meat,meat,634,MEAT
-598_setouttodry,set out to dry,3364,DRY IN SUN
-599_prepare,prepare,2909,PREPARE
-600_payattentiontakecare,"pay attention, take care",,
-601_splitcrack,"split, crack",3080,SPLIT OPEN
-602_canoe,canoe,1970,CANOE
-603_shehe,"she, he",2642,HE OR SHE
-604_try,try,1812,TRY
-605_tsetsefly,tsetse fly,,
-606_judge,judge,1818,ADJUDICATE
-607_knife,knife,1352,KNIFE
-608_shortsword,short sword,,
-609_moonlight,moonlight,,
-610_white,white,1335,WHITE
-611_self,self,1993,SELF
-612_cricket,cricket,2354,CRICKET
-613_learn,learn,504,LEARN
-614_upright,upright,,
-615_sing,sing,1261,SING
-617_answeracall,answer a call,,
-618_steal,steal,713,STEAL
-619_thief,thief,1160,THIEF
-620_eye,eye,1248,EYE
-621_tears,tears,1651,TEAR (OF EYE)
-622_darkblack,"dark, black",2633,BLACK OR DARK
-623_hear,hear,1408,HEAR
-624_come,come,1446,COME
-625_becomefull,become full,,
-626_know,know,3626,KNOW
-627_sit,sit,1416,SIT
-628_dwell,dwell,363,"DWELL (LIVE, RESIDE)"
-629_smoke,smoke,778,SMOKE (EXHAUST)
-630_haveenoughtoeatordrinkbesatiated,"have enough to eat or drink, be satiated ",,
-631_denial,denial,,
-632_refusesayno,"refuse, say no",,
-633_rejectrefuse,"reject, refuse",49,REFUSE
-634_atthebackof,at the back of,1686,BEHIND
-635_dip,dip,3697,DIP
-636_bepregnant,be pregnant,1123,PREGNANT
-637_yourspl,your(s) (pl.),2274,YOUR (PLURAL)
-638_pestle,pestle,225,PESTLE
-639_goincomein,"go in, come in",749,ENTER
-640_ours,our(s),780,OUR
-641_pour,pour,1487,POUR
-642_mushroom,mushroom,641,MUSHROOM
-643_bathe,bathe,138,BATHE
-644_roast,roast,1962,ROAST (SOMETHING)
-645_burn,burn,2102,BURN
-646_potterskiln,potter's kiln,,
-647_plunderatown,plunder (a town),,
-648_destroyspoil,"destroy, spoil",681,DESTROY
-649_spoilachild,spoil (a child),,
-650_baskinthesunwarmoneself,"bask (in the sun), warm oneself",,
-651_thirst,thirst,848,THIRST
-652_feathersfur,"feathers, fur",,
-653_bee,bee,665,BEE
-654_honey,honey,942,HONEY
-655_hard,hard,1884,HARD
-656_quarrel,quarrel,3302,QUARREL (VERB)
-657_limewhitewash,"lime, whitewash",2540,LIME (MATERIAL)
-658_birdlime,bird-lime,,
-659_fishingline,fishing line,19,FISHING LINE
-660_brookstream,"brook, stream",,
-661_streamcurrent,"stream, current",2935,CURRENT (STREAM)
-662_carpentersadze,carpenter's adze,290,ADZE
-663_smallant,(small) ant,,
-664_reddishbrownbitingant,(reddish-brown biting) ant,,
-665_arrow,arrow,977,ARROW
-666_headofarrowspearhead,"head of arrow, spear head",,
-667_axe,axe,677,AXE
-668_scythesickle,"scythe, sickle",2132,SICKLE OR SCYTHE
-669_blood,blood,946,BLOOD
-670_body,body,1480,BODY
-671_bowbending,"bow, bending",,
-672_chestofanimalsandbirds,chest (of animals and birds),,
-673_brotherrelativefellowtribesman,"brother, relative, fellow-tribesman",1644,RELATIVES
-674_bull,bull,1008,BULL
-675_dugoutcanoe,dug-out canoe,,
-676_boat,boat,1844,BOAT
-677_king,king,1508,KING
-678_headchiefperson,"head, chief person",,
-679_child,child,2099,CHILD
-680_districtprovincecountry,"district, province, country",1300,COUNTRY
-681_heifer,heifer,,
-682_daytime,day-time,1225,DAY (NOT NIGHT)
-683_evilspirit,evil spirit,1973,DEMON
-684_suddenapparitionghost,"sudden apparition, ghost",1175,GHOST
-685_door,door,1567,DOOR
-686_face,face,1560,FACE
-687_fear,fear,781,FEAR (FRIGHT)
-688_awefearofgod,"awe, fear of God",,
-689_threaten,threaten,1192,THREATEN
-690_henfowl,"hen, fowl",265,FOWL
-691_shadowshade,"shadow, shade",1388,SHADE
-692_virginbridegirl,"virgin (bride), girl",,
-693_youth,youth,,
-694_hegoat,he-goat,264,HE-GOAT
-695_god,god,1944,GOD
-696_grandfather,grandfather,1383,GRANDFATHER
-697_grandmother,grandmother,1496,GRANDMOTHER
-698_grassreeds,"grass, reeds",,
-699_leafbladeofgrass,"leaf, blade of grass",,
-700_hay,hay,342,HAY
-701_gun,gun,1566,GUN
-702_hair,hair,1040,HAIR
-703_flatofhand,flat of hand,,
-704_knot,knot,760,KNOT
-705_heel,heel,980,HEEL
-705a_elbow,elbow,981,ELBOW
-706_hoe,hoe,284,HOE
-707_hornivory,"horn, ivory",,
-708_house,house,1252,HOUSE
-709_hyena,hyena,1799,HYENA
-710_island,island,622,ISLAND
-711_elephantstusk,elephant's tusk,2495,ELEPHANT TUSK
-712_shinbone,shin (bone),,
-713_magic,magic,392,MAGIC
-714_maize,maize,506,MAIZE
-715_youngman,young man,76,YOUNG MAN
-716_moon,moon,1313,MOON
-717_mountain,mountain,639,MOUNTAIN
-718_night,night,1233,NIGHT
-719_palmwine,palm-wine,,
-720_parrot,parrot,882,PARROT
-721_penis,penis,1222,PENIS
-722_place,place,723,PLACE (POSITION)
-723_salt,salt,1274,SALT
-724_shamemodesty,"shame, modesty",,
-725_shield,shield,1064,SHIELD
-726_hissisterherbrother,"(his) sister, (her) brother",,
-727_slavebondservant,"slave, bondservant",812,SLAVE
-728_femaleslave,female slave,,
-729_maleslave,male slave,,
-730_sleepingplaceaccommodation,"sleeping-place, accommodation",,
-731_sleep,sleep,2972,SLEEP (STATE)
-732_song,song,1096,SONG
-733_spear,spear,945,SPEAR
-734_soulspirit,"soul, spirit",811,SOUL
-735_star,star,1430,STAR
-736_cudgel,cudgel,,
-737_thinpole,thin pole,,
-738_seatstoolchair,"seat, stool, chair",,
-739_testicle,testicle,797,TESTICLES
-740_thorn,thorn,124,THORN
-741_tobacco,tobacco,974,TOBACCO
-742_toe,toe,1389,TOE
-743_tomorrow,tomorrow,1329,TOMORROW
-744_thedayaftertomorrow,the day after tomorrow,1179,DAY AFTER TOMORROW
-745_urine,urine,1142,URINE
-746_wind,wind,960,WIND
-747_womb,womb,804,WOMB
-748_pregnancy,pregnancy,,
-749_sweetpotato,(sweet) potato,159,SWEET POTATO
-750_yesterday,yesterday,1174,YESTERDAY
-751_thedaybeforeyesterday,the day before yesterday,1180,DAY BEFORE YESTERDAY
-752_two,two,1498,TWO
-753_six,six,1703,SIX
-754_seven,seven,1704,SEVEN
-755_nine,nine,1483,NINE
-756_hundred,hundred,1634,HUNDRED
-757_fiercesharp,"fierce, sharp",,
-758_good,good,1035,GOOD
-759_beautiful,beautiful,1427,BEAUTIFUL
-760_fineexcellent,"fine, excellent",,
-761_largegreat,"large, great",1202,BIG
-762_afewnotmuch,"a few, not much",1242,FEW
-763_sick,sick,1847,SICK
-764_far,far,1406,FAR
-765_near,near,1942,NEAR
-766_here,here,136,HERE
-767_there,there,1937,THERE
-768_beat,beat,1665,BEAT
-769_lovewant,"love, want",,
-770_see,see,1409,SEE
-771_armpit,armpit,1886,ARMPIT
-772_workasamason,work as a mason,,
-773_yawn,yawn,1028,YAWN
-774_lendborrow,"lend, borrow",,
-775_beer,beer,1639,BEER
-776_boastbragpraiseoneself,"boast, brag, praise oneself",101,BOAST
-777_swear,swear,1939,SWEAR
-778_takeinfromrain,take in (from rain),,
-779_hanginmidair,hang in mid-air,,
-780_dropthrowdown,"drop, throw down",2866,DROP (SOMETHING)
-781_haste,haste,,
-782_answer,answer,1275,ANSWER
-783_scorpion,scorpion,1538,SCORPION
-784_explain,explain,1626,EXPLAIN
-785_sizemeasure,"size, measure",2845,SIZE (OF OBJECT)
-786_abundant,abundant,,
-787_kite,kite,,
-788_satisfy,satisfy,2691,PATERNAL AUNT (FATHER'S SISTER)
-789_auntfatherssister,aunt (=father's sister),1272,AUNT
-790_warthog,warthog,,
-791_liftuppickup,"lift up, pick up",371,PICK UP
-792_layoverononeside,lay over on one side,,
-794_locust,locust,810,LOCUST
-795_hatedetest,"hate, detest",1607,HATE
-796_becomeleangrowthin,"become lean, grow thin",,
-797_hooktopulldownbranchesinpluckingfruit,hook (to pull down branches in plucking fruit) ,1071,HOOK
-798_strengthpower,"strength, power",2526,POWER
-799_catchunawaresstartle,"catch unawares, startle",,
-800_hide,hide,2486,HIDE
-801_cultivatedground,cultivated ground,,
-802_sugarcane,sugar cane,146,SUGAR CANE
-803_crocodile,crocodile,1857,CROCODILE
-804_fill,fill,2006,FILL
-805_lightning,lightning,1654,LIGHTNING
-806_rock,rock,668,ROCK
-807_build,build,1840,BUILD
-808_hut,hut,1678,HUT
-809_getaccustomed,get accustomed,1118,ACCUSTOM
-810_jumpleap,"jump, leap",1829,JUMP
-811_bird,bird,937,BIRD
-812_word,word,1599,WORD
-813_spoon,spoon,1378,SPOON
-814_master,master,383,MASTER
-815_glidetrickle,"glide, trickle",,
-816_home,home,2406,HOME
-817_coagulate,coagulate,2395,CONGEAL (BLOOD)
-818_oldtimes,old times,,
-819_lobster,lobster,2397,LOBSTER
-820_peelshell,"peel, shell",,
-821_deny,deny,755,DENY
-822_shell,shell,598,SHELL
-823_foodsupplyforajourney,food supply for a journey,,
-824_dawn,dawn,729,DAWN
-825_stepover,step over,,
-826_run,run,1519,RUN
-827_beads,bead(s),1860,BEAD
-828_eyebrow,eyebrow,1173,EYEBROW
-829_opensetajaradoor,open (=set ajar) a door,,
-830_startlejerk,"startle, jerk",,
-832_flatulence,flatulence,,
-833_pulldrag,"pull, drag",2030,DRAG
-834_pleasesatisfy,"please, satisfy",,
-835_oyster,oyster,2830,OYSTERS
-836_hollowout,hollow out,46,HOLLOW OUT
-837_snail,snail,1543,SNAIL
-838_eyelash,eyelash,1540,EYELASH
-839_shout,shout,715,SHOUT
-840_remember,remember,707,REMEMBER
-841_climbascend,"climb, ascend",705,GO UP (ASCEND)
-842_embrace,embrace,928,EMBRACE
-843_needrequest,"need, request",,
-844_runnerbean,(runner) bean,,
-845_midwife,midwife,,
-846_crow,crow,913,CROW
-847_wall,wall,933,WALL (OF HOUSE)
-848_fenceenclosure,"fence, enclosure",1690,FENCE
-849_squatonthehaunches,squat (on the haunches),,
-850_stir,stir,696,STIR
-851_closeeyesmouth,"close (eyes, mouth)",,
-852_coverup,cover (up),761,COVER
-853_jawbone,jaw (bone),798,JAW
-854_thicket,thicket,,
-855_scrapegraze,"scrape, graze",,
-856_scratchgrate,"scratch, grate",1436,SCRATCH
-857_calfoftheleg,calf of the leg,498,CALF OF LEG
-858_fermentturnsour,"ferment, turn sour",2229,BECOME SOUR
-859_moveawaymigrate,"move away, migrate",229,MOVE AWAY
-860_washoneselfafterevacuating,wash oneself (after evacuating),,
-861_melt,melt,2334,MELT
-862_python,python,1563,PYTHON
-863_hiccup,hiccup,,
-864_sneeze,sneeze,1621,SNEEZE
-865_slander,slander,,
-866_spyout,spy out,,
-867_shamedisgrace,"shame, disgrace",1776,SHAME
-868_setofthesun,set (of the sun),160,SET (HEAVENLY BODIES)
-869_allday,all day,,
-870_sift,sift,,
-871_lookaftergrazingcattlehelpasickmanontheroad,"look after grazing cattle, help a sick man on the road ",,
-872_bottle,bottle,1321,BOTTLE
-873_calabash,calabash,3918,CALABASH
-874_taketheskinoffbruise,"take the skin off, bruise",1148,BRUISE
-875_takeleaveof,take leave of,,
-876_orderdirect,"order, direct",1128,ORDER
-877_calf,calf,1989,CALF
-878_lick,lick,319,LICK
-879_resembleveryclosely,resemble (very closely),1777,RESEMBLE
-880_springofwater,spring (of water),849,SPRING (OF WATER)
-881_giveleavesendaway,"give leave, send away",,
-882_bringupachild,bring up (a child),2134,RAISE (BRING UP)
-883_razor,razor,151,RAZOR
-884_penknife,penknife,,
-885_bringfetch,"bring, fetch",692,BRING
-886_chin,chin,1510,CHIN
-887_puttogetherforcomparison,put together for comparison,,
-888_matchharmonise,"match, harmonise",1133,MATCH
-889_forget,forget,1523,FORGET
-890_burdenload,"burden, load",1679,LOAD
-891_faintloseconsciousness,"faint, lose consciousness",,
-892_placeofthedead,place of the dead,,
-893_heavyseriousdull,"heavy, serious, dull",,
-894_corkstopper,"cork, stopper",,
-895_marryofman,marry (of man),2164,MARRY (AS MAN)
-896_giveinmarriageofparentspriests,"give in marriage (of parents, priests) ",,
-897_marriage,marriage,2432,MARRIAGE
-898_taste,taste,21,TASTE (SOMETHING)
-899_examinemeasuretest,"examine, measure, test",,
-900_effortexertion,"effort, exertion",,
-901_beillgroan,"be ill, groan",716,GROAN
-902_cripplingillness,(crippling) illness,1986,DISEASE
-903_bullrushmillet,bullrush millet,931,MILLET
-904_vapourgas,"vapour, gas",,
-905_sweat,sweat,125,SWEAT (SUBSTANCE)
-906_cohabit,cohabit,,
-907_flower,flower,239,FLOWER
-908_bespreadabroadbecomegenerallyknown,"be spread abroad, become generally known ",,
-909_putoutbeprominent,"put out, be prominent",,
-910_borrow,borrow,1823,BORROW
-911_leakoozeout,"leak, ooze out",,
-912_sufferbearpatiently,"suffer, bear patiently",,
-913_growofplants,grow (of plants),3461,GROW PLANTS
-914_squeezeout,squeeze out,,
-915_shave,shave,231,SHAVE
-916_givelightto,give light to,,
-917_rain,rain,1253,RAIN (RAINING)
-918_who,who?,1235,WHO
-919_what,what?,1236,WHAT
-920_sharpen,sharpen,251,SHARPEN (SOMETHING)
-921_getfatofanimals,get fat (of animals),,
-922_fatofanimals,fat (of animals),1282,FAT (FROM ANIMALS)
-923_porcupine,porcupine,2510,PORCUPINE
-924_smelloutsniff,"smell out, sniff",1586,SMELL (PERCEIVE)
-925_hip,hip,1745,HIP
-926_all,all,98,ALL
-927_beadjacentborder,"be adjacent, border",,
-928_boundary,boundary,1010,BOUNDARY
-930_bifurcationcrossroads,"bifurcation, cross-roads",,
-931_decorate,decorate,1739,DECORATE
-932_plantsow,"plant, sow",748,SOW SEEDS
-933_sword,sword,1535,SWORD
-934_lung,lung,688,LUNG
-935_mature,mature,,
-936_befullydeveloped,be fully developed,,
-937_winnow,winnow,2462,WINNOWING
-938_turnupsidedownturnover,"turn upside down, turn over",1588,TURN
-939_obstruct,obstruct,,
-940_fadedisappear,"fade, disappear",485,DISAPPEAR
-941_spittingcobra,spitting cobra,,
-942_broom,broom,245,BROOM
-943_sweep,sweep,230,SWEEP
-944_hearthstoneforputtingpotson,hearthstone for putting pots on ,,
-945_uncoverreveal,"uncover, reveal",1108,UNCOVER
-946_beshriveledwrinkled,"be shriveled, wrinkled",380,WRINKLED
-947_protectbycharms,protect by charms,,
-948_stutter,stutter,1866,STUTTER
-949_read,read,724,READ
-950_coolcureheal,"cool, cure, heal",499,CURE
-951_spoilblind,"spoil, blind",,
-952_escaperecover,"escape, recover",1978,RECOVER
-953_bowstring,bowstring,2119,BOW STRING
-954_dryupebb,"dry up, ebb",,
-955_beachcoast,"beach, coast",1525,COAST
-956_listen,listen,1608,LISTEN
-957_resttakeaholiday,"rest, take a holiday",,
-958_exercisedriveoutadevil,exercise; drive out a devil,,
-959_waveletoffatrapremoveaspell,"wave, let off a trap, remove a spell ",,
-959a_spraintheankle,sprain the ankle,,
-960_jealousy,jealousy,2016,JEALOUSY
-961_ostrich,ostrich,3797,OSTRICH
-962_new,new,1231,NEW
-963_charmesptoensurewifesfidelity,charm (esp. to ensure wife's fidelity) ,,
-964_restthecheekonthehandinbroodingmood,rest the cheek on the hand (in brooding mood) ,,
-965_springmachine,"spring, machine",,
-966_smallcucumber,small cucumber,,
-967_slipbeslippery,"slip, be slippery",1324,SLIP
-968_shivershudder,"shiver, shudder",52,SHIVER
-969_putapotonthefire,put a pot on the fire,,
-970_slash,slash,,
-971_besettledbeingoodorder,"be settled, be in good order",,
-972_belistless,be listless,,
-973_beloosefaintweak,"be loose, faint, weak",,
-974_placeput,"place, put",998,PUT
-975_beleftoverremainover,"be left over, remain over",987,REMAIN
-976_setupappoint,"set up, appoint",,
-977_longstraighthairofanimalsandeuropeans,long straight hair (of animals and Europeans) ,,
-978_tinglewithexcitement,tingle with excitement,,
-979_mudmire,"mud, mire",640,MUD
-980_sinkbedrowned,"sink, be drowned",,
-981_puttogethercompose,"put together, compose",,
-982_strikewithaspear,strike with a spear,,
-983_wantneedwish,"want, need, wish",1784,WANT
-984_open,open,1156,OPEN
-985_teachinstruct,"teach, instruct",709,TEACH
-986_putforthproducedisplay,"put forth, produce, display",,
-987_thinkimagine,"think, imagine",2271,THINK
-988_rib,rib,801,RIB
-989_applybystretchingspreadover,"apply by stretching, spread over ",,
-990_holdarrest,"hold, arrest",,
-991_squeezeoneselfupagainstwallegtoallowsomeonetopass,squeeze oneself up against wall (e.g. to allow someone to pass) ,,
-992_putplaceset,"put, place, set",,
-993_carryachildonthebackin,carry a child on the back (in,2153,CARRY PERSON ON BACK
-994_unripeuncooked,"unripe, uncooked",,
-995_beowedby,be owed by,,
-996_ripen,ripen,179,RIPEN
-997_bestuntedspoilt,"be stunted, spoilt",,
-998_spoil,spoil,,
-999_becomeround,become round,,
-1000_lazy,lazy,1564,LAZY
-1001_corpse,corpse,767,CORPSE
-1002_beafraid,be afraid,1419,FEAR (BE AFRAID)
-1003_coward,coward,1319,COWARD
-1004_return,return,581,COME BACK
-1005_baobab,baobab,,
-1006_thelesserrains,the lesser rains,,
-1007_reap,reap,,
-1008_beborn,be born,1090,BE BORN
-1009_cowrieshell,cowrie shell,3663,COWRIE SHELL
-1010_weak,weak,,
-1011_leaveover,leave over,,
-1012_beround,be round,1395,ROUND
-1013_idlenesssloth,"idleness, sloth",2446,SLOTH
-1014_plungeintocausetosink,"plunge into, cause to sink",,
-1015_weightrhythm,"weight, rhythm",,
-1016_i,I,1209,I
-1017_we,we,1212,WE
-1018_youpl,you (pl.),1213,YOU
-1019_many,many,1198,MANY
-1020_that,that,78,THAT
-1021_small,small,1246,SMALL
-1022_barkoftree,bark (of tree),1204,BARK
-1023_louse,louse,1392,LOUSE
-1024_liver,liver,1224,LIVER
-1025_leafoftree,leaf (of tree),628,LEAF
-1026_mouth,mouth,674,MOUTH
-1027_die,die,1494,DIE
-1028_fly,fly,1441,FLY (MOVE THROUGH AIR)
-1029_stand,stand,1442,STAND
-1030_milk,milk,635,MILK
-1031_resemble,resemble,,
-1032_foam,foam,1768,FOAM
-1033_sew,sew,1457,SEW
-1034_tiefasten,tie (=fasten),1917,TIE
-1035_remainstay,"remain, stay",987,REMAIN
-1036_breakwind,break wind,1159,FART
-1037_bearchild,bear child,,
-1038_sperm,sperm,1505,SPERM
+ID,Name,Concepticon_ID,Concepticon_Gloss,Swahili_Gloss,Source_ID
+1_bebecome,"be, become",1990,BECOME,(ku)wa,1
+2_itch,itch,148,ITCH,(ku)wawa,2
+3_singe,singe,3698,SINGE,(ku)unguza,3
+4_count,count,1420,COUNT,(ku)hesabu,4
+5_spotspeckle,"spot, speckle",519,SPOT,waa,5
+6_raphiapalm,raphia palm,,,mwale,6
+7_borassuspalm,borassus palm,,,mvumo,7
+8_oilpalm,oil palm,,,mchikichi,8
+9_datepalm,date palm,,,mtende,9
+10_kindofpoisonoussnake,(kind of poisonous snake),,,mamba,10
+11_tentpegs,tent pegs,,,mambo,11
+12_peg,peg,361,PEG,chango,12
+13_plotofground,plot of ground,,,kiwanja,13
+14_courtyard,courtyard,4,COURTYARD,uwanja,14
+15_yousg,you (sg.),1215,THOU,wewe,15
+16_infrontof,in front of,1883,IN FRONT OF,mbele,16
+17_breast,breast,1402,BREAST,maziwa (ya mke),17
+18_udder,udder,154,UDDER,kiwele,18
+19_milk,milk,635,MILK,maziwa (kwa kunywa),19
+20_curdledmilk,curdled milk,,,(maziwa ya) robu,20
+21_buttermilk,buttermilk,,,mtindi (ya maziwa),21
+22_thigh,thigh,800,THIGH,kiweo (cha nyama),22
+23_thigh,thigh,800,THIGH,paja (la mtu),23
+24_rat,rat,1490,RAT,panya,24
+25_verylargelongtailedrat,(very large long-tailed rat),,,buku,25
+26_kindofrat,(kind of rat),,,ndezi,26
+27_bad,bad,1292,BAD,-baya (kibaya),27
+28_wicked,wicked,45,EVIL,-ovu,28
+29_rotten,rotten,1728,ROTTEN,-bovu,29
+30_boil,boil,2493,BOIL,(ku)chemsha,30
+31_call,call,,,(ku)ita,31
+32_chaseaway,chase (away),,,(ku)winga,32
+33_hunt,hunt,1435,HUNT,(ku)winda,33
+34_professionalhunter,(professional) hunter,1053,HUNTER,mwindaji,34
+35_hunting,hunting,,,uwindo,35
+36_soot,soot,830,SOOT,masizi,36
+37_becomebadrotten,"become bad, rotten",1728,ROTTEN,(ku)oza,37
+38_behighofmeat,be high (of meat),,,(ku)vunda,38
+39_potmug,"pot, mug",,,mkebe,39
+40_earthencookingpot,(earthen) cooking pot,,,chungu,40
+41_potvessel,"pot, vessel",1462,POT,chombo,41
+42_metalpot,metal pot,,,kopo,42
+43_smallcookingpan,small cooking pan,,,kibia,43
+44_earthenwarevesselforservingupfood,(earthenware vessel for serving up food) ,,,bia,44
+45_excrementdung,"excrement, dung",2057,DUNG (ANIMAL FAECES),mavi,45
+46_givebirthtoachild,give birth to a child,1195,GIVE BIRTH,(ku)zaa,46
+47_hewhobegetsparent,he who begets (=parent),,,mzazi,47
+48_offspring,offspring,1801,CHILD (DESCENDANT),mzao,48
+49_dirt,dirt,25,DIRT,uchafu,49
+50_filth,filth,,,taka,50
+50a_filth,filth,,,takataka,50a
+51_swell,swell,1573,SWELL,(ku)vimba,51
+52_corpse,corpse,767,CORPSE,mzoga,52
+53_dance,dance,1879,DANCE,(ku)cheza ngoma,53
+54_they,they,817,THEY,wao,54
+55_armhand,"arm, hand",2121,ARM OR HAND,mkono,55
+56_getwet,get wet,2324,GET WET,(ku)lowa,56
+57_pump,pump,,,bomba,57
+58_brain,brain,1583,BRAIN,ubongo,58
+59_mosquito,mosquito,1509,MOSQUITO,mbu,59
+60_dog,dog,2009,DOG,mbwa,60
+61_stone,stone,857,STONE,jiwe,61
+62_spider,spider,843,SPIDER,buibui,62
+63_goat,goat,1502,GOAT,mbuzi,63
+64_openspace,open space,,,uga,64
+65_mouldpottery,mould (pottery),289,MOLD,(ku)umba (vyungu),65
+66_oilfromplants,oil (from plants),2555,OIL (FROM PLANTS),uto,66
+67_seed,seed,714,SEED,mbegu,67
+68_grain,grain,605,GRAIN,punje (ya mtama),68
+69_soil,soil,1228,EARTH (SOIL),udongo,69
+70_earthland,"earth, land",3603,EARTH OR LAND,ardhi,70
+71_buffalo,buffalo,934,BUFFALO,nyati (=mbogo),71
+72_mixputtogether,"mix, put together",2017,MIX,(ku)changanya,72
+73_mixingredients,mix (ingredients),,,(ku)unga (e.g. chakula),73
+74_stirmixbystirring,"stir, mix by stirring",696,STIR,(ku)vuruga,74
+75_whitehair,white hair,,,mvi,75
+76_rain,rain,658,RAIN (PRECIPITATION),mvua,76
+77_breaksnap,"break, snap",2558,BREAK (CLEAVE),(ku)vunja,77
+78_stirup,stir up,,,"(ku)vumbua, (ku)vumbilia",78
+79_crumple,crumple,,,(ku)vungavunga,79
+80_bunch,bunch,1966,BUNCH,vunga (la nywele),80
+81_wrapup,wrap up,,,(ku)kunja,81
+82_spark,spark,518,SPARK,cheche,82
+83_choose,choose,1750,CHOOSE,(ku)chagua,83
+84_searchfor,search for,1468,LOOK FOR,(ku)tafuta,84
+85_searchdiligently,search diligently,,,(ku)chakura,85
+86_thicket,thicket,,,chaka,86
+87_bait,bait,2013,BAIT,chambo,87
+88_brasswire,(brass) wire,2631,WIRE,masango,88
+89_assemblecollect,"assemble, collect",,,(ku)changa,89
+90_meet,meet,1831,MEET,(ku)kuta,90
+91_begatheredbeassembled,"be gathered, be assembled",,,(ku)kusanyika,91
+92_becomecheerful,become cheerful,,,(ku)changamka,92
+93_bepleased,be pleased,,,(ku)pendezwa,93
+94_laugh,laugh,1355,LAUGH,(ku)cheka,94
+95_sand,sand,671,SAND,mchanga,95
+96_leanbenddownslope,"lean, bend down, slope",,,(ku)inama,96
+97_carryastrideonthehip,carry astride on the hip,,,(ku)eleka,97
+98_cutlop,"cut, lop",1432,CUT,(ku)chenga,98
+99_dryland,(dry) land,626,LAND,nchi (kavu),99
+100_ourcountry,(our) country,1300,COUNTRY,nchi (yetu),100
+101_belowunderneath,"below, underneath",1485,BELOW OR UNDER,chini,101
+102_squirrel,squirrel,1628,SQUIRREL,kindi,102
+103_lion,lion,1386,LION,simba,103
+104_cat,cat,1208,CAT,paka,104
+105_halfwildtomcat,half-wild tomcat,,,nunda (=shume la paka),105
+106_cheetah,cheetah,3146,CHEETAH,duma,106
+107_leopard,leopard,1139,LEOPARD,chui,107
+108_genetkindofspeckledcivetcat,genet (=kind of speckled civet cat) ,,,fungo,108
+109_civetcat,civet cat,3018,NATIVE CAT,ngawa (=paka wa zabadi),109
+110_rub,rub,1449,RUB,(ku)sugua,110
+111_polish,polish,3659,POLISH (SOMETHING),(ku)katua,111
+112_wipe,wipe,1454,WIPE,(ku)futa,112
+113_broth,broth,,,mchuzi,113
+114_poke,poke,,,(ku)chocha,114
+115_thrustinto,thrust into,,,(ku)choma,115
+116_shame,shame,1776,SHAME,soni,116
+117_cuttoshapesharpentoapoint,"cut to shape, sharpen to a point",,,(ku)chonga,117
+118_incite,incite,,,(ku)chonjomoa,118
+119_tippoint,"tip, point",,,ncha,119
+120_caninetoothtoothfiledtoapoint,"canine tooth, tooth filed to a point",,,chonge,120
+121_termite,termite,883,TERMITE,mchwa,121
+122_anthill,ant-hill,1873,ANTHILL,chuguu,122
+123_skin,skin,763,SKIN,ngozi (ya mtu),123
+124_skin,skin,763,SKIN,ganda (ya matunda),124
+125_bite,bite,1403,BITE,(ku)uma,125
+126_fish,fish,227,FISH,samaki (=nswi),126
+127_wash,wash,1453,WASH,(ku)osha,127
+128_washclothes,wash (clothes),1453,WASH,(ku)fua (nguo),128
+129_washtakeabath,"wash, take a bath",1453,WASH,(ku)oga / (ku)koga,129
+130_day,day,,,siku,130
+131_lookaftercarefor,"look after, care for",253,CARE FOR,(ku)tunza,131
+132_intestines,intestines,1991,INTESTINES,matumbo,132
+133_bellystomach,"belly, stomach",,,tumbo,133
+134_liedown,lie down,215,LIE DOWN,(ku)lala,134
+135_havesexualintercoursewith,have sexual intercourse with,,HAVE SEX,(ku)lala (na),135
+136_sleep,sleep,1585,SLEEP,(ku)lala usingizi,136
+137_spendtime,spend time,,,(ku)pisha (wakati),137
+138_bridge,bridge,1011,BRIDGE,daraja,138
+139_bridge,bridge,1011,BRIDGE,ulalo (wa mbao),139
+140_stretchoneself,stretch oneself,214,STRETCH,(ku)jinyosha,140
+141_bespreadout,be spread out,,,(ku)enea(enea),141
+142_follow,follow,1085,FOLLOW,(ku)fuata,142
+143_followinorder,follow (in order),,,(ku)andama,143
+144_long,long,1203,LONG,-refu,144
+145_serpentsnake,"serpent, snake",730,SNAKE,nyoka,145
+146_today,today,1283,TODAY,leo,146
+147_beard,beard,678,BEARD,ndevu,147
+148_avoid,avoid,,,(ku)epuka,148
+149_restheavilyonbeburdensome,"rest heavily on, be burdensome",,,(ku)lemea,149
+150_honor,honor,,,(ku)heshimu,150
+151_belame,be lame,320,LAME,(ku)chechemea,151
+152_bemutilated,be mutilated,,,(ku)lemaa,152
+153_cripple,cripple,,,kilema,153
+154_makestraight,make straight,,,(ku)nyosha,154
+155_increase,increase,1041,INCREASE,(ku)zidi,155
+155a_increase,increase,1041,INCREASE,(ku)zidi urefu,155a
+156_eat,eat,1336,EAT,(ku)la,156
+157_righthand,righthand,1019,RIGHT,kulia,157
+158_snaretrap,"snare, trap",1075,TRAP (PITFALL),mtego,158
+159_pay,pay,718,PAY,(ku)lipa,159
+160_crywail,"cry, wail",,,(ku)lia,160
+161_bedstead,bedstead,,,ulili,161
+162_bed,bed,1663,BED,kitanda,162
+163_mourning,mourning,,,kilio,163
+164_griefsorrow,"grief, sorrow",1668,GRIEF,huzuni,164
+165_cultivate,cultivate,1541,CULTIVATE,(ku)lima,165
+166_tongue,tongue,1205,TONGUE,ulimi,166
+167_work,work,984,WORK (LABOUR),kazi,167
+168_agriculture,agriculture,,,kilimo,168
+169_root,root,670,ROOT,mzizi,169
+170_sink,sink,1088,SINK (DESCEND),(ku)zuma (maji),170
+171_bringtolight,bring to light,,,(ku)zua,171
+172_pulluprootup,"pull up, root up",2066,PULL UP (RICE SEEDLINGS),(ku)ng'oa,172
+173_pullupcometoahalt,"pull up, come to a halt",,,(ku)simama,173
+174_turnround,turn round,1445,TURN (SOMETHING),"(ku)zungua, (ku)zungusha",174
+175_whiteman,white man,2839,WHITE MAN,mzungu,175
+176_stopupfillahole,"stop up, fill a hole",,,(ku)ziba,176
+177_pool,pool,,,kiziwa,177
+178_lake,lake,624,LAKE,ziwa,178
+179_bury,bury,1719,BURY,(ku)zika,179
+180_quenchextinguish,"quench, extinguish",127,EXTINGUISH,(ku)zima,180
+181_getlost,get lost,423,GET LOST,(ku)potea,181
+182_spiritofdeadperson,spirit (of dead person),,,mzimu,182
+183_goroundturnround,"go round, turn round",,TURN AROUND,(ku)zinga,183
+184_surround,surround,,,(ku)zunguka,184
+185_twist,twist,430,TWIST,(ku)sokota,185
+186_bendtwist,"bend, twist",,BEND,(ku)pinda,186
+187_windupthread,wind up (thread),,,(ku)kunja (uzi),187
+188_close,close,,CLOSE (MOUTH),(ku)sinzia,188
+189_fishhook,fish-hook,1074,FISHHOOK,ndoana,189
+190_fish,fish,,FISHING,(ku)vua (samaki),190
+191_fishuppullout,"fish up, pull out",2325,PULL OUT,(ku)opoa,191
+192_whistling,whistling,1025,WHISTLE,ubinja / uwinja,192
+193_bewitch,bewitch,118,BEWITCH,(ku)loga,193
+194_witchcraft,witchcraft,392,MAGIC,ulozi,194
+195_sorcerer,sorcerer,823,SORCERER,mchawi,195
+196_drizzle,drizzle,1016,DRIZZLE,manyunyu,196
+197_rainyseason,rainy season,453,RAINY SEASON,masika,197
+198_lip,lip,478,LIP,mdomo,198
+199_askfor,ask for,1828,ASK (REQUEST),(ku)omba,199
+200_lookforhandaroundtogetsomething,"look for, hand around (to get something) ",,,(ku)londea,200
+201_sore,sore,51,SORE,kidonda,201
+202_startoffsendaway,"start off, send away",,,(ku)ondoa,202
+203_arrangeputinorder,"arrange, put in order",1568,ARRANGE,(ku)panga,203
+204_arrangeputrightrepair,"arrange, put right, repair",2243,REPAIR,(ku)tengeneza,204
+205_guidearight,guide aright,,,(ku)ongoa,205
+206_increasemakegreater,"increase, make greater",1041,INCREASE,(ku)ongeza,206
+207_pack,pack,,,(ku)funga pamoja (mizigo),207
+208_packpresstogether,"pack, press together",,,(ku)songa,208
+209_river,river,666,RIVER,mto,209
+210_well,well,954,WELL,kisima,210
+211_number,number,1356,NUMBER,mwongo / mlongo,211
+212_groovefurrow,"groove, furrow",1794,FURROW,mfuo,212
+213_linerow,"line, row",1048,LINE,mstari,213
+214_beingoneeyed,being one-eyed,,,uchongo,214
+215_dream,dream,,DREAM (SOMETHING),(ku)ota (ndoto),215
+216_fight,fight,1423,FIGHT,(ku)pigana,216
+217_overcomewinvanquish,"overcome, win, vanquish",1999,OVERCOME,(ku)shinda,217
+218_kill,kill,1417,KILL,(ku)ua,218
+219_puttodeath,put to death,,,(ku)fisha,219
+220_slaughter,slaughter,1796,SLAUGHTER,(ku)chinja,220
+221_bitter,bitter,887,BITTER,-chungu,221
+222_bile,bile,1780,BILE,nyongo,222
+223_bladder,bladder,1746,BLADDER,kibofu,223
+224_vomit,vomit,1278,VOMIT,(ku)tapika,224
+225_plait,plait,1729,PLAIT OR BRAID OR WEAVE,(ku)suka,225
+226_male,male,1553,MALE,(d)ume,226
+227_husband,husband,1200,HUSBAND,mume,227
+228_storeupcollect,"store up, collect",,,(ku)kusanya,228
+229_addup,add up,,ADD,(ku)jumlisha,229
+230_constructputtogether,"construct, put together",,,(ku)unda,230
+231_becomeburnt,become burnt,1428,BURNING,(ku)ungua,231
+232_passsurpass,"pass, surpass",402,SURPASS,(ku)pita,232
+233_takeoffclothes,take off (clothes),1755,UNDRESS,(ku)vua (nguo),233
+234_wear,wear,976,WEAR,(ku)vaa,234
+235_clothe,clothe,158,PUT ON,(ku)vika,235
+236_paddle,paddle,234,PADDLE,kafi,236
+237_oar,oar,108,RUDDER,kasia,237
+238_blowbellows,blow bellows,,,(ku)vukuta,238
+239_roarrumble,"roar, rumble",,,(ku)vuma,239
+240_smellbad,smell (bad),42,STINKING,(ku)nuka,240
+241_smellsweet,smell (sweet),,,(ku)nukia,241
+242_badsmelloffish,bad smell (of fish),,,vumba,242
+243_dustcloudofdust,"dust, cloud of dust",2,DUST,vumbi,243
+244_pull,pull,1455,PULL,(ku)vuta,244
+245_divide,divide,1119,DIVIDE,(ku)gawa,245
+246_giveawaypresent,give away (present),196,DONATE,(ku)toa (zawadi),246
+247_turnroundchange,"turn round, change",,,(ku)geuka,247
+248_alterchange,"alter, change",1264,CHANGE,(ku)badili,248
+249_gobackreturn,"go back, return",,RETURN HOME,(ku)rejea,249
+250_lieononesback,lie on one's back,1411,LIE (REST),(ku)lala chali,250
+251_saytotellto,"say to, tell to",1458,SAY,(ku)ambia,251
+252_abuse,abuse,,,(ku)amba,252
+253_speak,speak,1623,SPEAK,(ku)sema,253
+254_affair,affair,2214,AFFAIR,jambo,254
+255_clan,clan,302,CLAN,ukoo,255
+256_navel,navel,1838,NAVEL,kitovu,256
+257_palmofhand,palm (of hand),1183,PALM OF HAND,kitanga (cha mkono),257
+258_tieup,tie up,1094,FASTEN,(ku)funga kwa kamba,258
+259_medicineremedy,"medicine, remedy",,,dawa,259
+260_medicineartofmedicineman,medicine (=art of medicine man) ,1372,MEDICINE,utabibu,260
+261_medicineman,medicine man,394,SHAMAN (FOLK HEALER),mganga,261
+262_bindupsplice,"bind up, splice",,,(ku)ganga,262
+263_howmany,how many?,822,HOW MANY,-ngapi?,263
+264_iron,iron,621,IRON,chuma,264
+265_copperbrass,"copper, brass",1825,COPPER,shaba,265
+266_steel,steel,2343,STEEL,(chuma cha) pua,266
+267_tooth,tooth,1380,TOOTH,jino,267
+268_strangerguest,"stranger, guest",1782,GUEST,mgeni,268
+269_go,go,,,(kw)enda,269
+269a_walk,walk,1443,WALK,(kw)enda kwa miguu,269a
+270_travel,travel,,,(ku)safiri,270
+271_journey,journey,2393,JOURNEY,safari,271
+272_movement,movement,,,mwendo,272
+273_egg,egg,744,EGG,yai,273
+274_act,act,,,(ku)tenda,274
+275_imitate,imitate,117,IMITATE,(ku)iga / (ku)igiza,275
+276_village,village,930,VILLAGE,kijiji,276
+277_town,town,1391,TOWN,mji,277
+278_fly,fly,,,inzi,278
+279_withholdfrom,withhold from,,,(ku)nyima,279
+279a_abstain,abstain,,,(ku)jinyima,279a
+280_fireplacehearthkitchen,"fireplace, hearth, kitchen",185,FIREPLACE,jiko,280
+281_name,name,1405,NAME,jina,281
+282_string,string,362,STRING,uzi,282
+283_copyapattern,copy a pattern,,,(ku)oleza,283
+284_drum,drum,908,DRUM,ngoma,284
+285_cow,cow,1007,COW,ng'ombe,285
+286_cattle,cattle,1153,CATTLE,mifugo,286
+287_sheep,sheep,1331,SHEEP,kondoo,287
+288_horse,horse,615,HORSE,farasi,288
+289_duck,duck,1360,DUCK,bata,289
+290_millipede,millipede,,,jongoo,290
+291_roostercock,rooster (=cock),1511,ROOSTER,jogoo,291
+292_donkey,donkey,1862,DONKEY,punda,292
+292a_zebra,zebra,3675,ZEBRA,punda milia,292a
+293_tortoise,tortoise,895,TORTOISE,kobe,293
+294_hare,hare,,,sungura,294
+295_frog,frog,503,FROG,chura,295
+296_snoresnort,"snore, snort",1983,SNORE,(ku)koroma,296
+297_back,back,1291,BACK,mgongo,297
+297a_backbone,backbone,,,uti wa mgongo,297a
+298_fall,fall,1276,AUTUMN,(ku)anguka,298
+299_cloth,cloth,1616,CLOTH,kitambaa,299
+300_clothesmaterial,"clothes, material",1895,CLOTHES,nguo,300
+301_buy,buy,1869,BUY,(ku)nunua,301
+302_sell,sell,1571,SELL,(ku)uza,302
+303_sky,sky,1732,SKY,mbingu,303
+304_lightsky,"light, sky",,LIGHT (RADIATION),anga,304
+305_cloud,cloud,1489,CLOUD,wingu,305
+306_toppeak,"top, peak",,TOP,kilele,306
+307_highestpointutmost,"highest point, utmost",2205,PEAK,kipeo,307
+308_crownofthehead,crown of the head,,,utosi,308
+309_hill,hill,614,HILL,kilima,309
+310_legfoot,"leg, foot",2098,FOOT OR LEG,mguu,310
+311_upabove,"up, above",1741,ABOVE,juu,311
+312_pig,pig,1337,PIG,nguruwe,312
+313_barrenoflivingbeing,barren (of living being),,,tasa,313
+314_barrenofland,barren (of land),,,kame,314
+315_sterilemanorwoman,sterile man (or woman),,,mgumba,315
+316_garden,garden,586,GARDEN,bustani,316
+317_hippopotamus,hippopotamus,,,kiboko,317
+318_rhinoceros,rhinoceros,2591,RHINOCEROS,kifaru,318
+319_crossariver,cross (a river),1742,TRAVERSE,(ku)vuka,319
+320_hunger,hunger,1864,HUNGER,njaa,320
+321_rubbishheap,rubbish heap,909,GARBAGE,jaa,321
+322_water,water,948,WATER,maji,322
+323_fingernail,fingernail,1258,FINGERNAIL,ukucha,323
+324_outside,outside,762,OUTSIDE,nje,324
+325_path,path,2252,PATH,njia,325
+326_highway,highway,,,barabara,326
+327_vision,vision,,,njozi,327
+328_dream,dream,2374,DREAM,ndoto,328
+329_elephant,elephant,1290,ELEPHANT,ndovu (=tembo),329
+330_voice,voice,1363,VOICE,sauti,330
+331_soundcry,"sound, cry",,SOUND (OF INSTRUMENT OR VOICE),mlio,331
+332_smallpox,smallpox,1054,SMALLPOX,ndui,332
+333_sun,sun,1343,SUN,jua,333
+334_charcoal,charcoal,1188,CHARCOAL,kaa,334
+335_crab,crab,2348,CRAB,kaa (ya pwani),335
+336_embers,embers,67,EMBERS,kaa la moto,336
+337_ashes,ashes,646,ASH,jivu,337
+338_woman,woman,962,WOMAN,mwanamke,338
+339_wife,wife,1199,WIFE,mke,339
+340_protectbycharm,protect by charm,,,(ku)kaga,340
+341_olderbrother,(older) brother,1759,OLDER BROTHER,kaka,341
+342_palate,palate,540,PALATE,kaakaa,342
+343_squeezemilk,"squeeze, milk",93,DRAW MILK,(ku)kama,343
+344_wring,wring,1414,SQUEEZE,(ku)kamua (nguo),344
+345_dryupbecomedry,"dry up, become dry",1786,DRY UP,(ku)kauka,345
+346_dry,dry,1398,DRY,-kavu,346
+347_knead,knead,274,KNEAD,(ku)kanda,347
+348_knee,knee,1371,KNEE,goti,348
+349_fry,fry,,,(ku)kaanga,349
+350_roast,roast,1962,ROAST (SOMETHING),(ku)choma (kwa moto),350
+351_guineafowl,guinea-fowl,456,GUINEA FOWL,kanga,351
+352_headpad,head-pad,,,kata,352
+353_inside,inside,1606,INSIDE,kati,353
+353a_inthemiddleof,in the middle of,,,katikati,353a
+354_lookatexamine,"look at, examine",1819,LOOK,(ku)tazama,354
+354a_lookround,look round,,,(ku)tazama pote (=kutupa jicho huko na huko),354a
+355_cut,cut,,,(ku)kata,355
+356_head,head,1256,HEAD,kichwa,356
+357_tobaccopipe,tobacco pipe,1124,PIPE,kiko,357
+358_gruntgrumble,"grunt, grumble",,,(ku)guna,358
+359_dawndaybreak,"dawn, daybreak",729,DAWN,mapambazuko,359
+360_tail,tail,1220,TAIL,mkia,360
+361_monkeysmalldarkcoloured,"monkey (small, dark-coloured)",1350,MONKEY,kima,361
+362_colobusmonkeywithlongblacksilkhairwhiteontheshoulders,"colobus monkey (with long black silk hair, white on the shoulders) ",,,mbega,362
+363_smalllightishcolouredmonk,(small lightish-coloured) monk,,,tumbili,363
+364_baboonape,"baboon, ape",1197,BABOON,nyani,364
+365_danceofmentoshowcourage,"dance (of men, to show courage",,,(ku)randa,365
+366_do,do,813,DO,(ku)fanya,366
+367_docompletefinish,"do, complete, finish",,FINISH,(ku)maliza,367
+368_grantsgazelle,Grant's gazelle,5,GAZELLE,swala,368
+369_poundgraininamortartogethusksoff,pound (grain in a mortar to get husks off) ,354,POUND,(ku)twanga,369
+370_crushbypoundingpulverise,"crush by pounding, pulverise",1520,CRUSH,(ku)ponda,370
+371_grindgrainwithamillstone,grind (grain with a millstone),1033,GRIND,(ku)saga,371
+372_grindcoarsely,grind coarsely,,,(ku)paaza,372
+373_gruel,gruel,1167,GRUEL,uji,373
+374_porridge,porridge,,,ugali,374
+375_bread,bread,1368,BREAD,mkate,375
+376_baseoftreetrunk,base of tree-trunk,,,shina,376
+377_hardshipdistress,"hardship, distress",,,shida,377
+378_trampoffeet,tramp of feet,,,mshindo (wa miguu),378
+379_neck,neck,1333,NECK,shingo,379
+380_vein,vein,1924,VEIN,mshipa (wa damu),380
+381_brotherinlawsisterinlaw,"brother-in-law, sister-in-law",,,shemeji,381
+382_fatherinlawmotherinlaw,"father-in-law, mother-in-law",306,PARENTS-IN-LAW,mkwe,382
+383_cough,cough,879,COUGH,(ku)kohoa,383
+384_beproperlyflavoured,be properly flavoured,,,(ku)kolea,384
+385_becomecoolgetwell,become cool; get well,,,(ku)poa,385
+386_besharp,be sharp,1396,SHARP,(ku)koa,386
+387_snailslug,"snail, slug",1543,SNAIL,kaa,387
+388_eastafricangoshawk,East African goshawk,,,kozi,388
+389_getintoxicated,get intoxicated,,,(ku)jilevya,389
+390_stareglare,"stare, glare",,,(ku)kodoa (macho),390
+391_heapupreadysetonfire,"heap up, ready, set on fire",,,(ku)koka (moto),391
+392_sweepupcollectinaheaprubbish,"sweep up, collect in a heap (rubbish) ",230,SWEEP,(ku)kokoa (taka),392
+393_crust,crust,,,ukoko,393
+394_cometoanend,come to an end,,,(ku)koma,394
+395_strikeknock,"strike, knock",2396,KNOCK,(ku)gonga,395
+396_hitwithahammer,hit with a hammer,,,(ku)piga nyundo,396
+397_bananafruit,banana (fruit),868,BANANA,ndizi,397
+398_bananaplant,banana (plant),,BANANA TREE,mgomba,398
+399_bananaforcooking,banana for cooking,,,mzuzu (=matoke),399
+400_fist,fist,1473,FIST,konde,400
+401_trunkofelephant,trunk (of elephant),,,mkonga,401
+402_thincurvedbroadbladedknife,"thin, curved, broad-bladed knife ",,,kotama,402
+403_napeofneck,nape (of neck),1347,NAPE (OF NECK),ukosi,403
+404_seize,seize,855,SEIZE,(ku)kamata,404
+405_growupgetlargebecomegreat,"grow up, get large, become great ",,,(ku)kua,405
+406_grate,grate,,,(ku)kwaruza,406
+407_stumble,stumble,2894,TUMBLE (FALL DOWN),(ku)kwaa,407
+408_getobtain,"get, obtain",694,GET,(ku)pata,408
+409_greatpowerful,"great, powerful",3001,POWERFUL,-kuu,409
+410_old,old,1229,OLD,-kuukuu,410
+411_oldperson,old person,725,OLD PERSON,mzee,411
+412_ten,ten,1515,TEN,kumi,412
+413_firewood,firewood,10,FIREWOOD,kuni,413
+414_kindofpigeon,(kind of pigeon),,,kunda,414
+415_redeyeddove,(red-eyed) dove,1853,DOVE,njiwa,415
+416_kindofbean,(kind of bean),,,(u)kunde,416
+417_smallbean,small bean,,,maharag(w)e,417
+418_hemmakeaborder,"hem, make a border",,,(ku)kunga,418
+419_gatherflowersfruit,"gather (flowers, fruit)",,,(ku)chuma,419
+420_cattleordogtick,(cattle or dog) tick,1527,TICK,kupe,420
+421_figtree,fig tree,,,mtini,421
+422_figmulberrytree,fig mulberry tree,,,mkuyu,422
+423_deadperson,dead person,,,mfu,423
+424_death,death,910,DEATH,kifo,424
+425_die,die,1494,DIE,(ku)fa,425
+426_inheritance,inheritance,,,urithi,426
+427_kneel,kneel,66,KNEEL,(ku)piga magoti,427
+428_giveoutsmoke,give out smoke,,,(ku)fukia,428
+429_keeplivestock,keep livestock,,,(ku)fuga,429
+430_shoulder,shoulder,1482,SHOULDER,fuzi,430
+431_chief,chief,301,CHIEFTAIN,mfumo,431
+431a_chiefheadman,"chief, headman",,,jumbe,431a
+432_graspholdinarm,"grasp, hold in arm",1448,HOLD,(ku)fumbata,432
+433_bone,bone,1394,BONE,mfupa,433
+434_short,short,1645,SHORT,-fupi,434
+435_oil,oil,,,mafuta (laini),435
+436_mother,mother,1216,MOTHER,mama,436
+437_dew,dew,1977,DEW,umande,437
+438_swallow,swallow,897,SWALLOW,(ku)meza,438
+439_lefthand,left-hand,244,LEFT,kushoto,439
+440_one,one,1493,ONE,mosi (=moja),440
+441_pouraway,pour away,,,(ku)mwaga,441
+442_four,four,1500,FOUR,nne,442
+443_eight,eight,1705,EIGHT,nane,443
+444_thickfat,"thick, fat",1244,THICK,-nene,444
+445_tomato,tomato,986,TOMATO,nyanya,445
+446_urinate,urinate,592,PISS,(ku)nya,446
+446a_defecate,defecate,,,(ku)nya mavi,446a
+447_finger,finger,1303,FINGER,kidole (cha mkono),447
+448_drink,drink,1401,DRINK,(ku)nywa,448
+449_give,give,1447,GIVE,(ku)pa,449
+450_separateleaveeachother,"separate, leave each other",,,(ku)achana,450
+451_separatesetapart,"separate, set apart",1359,SEPARATE,(ku)tenga,451
+452_twin,twin,1005,TWINS,pacha,452
+453_scrape,scrape,1767,SCRAPE,(ku)paa,453
+454_smallgazelle,small gazelle,,,paa,454
+455_thatchedroof,thatched roof,,,paa,455
+456_packflockgroup,"pack, flock, group",,,kundi,456
+457_packbalebundle,"pack, bale, bundle",,,mtumba,457
+458_forkbifurcation,"fork, bifurcation",,,panda,458
+459_palpitate,palpitate,,,(ku)papa,459
+460_becomejammed,become jammed,,,(ku)kwama,460
+461_befullygrown,be fully grown,,,"(ku)pea, (ku)pevuka",461
+462_fanwave,"fan, wave",1971,FAN (OBJECT),(ku)pepea,462
+463_blowaway,blow away,176,BLOW (WITH MOUTH),(ku)peperusha,463
+464_disembodiedspirit,(disembodied) spirit,53,SPIRIT,pepo,464
+465_cold,cold,102,COMMON COLD (DISEASE),baridi,465
+466_diminishgrowless,"diminish, grow less",1184,DIMINISH,(ku)pungua,466
+467_lightinweight,light in weight,1052,LIGHT (WEIGHT),-epesi,467
+468_bend,bend,2224,BEND (SOMETHING),(ku)peta,468
+469_which,which?,727,WHICH,-pi?,469
+470_slap,slap,,,(ku)piga kofi,470
+471_cook,cook,1100,COOK (SOMETHING),(ku)pika,471
+472_ripen,ripen,179,RIPEN,(ku)iva,472
+473_ripe,ripe,178,RIPE,-bivu,473
+474_fire,fire,221,FIRE,moto,474
+475_puffadder,puff-adder,,,pili,475
+476_handlehaft,"handle, haft",1254,HANDLE,pini,476
+477_kidney,kidney,489,KIDNEY,figo,477
+478_arrive,arrive,1387,ARRIVE,(ku)fika,478
+479_pinchmakenarrow,"pinch, make narrow",378,PINCH,(ku)finya,479
+480_suck,suck,1421,SUCK,(ku)fyonza,480
+481_darkness,darkness,11,DARKNESS,giza,481
+482_blindperson,blind person,457,BLIND PERSON,kipofu,482
+483_twist,twist,430,TWIST,(ku)pota,483
+484_nose,nose,1221,NOSE,pua,484
+485_bequiet,be quiet,1314,QUIET,(ku)tulia,485
+486_ceasefinish,"cease, finish",1928,CEASE,(kw)isha,486
+487_stripoffeggrainsofcorn,strip off (e.g. grains of corn),,,(ku)pura,487
+488_fieldrat,field rat,,,puku,488
+489_breathbreathing,"breath, breathing",870,BREATH,pumzi,489
+490_breatherest,"breathe, rest",,,(ku)pumua,490
+491_eaglebirdofprey,"eagle, bird of prey",1905,EAGLE,pungu,491
+492_eagernesszeal,"eagerness, zeal",,,pupa,492
+493_flapthewingswildlyflutter,"flap the wings wildly, flutter",,,(ku)papatika,493
+494_penetrate,penetrate,,,(ku)penya,494
+495_boilabscess,"boil, abscess",793,BOIL (OF SKIN),jipu,495
+496_blowonblowup,"blow on, blow up",,,(ku)puliza,496
+497_befitsuit,"befit, suit",764,SUIT,(ku)agia,497
+498_befittingbehoove,"be fitting, behoove",,,(ku)juzu,498
+499_resemble,resemble,1777,RESEMBLE,(ku)fanana na,499
+500_revive,revive,,,(ku)fufua,500
+501_weaveknit,"weave, knit",,,(ku)fuma,501
+502_foam,foam,1768,FOAM,povu,502
+503_dig,dig,1418,DIG,(ku)chimba,503
+504_digupdigout,"dig up, dig out",,,(ku)fukua,504
+505_comeonsuddenlytakeintheact,"come on suddenly, take in the act ",,,(ku)fumania,505
+506_gooutgoaway,"go out, go away",1752,LEAVE,(ku)toka,506
+507_war,war,935,WAR,vita,507
+508_bow,bow,994,BOW,uta,508
+509_branch,branch,1531,BRANCH,tawi,509
+510_platform,platform,,,jukwaa,510
+511_lamp,lamp,625,LAMP,taa,511
+512_divorce,divorce,1134,DIVORCE,talaka,512
+513_ironore,iron ore,,,mawe yenye chuma,513
+514_buttock,buttock,834,BUTTOCKS,tako,514
+515_cheek,cheek,1730,CHEEK,shavu (la uso),515
+516_finaldecisive,"final, decisive",1529,LAST (FINAL),tama,516
+517_sweetpleasant,"sweet, pleasant",717,SWEET,tamu,517
+518_pronounce,pronounce,,,(ku)tamka,518
+519_strutproudly,strut proudly,,,(ku)tamba,519
+520_crawlcreep,"crawl, creep",3456,CRAWL OR CREEP,(ku)tamboa,520
+521_makeofferingstothedead,make offerings to the dead,,,(ku)tambika,521
+522_sacrifice,sacrifice,1103,SACRIFICE,dhabibu,522
+523_receive,receive,,,(ku)pokea,523
+524_takeawalk,take a walk,2890,WALK (TAKE A WALK),(ku)tembea,524
+525_five,five,493,FIVE,tano,525
+526_centipede,centipede,1974,CENTIPEDE,tandu,526
+527_spread,spread,38,SPREAD OUT,(ku)tandika,527
+528_shiver,shiver,52,SHIVER,(ku)tapa,528
+529_drawwaterfromwell,draw (water from well),1911,DRAW (WATER),(ku)teka (maji),529
+530_tangle,tangle,,,(ku)tata,530
+531_father,father,1217,FATHER,baba,531
+531a_myfather,my father,,,babaangu,531a
+532_three,three,492,THREE,tatu,532
+533_spittle,spittle,1503,SALIVA,mate,533
+534_setatrap,set a trap,,,(ku)tega,534
+535_beleaning,be leaning,,,(ku)egama,535
+536_leanonrelyon,"lean on, rely on",,,(ku)tegemea,536
+537_reed,reed,659,REED,tete,537
+538_trembleshake,"tremble, shake",,,(ku)tetemeka,538
+539_namely,namely,,,yaani,539
+540_tree,tree,906,TREE,mti,540
+541_stick,stick,1295,STICK,fimbo,541
+542_inside,inside,1606,INSIDE,ndani,542
+543_heart,heart,1223,HEART,moyo,543
+544_leaveoff,leave (off),,,(ku)acha,544
+545_remainstaybehind,"remain, stay behind",,,(ku)baki,545
+546_leavepermission,"leave, permission",,,ruhusa,546
+547_leavegoaway,"leave, go away",1752,LEAVE,(ku)ondoka,547
+548_push,push,1452,PUSH,(ku)sukuma,548
+549_fallshort,fall short,,,(ku)tindika,549
+550_clodlump,"clod, lump",,,bumba,550
+551_unripehalfgrown,"unripe, half grown",1958,UNRIPE,tindi,551
+552_pithole,"pit, hole",1667,HOLE,shimo,552
+553_pressoutoilseedsugarcane,"press out (oil seed, sugar cane)",1913,PRESS,(ku)sindika,553
+554_stemofmaizemillet,"stem of maize, millet",,,bua,554
+555_bush,bush,1683,BUSH,msitu,555
+556_forest,forest,420,FOREST,mwitu,556
+557_cookinwaterorfat,cook in water or fat,,,(ku)tokosa,557
+558_person,person,683,PERSON,mtu,558
+559_thing,thing,738,THING,kitu,559
+560_carry,carry,700,CARRY,(ku)chukua,560
+561_heap,heap,2984,HEAP,chungu,561
+562_stackpileup,"stack, pile up",1576,PILE UP,(ku)panganya,562
+563_ear,ear,1247,EAR,sikio,563
+564_boreahole,bore a hole,1501,BORE,(ku)toboa,564
+565_takecarry,"take, carry",,,(ku)twaa,565
+566_trickleaway,trickle away,,,(ku)churuzika,566
+567_takeupaheavyload,take up a heavy load,,,(ku)twika,567
+568_giraffe,giraffe,3089,GIRAFFE,twiga,568
+569_use,use,2072,USE (VERB),(ku)tumia,569
+570_send,send,1127,SEND,(ku)tuma,570
+571_abuse,abuse,,,(ku)tukana,571
+572_humpofhunchback,hump (of hunchback),534,HUMP,kigongo,572
+573_humpofcow,hump (of cow),,,nundu,573
+574_fruit,fruit,1507,FRUIT,tunda,574
+575_holenest,"hole, nest",,,tundu,575
+576_basketofopenwickerwork,basket of open wicker-work,1539,BASKET,tundu (=namna ya kikapu),576
+577_plaitedbasket,plaited basket,,,kikapu,577
+578_carry,carry,700,CARRY,(ku)tuta,578
+579_pileuppileloadsonhead,"pile up, pile loads on head",,,(ku)tutika,579
+580_ramble,ramble,,,(ku)tutuma,580
+581_boilup,boil up,,,(ku)tutuma,581
+582_spit,spit,1440,SPIT,(ku)tema mate,582
+583_filterstrain,"filter, strain",940,STRAIN,(ku)chuja,583
+584_forge,forge,288,FORGE,(ku)fua (chuma),584
+585_chest,chest,1592,CHEST,kifua,585
+586_anvil,anvil,1648,ANVIL,fuawe,586
+587_facedownwards,face downwards,,,fudifudi,587
+588_shoulder,shoulder,1482,SHOULDER,bega,588
+589_sew,sew,1457,SEW,(ku)shona,589
+590_openthemouthwide,open the mouth wide,3437,OPEN (MOUTH),(ku)achama,590
+591_spreadscatter,"spread, scatter",3705,SCATTER,(ku)tawanyika,591
+592_spreadsmearon,"spread, smear on",364,SMEAR,(ku)paka,592
+593_year,year,1226,YEAR,mwaka,593
+594_suckthebreast,suck (the breast),1421,SUCK,(ku)amwa,594
+595_animal,animal,619,ANIMAL,nyama,595
+596_meat,meat,634,MEAT,nyama,596
+597_child,child,2099,CHILD,mwana,597
+598_setouttodry,set out to dry,3364,DRY IN SUN,(ku)anika,598
+599_prepare,prepare,2909,PREPARE,(ku)anda(li)a,599
+600_payattentiontakecare,"pay attention, take care",,,(ku)angalia,600
+601_splitcrack,"split, crack",3080,SPLIT OPEN,(ku)atua,601
+602_canoe,canoe,1970,CANOE,mtumbwi,602
+603_shehe,"she, he",2642,HE OR SHE,yeye,603
+604_try,try,1812,TRY,(ku)jaribu,604
+605_tsetsefly,tsetse fly,,,mbung'o,605
+606_judge,judge,1818,ADJUDICATE,(ku)hukumu,606
+607_knife,knife,1352,KNIFE,kisu,607
+608_shortsword,short sword,,,sime,608
+609_moonlight,moonlight,,,mbalamwezi,609
+610_white,white,1335,WHITE,-eupe,610
+611_self,self,1993,SELF,-enyewe,611
+612_cricket,cricket,2354,CRICKET,nyenje / nyenze,612
+613_learn,learn,504,LEARN,(ku)jifunza,613
+614_upright,upright,,,wima,614
+615_sing,sing,1261,SING,(ku)imba,615
+616_song,song,1096,SONG,nyimbo,616
+617_answeracall,answer a call,,,(ku)itika,617
+618_steal,steal,713,STEAL,(ku)iba,618
+619_thief,thief,1160,THIEF,mwivi,619
+620_eye,eye,1248,EYE,jicho,620
+621_tears,tears,1651,TEAR (OF EYE),machozi,621
+622_darkblack,"dark, black",2633,BLACK OR DARK,-eusi,622
+623_hear,hear,1408,HEAR,(ku)sikia,623
+624_come,come,1446,COME,(ku)ja,624
+625_becomefull,become full,,,(ku)jaa,625
+626_know,know,3626,KNOW,(ku)jua,626
+627_sit,sit,1416,SIT,(ku)kaa (e.g. kitako),627
+628_dwell,dwell,363,"DWELL (LIVE, RESIDE)",(ku)kaa,628
+629_smoke,smoke,778,SMOKE (EXHAUST),moshi,629
+630_haveenoughtoeatordrinkbesatiated,"have enough to eat or drink, be satiated ",,,(ku)shiba,630
+631_denial,denial,,,mkano,631
+632_refusesayno,"refuse, say no",,,(ku)kataa,632
+633_rejectrefuse,"reject, refuse",49,REFUSE,(ku)iza,633
+634_atthebackof,at the back of,1686,BEHIND,nyuma,634
+635_dip,dip,3697,DIP,(ku)chovya,635
+636_bepregnant,be pregnant,1123,PREGNANT,(ku)wa na mimba,636
+637_yourspl,your(s) (pl.),2274,YOUR (PLURAL),-enu,637
+638_pestle,pestle,225,PESTLE,mchi (kwa kutwangia),638
+639_goincomein,"go in, come in",749,ENTER,(ku)ingia,639
+640_ours,our(s),780,OUR,-etu,640
+641_pour,pour,1487,POUR,(ku)mimina,641
+642_mushroom,mushroom,641,MUSHROOM,kiyoga,642
+643_bathe,bathe,138,BATHE,(ku)oga,643
+644_roast,roast,1962,ROAST (SOMETHING),(ku)oka (motoni),644
+645_burn,burn,2102,BURN,(ku)waka,645
+646_potterskiln,potter's kiln,,,joko,646
+647_plunderatown,plunder (a town),,,(ku)teka (mji),647
+648_destroyspoil,"destroy, spoil",681,DESTROY,(ku)haribu,648
+649_spoilachild,spoil (a child),,,(ku)dekeza,649
+650_baskinthesunwarmoneself,"bask (in the sun), warm oneself",,,"(ku)ota (jua), (moto)",650
+651_thirst,thirst,848,THIRST,kiu,651
+652_feathersfur,"feathers, fur",,,manyoya,652
+653_bee,bee,665,BEE,nyuki,653
+654_honey,honey,942,HONEY,asali (ya nyuki),654
+655_hard,hard,1884,HARD,-gumu,655
+656_quarrel,quarrel,3302,QUARREL (VERB),(ku)gombana,656
+657_limewhitewash,"lime, whitewash",2540,LIME (MATERIAL),chokaa,657
+658_birdlime,bird-lime,,,ulimbo,658
+659_fishingline,fishing line,19,FISHING LINE,mshipi,659
+660_brookstream,"brook, stream",,,kijito,660
+661_streamcurrent,"stream, current",2935,CURRENT (STREAM),mkondo,661
+662_carpentersadze,carpenter's adze,290,ADZE,tezo,662
+663_smallant,(small) ant,,,chungu,663
+664_reddishbrownbitingant,(reddish-brown biting) ant,,,siafu,664
+665_arrow,arrow,977,ARROW,mshale,665
+666_headofarrowspearhead,"head of arrow, spear head",,,chembe,666
+667_axe,axe,677,AXE,shoka,667
+668_scythesickle,"scythe, sickle",2132,SICKLE OR SCYTHE,mundu,668
+669_blood,blood,946,BLOOD,damu,669
+670_body,body,1480,BODY,mwili,670
+671_bowbending,"bow, bending",,,upinde,671
+672_chestofanimalsandbirds,chest (of animals and birds),,,kidari,672
+673_brotherrelativefellowtribesman,"brother, relative, fellow-tribesman",1644,RELATIVES,ndugu,673
+674_bull,bull,1008,BULL,fahali,674
+675_dugoutcanoe,dug-out canoe,,,ngalawa,675
+676_boat,boat,1844,BOAT,mashua,676
+677_king,king,1508,KING,mfalme,677
+678_headchiefperson,"head, chief person",,,mkuu,678
+679_child,child,2099,CHILD,mtoto,679
+680_districtprovincecountry,"district, province, country",1300,COUNTRY,jimbo,680
+681_heifer,heifer,,,mtamba (wa ng'ombe),681
+682_daytime,day-time,1225,DAY (NOT NIGHT),mchana,682
+683_evilspirit,evil spirit,1973,DEMON,kizuu,683
+684_suddenapparitionghost,"sudden apparition, ghost",1175,GHOST,zuka,684
+685_door,door,1567,DOOR,mlango,685
+686_face,face,1560,FACE,uso,686
+687_fear,fear,781,FEAR (FRIGHT),woga,687
+688_awefearofgod,"awe, fear of God",,,uchaji,688
+689_threaten,threaten,1192,THREATEN,(ku)tisha,689
+690_henfowl,"hen, fowl",265,FOWL,kuku,690
+691_shadowshade,"shadow, shade",1388,SHADE,kivuli,691
+692_virginbridegirl,"virgin (bride), girl",,,mwali,692
+693_youth,youth,,,kijana,693
+694_hegoat,he-goat,264,HE-GOAT,beberu,694
+695_god,god,1944,GOD,mungu,695
+696_grandfather,grandfather,1383,GRANDFATHER,babu,696
+697_grandmother,grandmother,1496,GRANDMOTHER,bibi,697
+698_grassreeds,"grass, reeds",,,nyasi,698
+699_leafbladeofgrass,"leaf, blade of grass",,,jani,699
+700_hay,hay,342,HAY,ukoko mkwavu,700
+701_gun,gun,1566,GUN,bunduki,701
+702_hair,hair,1040,HAIR,unywele,702
+703_flatofhand,flat of hand,,,kofi,703
+704_knot,knot,760,KNOT,kifundo,704
+705_heel,heel,980,HEEL,kisigino (cha mguu),705
+705a_elbow,elbow,981,ELBOW,kisigino (cha mkono),705a
+706_hoe,hoe,284,HOE,jembe,706
+707_hornivory,"horn, ivory",,,pembe,707
+708_house,house,1252,HOUSE,nyumba,708
+709_hyena,hyena,1799,HYENA,fisi,709
+710_island,island,622,ISLAND,kisiwa,710
+711_elephantstusk,elephant's tusk,2495,ELEPHANT TUSK,buri,711
+712_shinbone,shin (bone),,,muundi (wa mguu),712
+713_magic,magic,392,MAGIC,uchawi,713
+714_maize,maize,506,MAIZE,muhindi,714
+715_youngman,young man,76,YOUNG MAN,mvulana,715
+716_moon,moon,1313,MOON,mwezi,716
+717_mountain,mountain,639,MOUNTAIN,mlima,717
+718_night,night,1233,NIGHT,usiku,718
+719_palmwine,palm-wine,,,tembo (kwa kunywa),719
+720_parrot,parrot,882,PARROT,kasuku,720
+721_penis,penis,1222,PENIS,mboo,721
+722_place,place,723,PLACE (POSITION),mahali,722
+723_salt,salt,1274,SALT,chumvi (=munyu),723
+724_shamemodesty,"shame, modesty",,,haya,724
+725_shield,shield,1064,SHIELD,ngao,725
+726_hissisterherbrother,"(his) sister, (her) brother",,,umbu,726
+727_slavebondservant,"slave, bondservant",812,SLAVE,mtumwa,727
+728_femaleslave,female slave,,,mjakazi,728
+729_maleslave,male slave,,,mtwana,729
+730_sleepingplaceaccommodation,"sleeping-place, accommodation",,,malalo,730
+731_sleep,sleep,2972,SLEEP (STATE),usingizi,731
+732_song,song,1096,SONG,wimbo,732
+733_spear,spear,945,SPEAR,mkuki,733
+734_soulspirit,"soul, spirit",811,SOUL,roho,734
+735_star,star,1430,STAR,nyota,735
+736_cudgel,cudgel,,,gongo,736
+737_thinpole,thin pole,,,ufito,737
+738_seatstoolchair,"seat, stool, chair",,,kiti,738
+739_testicle,testicle,797,TESTICLES,pumbu,739
+740_thorn,thorn,124,THORN,mwiba,740
+741_tobacco,tobacco,974,TOBACCO,tumbako,741
+742_toe,toe,1389,TOE,kidole (cha mguu),742
+743_tomorrow,tomorrow,1329,TOMORROW,kesho,743
+744_thedayaftertomorrow,the day after tomorrow,1179,DAY AFTER TOMORROW,kesho kutwa,744
+745_urine,urine,1142,URINE,mkojo,745
+746_wind,wind,960,WIND,upepo,746
+747_womb,womb,804,WOMB,tumbo la uzazi,747
+748_pregnancy,pregnancy,,,mimba,748
+749_sweetpotato,(sweet) potato,159,SWEET POTATO,kiazi,749
+750_yesterday,yesterday,1174,YESTERDAY,jana,750
+751_thedaybeforeyesterday,the day before yesterday,1180,DAY BEFORE YESTERDAY,juzi,751
+752_two,two,1498,TWO,-wili,752
+753_six,six,1703,SIX,sita,753
+754_seven,seven,1704,SEVEN,saba,754
+755_nine,nine,1483,NINE,kenda (=tisa),755
+756_hundred,hundred,1634,HUNDRED,mia,756
+757_fiercesharp,"fierce, sharp",,,-kali,757
+758_good,good,1035,GOOD,-ema,758
+759_beautiful,beautiful,1427,BEAUTIFUL,-zuri,759
+760_fineexcellent,"fine, excellent",,,bora,760
+761_largegreat,"large, great",1202,BIG,-kubwa,761
+762_afewnotmuch,"a few, not much",1242,FEW,-chache,762
+763_sick,sick,1847,SICK,-gonjwa,763
+764_far,far,1406,FAR,mbali,764
+765_near,near,1942,NEAR,karibu,765
+766_here,here,136,HERE,hapa (=huko),766
+767_there,there,1937,THERE,pale (=kule),767
+768_beat,beat,1665,BEAT,(ku)piga,768
+769_lovewant,"love, want",,,(ku)penda,769
+770_see,see,1409,SEE,(ku)ona,770
+771_armpit,armpit,1886,ARMPIT,kwapa,771
+772_workasamason,work as a mason,,,(kw)aka,772
+773_yawn,yawn,1028,YAWN,(ku)piga miayo,773
+774_lendborrow,"lend, borrow",,,(ku)azima,774
+775_beer,beer,1639,BEER,pombe,775
+776_boastbragpraiseoneself,"boast, brag, praise oneself",101,BOAST,(ku)jigamba,776
+777_swear,swear,1939,SWEAR,(ku)apa,777
+778_takeinfromrain,take in (from rain),,,(ku)amua,778
+779_hanginmidair,hang in mid-air,,,(ku)agama,779
+780_dropthrowdown,"drop, throw down",2866,DROP (SOMETHING),(ku)angua,780
+781_haste,haste,,,haraka,781
+782_answer,answer,1275,ANSWER,(ku)jibu (maswali),782
+783_scorpion,scorpion,1538,SCORPION,nge,783
+784_explain,explain,1626,EXPLAIN,(ku)eleza,784
+785_sizemeasure,"size, measure",2845,SIZE (OF OBJECT),cheo,785
+786_abundant,abundant,,,tele,786
+786a_abound,abound,,,(ku)jaa tele,786a
+787_kite,kite,,,mwewe,787
+788_satisfy,satisfy,2691,PATERNAL AUNT (FATHER'S SISTER),(ku)ridhisha,788
+789_auntfatherssister,aunt (=father's sister),1272,AUNT,shangazi,789
+790_warthog,warthog,,,ngizi,790
+791_liftuppickup,"lift up, pick up",371,PICK UP,(ku)inua,791
+792_layoverononeside,lay over on one side,,,(ku)inika,792
+793_many,many,1198,MANY,-ingi,793
+794_locust,locust,810,LOCUST,nzige,794
+795_hatedetest,"hate, detest",1607,HATE,(ku)zia,795
+796_becomeleangrowthin,"become lean, grow thin",,,(ku)konda,796
+797_hooktopulldownbranchesinpluckingfruit,hook (to pull down branches in plucking fruit) ,1071,HOOK,kingoe,797
+798_strengthpower,"strength, power",2526,POWER,nguvu,798
+799_catchunawaresstartle,"catch unawares, startle",,,(ku)gundua,799
+800_hide,hide,2486,HIDE,(ku)ficha,800
+801_cultivatedground,cultivated ground,,,mgunda (=shamba),801
+802_sugarcane,sugar cane,146,SUGAR CANE,muwa,802
+803_crocodile,crocodile,1857,CROCODILE,mamba (=ngwena),803
+804_fill,fill,2006,FILL,(ku)jaza,804
+805_lightning,lightning,1654,LIGHTNING,umeme,805
+806_rock,rock,668,ROCK,mwamba,806
+807_build,build,1840,BUILD,(ku)jenga,807
+808_hut,hut,1678,HUT,kibanda,808
+809_getaccustomed,get accustomed,1118,ACCUSTOM,(ku)zoea,809
+810_jumpleap,"jump, leap",1829,JUMP,(ku)ruka,810
+811_bird,bird,937,BIRD,nyuni (=ndege),811
+812_word,word,1599,WORD,neno,812
+813_spoon,spoon,1378,SPOON,mwiko,813
+814_master,master,383,MASTER,mwinyi,814
+815_glidetrickle,"glide, trickle",,,(ku)tiririka,815
+816_home,home,2406,HOME,"kwetu (nyumbani, mjini)",816
+817_coagulate,coagulate,2395,CONGEAL (BLOOD),(ku)ganda,817
+818_oldtimes,old times,,,kale,818
+819_lobster,lobster,2397,LOBSTER,kamba,819
+820_peelshell,"peel, shell",,,(ku)menya,820
+821_deny,deny,755,DENY,(ku)kana,821
+822_shell,shell,598,SHELL,kombe (ya pwani),822
+823_foodsupplyforajourney,food supply for a journey,,,kande,823
+824_dawn,dawn,729,DAWN,(ku)cha,824
+825_stepover,step over,,,(ku)kia,825
+826_run,run,1519,RUN,(ku)kimbia,826
+827_beads,bead(s),1860,BEAD,ushanga,827
+828_eyebrow,eyebrow,1173,EYEBROW,ushi,828
+829_opensetajaradoor,open (=set ajar) a door,,,(ku)shindua,829
+830_startlejerk,"startle, jerk",,,(ku)shtua,830
+831_breakwind,break wind,,,(ku)shuta,831
+832_flatulence,flatulence,,,riahi,832
+833_pulldrag,"pull, drag",2030,DRAG,(ku)kokota,833
+834_pleasesatisfy,"please, satisfy",,,(ku)kora,834
+835_oyster,oyster,2830,OYSTERS,chaza,835
+836_hollowout,hollow out,46,HOLLOW OUT,(ku)komba,836
+837_snail,snail,1543,SNAIL,konokono,837
+838_eyelash,eyelash,1540,EYELASH,ukope,838
+839_shout,shout,715,SHOUT,(ku)guta,839
+840_remember,remember,707,REMEMBER,(ku)kumbuka,840
+841_climbascend,"climb, ascend",705,GO UP (ASCEND),(ku)kwea,841
+842_embrace,embrace,928,EMBRACE,(ku)kumbatia,842
+843_needrequest,"need, request",,,haja,843
+844_runnerbean,(runner) bean,,,ukunde,844
+845_midwife,midwife,,,mkunga,845
+846_crow,crow,913,CROW,kunguru,846
+847_wall,wall,933,WALL (OF HOUSE),ukuta,847
+848_fenceenclosure,"fence, enclosure",1690,FENCE,ua,848
+849_squatonthehaunches,squat (on the haunches),,,(ku)chuchumaa,849
+850_stir,stir,696,STIR,(ku)koroga,850
+851_closeeyesmouth,"close (eyes, mouth)",,,"(ku)fumba (macho, kinywa)",851
+852_coverup,cover (up),761,COVER,(ku)funika,852
+853_jawbone,jaw (bone),798,JAW,taya,853
+854_thicket,thicket,,,kichaka,854
+855_scrapegraze,"scrape, graze",,,(ku)paruza,855
+856_scratchgrate,"scratch, grate",1436,SCRATCH,(ku)kuna,856
+857_calfoftheleg,calf of the leg,498,CALF OF LEG,shavu la mguu,857
+858_fermentturnsour,"ferment, turn sour",2229,BECOME SOUR,(ku)chacha,858
+859_moveawaymigrate,"move away, migrate",229,MOVE AWAY,(ku)hama,859
+860_washoneselfafterevacuating,wash oneself (after evacuating),,,(ku)chamba,860
+861_melt,melt,2334,MELT,(ku)yeyuka,861
+862_python,python,1563,PYTHON,chatu,862
+863_hiccup,hiccup,,,kwikwi,863
+864_sneeze,sneeze,1621,SNEEZE,(ku)chemua (=kupiga chafya),864
+865_slander,slander,,,(ku)chongea,865
+866_spyout,spy out,,,(ku)peleleza,866
+867_shamedisgrace,"shame, disgrace",1776,SHAME,aibu,867
+868_setofthesun,set (of the sun),160,SET (HEAVENLY BODIES),(ku)chwa,868
+869_allday,all day,,,mchana kutwa,869
+870_sift,sift,,,(ku)chunga,870
+871_lookaftergrazingcattlehelpasickmanontheroad,"look after grazing cattle, help a sick man on the road ",,,(ku)chunga,871
+872_bottle,bottle,1321,BOTTLE,chupa,872
+873_calabash,calabash,3918,CALABASH,buyu,873
+874_taketheskinoffbruise,"take the skin off, bruise",1148,BRUISE,(ku)chubua,874
+875_takeleaveof,take leave of,,,(ku)aga,875
+876_orderdirect,"order, direct",1128,ORDER,(ku)agiza,876
+877_calf,calf,1989,CALF,ndama,877
+878_lick,lick,319,LICK,(ku)lamba,878
+879_resembleveryclosely,resemble (very closely),1777,RESEMBLE,(ku)landa,879
+880_springofwater,spring (of water),849,SPRING (OF WATER),chemchem,880
+881_giveleavesendaway,"give leave, send away",,,(ku)likiza,881
+882_bringupachild,bring up (a child),2134,RAISE (BRING UP),(ku)lea,882
+883_razor,razor,151,RAZOR,wembe,883
+884_penknife,penknife,,,kijembe,884
+885_bringfetch,"bring, fetch",692,BRING,(ku)leta,885
+886_chin,chin,1510,CHIN,kidevu,886
+887_puttogetherforcomparison,put together for comparison,,,(ku)linga,887
+888_matchharmonise,"match, harmonise",1133,MATCH,(ku)lingana,888
+889_forget,forget,1523,FORGET,(ku)sahau,889
+890_burdenload,"burden, load",1679,LOAD,mzigo,890
+891_faintloseconsciousness,"faint, lose consciousness",,,(ku)zimia,891
+892_placeofthedead,place of the dead,,,kuzimu,892
+893_heavyseriousdull,"heavy, serious, dull",,,-zito,893
+894_corkstopper,"cork, stopper",,,kizibo,894
+895_marryofman,marry (of man),2164,MARRY (AS MAN),(ku)oa,895
+896_giveinmarriageofparentspriests,"give in marriage (of parents, priests) ",,,(ku)oza,896
+897_marriage,marriage,2432,MARRIAGE,ndoa,897
+898_taste,taste,21,TASTE (SOMETHING),(ku)onja,898
+899_examinemeasuretest,"examine, measure, test",,,(ku)pima,899
+900_effortexertion,"effort, exertion",,,jitihadi,900
+901_beillgroan,"be ill, groan",716,GROAN,(ku)ugua,901
+902_cripplingillness,(crippling) illness,1986,DISEASE,uele,902
+903_bullrushmillet,bullrush millet,931,MILLET,mwele,903
+904_vapourgas,"vapour, gas",,,mvuke,904
+905_sweat,sweat,125,SWEAT (SUBSTANCE),jasho,905
+906_cohabit,cohabit,,,(ku)ingiliana,906
+907_flower,flower,239,FLOWER,ua,907
+908_bespreadabroadbecomegenerallyknown,"be spread abroad, become generally known ",,,(ku)tangaa,908
+909_putoutbeprominent,"put out, be prominent",,,(ku)tokeza,909
+910_borrow,borrow,1823,BORROW,(ku)kopa,910
+911_leakoozeout,"leak, ooze out",,,(ku)vuja,911
+912_sufferbearpatiently,"suffer, bear patiently",,,(ku)vumilia,912
+913_growofplants,grow (of plants),3461,GROW PLANTS,(ku)mea,913
+914_squeezeout,squeeze out,,,(ku)minya,914
+915_shave,shave,231,SHAVE,(ku)nyoa,915
+916_givelightto,give light to,,,(ku)mulika,916
+917_rain,rain,1253,RAIN (RAINING),(ku)nya mvua,917
+918_who,who?,1235,WHO,nani?,918
+919_what,what?,1236,WHAT,nini?,919
+920_sharpen,sharpen,251,SHARPEN (SOMETHING),(ku)noa,920
+921_getfatofanimals,get fat (of animals),,,(ku)nona,921
+922_fatofanimals,fat (of animals),1282,FAT (FROM ANIMALS),-nono,922
+923_porcupine,porcupine,2510,PORCUPINE,nungu,923
+924_smelloutsniff,"smell out, sniff",1586,SMELL (PERCEIVE),(ku)nusa,924
+925_hip,hip,1745,HIP,nyonga,925
+926_all,all,98,ALL,-ote,926
+927_beadjacentborder,"be adjacent, border",,,(ku)pakana,927
+928_boundary,boundary,1010,BOUNDARY,mpaka,928
+930_bifurcationcrossroads,"bifurcation, cross-roads",,,pacha (=njia panda),930
+931_decorate,decorate,1739,DECORATE,(ku)pamba,931
+932_plantsow,"plant, sow",748,SOW SEEDS,(ku)panda,932
+933_sword,sword,1535,SWORD,upanga,933
+934_lung,lung,688,LUNG,pafu,934
+935_mature,mature,,,-pevu,935
+936_befullydeveloped,be fully developed,,,(ku)pevuka,936
+937_winnow,winnow,2462,WINNOWING,(ku)pepeta,937
+938_turnupsidedownturnover,"turn upside down, turn over",1588,TURN,(ku)pindua,938
+939_obstruct,obstruct,,,(ku)pinga,939
+940_fadedisappear,"fade, disappear",485,DISAPPEAR,(ku)fifia,940
+941_spittingcobra,spitting cobra,,,fira,941
+942_broom,broom,245,BROOM,ufagio,942
+943_sweep,sweep,230,SWEEP,(ku)fagia,943
+944_hearthstoneforputtingpotson,hearthstone for putting pots on ,,,figa (=mafya),944
+945_uncoverreveal,"uncover, reveal",1108,UNCOVER,(ku)funua,945
+946_beshriveledwrinkled,"be shriveled, wrinkled",380,WRINKLED,(ku)finyana,946
+947_protectbycharms,protect by charms,,,(ku)finga,947
+948_stutter,stutter,1866,STUTTER,(ku)gugumiza,948
+949_read,read,724,READ,(ku)soma,949
+950_coolcureheal,"cool, cure, heal",499,CURE,(ku)poza,950
+951_spoilblind,"spoil, blind",,,(ku)pofua,951
+952_escaperecover,"escape, recover",1978,RECOVER,(ku)pona,952
+953_bowstring,bowstring,2119,BOW STRING,upote,953
+954_dryupebb,"dry up, ebb",,,(ku)pwa,954
+955_beachcoast,"beach, coast",1525,COAST,pwani,955
+956_listen,listen,1608,LISTEN,(ku)sikiliza,956
+957_resttakeaholiday,"rest, take a holiday",,,(ku)pumzika,957
+958_exercisedriveoutadevil,exercise; drive out a devil,,,(ku)punga (pepo),958
+959_waveletoffatrapremoveaspell,"wave, let off a trap, remove a spell ",,,(ku)tegua,959
+959a_spraintheankle,sprain the ankle,,,(ku)tegua mguu,959a
+960_jealousy,jealousy,2016,JEALOUSY,wivu,960
+961_ostrich,ostrich,3797,OSTRICH,mbuni,961
+962_new,new,1231,NEW,-pya,962
+963_charmesptoensurewifesfidelity,charm (esp. to ensure wife's fidelity) ,,,tego,963
+964_restthecheekonthehandinbroodingmood,rest the cheek on the hand (in brooding mood) ,,,(ku)shika tama,964
+965_springmachine,"spring, machine",,,mtambo,965
+966_smallcucumber,small cucumber,,,tango,966
+967_slipbeslippery,"slip, be slippery",1324,SLIP,(ku)teleza,967
+968_shivershudder,"shiver, shudder",52,SHIVER,(ku)tapa,968
+969_putapotonthefire,put a pot on the fire,,,(ku)teleka,969
+970_slash,slash,,,(ku)tema,970
+970a_cutfirewood,cut firewood,,,(ku)tema kuni,970a
+971_besettledbeingoodorder,"be settled, be in good order",,,(ku)tengenea,971
+972_belistless,be listless,,,(ku)tepetea,972
+973_beloosefaintweak,"be loose, faint, weak",,,(ku)legea,973
+974_placeput,"place, put",998,PUT,(ku)tia,974
+975_beleftoverremainover,"be left over, remain over",987,REMAIN,"(ku)saa, (ku)salia",975
+976_setupappoint,"set up, appoint",,,(ku)simika,976
+977_longstraighthairofanimalsandeuropeans,long straight hair (of animals and Europeans) ,,,usinga,977
+978_tinglewithexcitement,tingle with excitement,,,(ku)sisimika,978
+979_mudmire,"mud, mire",640,MUD,tope,979
+980_sinkbedrowned,"sink, be drowned",,,(ku)tota,980
+981_puttogethercompose,"put together, compose",,,(ku)tunga,981
+982_strikewithaspear,strike with a spear,,,(ku)fuma (fumo),982
+983_wantneedwish,"want, need, wish",1784,WANT,(ku)taka,983
+984_open,open,1156,OPEN,(ku)fungua,984
+985_teachinstruct,"teach, instruct",709,TEACH,"(ku)fundisha, (ku)funza",985
+986_putforthproducedisplay,"put forth, produce, display",,,(ku)toa,986
+987_thinkimagine,"think, imagine",2271,THINK,(ku)waza,987
+988_rib,rib,801,RIB,ubavu,988
+989_applybystretchingspreadover,"apply by stretching, spread over ",,,(ku)wamba,989
+990_holdarrest,"hold, arrest",,,(ku)bamba,990
+991_squeezeoneselfupagainstwallegtoallowsomeonetopass,squeeze oneself up against wall (e.g. to allow someone to pass) ,,,(ku)jibanza,991
+992_putplaceset,"put, place, set",,,(ku)weka,992
+993_carryachildonthebackin,carry a child on the back (in,2153,CARRY PERSON ON BACK,(ku)beba,993
+994_unripeuncooked,"unripe, uncooked",,,-bichi,994
+995_beowedby,be owed by,,,(ku)wia,995
+996_ripen,ripen,179,RIPEN,(ku)iva,996
+997_bestuntedspoilt,"be stunted, spoilt",,,(ku)via,997
+998_spoil,spoil,,,(ku)viza,998
+999_becomeround,become round,,,(ku)viringa,999
+1000_lazy,lazy,1564,LAZY,-vivu,1000
+1001_corpse,corpse,767,CORPSE,kimba (=maiti),1001
+1002_beafraid,be afraid,1419,FEAR (BE AFRAID),(ku)ogopa,1002
+1003_coward,coward,1319,COWARD,mwoga,1003
+1004_return,return,581,COME BACK,(ku)rudi,1004
+1005_baobab,baobab,,,mbuyu,1005
+1006_thelesserrains,the lesser rains,,,mvuli,1006
+1007_reap,reap,,,(ku)vuna,1007
+1008_beborn,be born,1090,BE BORN,(ku)zaliwa,1008
+1009_cowrieshell,cowrie shell,3663,COWRIE SHELL,kauri,1009
+1010_weak,weak,,,dhaifu,1010
+1011_leaveover,leave over,,,(ku)bakiza,1011
+1012_beround,be round,1395,ROUND,(ku)viringana,1012
+1013_idlenesssloth,"idleness, sloth",2446,SLOTH,uvivu,1013
+1014_plungeintocausetosink,"plunge into, cause to sink",,,(ku)tosa,1014
+1015_weightrhythm,"weight, rhythm",,,uzani,1015
+1016_i,I,1209,I,mimi,1016
+1017_we,we,1212,WE,sisi,1017
+1018_youpl,you (pl.),1213,YOU,ninyi,1018
+1019_many,many,1198,MANY,-ingi,1019
+1020_that,that,78,THAT,-le,1020
+1021_small,small,1246,SMALL,-dogo,1021
+1022_barkoftree,bark (of tree),1204,BARK,gome,1022
+1023_louse,louse,1392,LOUSE,chawa,1023
+1024_liver,liver,1224,LIVER,"ini, uso",1024
+1025_leafoftree,leaf (of tree),628,LEAF,jani,1025
+1026_mouth,mouth,674,MOUTH,mdomo,1026
+1027_die,die,1494,DIE,(ku)fa,1027
+1028_fly,fly,1441,FLY (MOVE THROUGH AIR),(ku)ruka,1028
+1029_stand,stand,1442,STAND,(ku)simama,1029
+1030_milk,milk,635,MILK,maziwa,1030
+1031_resemble,resemble,,,(ku)fanana,1031
+1032_foam,foam,1768,FOAM,povu,1032
+1033_sew,sew,1457,SEW,(ku)shona,1033
+1034_tiefasten,tie (=fasten),1917,TIE,(ku)funga,1034
+1035_remainstay,"remain, stay",987,REMAIN,(ku)baki,1035
+1036_breakwind,break wind,1159,FART,(ku)jamba (fyunzi),1036
+1037_bearchild,bear child,,,(ku)zaa,1037
+1038_sperm,sperm,1505,SPERM,manii,1038
