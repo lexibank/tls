@@ -19,11 +19,6 @@ Available online at http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html
 
 Conceptlists in Concepticon:
 - [Nurse-1975-1038](https://concepticon.clld.org/contributions/Nurse-1975-1038)
-## Notes
-
-Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
-
-
 ## Statistics
 
 

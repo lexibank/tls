@@ -689,6 +689,7 @@ class Dataset(BaseDataset):
                     Source=["Nurse1975", "Nurse1979", "Nurse1980", "TLS1999"],
                 )
             else:
-                missing.append(entry["GLOSS"])
+                if entry["GLOSS"] not in missing:
+                    missing.append(entry["GLOSS"])
 
         args.log.info(missing)
