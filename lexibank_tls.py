@@ -1,10 +1,8 @@
-from pathlib import Path
 import re
+from pathlib import Path
 
-from pylexibank import progressbar
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import FormSpec
-
+import attr
+import pylexibank
 from clldutils.misc import slug
 
 # Define list of substring replacements for data cleaning
@@ -617,10 +615,17 @@ REPLACEMENTS = [
 ]
 
 
-class Dataset(BaseDataset):
+@attr.s
+class CustomConcept(pylexibank.Concept):
+    Swahili_Gloss = attr.ib(default=None)
+    NUMBER = attr.ib(default=None)
+
+
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "tls"
-    form_spec = FormSpec(
+    concept_class = CustomConcept
+    form_spec = pylexibank.FormSpec(
         brackets={},
         separators=",;/",
         missing_data=("-", "?", "???", "+"),
@@ -628,24 +633,34 @@ class Dataset(BaseDataset):
     )
 
     def cmd_makecldf(self, args):
+        concepts = {}
+
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
+            concepts[concept.number] = idx
+            args.writer.add_concept(
+                ID=idx,
+                Name=concept.english,
+                NUMBER=concept.number,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+                Swahili_Gloss=concept.attributes["swahili"],
+            )
+
         # Add sources
         args.writer.add_sources()
 
         # Add languages
         language_lookup = args.writer.add_languages(lookup_factory="Name")
 
-        # Add concepts
-        concept_lookup = args.writer.add_concepts(
-            id_factory=lambda x: "%s_%s" % (x.id.split("-")[-1], slug(x.gloss)),
-            lookup_factory="Name",
-        )
-
         # TODO: add STEM and PREFIX? (pay attention to multiple forms)
-        for entry in progressbar(self.raw_dir.read_csv("tls.txt", dicts=True)):
+        for entry in pylexibank.progressbar(self.raw_dir.read_csv("tls.txt", dicts=True)):
             # Skip over when language is "Note" (internal comments) or
             # "Gweno1" (a copy of "Gweno")
             if entry["LGABBR"] in ["Note", "Gweno1"]:
                 continue
+
+            src_idx = entry["SRCID"].replace(".0", "").replace(".5", "a")
 
             # Fix values if possible (for common problems not in lexemes.csv)
             value = entry["REFLEX"]
@@ -670,9 +685,12 @@ class Dataset(BaseDataset):
             # Remove the many final question marks
             value = re.sub(r"\?$", "", value)
 
+            if src_idx not in concepts:
+                continue
+
             args.writer.add_forms_from_value(
                 Language_ID=language_lookup[entry["LGABBR"]],
-                Parameter_ID=concept_lookup[entry["GLOSS"]],
+                Parameter_ID=concepts[src_idx],
                 Value=value,
                 Source=["Nurse1975", "Nurse1979", "Nurse1980", "TLS1999"],
             )

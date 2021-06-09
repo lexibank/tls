@@ -3,6 +3,9 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Nurse, Derek and G\u00e9rard Philippson (1975). The Tanzanian Language Survey. Department of Foreign Languages and Linguistics of the University of Dar es Salaam: Dar es Salaam.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Nurse-1975-1038"
+    ],
     "dc:identifier": "http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -12,34 +15,34 @@
     "dcat:accessURL": "https://github.com/lexibank/tls",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/tls",
-            "dc:created": "v2.0.1-27-gaf6e543"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0-17-g4c42813",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.4",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.4.0-237-gf65e4b1",
+            "dc:title": "Concepticon"
         },
         {
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v2.0.0"
+            "dc:created": "v2.1.0",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.4"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",
@@ -54,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 130420,
+            "dc:extent": 126815,
             "tableSchema": {
                 "columns": [
                     {
@@ -223,7 +226,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1581,
+            "dc:extent": 1052,
             "tableSchema": {
                 "columns": [
                     {
@@ -245,6 +248,14 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Swahili_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "NUMBER"
                     }
                 ],
                 "primaryKey": [
