@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/tls",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-15-g08a28bf",
+            "dc:created": "v3.0-16-g47cc568",
             "dc:title": "Repository"
         },
         {
@@ -255,7 +255,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Source_ID"
+                        "name": "NUMBER"
                     }
                 ],
                 "primaryKey": [

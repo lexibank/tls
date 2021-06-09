@@ -3,12 +3,12 @@ def test_valid(cldf_dataset, cldf_logger):
 
 
 def test_forms(cldf_dataset):
-    assert len(list(cldf_dataset["FormTable"])) == 130420
+    assert len(list(cldf_dataset["FormTable"])) == 126815
     assert any(f["Form"] == "si yetu" for f in cldf_dataset["FormTable"])
 
 
 def test_parameters(cldf_dataset):
-    assert len(list(cldf_dataset["ParameterTable"])) == 1581
+    assert len(list(cldf_dataset["ParameterTable"])) == 1052
 
 
 def test_languages(cldf_dataset):

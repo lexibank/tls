@@ -618,7 +618,7 @@ REPLACEMENTS = [
 @attr.s
 class CustomConcept(pylexibank.Concept):
     Swahili_Gloss = attr.ib(default=None)
-    Source_ID = attr.ib(default=None)
+    NUMBER = attr.ib(default=None)
 
 
 class Dataset(pylexibank.Dataset):
@@ -641,10 +641,10 @@ class Dataset(pylexibank.Dataset):
             args.writer.add_concept(
                 ID=idx,
                 Name=concept.english,
+                NUMBER=concept.number,
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,
                 Swahili_Gloss=concept.attributes["swahili"],
-                Source_ID=concept.number,
             )
 
         # Add sources
