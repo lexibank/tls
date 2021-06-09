@@ -660,12 +660,7 @@ class Dataset(pylexibank.Dataset):
             if entry["LGABBR"] in ["Note", "Gweno1"]:
                 continue
 
-            if entry["SRCID"].endswith(".0"):
-                src_idx = entry["SRCID"].strip(".0")
-            elif entry["SRCID"].endswith(".5"):
-                src_idx = entry["SRCID"].replace(".5", "a")
-            else:
-                src_idx = entry["SRCID"]
+            src_idx = entry["SRCID"].replace(".0", "").replace(".5", "a")
 
             # Fix values if possible (for common problems not in lexemes.csv)
             value = entry["REFLEX"]
