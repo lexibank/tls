@@ -15,6 +15,6 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={"lexibank.dataset": ["tls=lexibank_tls:Dataset"]},
-    install_requires=["pylexibank>=2.1", "dbfread>=2.0.7"],
+    install_requires=["pylexibank>=3.0", "dbfread>=2.0.7"],
     extras_require={"test": ["pytest-cldf"]},
 )

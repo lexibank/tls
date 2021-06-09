@@ -628,6 +628,8 @@ class Dataset(BaseDataset):
     )
 
     def cmd_makecldf(self, args):
+        missing = []
+
         # Add sources
         args.writer.add_sources()
 
@@ -636,9 +638,18 @@ class Dataset(BaseDataset):
 
         # Add concepts
         concept_lookup = args.writer.add_concepts(
-            id_factory=lambda x: "%s_%s" % (x.id.split("-")[-1], slug(x.gloss)),
-            lookup_factory="Name",
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english),
+            lookup_factory=lambda concept: "".join(concept.attributes["lexibank_gloss"])
         )
+
+        split_lookup = {}
+
+        for k, v in concept_lookup.items():
+            if "//" in k:
+                for split_element in k.split("//"):
+                    split_lookup[split_element] = v
+            else:
+                split_lookup[k] = v
 
         # TODO: add STEM and PREFIX? (pay attention to multiple forms)
         for entry in progressbar(self.raw_dir.read_csv("tls.txt", dicts=True)):
@@ -670,9 +681,14 @@ class Dataset(BaseDataset):
             # Remove the many final question marks
             value = re.sub(r"\?$", "", value)
 
-            args.writer.add_forms_from_value(
-                Language_ID=language_lookup[entry["LGABBR"]],
-                Parameter_ID=concept_lookup[entry["GLOSS"]],
-                Value=value,
-                Source=["Nurse1975", "Nurse1979", "Nurse1980", "TLS1999"],
-            )
+            if entry["GLOSS"] in split_lookup:
+                args.writer.add_forms_from_value(
+                    Language_ID=language_lookup[entry["LGABBR"]],
+                    Parameter_ID=split_lookup[entry["GLOSS"]],
+                    Value=value,
+                    Source=["Nurse1975", "Nurse1979", "Nurse1980", "TLS1999"],
+                )
+            else:
+                missing.append(entry["GLOSS"])
+
+        args.log.info(missing)
