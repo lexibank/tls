@@ -1,434 +1,485 @@
-Grapheme	IPA	Examples	Languages	Frequence	Codepoints
-^	NULL				
-$	NULL				
-a$	a	ku-koma, ku-gona	Bondei1	100	U+0061 U+0024
-u	u	ku-zungusha, ku-sukua	Bondei1	100	U+0075
-a	a	ku-avya_zawadi, ku-gona_mangaingai	Bondei1	100	U+0061
-i	i	kigingi_, ku-didimia	Bondei1	100	U+0069
-n	n	ku-gona_mangaingai, ku-gona	Bondei1	100	U+006e
-k	k	ku-koma, ku-oka	Bondei1	100	U+006b
-l	l	ulaka, kilelenta	Dawida, Bondei1, Bondei2	100	U+006c
-m	m	ku-koma, muomo	Bondei1	100	U+006d
-o	o	ku-gosoa, ku-koma	Bondei1	100	U+006f
-^k	k	ku-koma, ku-gona	Bondei1	100	U+005e U+006b
-ku_see_#528	k u
-g	g	ku-gona_mangaingai, ku-gosoa	Bondei1	100	U+0067
-e	e	kilelenta, ku-emea	Bondei1	100	U+0065
-t	t	gati_gati, ntatu	Bondei1	100	U+0074
-r	r	ku-tiririka, mariwa	Dawida, Bondei1, Bondei2	100	U+0072
--	+	ku-koma, ku-gona	Bondei1	100	U+002d
-y	y	manyunyu, ku-vyaa	Bondei1, Bondei2	100	U+0079
-b	b	mbingu, mpombe	Bondei1	100	U+0062
-i$	i	mosi, sui	Bondei1	100	U+0069 U+0024
-^i	i	iwe, ifu	Dawida, Bondei2, Bondei1	100	U+005e U+0069
-o$	o	muomo, fuo	Bondei1, Bondei2	100	U+006f U+0024
-^u	u	usawi, ulaka	Bondei1, Bondei2, Doe, Dawida	100	U+005e U+0075
-s	s	ku-seusa, kisaka	Bondei1	100	U+0073
-d	d	ku-pinda, kifudifudi	Bondei1, Bondei2	100	U+0064
-u$	u	mzimu, siku	Bondei1, Bondei2	100	U+0075 U+0024
-^m	m	mee, mosi	Bondei1	100	U+005e U+006d
-e$	e	zumbe, kiwete	Bondei1, Bondei2	100	U+0065 U+0024
-_	+	maiwe_yenye_chuma, ku-funga_kwa_uzigi	Bondei2, Bondei1, Dawida	100	U+005f
-^n	n	nyonga, ndio	Bondei1, Bondei2	100	U+005e U+006e
-^o	o	omochie, omoko	Gusii, Bondei2, Doe, Dawida, Bondei1	100	U+005e U+006f
-h	h	ku-hehea, kw-ehaka	Bondei1, Bondei2	100	U+0068
-p	p	mpepo, mpombe	Bondei1, Bondei2, Dawida	100	U+0070
-z	z	ku-geeza, ku-agiza	Bondei1, Bondei2	100	U+007a
-^l	l	lyaato, leha	Doe, Gwere, Dawida, Gweno, Bondei2, Fipa, Bondei1	100	U+005e U+006c
-^e	e	-emea, -etu	Gusii, Bondei2, Bondei1, Dawida, Doe	100	U+005e U+0065
-v	v	mavuta, uvivu	Bondei1, Bondei2	100	U+0076
-j	j	jaraja, haja	Dawida, Bondei1, Bondei2, Doe, Fipa, Gweno, Gusii	100	U+006a
-f	f	ku-fanana, ifu	Bondei1, Bondei2, Dawida	100	U+0066
-w	w	usawi, ngalawa	Bondei2, Bondei1, Dawida	100	U+0077
-ch	ch/tʃ	uchafu, pacha	Dawida, Bondei1, Doe, Bondei2, Fipa	100	U+0063 U+0068
-^kw	kʷ	kw-ekaa, kw-ehaka	Doe, Gusii, Bondei1, Bondei2, Dawida	100	U+005e U+006b U+0077
-^ng'	ŋˀ
-___?!$	NULL
-___!$	NULL
-^n'	n'/nˀ
-_1a	NULL
-__9-10$	NULL
-^EE	EE/ɛː
-_$	NULL	ionge_, lumbo_	Dawida, Bondei2, Bondei1, Doe, Fipa, Gusii	100	U+005f U+0024
-^a	a	aha, amaziiko	Fipa, Gusii, Dawida, Bondei2, Gweno, Doe, Bondei1	100	U+005e U+0061
-sh	sh/ʃ	ku-shona, kishushe	Dawida, Bondei1, Bondei2, Doe	100	U+0073 U+0068
-U	U/ʊ	kyUlUkUlU, mUgUmba	Nyiramba	100	U+0055
-^s	s	soni, sozi	Bondei2, Bondei1, Dawida	100	U+005e U+0073
-^g	g	gembe, gongo	Gusii, Doe, Bondei2, Bondei1, Dawida	100	U+005e U+0067
-kw	kʷ	nkwikwi, jukwaa	Fipa, Bondei2, Gusii, Doe, Bondei1, Dawida, Gweno	100	U+006b U+0077
-^t	t	tate, tuni	Bondei2, Doe, Bondei1, Dawida	100	U+005e U+0074
-aa	aː	yaani, daaja	Fipa, Bondei2, Bondei1, Gweno, Gusii, Doe, Dawida	100	U+0061 U+0061
-gh	gh/gʱ	ivwagha, kaghu	Gweno, Doe	100	U+0067 U+0068
-mw	m w	mtumwa, umwanda	Fipa, Gusii, Hangaza, Doe, Bondei2, Bondei1, Dawida, Gwere, Gweno	100	U+006d U+0077
-^b	b	bomba, baya	Doe, Bondei2, Gwere, Bondei1, Gweno, Gusii, Dawida, Fipa	100	U+005e U+0062
-^h	h	hagati, haja	Doe, Bondei2, Hangaza, Bondei1, Haya, Gweno	100	U+005e U+0068
-bh	bh/bʱ	kutubhana, isabha_kwisabha	Ikizu, Doe	100	U+0062 U+0068
-^r	r	roho, ruma	Gusii, Gweno, Haya, Bondei2, Dawida, Bondei1, Doe	100	U+005e U+0072
-^ch	ch/tʃ	chuma, chaa	Doe, Dawida, Gusii, Bondei2, Bondei1, Fipa, Gweno	100	U+005e U+0063 U+0068
-ii	iː	kiina, amaziiko	Fipa, Gwere, Bondei2, Bondei1, Hangaza, Gweno, Haya, Dawida, Gusii	100	U+0069 U+0069
-^p	p	punda, papa	Kimbunga, Gweno, Kipogoro, Doe, Dawida, Bondei1, Kami, Kibosho, Bondei2, Gwere, Kimochiunn, Kilegi, Kaheunn, Haya, Fipa	100	U+005e U+0070
-uu	uː	ku-usa, ku-uya	Fipa, Bondei2, Bondei1, Doe, Dawida	100	U+0075 U+0075
-^kh	kʰ	khu-siinga, khu-koona	Lumasaaba, Kwere, Ikizu, Doe	100	U+005e U+006b U+0068
-th	tʰ	urithi, ithama	Gweno, Siha, Ngoreme, Nguungulu, Sonjo, Rukiga, Makonde, Lusoga, Bondei2, Ikizu, Kutu, Dawida	100	U+0074 U+0068
-^mw	m w	mwana, mwaka	Bondei2, Gweno, Gwere, Bondei1, Doe, Dawida, Fipa	100	U+005e U+006d U+0077
-I	I/ɪ	gUbIkIla, sangIlIja	Ntuzu, Langi	100	U+0049
-^y	y/j	yemba, yaani	Jita, Fipa, Doe, Bondei2, Dawida, Bondei1, Gweno, Haya, Gwere, Ikizu, Hangaza, Gusii	100	U+005e U+0079
-*	NULL	marub*a_mab*iri, ib*ia	Kiseri, Kimochiunn, Keniunn	100	U+002a
-gw	gw/gʷ	ku-gwa, kogwekana	Gusii, Hangaza, Doe, Ikizu, Bondei1, Bondei2, Haya, Gwere, Fipa, Gweno, Dawida, Jita	100	U+0067 U+0077
-^w	w	waya, woga	Dawida, Bondei2, Bondei1, Doe, Gwere, Jita, Ikizu, Gweno, Hangaza, Fipa, Haya	100	U+005e U+0077
-_4	NULL
-__+	NULL
-_?6	NULL
-^t`	tˀ
-^e:	eː
-ns	n s	ensi, goikaransara_ebisonsogor...	Fipa, Gusii, Kerebe, Gwere, Haya, Keniunn, Ikizu, Hangaza	100	U+006e U+0073
-kh	kʰ	khu-lekhaakho, nkhafi	Lumasaaba, Kipogoro, Kwere, Ikizu	100	U+006b U+0068
-oo	oː	ku-gooka, koora	Fipa, Haya, Gwere, Bondei1, Bondei2, Gusii, Hangaza, Dawida	100	U+006f U+006f
-d'	dˀ
-ee	eː	ku-geeza, weewe	Fipa, Haya, Bondei2, Gwere, Bondei1, Kiboshounn, Jita, Kiha, Hangaza, Ikizu, Gusii	100	U+0065 U+0065
-aa$	aː	mbaa, ku-sigaa	Bondei2, Bondei1, Dawida, Gweno, Gusii, Doe	100	U+0061 U+0061 U+0024
-^v	v	vindi, vumba	Gweno, Doe, Bondei2, Kipogoro, Bondei1, Dawida, Hangaza, Keniunn, Fipa, Kami, Gwere, Kibosho, Kaheunn, Kimbunga	100	U+005e U+0076
-^f	f	fua, figo	Bondei2, Gweno, Doe, Bondei1, Jita, Haya, Dawida, Gwere, Fipa	100	U+005e U+0066
-^sh	sh/ʃ	shaba, shida	Haya, Kibosho, Gweno, Keniunn, Bondei2, Kaheunn, Bondei1, Dawida, Kami, Doe, Hangaza	100	U+005e U+0073 U+0068
-bw	b w	mbwanga, obwato	Gusii, Ikizu, Hangaza, Haya, Jita, Gwere, Doe, Fipa, Bondei2, Bondei1, Dawida, Gweno	100	U+0062 U+0077
-tw	t w	omutwe, mutwe	Gusii, Ikizu, Fipa, Jita, Kerebe, Hangaza, Kami, Haya, Bondei1, Gwere, Kiha, Bondei2, Doe, Kilegi, Keniunn	100	U+0074 U+0077
-^d	d	doa, dedema	Bondei2, Kami, Doe, Kibosho, Gweno, Bondei1, Dawida, Kaheunn, Hangaza	100	U+005e U+0064
-lw	l w	olwotosi, olwile	Fipa, Kerebe, Jita, Kilegi, Gwere, Dawida, Haya, Kami, Gweno, Keniunn, Bondei2, Doe, Bondei1	100	U+006c U+0077
-c	c/ts	chic_h_ulo, nc_h_oni	Mwera, Munyarwand, Mkuu, Luganda, Kimbunga, Haya, Kerebe, Makonde, Jita, Mambaunn, KuriaTari, Gusii	100	U+0063
-^z	z	zumbe, zani	Bondei2, Doe, Bondei1, Ikizu, Haya, Gwere, Hangaza, Fipa, Dawida	100	U+005e U+007a
-^j	j/dʒ	jimbo, jiko	Jita, Doe, Kutu, Haya, Bondei1, Kami, Gweno, Kipogoro, Bondei2, Kiseri, Langi, Manda, Kwere, Luguru, Dawida, Makonde, Hangaza, Kiseriunn, Kiha, Kimbunga, Kivinza, Ikizu, Kaheunn, Gwere, Lambya	100	U+005e U+006a
-U$	U/ʊ	kU, gU	Nyiramba, Ntuzu	100	U+0055 U+0024
-g'	g'/gˀ
-'o	'/ʔ o	ng'ombe, eng'ombe	Kutu, Haya, Lambya, Kerebe, Kami, Kimbunga, Fipa, Luguru, Langi, Kwere, Kipogoro, KuriaTari, KuriaMago, Kilegi, Ikizu, Gusii, Jita, Luganda, Kiseri, Doe, Dawida, Bondei2, Gweno, Bondei1	100	U+0027 U+006f
-E	E/ɛ	kElEbOka, yEkEtEya	Matumbi, Nyiramba, Ngindo	100	U+0045
-fw	f w	kufwanana, ukufwa	Lumasaaba, Kilegi, Gweno, Fipa, Dawida, Jita, Luguru, Lungwa, Lambya, Kerebe, Kivinza, Kimbunga, Langi, Luganda, Gwere	100	U+0066 U+0077
-'a	a	ng'anga, ng'anda	Luguru, Ikizu, Kutu, Lvhyia, KuriaMago, Kiha, KuriaTari, Kiseri, Doe, Kami, Fipa, Gusii, Jita, Mabia, Kilegi, Kiseriunn, Gweno, Kwere, Kipogoro, Lumasaaba, Lungwa, Bondei1, Luganda, Bondei2, Hangaza	100	U+0027 U+0061
-ts	ts	intsu, ikitsintsiri	Lumasaaba, Lvhyia, Luguru, Hangaza, Kivinza, Kiha, Kimochiunn, Lemaunn, Lusoga	100	U+0074 U+0073
-sw	s w	muswa, eswe	Kilegi, Jita, Kerebe, Langi, Ikizu, Lungwa, Doe, Gusii, KuriaTari, Gwere, KuriaMago, Bondei2, Kiha, Fipa, Bondei1, Lambya, Kwere, Luguru, Kipogoro, Lumasaaba, Kami, Kiseri, Lusoga, Kiseriunn, Dawida, Keniunn, Kaheunn, Kibosho, Kutu, Hangaza	100	U+0073 U+0077
-I$	I/ɪ	sI, nthI	Ntuzu, Nyamwezi, Chuka, Ndengeleko	100	U+0049 U+0024
-rw	r w	kurwa, amarwa	Gusii, Langi, Ikizu, Gweno, KuriaMago, Haya, KuriaTari, Maragoli, Dawida, Lvhyia, Lumasaaba, Machame, Kwere, Jita, Kaheunn, Kilegi, Kiseri, Lusoga, Mambaunn, Luguru, Luganda	100	U+0072 U+0077
-hw	hw/hʷ	ihwa, eihwa	Ngindo, Safwa, Mpoto, Nyaturucha, Makonde, KuriaTari, Runyankore, Hangaza, Kiha, Manda, Ngoreme, Kivinza, Ikizu, Kerebe, Rutooro, Mabia, Rundi, Kipogoro, Nyaturuwil, Mkuu, Ngoni, Rukiga, KuriaMago, Pogoro, Kimbunga, Haya, Bondei1, Kwere, Matengo, Keniunn, Runyoro, Runyambo, Bondei2	100	U+0068 U+0077
-^ns	n s	nsigo, nsungu	Meru, Luganda, Gwere, Matengo, Machame, Manda, Matumbi, Mabia, Kibosho, Lusoga, Machameunn, Mpoto, Makonde, Kerebe, Mkwaya, Haya	100	U+005e U+006e U+0073
-O	O/ɔ	kOnjObOka, ku-kOnja	Matumbi, Ngindo, Ndengeleko	100	U+004f
-^ii	iː	iinda, iinyama	Fipa, Gweno, Keniunn, Jita, Dawida	100	U+005e U+0069 U+0069
-^I	I/ɪ	Iria, Igoko	Embu, Chuka, KambaKitu, Nyamwezi, Ntuzu	100	U+005e U+0049
-x	x	uxusalinxania, uxuxanja	Kimbu, Kimbunga	100	U+0078
-^*-	NULL	*-di, *-du	ProtoBantu, Ngindo	100	U+005e U+002a
-^*	NULL
-^ms	m s	msanga, msawi	Kiseri, Kimbunga, Doe, Dawida, Kaheunn, Langi, Kami, Luguru, Bondei2, Kutu, Kiseriunn, Kwere, Bondei1, Keniunn, Kibosho, Kiboshounn, Kipogoro, Kimochiunn, Lemaunn, Jita	100	U+005e U+006d U+0073
-^gw	g w	gwaha, gwata	Gusii, Nyaturuwil, Jita, ShashiSiz, Zanaki, Mabia, Kutu, Kimbu, Kwere, Nata, Kami, Rutooro, Zigua, Zaramo, Luguru, Mwera, Ngoni, Ngindo, Mwera1, Bondei2, Hangaza, Shubi, Ndengeleko, Doe, Kiha, Manda, Haya, Nguungulu, Bondei1, Ndali, Rundi, Ikizu, Kipogoro, Nyaturucha, Ngoreme, Matengo, Maragoli, Runyambo, KuriaTari, Runyankore, Lambya, Pogoro, Sambaa, Bende	100	U+005e U+0067 U+0077
-^nn	nː	nne, nnying'a	Mabia, Meru, Makonde, Machame, Luganda, Machameunn, Mwera1, Mwera, Matengo, Mpoto, Matumbi, Kiboshounn, Kaheunn, Kami, Doe, Manda, Gweno, Bondei1, Kwere, Kibosho, Kutu	100	U+005e U+006e U+006e
-oo$	oː	ngoo, ifoo	Lumasaaba, Machame, Kibosho, Bondei2, Kiseri, Kiboshounn, Langi, Bondei1, Kami, Dawida, Keniunn, Kiseriunn, Gweno, Lemaunn, Kwere, Kilegi, Kimochiunn, Kaheunn, Gwere, Kutu	100	U+006f U+006f U+0024
-^lw	l w	lweni, lwala	Lvhyia, Ndali, Kipogoro, Gwere, Manda, Dawida, Matengo, Ndamba, Mbunga, Matumbi, Langi, Lusoga, Kimbunga, Haya, Maragoli, Jita, Mwera1, Luganda, Gweno, Meru, Mabia, Luguru, Makonde, Namwanga, Kami, Kilegi, Ndengeleko, Doe, Fipa, Kwere, Mambwe, Mwera, Mpoto, Kaheunn, Kutu, Lungwa	100	U+005e U+006c U+0077
-ii$	iː	mbii, kufii	Machame, Lumasaaba, Bondei2, Bondei1, Kiboshounn, Gweno, Machameunn, Langi, Kilegi, Kiseri, Mambaunn, Manda, Mabia, Kipogoro, Dawida, Gusii, Kaheunn, Matumbi, Lusoga, Kimochiunn, Kimbunga, Meru, Lemaunn, Maragoli, Makonde, Lvhyia, Mbunga, Kibosho	100	U+0069 U+0069 U+0024
-^th	tʰ	thIna, thaka	Kikuyu, KambaMach, Gweno, KambaKitu, Chuka, Embu	100	U+005e U+0074 U+0068
-#$	NULL	ifumbu#, kuwulagha#	Ndamba, Machame, Mkuu, Dawida, Matengo, Mbunga, Mambwe, Lambya, Malila, Kiseri, Kimochiunn, Manda, Kibosho, Gweno, Mambaunn, Fipa, Ndali	100	U+0023 U+0024
-ng'	ng'/ŋˀ
-uu$	uː	nkuu, mbuu	Machame, Nyaturucha, Nyaturuwil, Bondei1, Meru, Bondei2, Mkuu, Mpoto, Kiseri, Kimbunga, Langi, Mabia, Keniunn, Mbunga, Lumasaaba, Ndengeleko, Gweno, Fipa, Luguru, Kipogoro, Matengo, Maragoli, Makonde, Machameunn, Mwera1, Nata, Kibosho, Matumbi	100	U+0075 U+0075 U+0024
-vw	vw/vʷ	mumavwevwe, ukuvwanga	Wungu, Bungu, Maragoli, Gweno, Lvhyia, Namwanga, Nyiha, Mambwe, Lambya, Rungu, Pimbwe, Malila, Kutu, Safwa, Lungwa, Wanda, Fipa, Kwere, Zaramo	100	U+0076 U+0077
-'h	h	ng'hunde, ng'hoo	Ntuzu, Kami, Kwere, Nyamwezi, Mpoto, Ngindo, Kisi, Kutu, Doe, Zaramo, Nata	100	U+0027 U+0068
-...	NULL	ukuhikana_hang'..., ku-lolela_...	Lvhyia, Kami, Ngoreme, Maragoli, Luguru, Lusoga, Haya, Nyaturucha, KuriaMago, Kwere, Gusii, Nata, Luganda, Bondei2, Kutu, Kerebe, Nguungulu, Makonde, Lumasaaba	100	U+002e
-^U	U/ʊ	UkI, Urogi	KambaKitu, Embu, Nyiramba, Chuka, KambaMach, Nyamwezi, Nyaturucha	100	U+005e U+0055
-^uu	uː	uukusya, uumpela	Fipa, Nyaturucha, Mwera1, Kiboshounn, Mabia, Lungwa, Matumbi, Mambwe, Machame	100	U+005e U+0075 U+0075
-^bh	bh/bʱ	bhasirya, bhabha	ShashiSiz, KuriaTari, Ngoreme, Kiha, Kivinza, Mwera1, Nata, Kilegi, Ikizu, KuriaMago	100	U+005e U+0062 U+0068
-dw	d w	ndondwa, ndwano	Mwera, Mkwaya, Pimbwe, Makonde, Malila, Nyakyusa, Gweno, Kivinza, Mpoto, Maragoli, Mwera1, Lusoga, Ndengeleko, Doe, Kiha, Manda, Kimbunga, Haya, Ndali, Safwa, Kwere, Rundi, Nyaturuwil, Mkuu, Mbunga, Kibosho, Namwanga, Langi, Kami, Rutooro, Kilegi, Meru, Kiboshounn, Luguru, Kipogoro, Rungu, Nyaturucha, Dawida, Ndamba, Samialugwe, Ngindo, Runyambo, KuriaTari, Lvhyia, Lambya, Rukiga, Nyiha, KuriaMago, Matumbi, Lumasaaba, Machame, Pogoro, Sambaa	100	U+0064 U+0077
-nw	n w	omunwa, umunwa	Maragoli, Pimbwe, Lvhyia, Lumasaaba, Fipa, Gusii, Kerebe, Kilegi, Ndengeleko, Jita, Lungwa, Rufiji, Kiha, Kivinza, Mambwe, Mkwaya, Gwere, Hangaza, Haya, Mabia, Makonde, Munyarwand, Nata, Lusoga, Luguru, Nyaturucha, Matengo, Mkuu, Keniunn, Machameunn, Mwera1, Luganda, Namwanga, Nyakyusa	100	U+006e U+0077
-^c	c/ts	cuma, cani	Rungu, Mwera, Chuka, Rutooro, Nyaturucha, Kutu, Runyankore, Ndari	100	U+005e U+0063
-^mh	mh/mʱ	mhanga, mhambaga	Kwere, Kami, Zaramo, Kipogoro, Pogoro, Kimbunga, Mbunga, Ngoni, Langi, Mkuu, Zigua, Ntuzu, Luguru, Sambaa, Nguungulu, Bondei1, Kiseri, Ndengeleko, Kimochiunn, Ndamba, Keniunn, Vunjo, Bondei2, Kutu	100	U+005e U+006d U+0068
-^bw	b w	bwato, bwangu	Ndengeleko, Ndali, Mwera, Matumbi, Kutu, Rufiji, Doe, Luguru, Mkwaya, Nguungulu, Mpoto, Ngoni, Jita, Kami, Lusoga, Gweno, Ikizu, Samialugwe, Gwere, Luganda, Nyakyusa, Manda, Kwere, Mkuu, Matengo, Runyambo, Runyankore, Nyiramba, Nata, Kerebe, Rukiga, Machame	100	U+005e U+0062 U+0077
-__	+	ginama__ga__muntu, mahwa__ni__marifu	Langi, Nyaturuwil, Mkuu, Ngoreme, Nyaturucha, Nyakyusa, Gusii, Haya, Mambwe, Ngindo, Kimbunga, Ikizu, Kipogoro, Mkwaya, Dawida, Makonde, Mwera1, Matumbi, Mambaunn, Kimochiunn, Meru, Kwere, Mwera, Matengo, Jita, Munyarwand, Lambya, Namwanga, Kibosho	100	U+005f U+005f
-ee$	eː	mee, iwee	Machame, Ngindo, Nyaturuwil, Nyaturucha, Lumasaaba, Bondei2, Sambaa, Bondei1, Dawida, Kibosho, Langi, Kiseri, Gweno, Meru, Lemaunn, Gusii, Nyiha, Kilegi, Rufiji, Kimbunga, Nguungulu, Kiboshounn, Mabia, Pimbwe, Mwera, Mpoto, Maragoli, Jita, Machameunn, Kaheunn, Vunjo, Siha, Safwa	100	U+0065 U+0065 U+0024
-B	B/β	iBalaBala, BaBa	Nyamwezi, Sukuma, Tuveta, Ntuzu, Sumbwa	100	U+0042
-^mm	mː	mmi, mmanda	Mwera1, Machame, Ndengeleko, Mkuu, Makonde, Luganda, Mabia, Ngindo, Kipogoro, Mwera, Keniunn, Machameunn, Lvhyia, Matumbi, Gweno, Ndali, Kiboshounn, Luguru, Kibosho, Bondei2, Kiseriunn, Mambaunn, Manda, Bondei1, Meru, Matengo, Mpoto, Lambya, Nata, Nyakyusa, Lungwa	100	U+005e U+006d U+006d
-zw	z w	izwi, kuzwa	Sambaa, Nyiha, Fipa, Mambwe, Namwanga, Lungwa, Safwa, Malila, Gwere, Lambya, Kerebe, Wanda, Zinza, Zigua, Bondei1, Ikizu, Rungu, Ndengeleko, Doe, Kiha, Nguungulu, Kivinza, Zaramo, Pimbwe, Zanaki, Dawida, Rukiga, Bondei2, ShashiSiz	100	U+007a U+0077
-'e	e	uraa_ng'eng'ere, dyeng'ennya	Mpoto, Haya, Gusii, Pimbwe, Dawida, Luguru, Nyaturuwil, Suba, Nyaturucha, Mkuu, Keniunn, Runyoro, Mwera1, Siha, Manda, Ndali, Safwa, Maragoli, KuriaTari, Matumbi, Langi, Rufiji, Kiseri, Ndengeleko, Doe, Kiha, Gweno, Kwere, Rundi, Ikizu, Kipogoro, Ngoreme, Matengo, Ngoni, Ngindo, Runyambo, Gwere, Kerebe, Rukiga, KuriaMago, Lumasaaba, Bondei2, Pogoro, ShashiSiz, Nyakyusa	100	U+0027 U+0065
-pw	p w	mpwani, kupwa	Nyiha, Namwanga, Ndengeleko, Mpoto, Fipa, Mambwe, Mabia, Matengo, Mwera1, Matumbi, Nguungulu, Pimbwe, Langi, Rufiji, Kimbunga, Ndali, Kipogoro, Rungu, Makonde, Lambya, Mbunga, Bondei2, Pogoro, Safwa, Lungwa, Rutooro, Bondei1, Kivinza, Nyaturucha, Nyaturuwil, Ngoni, Ngindo, Malila, Nyiramba, Lvhyia, Lumasaaba	100	U+0070 U+0077
-khw	khw/kʷʰ	khu-khwola, khu-khwiira	Lumasaaba	100	U+006b U+0068 U+0077
-dh	dh/dʱ	ku-dhadhana, dhadha-omusadha	Lusoga, NPare, Kami, Nata, Samialugwe, Bondei2, Doe, Bondei1	100	U+0064 U+0068
-^gh	gh/gʱ	-ghegha, -ghota	Suba, Wanji, Vunjo, Ngoreme, Gweno, Nata, Tuveta, Lusoga, Sambaa, Nyaturucha, Kami, Nyaturuwil, Mbunga, Kisi, Kimbunga	100	U+005e U+0067 U+0068
-UU	UU/ʊː	kUUra, kwi-lisUUla	Nyiramba, Nyamwezi, Embu, Chuka	100	U+0055 U+0055
-9$	NULL	nda_9, ntEmi_9	Sonjo	100	U+0039 U+0024
-E$	E/ɛ	nsiimE, kitOmbE	Nyiramba, Matumbi, Sonjo, Ntuzu, Ngindo, Nyaturucha	100	U+0045 U+0024
-nn	nː	ennda, inna	Luganda, Makonde, Meru, Mwera1, Lungwa, Langi, Gwere, Kipogoro, Pogoro, Mabia, Zinza, Yao, Kimbu, Rungwa, Jita, Siha, Bende, Rufiji, Fipa, Ikizu, Mwera, Mkwaya, Mpoto, Samialugwe, Machameunn, Suba, Lvhyia, Munyarwand, Lambya, Vunjo, Machame	100	U+006e U+006e
-^khw	khw/kʷʰ	khw-enya, khw-inama	Lvhyia, Pangwa, Kwere	100	U+005e U+006b U+0068 U+0077
-\	NULL	*-ta\a\ta, *-ge\ndo\__*-ye\ndo\	ProtoBantu, Kiseri	100	U+005c
-Us	U/ʊ s	mUsyI, kUsuka	KambaKitu, Ntuzu, Nyiramba, KambaMach, Nyamwezi	100	U+0055 U+0073
-^B	B/β	BaBa, -Bi	Nyamwezi, Tuveta, Ntuzu, Sumbwa, Sukuma	100	U+005e U+0042
-^tw	t w	twiga, twenga	Jita, ShashiSiz, Matumbi, Ndengeleko, Haya, Matengo, Rufiji, KambaMach, Zanaki, Bena, Wanda, Kimbunga, Mabia, Zaramo, Rungu, Mpoto, Ngoni, Ndamba, Runyambo, Suba, Mbunga, Pogoro, Kutu, Shubi, Kami, Rutooro, Kiseri, Kimochiunn, Kiha, Gweno, Safwa, Kivinza, Ntuzu, Yao, Luguru, Kisi, Kipogoro, Pangwa, Wanji, Sumbwa, Tuveta, Ngindo, Hehe, Nyamwezi, Nyiramba, Kibosho, Machame, Hangaza, Merutig, Nyakyusa, Kimbu	96	U+005e U+0074 U+0077
-nh	nh/nʱ	munhu, hanhu	Kami, Kwere, Sukuma, Zaramo, Ntuzu, Matengo, Nyamwezi, Kutu, Nyakyusa, Kisi, Ngindo, Malila, Rungwa, Wanji, Kimbu, Lungwa	95	U+006e U+0068
-nsh	n sh/ʃ	enshoni, vyinshi	Suba, Safwa, Haya, Sangu, Malila, Runyankore, Kivinza, Shubi, Mwera1, Nyiha, Kiha, Rukiga, Hangaza, Meru, Kipogoro, Nyiramba, Siha, Machame, Pogoro, Kisi, Lungwa	89	U+006e U+0073 U+0068
-'i	i	ukuning'ina, ng'imba	Pimbwe, Kiha, Mabia, Nyaturucha, Makonde, Kiseri, Bena, Safwa, Kinga, KuriaTari, Munyarwand, Shubi, Meruimenti, KambaMach, Nyaturuwil, Ngoreme, Hehe, Mwera1, Embu, KambaKitu, Manda, Gweno, Luguru, Kisi, Ikizu, Rungwa, Rungu, Pangwa, Matengo, Gusii, Suba, KuriaMago, Machame, Kutu, Hangaza, Kimbu, Lungwa	85	U+0027 U+0069
-rr	rr/rː	malirra, jagarra	Rutooro, KuriaTari, Runyoro, KuriaMago, Langi	85	U+0072 U+0072
-jw	j/dʒ w	ijwi, kujwa	Runyoro, Rukiga, Haya, Runyankore, Sonjo, Rutooro, Ndengeleko, Manda, Ngoni, Ngindo, Runyambo, NPare, Gwere, Merutig, Kiha, Gweno, Mkwaya, Mwera1, SPare, Langi, Shubi, Rufiji, Ndari, Ndali, Meru, Meruimenti, Kivinza, Yao, Rundi, Pangwa, Dawida, Mpoto, Jita, Munyarwand, Embu, Hangaza, Kisi	78	U+006a U+0077
-vh	vh/vʱ	ku-tavha, ku-vhalanga	Mwera1, Kami	77	U+0076 U+0068
-ms	m s	umsenya, umsitali	Rungwa, Lungwa, Pimbwe, Mambwe, Rufiji, Vunjo, SPare, Langi, Sangu, Lusoga, Kipogoro, Tuveta, Pogoro, Kilegi, Kiseri, Doe, Kimbunga, Zaramo, Luguru, Mkuu, Matengo, Ndamba, Runyambo, Nata, Mbunga, Lumasaaba, Nyamwezi	75	U+006d U+0073
-^nh	nh/nʱ	nhembo, nhungo	Zaramo, Kwere, Ntuzu, Kami, Mpoto, Sukuma, Siha, Matengo, Wanji, Nyamwezi, Sihaunn, Bende, Kisi, Ngindo, Manda	73	U+005e U+006e U+0068
-^rw	r w	rwImbo, rwa	Merutig, Meruimenti, Tharaka, Chuka, Embu, Zanaki, Kikuyu, Haya, Kwere, ShashiSiz, Rutooro, Kiseri, Gweno, Rundi, Ikizu, Mkwaya, Mkuu, Dawida, Runyambo, Runyankore, Suba, Munyarwand, Rukiga, Sonjo	71	U+005e U+0072 U+0077
-^fw	f w	fwa, -fwa	Hehe, Jita, Bena, Gweno, Wanda, Pangwa, Rungu, Wanji, Ndamba, SPare, Kilegi, Mkwaya, Sumbwa, Ngoni, NPare, Sangu, Zinza, Ndari, Kimbunga, Ndali, Meru, Dawida, Tuveta, Lambya, Mbunga	71	U+005e U+0066 U+0077
-^sw	s w	swala, swakala	Wanda, Rutooro, Ndengeleko, Rungu, Sumbwa, Runyambo, Bondei2, Kimbu, Rufiji, Yao, Sukuma, Wanji, Kinga, Nyamwezi, Matumbi, Kutu, Langi, Kami, Kilegi, Kiseri, Zigua, Kiseriunn, Doe, Ndari, Gweno, Fipa, Ndali, Bondei1, Nguungulu, Ntuzu, Zaramo, Kwere, Pimbwe, Kisi, Mambwe, Pangwa, Matengo, Ndamba, Suba, Namwanga, SPare, Lumasaaba, Sambaa, ShashiSiz, Safwa	70	U+005e U+0073 U+0077
-II	II/ɪː	kIIma, kIIo	Nyamwezi, KambaKitu, KambaMach, Kikuyu, Embu, Chuka, Ntuzu	70	U+0049 U+0049
-^x	x	-xalu, xomangila	Sonjo, Kimbu	68	U+005e U+0078
-__$	NULL	ukukalaya__, buhyo_bw'e_nte__	Haya, ProtoBantu, Mambwe, Wungu, Langi, Manda, Kimbunga, Ikizu, Zanaki, Mkuu, Nyiramba, Shubi, Kiseri, Mabia, Kivinza, Kipogoro, Sukuma, Nyaturucha, Nyaturuwil, Ngoreme, Gusii, Maragoli, Samialugwe, Makonde, Machameunn, Ngindo, Kaheunn, Runyambo, KuriaTari, Nata, Rukiga, SPare, Matumbi	64	U+005f U+005f U+0024
-zh	zh/ʒ	mizhizhi, uzhi	Kami, Zaramo, Ngindo	64	U+007a U+0068
-nsw	n s w	inswi, inswila	Nyiha, Mkwaya, Malila, Suba, Pimbwe, Rungwa, Runyoro, KuriaTari, Lungwa, Rutooro, Fipa, Safwa, Kivinza, Bungu, Ngoreme, Lambya, KuriaMago, Wungu, Nyakyusa, Sangu, Kiha, Meru, Mambwe, Wanji, Gusii, Runyambo, Kerebe, Namwanga, Wanda	63	U+006e U+0073 U+0077
-EE	EE/ɛː	kEtwEEka, kwi-sEEnEElya	Nyiramba	63	U+0045 U+0045
-5$	NULL	erigo_5, etara_5	Sonjo, Tuveta	63	U+0035 U+0024
-7$	NULL	ketEmi_7, kejori_7	Sonjo, NPare	62	U+0037 U+0024
-^vw	v w	vwamba, vwato	Bena, Wanji, Lvhyia, Gweno, NPare, Wanda, Maragoli, SPare, Rungu, KambaKitu, Sumbwa, Namwanga, KambaMach, Safwa	59	U+005e U+0076 U+0077
-^msh	m sh/ʃ	mshipi, mshombe	Kiseri, SPare, Sambaa, Mkuu, Vunjo, Gweno, Bondei1, Kutu, Ndari, Ndali, Dawida, NPare, Bondei2, Sangu, Zigua, Ndengeleko, Mambaunn, Kimochiunn, Manda, Nguungulu, Zaramo, Kipogoro, Pangwa, Ndamba, Keniunn, Pogoro	55	U+005e U+006d U+0073 U+0068
-shw	sh/ʃ w	igishishwa, ishwa	Rukiga, Haya, Shubi, Mkuu, Runyankore, Rundi, Sambaa, Kivinza, Kiseri, Keniunn, Hangaza, Bungu, Wungu, Kiseriunn, Kiha, Dawida, Munyarwand	54	U+0073 U+0068 U+0077
-3$	NULL	mO:ki_3, msEngi_3	Sonjo	54	U+0033 U+0024
-chw	ch/tʃ w	ku-chwa, enchwera	Langi, Haya, Gweno, Gusii, Runyambo, Kerebe, Zinza, Rutooro, Kaheunn, Rukiga, Hangaza, Shubi, Mambaunn, Kivinza, Yao, Dawida, Ngoni, Kinga, Samialugwe, Ngindo, KuriaTari, Nata, Vunjo, KuriaMago, Kibosho	53	U+0063 U+0068 U+0077
-mm	mm/mː	immamba, emmango	Nyakyusa, Rungwa, Lungwa, Kimbunga, Mabia, Mkuu, Gwere, Mbunga, Machame, Sangu, Rufiji, Kiseri, Gweno, Meru, Yao, Mwera, Kikuyu, Lvhyia, Luganda, Siha, Kimbu	45	U+006d U+006d
-O$	O/ɔ	igoBO, ri:kO	Sonjo, Matumbi, Ngindo, Sukuma	45	U+004f U+0024
-ghw	ghw/gʷʱ	-moghwa, oghwisyoori	Ngoreme, Nyaturuwil, Suba, SPare, Nyaturucha, Tuveta, NPare, Nata, Kami, Lusoga, Kaheunn, Sambaa, Kisi	43	U+0067 U+0068 U+0077
-a:	aː	umuva:nda, inya:lusi	Sonjo, Hehe, Kiseri, Vunjo	43	U+0061 U+003a
-^ts	ts	tsuwar*a, tsimbindi	Lumasaaba, Lvhyia, Vunjo, Maragoli, Luguru, Kimochiunn	41	U+005e U+0074 U+0073
-^aa	aː	aazimu, aaliwe	Fipa, Lumasaaba, Samialugwe, Mwera1, Bungu, Mambwe, Wungu, Hehe, Gusii, Kiboshounn, Makonde, Ndengeleko, Machame, KambaMach, Nyiramba, Haya, Kimbu	39	U+005e U+0061 U+0061
-\$	NULL	*-ya\ma\, *-go\ngo\	ProtoBantu, Kiboshounn, Kiseri	38	U+005c U+0024
-Is	I/ɪ s	maIsya-ngya, kIseve	KambaKitu, KambaMach, Ntuzu, Nyamwezi	38	U+0049 U+0073
-#	NULL	ikavya_toshy#__#_pencil_only_#, ukukumbat#_la	Mkuu, Nyakyusa, Siha, Ndamba, Mambwe, Lambya, Keniunn, Mbunga, Wungu, Mambaunn, Kimochiunn, Kimbunga, Dawida, Meru	37	U+0023
-bhw	bh/bʱ w	obhwehe, libhwasi	ShashiSiz, Kilegi, KuriaTari, Bende, Suba, Ngoreme, Nata, Kivinza, KuriaMago, Ikizu	37	U+0062 U+0068 U+0077
-m$	m	ichemchem, chemchem	Nyamwezi, Rungwa, Lungwa, ProtoBantu, Langi, Vunjo, Mkuu, Kami, Rutooro, Luguru, Rufiji, Bungu, Zigua, Kutu, Doe, Kimbu, Meru, Gusii	36	U+006d U+0024
-`t	`t/tˀ
-^hw	hw/hʷ	hwena, hwana	Safwa, Bena, Ngoni, Makonde, Samialugwe, Keniunn, Rukiga, KuriaMago, Rundi, Pangwa, Hehe, ShashiSiz, Hangaza, Suba, Zanaki, Matengo	35	U+005e U+0068 U+0077
-^_	NULL	_inyenyenzi, _chera	Vunjo, Langi, Ndengeleko, Ntuzu, Zaramo, Nyaturucha, Mwera, Ngoreme, Kilegi, Fipa, Kipogoro, Zanaki, Matengo, Ndamba, Runyambo, Lambya, Luganda, KuriaMago, Lumasaaba, Sambaa, Kutu, Nyakyusa	34	U+005e U+005f
-l$	l	lukaanipl., ililundopl.	Bena, Zanaki, Bende, Kerebe, Ntuzu, Maragoli, Kwere, Yao, Makonde, Sonjo, Pangwa, Nyaturuwil, Lvhyia, Ngoreme, Kimbu	34	U+006c U+0024
-tt	tt/tː	ku-gotta, nkotta	Gwere, Luganda, Lusoga, Matumbi	33	U+0074 U+0074
-mh	m h	ku-zumha, umhala	Kwere, Kami, Zaramo, Sukuma, Sumbwa, Nata, Sangu, Ntuzu, Nyiha, Pimbwe, Rungwa, Sonjo, Pangwa, Wanji, Lungwa, Mpoto, Ngoni	32	U+006d U+0068
-'i$	i	king'ang'i, kIng'ang'i	Safwa, Meruimenti, Chuka, Tharaka, Pimbwe, Kiseri, Merutig, Nyaturucha, Nyaturuwil, Maragoli, KuriaMago, Embu, Lumasaaba, KambaMach, KuriaTari, KambaKitu, Manda	31	U+0027 U+0069 U+0024
-14$	NULL	Bongo_14, bo-giti_14	Sonjo, Tuveta	31	U+0031 U+0034 U+0024
-gg	gg/gː	ku-ggya, ku-ggula	Luganda, Gwere, Lusoga	30	U+0067 U+0067
-*w	w	iv*we, uv*wato	Lambya, Mkuu, Machame, Kiseri, Nyiha, Mambaunn	30	U+002a U+0077
-^pw	p w	pwata, pwani	Matengo, Kipogoro, Ndengeleko, Wanda, Pogoro, NPare, Mwera1, Mabia, Bena, Mbunga, Makonde, Matumbi, Rungu, Kimbunga, Gweno, Ngoni	29	U+005e U+0070 U+0077
-ph	pʰ	mphunju, kumphindi	Kipogoro, Pogoro, Kiha, Nguungulu, Mambaunn, Doe, Gweno	28	U+0070 U+0068
-^nsh	n sh/ʃ	nshungu, nshimba	Mwera1, Siha, Meru, Kibosho, Rundi, Machame, Nyamwezi, Sangu, Zinza, Sihaunn, Machameunn, Kipogoro, Pogoro	28	U+005e U+006e U+0073 U+0068
-R	R/ʀ	nRaRi, iReRa	Machameunn	28	U+0052
-bb	bb/bː	ku-bba, ibbale	Gwere, Lusoga, Luganda, Mkuu	27	U+0062 U+0062
-^h'	h
-h	h
-1$	NULL	mwana_1, mondogo_1	Sonjo	25	U+0031 U+0024
-n'	n'/nˀ
-^ee	eː	eensi, -eelu	Zinza, Kimbu, Kiboshounn, Luganda, Lumasaaba, Hehe, Machame, Merutig, Ngoreme, Gusii	23	U+005e U+0065 U+0065
-dd	dd/dː	kidda, mwiddu	Gwere, Luganda, Ndengeleko	23	U+0064 U+0064
-Iw	I/ɪ w	kwIw'a, kIwanza	KambaKitu, KambaMach, Ntuzu, Embu, Ndengeleko	23	U+0049 U+0077
-_+$	NULL	igongilisha_+, mwenga_+	Nyamwezi, Sukuma, Kimbu, Sumbwa, Ntuzu	23	U+002b U+0024
-n$	n	kyen, kinyan	Machame, Kiboshounn, Machameunn, Munyarwand, Rukiga, SPare, Kimbunga, Lvhyia, Meru, Gusii	22	U+006e U+0024
-11$	NULL	lorende_11, losaya_11	Sonjo	22	U+0031 U+0031 U+0024
-^chw	ch/tʃ w	chwakaa, -chwa	Tuveta, SPare, Ngindo, NPare, Meruimenti, Kami, Mbunga, Kwere, Rutooro, Tharaka, Zigua, Kimbunga, Doe, Manda, Haya, Nguungulu, Ngoni	21	U+005e U+0063 U+0068 U+0077
-ss	ss/sː	kyissa, rissossoni	Gwere, Luganda, Lusoga, Lumasaaba, Ikizu, KuriaTari, Haya	21	U+0073 U+0073
-e:	eː	tye:lela, mke:be	Hehe, Sonjo, Kiseri, Vunjo, Langi, Munyarwand	20	U+0065 U+003a
-^**-	NULL	**-yi, **-ka	ProtoBantu	20	U+005e U+002a U+002a
-=	+	i=nda, utusu=ma	Mambwe, Ngoreme, Kinga, Tuveta, Rukiga, Kiseri, Haya	19	U+003d
-^zw	z w	zwa, zwala	Rungu, Nyamwezi, Wanda, Ntuzu, Lambya, Sambaa	19	U+005e U+007a U+0077
-^O	O/ɔ	Oga, -OlO	Sonjo, Matumbi	19	U+005e U+004f
-^nhw	n hw/hʷ	nhwe, nhwanga	Ngindo, Mpoto, Siha, Sihaunn, Kwere, Nyamwezi	18	U+005e U+006e U+0068 U+0077
-cw	c/ts w	encwera, kucwera	Runyoro, Rutooro, Runyankore, Meruimenti, Rukiga	18	U+0063 U+0077
-jj	jj/dʒː	jjajja, kikajjo	Luganda, Samialugwe, Gwere	17	U+006a U+006a
-^jw	j/dʒ w	jweka, jwanchanda	Yao, Haya, Mwera1, Rutooro, Runyambo, Nyakyusa, Mpoto, Matengo	17	U+005e U+006a U+0077
-?	NULL	niki?_otiki?_ota, esiri?_oli?_nanu	Kerebe, Samialugwe, Nyaturuwil, Kikuyu, Kinga, Rukiga, Ikizu, Ngindo, Sonjo, Pangwa, KuriaTari, Nyamwezi, Mkwaya, Ndari	17	U+003f
-^nsw	n s w	nswa, nswaro	Rungu, Nyamwezi, Mkwaya, Kimbu, Nyiramba, Luganda, Ntuzu, Nyiha, Rungwa, Sonjo, Lungwa, Wanda	17	U+005e U+006e U+0073 U+0077
-thw	th/tʰ w	muthwa, mUthwa	Tharaka, Meruimenti, KambaKitu, Chuka, KambaMach, NPare, Merutig	17	U+0074 U+0068 U+0077
-10$	NULL	kolo_9-10, mbande_10	Tuveta, NPare, SPare	17	U+0031 U+0030 U+0024
-g$	g	*-co\ng-, nong	ProtoBantu, Kerebe, Vunjo, Maragoli, Makonde, Lusoga, Rufiji, Ikizu, Haya, Ngoreme	16	U+0067 U+0024
-^dw	d w	dwivila, dwiva	Bena, Hehe, Wanji, Lambya, Kinga, Rundi, Siha, Pogoro, Mwera, Nyamwezi, Mkuu	16	U+005e U+0064 U+0077
-'g	g	n'gope, n'gukhu	Pangwa, Ndari, Zaramo, Rundi, Ngindo, Wanji, Matengo, Mpoto	16	U+0027 U+0067
-___	+	ihuta___ibuntuka, giintu___viintu_	Langi, Nyaturuwil, Keniunn, Kami, Ikizu, Ngindo, Siha, KuriaTari, Mkwaya, Haya, Ngoreme, Gusii	15	U+005f U+005f U+005f
-n'$	n'/nˀ	kisha_den', varumun'	Meru, Tuveta, Kivinza, KuriaMago, Mpoto	15	U+0027 U+0024
-xw	xw/xʷ	uxwitanga, uxwilexa	Kimbu, Sonjo	15	U+0078 U+0077
-o:	oː	-ho:la, sero:ri	Sonjo, Hehe	15	U+006f U+003a
-_12$	NULL	katojo_12, kagonda_12	Sonjo	15	U+0031 U+0032 U+0024
-_6$	NULL	matunda_6, mata_6	Sonjo, Tuveta	15	U+0036 U+0024
-_9-10	NULL	kolo_9-10, mbinda_9-10	Tuveta, NPare	15	U+0039
-u:	uː	ku:ku, ir*u:wo	Hehe, Kiseri, Sonjo, Vunjo	14	U+0075 U+003a
-Es	E/ɛ s	kEsaka, kEsaalE	Nyiramba, Sonjo	14	U+0045 U+0073
-^dh	dh/dʱ	dhaifu, -dhora	NPare, Lusoga, Zaramo, Kutu, Gweno	13	U+005e U+0064 U+0068
-d$	d	*-di\d-, *-ba\d-	ProtoBantu, Kimbunga, Mpoto, Kipogoro	13	U+0064 U+0024
-'b	b	mm'banda, m'bofu	Nyamwezi, Ngindo, Wanji, Maragoli	13	U+0027 U+0062
-^Us	U/ʊ s	UsI, UsUU	KambaKitu, Nyiramba, KambaMach	13	U+005e U+0055 U+0073
-Ush	U/ʊ sh/ʃ	lUshU, lUshiili	Nyamwezi, Ntuzu	13	U+0055 U+0073 U+0068
-msh	m sh/ʃ	chemsha, kufwanamsha	Gweno, Dawida, Kilegi, SPare, Kiseri, Kibosho, Rungwa, Pangwa, Machame, Meru	12	U+006d U+0073 U+0068
-zz	zz/zː	kw-izzula, masazzanzita	Luganda, Lusoga, Gwere	12	U+007a U+007a
-^oo	oː	oome, oota_ilyunsi	Nyiramba, Mwera1, Kiboshounn, Meruimenti, Zinza, Kibosho, Tharaka, Hehe, KambaKitu, Haya, Kimbu	12	U+005e U+006f U+006f
-^nw	n w	-nwam, nwaa	Wanji, Mkuu, Ntuzu, Matumbi, Siha, Rungu, Rungwa, Nyamwezi, Lungwa, Meru	12	U+005e U+006e U+0077
-_1-2	NULL	mkwea_1-2, mlamu_1-2	Tuveta, NPare, Sonjo, SPare	12	U+0031
-_3-4$	NULL	mkono_3-4, mrangi_3-4	Tuveta, NPare, Sonjo	12	U+0034 U+0024
-ll	ll/lː	esepilli, ko-gella	Maragoli, Lusoga, Kilegi, Lumasaaba, Machameunn, Ikizu, Ngoreme, Gwere	11	U+006c U+006c
-^`t	`t/ˀt	`teka, `taha_ur*a	Mkuu	11	U+005e U+0060
-Uw	U/ʊ w	kUwaa, mUrUwa_maitU	KambaKitu, Ntuzu, KambaMach, Nyiramba, Kikuyu	11	U+0055 U+0077
-_16$	NULL	hafuhi_16, oho_16	Tuveta, Sonjo, NPare, SPare	11	U+0031 U+0036 U+0024
-'m	'/ə m	h'mande, m'mkege	Maragoli, Kutu, Ngindo, Hangaza	10	U+0027 U+006d
-y$	y/j	ikokoy, -mwany	Siha, Mkuu, Keniunn, Sihaunn, Ndengeleko, Lvhyia	10	U+0079 U+0024
-oy$	oi
-i:	iː	ati:a, ri:sO_mae	Sonjo, Kiseri, Vunjo, Hehe	10	U+0069 U+003a
-'d	d	n'dala, n'dimi	Wanji, Mpoto, Siha, Kiseri, Makonde	10	U+0027 U+0064
-^jj	jj/dʒː	jjovu, jjajja	Luganda	10	U+005e U+006a U+006a
-kk	kk/kː	omukko, ku-bikka	Luganda, Gwere, Lusoga	9	U+006b U+006b
-^zh	zh/ʒ	zhino, zhua	Kami, Zaramo	9	U+005e U+007a U+0068
-ii-i	iː + i	kwi-iingela, ensi-iitu	Nyiramba, Lemaunn, Rungwa	9	U+0069 U+0069 U+0069
-^kk	kk/kː	kko, -kka	Luganda, Lusoga, Mkuu	9	U+005e U+006b U+006b
-^ss	ss/sː	ssisibo, ssigga	Luganda, Lumasaaba	9	U+005e U+0073 U+0073
-^E	E/ɛ	-Elo, EkalE	Nyiramba, Sonjo, Matumbi	9	U+005e U+0045
-^msw	m s w	mswa, mswa_	Kami, SPare, Bondei2, Zigua, Dawida, Nguungulu, Mkuu, Bondei1	8	U+005e U+006d U+0073 U+0077
-^shw	sh/ʃ w	shwiga, shwashwaa	Rukiga, Kipogoro, Pogoro, Runyoro, Haya, Dawida	8	U+005e U+0073 U+0068 U+0077
-^bhw	bh/bʱ w	bhwangu, bhwango	ShashiSiz, Bende, Kilegi, Ikizu, KuriaTari	8	U+005e U+0062 U+0068 U+0077
-^ksh	k sh/ʃ	kshu, kshau	Mkuu, Keniunn	8	U+005e U+006b U+0073 U+0068
-wh	w h	khuwhida, u-whewhe	Pangwa, Lvhyia, Kimbunga, Hehe	8	U+0077 U+0068
-^shs	sh/ʃ s	shsiginu, shsanga	Pogoro, Kipogoro	8	U+005e U+0073 U+0068 U+0073
-k$	k	*-ca\k-, *-du\k-	ProtoBantu, Lumasaaba, Kipogoro, Sonjo, KuriaTari	8	U+006b U+0024
-O:	O/ɔː	mO:ki_3, -nO:la	Sonjo	8	U+004f U+003a
-r$	r	okolea_ikohor..., udder	Zinza, Bena, KuriaMago, Ndengeleko, Kaheunn, Nyaturucha, Gusii	7	U+0072 U+0024
-___$	NULL	kwiinika___, lyakajpi___	Haya, Nyiramba, Matumbi, Ngoreme	7	U+005f U+005f U+005f U+0024
-^gg	gg/gː	ggi, ggumba	Luganda	7	U+005e U+0067 U+0067
-Ih	I/ɪ h	bUlIhya, hIhihia	Kikuyu, Nyamwezi, Ntuzu	7	U+0049 U+0068
-V	NULL	edarV_5, mwaletV_3	Sonjo	7	U+0056
-II$	II/ɪː	mwII, ngII	KambaKitu, KambaMach	7	U+0049 U+0049 U+0024
-_1-2$	NULL	mkwea_1-2, mlamu_1-2	NPare, Tuveta, SPare	7	U+0032 U+0024
-ff	ff/fː	iffe, byeffe	Samialugwe, Lusoga, Gwere	6	U+0066 U+0066
-t$	t	il*ast, *-du\t-	ProtoBantu, Vunjo, Ndengeleko, Kimbunga, Haya	6	U+0074 U+0024
-^ks	k s	ksima, ksovya	Mkuu, Keniunn	6	U+005e U+006b U+0073
-^m|	m|b/ⁿb	m|bishwa, m|bino	Kiseri	6	U+005e U+006d U+007c
-b$	b	orohamb, ku-ng'wa_nghab..	ProtoBantu, Kwere, Rufiji, KuriaTari, Mwera	6	U+0062 U+0024
-^vh	vh/vʱ	vhakulungwa, vhajeni	Mwera1	6	U+005e U+0076 U+0068
-L	L/ʟ	-saLi, kwi-Lepa	Ndengeleko, Ntuzu, Nyiramba, Wanda	6	U+004c
-'U	ʔ U/ʊ	kUlika_kIw'UnI, lUng'Uda	Ntuzu, KambaKitu, Nyamwezi, KambaMach	6	U+0027 U+0055
-_8$	NULL	kio_7-8, bihuti_8	Sonjo, Tuveta, NPare, SPare	6	U+0038 U+0024
-_7-8$	NULL
-Eh	E/ɛ h	gwEhEti, kolEhu	Sonjo	6	U+0045 U+0068
-^Iw	I/ɪ w	Iw'a, Iw'a_naI	KambaMach, Chuka	6	U+005e U+0049 U+0077
-'U$	ʔ U/ʊ	kIkw'U, kIw'U	KambaMach, KambaKitu	6	U+0027 U+0055 U+0024
-^dd	dd/dː	ddoboozi, dduma	Luganda, Gwere	5	U+005e U+0064 U+0064
-s$	s	italaka_we_had_no_divorces, ikiburungus	Maragoli, KuriaMago, Jita, Nyiramba, Kimbunga	5	U+0073 U+0024
-^i$	i	i, -i	Kiseri, Kibosho, Makonde	5	U+005e U+0069 U+0024
-^ll	ll/lː	llimi, llaku	Pogoro, Ndengeleko, Rufiji, Kipogoro	5	U+005e U+006c U+006c
-^tt	tt/tː	ttooke, ttumburu	Luganda, Mkuu	5	U+005e U+0074 U+0074
-tsw	ts w	mbotswa, livatswa	Lvhyia, Maragoli	5	U+0074 U+0073 U+0077
-Os	O/ɔ s	kelOsyO, -OgOsa	Sonjo, Matumbi	5	U+004f U+0073
-^uu$	uː	uu, -uu	Tuveta, Chuka, SPare, NPare, Mkuu	5	U+005e U+0075 U+0075 U+0024
-^_$	_	_, --_	Wungu, Mpoto, Ndali	5	U+005e U+005f U+0024
-EE$	EE/ɛː	kanEE, igEE	Nyiramba	5	U+0045 U+0045 U+0024
-V$	NULL	terenV, rangi_ya_xararV	Sonjo	5	U+0056 U+0024
-phw	ph/pʰ w	mndu_aphwie, kiphwa	Gweno	4	U+0070 U+0068 U+0077
-____$	NULL	kusuka____, *-gu\du\____	ProtoBantu, Ngoreme, Rukiga, Ikizu	4	U+005f U+005f U+005f U+005f U+0024
-ks	k s	ruksa, baka_la_ksakeni	Kiseri, Munyarwand	4	U+006b U+0073
-_?$	NULL	enamunsi_?, ukulobhamla_?	Kivinza, Munyarwand, Suba	4	U+003f U+0024
-_$	NULL
-h$	h	vivi_wachimah-, chipanje_cha_chamah-	Makonde, Nata, Kutu	4	U+0068 U+0024
-2	NULL	kibosho__#_note_2nd_hand_here, ofari__#_2nd_hand_#	Siha, Tuveta, Ngoreme, Meru	4	U+0032
-^UU	UU/ʊː	UUta, UUza	Nyiramba	4	U+005e U+0055 U+0055
-nhw	n hw/hʷ	uta_nhwe, nganhwa	Siha, Kaheunn, Matengo	3	U+006e U+0068 U+0077
-nwh	n wh/wʱ	oku-nwheza, ku-nwhiba	Lusoga, Kami	3	U+006e U+0077 U+0068
-'k	'k/ˀk	n'ki, omuhyo_gwo'kukuba	Ngindo, Kerebe	3	U+0027 U+006b
-*$	NULL	nyenyeri*, mr*i*	Kimochiunn, Ngindo	3	U+002a U+0024
-^bb	bb/bː	bbega, bbeele	Luganda	3	U+005e U+0062 U+0062
-msw	m s w	umswa	Pimbwe, Rungwa, Lungwa	3	U+006d U+0073 U+0077
-'l	l	abo'l#, n'lalu	Ngindo, Safwa, Maragoli	3	U+0027 U+006c
-'j	j	n'jungua, n'jiva	Wanji, Meru	3	U+0027 U+006a
-M	M/m	kumtira_Mlungu, kumwogoha_Mungu	Sambaa, KambaMach, Pogoro	3	U+004d
-^L	L/ʟ	Lona, LIwelelo	Ntuzu, Wanda	3	U+005e U+004c
-Ish	I/ɪ sh/ʃ	kIshigine, gIsha	Nyamwezi, Ntuzu	3	U+0049 U+0073 U+0068
-E:	E:/ɛː	melOngE:na, gesE:rO	Sonjo	3	U+0045 U+003a
-^thw	th/tʰ w	thwa, thwala	Merutig, NPare	3	U+005e U+0074 U+0068 U+0077
-'t	t	n'tambo, alo'to	Safwa, Bondei2	2	U+0027 U+0074
-pp	pp/pː	kappa, ku-koppa	Gwere	2	U+0070 U+0070
-'_	'/ʔ +	ikyuma_cy'_ubutare, kuba_ni'_kintu	Munyarwand, Hangaza	2	U+0027 U+005f
-^mwh	m wh/wʱ	mwhani	Kami, Zaramo	2	U+005e U+006d U+0077 U+0068
-^shh	shh/ʃ	shhimbi	Pogoro, Kipogoro	2	U+005e U+0073 U+0068 U+0068
-^ls	l s	lsinga	Pogoro, Kipogoro	2	U+005e U+006c U+0073
-ksh	k sh/ʃ	ikshingo_, dua_bakshishi	Kiseri, Mkuu	2	U+006b U+0073 U+0068
-^i:	iː	i:ma, i:r^a	Kiseri, Vunjo	2	U+005e U+0069 U+003a
-^ff	ff/fː	ffumu, ffumbe	Luganda	2	U+005e U+0066 U+0066
-^vv	vv/vː	vvuvi, vvu	Luganda	2	U+005e U+0076 U+0076
-dhw	dh/dʱ w	ku-bandhwa, ch-e-idhwe	Lusoga, NPare	2	U+0064 U+0068 U+0077
-Rw	R/ʀ w	ilala_Rwe, yaaRwi	Machameunn	2	U+0052 U+0077
-^wh	wh/wʱ	wheewhe, whe_ma	Hehe, Matengo	2	U+005e U+0077 U+0068
-Ow	O/ɔ w	yOwanika, yOwa	Matumbi	2	U+004f U+0077
-_?!$	NULL	rikopo-amakopo___?!, mbeli_?!	Mkwaya, Hehe	2	U+003f U+0021 U+0024
-^G	G/ɢ	Gusekura, GukamUra	Embu, Munyarwand	2	U+005e U+0047
-____	NULL	ekyora__pl.____also_eghekere, mibale____nbwale_	Ngindo, Ngoreme	2	U+005f U+005f U+005f U+005f
-^EE	<?>	EEo, EEta	Nyiramba	2	U+005e U+0045 U+0045
-aaa	aaa/aː	nkaaanga, mwanaa-asa	Nyiramba, KambaKitu	2	U+0061 U+0061 U+0061
-^M	M/m	Muungu, Mlungu	Sambaa, Pogoro	2	U+005e U+004d
-_!$	NULL	kuteekaniriza_!, -hwahuka___!	Rundi, Runyankore	2	U+005f U+0021 U+0024
-^cw	c/ts w	cwa, cwererra	Rutooro	2	U+005e U+0063 U+0077
-^xw	xw/xʷ	xwangulaa, -xwasa	Sonjo, Kimbu	2	U+005e U+0078 U+0077
-'gw	'gw/ˀgʷ	ichin'gwili, lin'gwena	Pangwa, Ndari	2	U+0027 U+0067 U+0077
-Usw	U/ʊ s w	gUswa_mate, gUswiza	Ntuzu	2	U+0055 U+0073 U+0077
-'bw	'b/ˀb w	m'bwI, m'bwa	Nyamwezi	2	U+0027 U+0062 U+0077
-A$	A/ɑ	lUpAngA, lujA	Nyamwezi	2	U+0041 U+0024
-A	A/ɑ	lUpAngA, mwanAke	Nyamwezi, KambaKitu	2	U+0041
-Oh	O/ɔ h	bojOha_14, -bOha	Sonjo	2	U+004f U+0068
-^II	II/ɪː	IIko, IIa	KambaKitu	2	U+005e U+0049 U+0049
-'I	'/ʔ I/ɪ	vw'Ia, kUvw'Ika_ngUa	KambaKitu	2	U+0027 U+0049
-^UU$	UU/ʊː	UU	KambaMach	2	U+005e U+0055 U+0055 U+0024
-^aa$	aː	aa	KambaMach, Meruimenti	2	U+005e U+0061 U+0061 U+0024
-^o$	o	-o	NPare	2	U+005e U+006f U+0024
-_7-8	NULL	kio_7-8	SPare, NPare	2	U+0037
-'p	'p/ˀp	n'pua	Bondei2	1	U+0027 U+0070
-gws	gw/gʷ s	ogwsibia_omobere	Gusii	1	U+0067 U+0077 U+0073
-^ph	pʰ	phumbia	Gweno	1	U+005e U+0070 U+0068
-=$	NULL	ku-nywa=	Gwere	1	U+003d U+0024
-nshw	n sh/ʃ w	enshwela	Haya	1	U+006e U+0073 U+0068 U+0077
-^!$	ǃ	!	Haya	1	U+005e U+0021 U+0024
-ss$	ss/sː	kohora_-_from_illness	Ikizu	1	U+0073 U+0073 U+0024
-jh	jh/dʒʱ	njhuguni	Kami	1	U+006a U+0068
-Vs	NULL	ndonya_ya_kilangVsi	Kimbunga	1	U+0056 U+0073
-_____$	NULL	lkwiri_____	Kipogoro	1	U+005f U+005f U+005f U+005f U+005f U+0024
-^u:	uː	u:ma	Kiseri	1	U+005e U+0075 U+003a
-^a:	aː	a:ha	Kiseri	1	U+005e U+0061 U+003a
-^n|d	n|d/ⁿd	n|de	Kiseri	1	U+005e U+006e U+007c
-^nhs	nh/nʱ s	nhsemwa	Kutu	1	U+005e U+006e U+0068 U+0073
-^mhw	mh/mʱ w	mhwani	Kwere	1	U+005e U+006d U+0068 U+0077
-vv	vv/vː	-gevvu	Luganda	1	U+0076 U+0076
-cc	cc/tsː	ku-pacca	Luganda	1	U+0063 U+0063
-z$	z	kisinz...	Luganda	1	U+007a U+0024
-'ch	'ch/ˀtʃ	mwanga'chiro	Luguru	1	U+0027 U+0063 U+0068
-ps	p s	iupsuo	Mambaunn	1	U+0070 U+0073
-^$	NULL	paa^	Mambwe	1	U+005e U+0024
-'r	'r/ˀr	ko-ro'ra	Maragoli	1	U+0027 U+0072
-Esw	E/ɛ s w	luswEswE_	Matumbi	1	U+0045 U+0073 U+0077
-^pl.	NULL
-^nsanyin'_woose	n s a n y/j i n '/ʔ	nsanyin'_woose	Meru	1	U+0027 U+005f U+0077
-K	K/k	goloKia	Ndengeleko	1	U+004b
-^ngule___-__wild_rat	ŋ u l e	ngule___-__wild_rat	Ndengeleko	1	U+005f U+005f U+005f U+005f U+005f
-ng	ŋ
+Grapheme	IPA
+$	NULL
 '	ʔ
-t'	tˀ
-^ng	ŋ
-'gh	'gh/ˀgʱ	n'gheni	Ngindo	1	U+0027 U+0067 U+0068
-ls	l s	ekyora__pl.____also_eghekere	Ngoreme	1	U+006c U+0073
-1.gate___2.monse	gate		Ngoreme	1	U+005e U+0031
-mabhyara_=_mother-in-law	m a bh/bʱ y/j a r a	mabhyara_=_mother-in-law	Ngoreme	1	U+0077 U+0024
-eghetombe=stool	e gh/gʱ e t o mb/ⁿb e	eghetombe=stool	Ngoreme	1	U+003d U+0073
+'I	'/ʔ I/ɪ
+'U	ʔ U/ʊ
+'U$	ʔ U/ʊ
+'_	'/ʔ +
+'a	a
+'b	b
+'bw	'b/ˀb w
+'ch	'ch/ˀtʃ
+'d	d
+'e	e
+'g	g
+'gh	'gh/ˀgʱ
+'gw	'gw/ˀgʷ
+'h	h
+'i	i
+'i$	i
+'j	j
+'k	'k/ˀk
+'l	l
+'m	'/ə m
+'o	'/ʔ o
+'p	'p/ˀp
+'r	'r/ˀr
+'t	t
+*	NULL
+*$	NULL
+*w	w
+-	+
+-$	NULL
+--	+
+---$	NULL
+-_$	NULL
+-__$	NULL
+..$	NULL
+...	NULL
+1$	NULL
+1.gate___2.monse	gate
+10$	NULL
+11$	NULL
+14$	NULL
+2	NULL
+3$	NULL
+5$	NULL
+7$	NULL
+9$	NULL
+=	+
+=$	NULL
+?	NULL
+A	A/ɑ
+A$	A/ɑ
+B	B/β
+E	E/ɛ
+E$	E/ɛ
+E:	E:/ɛː
+EE	EE/ɛː
+EE$	EE/ɛː
+EEw	EE/ɛː w
+Eh	E/ɛ h
+Es	E/ɛ s
+Esw	E/ɛ s w
+I	I/ɪ
+I$	I/ɪ
+II	II/ɪː
+II$	II/ɪː
+Ih	I/ɪ h
+Is	I/ɪ s
+Ish	I/ɪ sh/ʃ
+Iw	I/ɪ w
+J	J/dʒ
+K	K/k
+L	L/ʟ
+M	M/m
+O	O/ɔ
+O$	O/ɔ
+O:	O/ɔː
+Oh	O/ɔ h
+Os	O/ɔ s
+Ow	O/ɔ w
+R	R/ʀ
+Rw	R/ʀ w
+U	U/ʊ
+U$	U/ʊ
+UU	UU/ʊː
+Us	U/ʊ s
+Ush	U/ʊ sh/ʃ
+Usw	U/ʊ s w
+Uw	U/ʊ w
+V	NULL
+V$	NULL
+Vs	NULL
+Y	Y/j
+\	NULL
+\$	NULL
+^	NULL
+^!$	ǃ
+^$	NULL
+^*	NULL
+^**-	NULL
+^*-	NULL
+^*-ge\nd-__*-ye\nd-	g e ⁿd
+^*-ge\ndo\__*-ye\ndo\	g e ⁿd o
+^*-go\ma\__*-n$o\ma\	g o m a
+^-	NULL
+^-_	NULL
+^397$	NULL
+^B	B/β
+^E	E/ɛ
+^EE	EE/ɛː
+^G	G/ɢ
+^I	I/ɪ
+^II	II/ɪː
+^Iw	I/ɪ w
+^K	K/k
+^L	L/ʟ
+^M	M/m
+^Mh	Mh/mʱ
+^N	N/n
+^O	O/ɔ
+^O$	O/ɔ
+^U	U/ʊ
+^UU	UU/ʊː
+^UU$	UU/ʊː
+^Us	U/ʊ s
+^_	NULL
+^_$	_
+^`t	`t/ˀt
+^a	a
+^a:	aː
+^aa	aː
+^aa$	aː
+^aaa$	aaa/aː
+^b	b
+^bb	bb/bː
+^bh	bh/bʱ
+^bhw	bh/bʱ w
+^bw	b w
+^c	c/ts
+^ch	ch/tʃ
+^chw	ch/tʃ w
+^cw	c/ts w
+^d	d
+^dd	dd/dː
+^dh	dh/dʱ
+^ds	dz
+^dw	d w
+^e	e
+^e$	e
+^e:	eː
+^ee	eː
+^f	f
+^ff	ff/fː
+^fw	f w
+^g	g
+^gg	gg/gː
+^gh	gh/gʱ
+^gw	g w
+^h	h
+^h'	h
+^hw	hw/hʷ
+^i	i
+^i$	i
+^i:	iː
+^ii	iː
+^ii$	iː
+^inyakoha_pl._chi	i n y/j a k o h a
+^iyUUmbUle.__nyoku	i j UU/ʊː ⁿb U/ʊ l e
+^j	j/dʒ
+^jj	jj/dʒː
+^jw	j/dʒ w
+^k	k
+^kh	kʰ
+^khw	khw/kʷʰ
+^kk	kk/kː
+^ks	k s
+^ksh	k sh/ʃ
+^ku-chunga__eg._ku-chunga_ng'ombe	k u + ch/tʃ u ng/ŋ a
+^ku-lava._ku-lavya	k u + l a v a
+^ku-sakula._ku-mwemu..	k u + s a k u l a
+^kw	kʷ
+^l	l
+^libwe_pl._malibwe	l i b w e
+^liina_pl._maina	l ii/iː n a
+^likonde_pl._makonde	l i k o ⁿd e
+^lipamba_pl._mapamba	l i p a ⁿb a
+^ll	ll/lː
+^ls	l s
+^lw	l w
+^m	m
+^m$	m
 ^mb	ⁿb
+^mh	mh/mʱ
+^mhw	mh/mʱ w
+^mkingi_pl._mikingi	m k i ŋ i
+^mm	mː
+^mnwawa_pl._alwawa	m n w a w a
+^ms	m s
+^msh	m sh/ʃ
+^msw	m s w
+^mw	m w
+^mwh	m wh/wʱ
+^m|	m|b/ⁿb
+^n	n
+^n'	n'/nˀ
+^nd	ⁿd
+^ng	ŋ
+^ng'	ŋˀ
+^ngule___-__wild_rat	ŋ u l e
+^nh	nh/nʱ
+^nhs	nh/nʱ s
+^nhw	n hw/hʷ
+^nn	nː
+^ns	n s
+^nsanyin'_woose	n s a n y/j i n '/ʔ
+^nsh	n sh/ʃ
+^nsw	n s w
+^nw	n w
+^nwh	n wh/wʱ
+^nzele._mze	n z e l e + m z e
+^n|d	n|d/ⁿd
+^o	o
+^o$	o
+^ohu-....	o h u
+^ohu-....?	o h u
+^oo	oː
+^p	p
+^ph	pʰ
+^pl.	NULL
+^pw	p w
+^r	r
+^rh	rh/rʱ
+^rw	r w
+^s	s
+^sh	sh/ʃ
+^shh	shh/ʃ
+^shs	sh/ʃ s
+^shw	sh/ʃ w
+^simula._sukusa	s i m u l a
+^ss	ss/sː
+^sw	s w
+^t	t
+^t`	tˀ
+^th	tʰ
+^thw	th/tʰ w
+^ts	ts
+^tt	tt/tː
+^tw	t w
+^u	u
+^u:	uː
+^ugutura_?___ichihagwe	u g u t u r a
+^uu	uː
+^uu$	uː
+^v	v
+^vh	vh/vʱ
+^vv	vv/vː
+^vw	v w
+^w	w
+^wh	wh/wʱ
+^x	x
+^xw	xw/xʷ
+^y	y/j
+^z	z
+^zh	zh/ʒ
+^zw	z w
+_	+
+_!$	NULL
+_$	NULL
+_+$	NULL
+_-	+
+_-$	NULL
+_--$	NULL
+_-_	+
+_-_$	NULL
+_1$	NULL
+_11$	NULL
+__-	+
+_?_	+
+__9$	NULL
+_2$	NULL
+_..$	NULL
+_...$	NULL
+_1-2	NULL
+_1-2$	NULL
+_10$	NULL
+_115$	NULL
+_12$	NULL
+_12-8	NULL
+_14$	NULL
+_145$	NULL
+_16$	NULL
+_17$	NULL
+_1a	NULL
+_3$	NULL
+_3-4$	NULL
+_35$	NULL
+_4	NULL
+_5$	NULL
+_5-6$	NULL
+_55$	NULL
+_6$	NULL
+_7$	NULL
+_7-8	NULL
+_7-8$	NULL
+_75$	NULL
+_8$	NULL
+_9$	NULL
+_9-10	NULL
+_95$	NULL
+_=_	+
+_?!$	NULL
+_?$	NULL
+_?6	NULL
+_?_+$	NULL
+__	+
+__$	NULL
+__+	NULL
+__9-10$	NULL
+___	+
+___!$	NULL
+___$	NULL
+___-	+
+___?!$	NULL
+____	NULL
+____$	NULL
+_____$	NULL
+_pl.$	NULL
+`t	`t/tˀ
+a	a
+a!!$	a
+a$	a
+a:	aː
+aa	aː
+aa$	aː
+aaa	aaa/aː
+b	b
+b$	b
+bb	bb/bː
+bh	bh/bʱ
+bhw	bh/bʱ w
+bw	b w
+c	c/ts
+cc	cc/tsː
+ch	ch/tʃ
+ch''	ch''/tʃˀ
+chw	ch/tʃ w
+cw	c/ts w
+d	d
+d$	d
+d'	dˀ
+dd	dd/dː
+dh	dh/dʱ
+dhw	dh/dʱ w
+dw	d w
+e	e
+e$	e
+e:	eː
+ee	eː
+ee$	eː
+eee	eee/eː
+eghetombe=stool	e gh/gʱ e t o mb/ⁿb e
+f	f
+ff	ff/fː
+fw	f w
+g	g
+g$	g
+g'	g'/gˀ
+gg	gg/gː
+gh	gh/gʱ
+ghw	ghw/gʷʱ
+gw	gw/gʷ
+gws	gw/gʷ s
+h	h
+h$	h
+hw	hw/hʷ
+i	i
+i$	i
+i:	iː
+ii	iː
+ii$	iː
+ii-i	iː + i
+iii$	iii/iː
+iirina_______#_i_with_and_without_dot_#	iː r i n a
+ilingi?valinga?silingi	i l i ŋ i
+j	j
+jh	jh/dʒʱ
+jj	jj/dʒː
+jw	j/dʒ w
+k	k
+k$	k
+kh	kʰ
+khw	khw/kʷʰ
+kk	kk/kː
+ks	k s
+ksh	k sh/ʃ
+ku_see_#528	k u
+kw	kʷ
+l	l
+l$	l
+ll	ll/lː
+ls	l s
+lw	l w
+m	m
+m$	m
+mabhyara_=_mother-in-law	m a bh/bʱ y/j a r a
 mb	ⁿb
-a!!$	a	mma!!	Nyakyusa	1	U+0061 U+0021 U+0021 U+0024
-^nwh	n wh/wʱ	nwhinjo	Nyaturucha	1	U+005e U+006e U+0077 U+0068
-EEw	EE/ɛː w	kwi-yEEwa	Nyiramba	1	U+0045 U+0077
-^l	l	lshira	Pogoro	1	U+005e U+006c U+0073 U+0068
-$	NULL	*-go\ma\__*-n$o\ma\	ProtoBantu	1	U+0024
-okuremara______interchangeable_with_okumugara	o k u r e m a r a	okuremara______interchangeable_with_okumugara	Rukiga	1	U+005f U+005f U+005f U+005f U+005f U+005f
-ooo$	ooo/oː	msooo	Sambaa	1	U+006f U+006f U+006f U+0024
-iirina_______#_i_with_and_without_dot_#	iː r i n a	iirina_______#_i_with_and_without_dot_#	Siha	1	U+005f U+005f U+005f U+005f U+005f U+005f U+005f
-^rh	rh/rʱ	rhomba	Suba	1	U+005e U+0072 U+0068
-o:$	oː	kimfo:	Vunjo	1	U+006f U+003a U+0024
-ch''	ch''/tʃˀ	ekifuba_ch''omuti	Zinza	1	U+0027
-Y	Y/j	lYana	Ntuzu	1	U+0059
-^Mh	Mh/mʱ	MhIIgi	Nyamwezi	1	U+005e U+004d U+0068
-^ds	dz	ds_?_+	Nyamwezi	1	U+005e U+0064 U+0073
-J	J/dʒ	kIJIIle	Nyamwezi	1	U+004a
-^N	N/n	Nyangasa	Nyamwezi	1	U+005e U+004e
-^e$	e	e-	Sonjo	1	U+005e U+0065 U+0024
-^O$	O/ɔ	-O	Sonjo	1	U+005e U+004f U+0024
-_17$	NULL	gokyO_17	Sonjo	1	U+0031 U+0037 U+0024
-eee	eee/eː	inyeeengo	Hehe	1	U+0065 U+0065 U+0065
-ilingi?valinga?silingi	i l i ŋ i	ilingi?valinga?silingi	Kinga	1	U+003f U+0073
-q	q	njqili_sa_manyeka	Kisi	1	U+0071
-^397$	NULL	397	Pangwa	1	U+005e U+0033 U+0039 U+0037 U+0024
-^K	K/k	KurIna	Embu	1	U+005e U+004b
-iii$	iii/iː	kiii	Tharaka	1	U+0069 U+0069 U+0069 U+0024
-^aaa$	aaa/aː	aaa...	Tharaka	1	U+005e U+0061 U+0061 U+0061 U+0024
-_5-6$	NULL	iguro_5-6	Tuveta	1	U+0035
-^ii$	iː	ii	NPare	1	U+005e U+0069 U+0069 U+0024
-_12-8	NULL	kahandi_12-8	Tuveta	1	U+0031 U+0032
-^m$	m	m-	SPare	1	U+005e U+006d U+0024
+mh	m h
+mm	mm/mː
+ms	m s
+msh	m sh/ʃ
+msw	m s w
+mw	m w
+n	n
+n$	n
+n'	n'/nˀ
+n'$	n'/nˀ
+nd	ⁿd
+ng	ŋ
+ng'	ng'/ŋˀ
+nh	nh/nʱ
+nhw	n hw/hʷ
+nn	nː
+ns	n s
+nsh	n sh/ʃ
+nshw	n sh/ʃ w
+nsw	n s w
+nw	n w
+nwh	n wh/wʱ
+o	o
+o$	o
+o:	oː
+o:$	oː
+okuremara______interchangeable_with_okumugara	o k u r e m a r a
+oo	oː
+oo$	oː
+ooo$	ooo/oː
+oy$	oi
+p	p
+ph	pʰ
+phw	ph/pʰ w
+pp	pp/pː
+ps	p s
+pw	p w
+q	q
+r	r
+r$	r
+rr	rr/rː
+rw	r w
+s	s
+s$	s
+sh	sh/ʃ
+shw	sh/ʃ w
+ss	ss/sː
+ss$	ss/sː
+sw	s w
+t	t
+t$	t
+t'	tˀ
+th	tʰ
+thw	th/tʰ w
+ts	ts
+tsw	ts w
+tt	tt/tː
+tw	t w
+u	u
+u$	u
+u:	uː
+uu	uː
+uu$	uː
+v	v
+vh	vh/vʱ
+vv	vv/vː
+vw	vw/vʷ
+w	w
+wh	w h
+x	x
+xw	xw/xʷ
+y	y
+y$	y/j
+z	z
+z$	z
+zh	zh/ʒ
+zw	z w
+zz	zz/zː
