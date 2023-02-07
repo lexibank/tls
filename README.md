@@ -36,13 +36,14 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
 - **Tokens:** 736,642
-- **Segments:** 125 (0 BIPA errors, 0 CTLS sound class errors, 125 CLTS modified)
-- **Inventory size (avg):** 40.64
+- **Segments:** 124 (0 BIPA errors, 0 CLTS sound class errors, 124 CLTS modified)
+- **Inventory size (avg):** 38.98
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
+Johann-Mattis List | @lingulist | orthography profile | Other
 Tiago Tresoldi | @tresoldi | code | Other
 Derek Nurse | | original data collection | Author
 Gerard Philippson | | original data collection | Author
