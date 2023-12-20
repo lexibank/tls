@@ -1,7 +1,7 @@
 {
     "url": "http://www.cbold.ish-lyon.cnrs.fr/Docs/TLSinfo.html",
     "citation": "Nurse, Derek and Gérard Philippson (1975). The Tanzanian Language Survey. Department of Foreign Languages and Linguistics of the University of Dar es Salaam: Dar es Salaam.",
-    "license": "CC-BY-4.0",
+    "license": "CC-BY-4.0", 
     "title": "CLDF dataset derived from Nurse and Philippson's \"Tanzania Language Survey\" from 1975",
     "conceptlist": ["Nurse-1975-1038"]
 }
