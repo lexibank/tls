@@ -18,6 +18,8 @@ class CustomConcept(pylexibank.Concept):
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "tls"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     concept_class = CustomConcept
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")", "[": "]"},
@@ -25,7 +27,9 @@ class Dataset(pylexibank.Dataset):
         missing_data=("-", "?", "???", "+", "_", "--_", "!"),
         replacements=[
             ("(kU)d\x97s\x87 ? +", ""),
-            ("\x88", ""), ("\x87", ""), ("\x97", ""), 
+            ("\x88", ""),
+            ("\x87", ""),
+            ("\x97", ""),
             (" ", "_"),
             ("#__#_pencil_only_#", ""),
             ('"', ""),
@@ -45,9 +49,8 @@ class Dataset(pylexibank.Dataset):
             ("right_person", "-"),
             ("shitere_shi_shilenj..", "shitere"),
             ("#", ""),
-
-            ],
-        first_form_only=True
+        ],
+        first_form_only=True,
     )
 
     def cmd_makecldf(self, args):
