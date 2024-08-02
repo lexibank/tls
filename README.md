@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 127
-- **Concepts:** 1,052
+- **Varieties:** 127 (linked to 107 different Glottocodes)
+- **Concepts:** 1,052 (linked to 650 different Concepticon concept sets)
 - **Lexemes:** 115,642
 - **Sources:** 4
 - **Synonymy:** 1.01
@@ -43,7 +43,8 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @lingulist | orthography profile | Editor 
+Johann-Mattis List | @lingulist | orthography profile | Editor
+Christoph Rzymski  | @chrzyki   | patron | Editor
 Tiago Tresoldi | @tresoldi | code | Other
 Derek Nurse | | original data collection | Author
 Gerard Philippson | | original data collection | Author
